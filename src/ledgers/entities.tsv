@@ -1,78 +1,79 @@
 key	display	facts	chapters	first_seq	books	forms	aliases_known	needs_file
-joseph (cover)	Erin	821	224	2	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19	Erin|Erin Solstice|Ryoka and Erin|Erin and Ryoka|Erin and Octavia|Erin Solstice and Octavia	crazy human of liscor|erin|erin solstice|madwoman of liscor|miss erin|miss solstice	Y
-ryoka griffin	Ryoka	528	118	23	1,2,3,4,5,9,10,11,12,14,16,17,18,19	Ryoka|Ryoka Griffin|Ryoka and Erin|Erin and Ryoka|Ryoka and Laken|Ryoka and Charlay	batman|batman (call alias)|batman (chat handle)|braggart|miss griffin|miss ryoka|pukey|ryoka	Y
+erin solstice	Erin	821	224	2	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19	Erin|Erin Solstice|Ryoka and Erin|Erin and Ryoka|Erin and Octavia|Erin Solstice and Octavia	crazy human of liscor|erin|madwoman of liscor|miss erin|miss solstice	Y
+ryoka griffin	Ryoka	528	118	23	1,2,3,4,5,9,10,11,12,14,16,17,18,19	Ryoka|Ryoka Griffin|Ryoka and Erin|Erin and Ryoka|Ryoka and Laken|Ryoka and Charlay	batman|batman (call alias)|batman (chat handle)|braggart|griffin|griffins|miss griffin|miss ryoka	Y
 pisces	Pisces	267	104	10	1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,17,19	Pisces|Ceria and Pisces|Pisces and Ceria|Olesm Swifttail and Pisces|Pisces and Ksmvr|Pisces, Ryoka and Rags	companion pisces|comrade pisces|young man, the necromancer|young pisces	Y
-klbkch	Klbkch	227	86	8	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19	Klbkch|Relc and Klbkch|Klbkch and Relc|Klbkch, Xrn, Zel and Ilvriss|Zel Shivertail and Klbkch|Klbkch, Wrymvr and the Twisted Queen	klb|klbkch the slayer|klbkchhezeim|klbkchhezeim / klbkch the slayer / centenium|klbkchhezeim / revalantor / the slayer|klbkchhezeim of the centenium|klbkchhezeim the slayer|revalantor	Y
-ceria springwalker	Ceria Springwalker	205	88	35	1,2,3,4,5,6,7,8,9,10,11,12,13,14,17	Ceria|Ceria Springwalker|Ceria and Pisces|Pisces and Ceria|Ceria and Olesm|Ceria, Yvlon and Ksmvr	ceria|elementalist|half-elf|professor springwalker	Y
-laken godart	Laken	204	44	123	3,4,5,6,7,8,9,12,15,17,18,19	Laken|Laken Godart|Ryoka and Laken|Durene and Laken|Laken and Ryoka|Laken, Gralton and Yitton	blind empire (his term)|emperor godart|emperor laken|emperor laken godart|emperor of riverfarm|emperor of the unseen|l|laken	Y
-magnolia reinhart	Magnolia Reinhart	187	60	23	1,2,3,4,5,6,7,8,9,11,14,16,17,18,19	Magnolia Reinhart|Magnolia|Lady Magnolia|Lady Magnolia and Ressa|Erin and Magnolia	aunt magnolia (yvlon usage)|deadly flower blooming in the north|deadly flower of the north|lady magnolia|magnolia|magnolia brynshart|most powerful lady on the continent	Y
-nameless child	Rags	171	49	29	1,2,3,4,6,7,8,9,16,19	Rags|Pisces, Ryoka and Rags|Rags and the Red Fang Chieftain|Rags and Garen|Rags and Pyrite|Rags and Redscar	chieftain of goblinhome|fake name goblin|rag|rags	Y
+klbkch	Klbkch	228	86	8	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19	Klbkch|Relc and Klbkch|Klbkch and Relc|Klbkch, Xrn, Zel and Ilvriss|Klbkch (Klbkchhezeim)|Zel Shivertail and Klbkch	klb|klbkch (klbkchhezeim)|klbkch the slayer|klbkchhezeim|klbkchhezeim / klbkch the slayer / centenium|klbkchhezeim / revalantor / the slayer|klbkchhezeim of the centenium|klbkchhezeim the slayer	Y
+ceria springwalker	Ceria Springwalker	205	88	35	1,2,3,4,5,6,7,8,9,10,11,12,13,14,17	Ceria|Ceria Springwalker|Ceria and Pisces|Pisces and Ceria|Ceria and Olesm|Ceria, Yvlon and Ksmvr	ceria|elementalist|half-elf|professor springwalker|springwalker	Y
+laken	Laken	204	44	123	3,4,5,6,7,8,9,12,15,17,18,19	Laken|Laken Godart|Ryoka and Laken|Durene and Laken|Laken and Ryoka|Laken, Gralton and Yitton	blind empire (his term)|emperor godart|emperor laken|emperor laken godart|emperor of riverfarm|emperor of the unseen|l|laken godart	Y
+magnolia reinhart	Magnolia Reinhart	187	60	23	1,2,3,4,5,6,7,8,9,11,14,16,17,18,19	Magnolia Reinhart|Magnolia|Lady Magnolia|Lady Magnolia and Ressa|Erin and Magnolia	aunt magnolia (yvlon usage)|deadly flower blooming in the north|deadly flower of the north|flower of izril|lady magnolia|lady reinhart|magnolia|magnolia brynshart	Y
+nameless child	Rags	171	49	29	1,2,3,4,6,7,8,9,16,19	Rags|Pisces, Ryoka and Rags|Rags and the Red Fang Chieftain|Rags and Garen|Rags and Pyrite|Rags and Redscar	chieftain of goblinhome|fake name goblin|great chieftain of the mountain|rag|rags	Y
 toren	Toren	153	49	44	1,2,3,4,5,7,8,9,13,14,15,16,18	Toren|Skeleton|Pekona and Toren|Masked swordswoman	erin skeleton / revenant creation|masked swordswoman|miss adventurer|miss swordswoman|mysterious swordswoman|skeleton|tor	Y
-niers astoragon	Niers	152	35	86	2,3,5,6,7,8,9,10,11,13,14,15,16,17,18,19	Niers|Niers Astoragon|Niers Astoragon and Foliana|Titan|Niers and Foliana|The Titan and Three-Color Stalker	fraerling|inventor of chess (per pawn)|lord astoragon|niers|professor|titan|titan of baleros|titan of baleros / the professor / lord astoragon	Y
+niers astoragon	Niers	150	33	86	2,3,5,6,7,8,9,10,11,13,14,15,16,17,18,19	Niers|Niers Astoragon|Niers Astoragon and Foliana|Niers and Foliana	fraerling|inventor of chess (per pawn)|lord astoragon|niers|professor|titan|titan of baleros|titan of baleros / the professor / lord astoragon	Y
 lyonette	Lyonette	145	76	56	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19	Lyonette|Lyonette du Marquin|Princess|Pawn and Lyonette|Lyonette and Pawn|Lyonette, Drassi, Mrsha	lyon|lyonette du marquin|princess|princess du marquin / lady du marquin|princess lyonette (secret)	Y
-king of destruction	Flos	143	34	28	1,2,5,6,7,10,13,14,15,16,17,18,19	Flos|Flos Reimarch|King of Destruction|Flos and Fetohep	flans|flos|flos reimarch|king flos reimarch	Y
-mrsha	Mrsha	141	71	98	2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19	Mrsha|Lyonette, Drassi, Mrsha|Ceria and Mrsha|Erin, Lyonette, Mrsha|Mrsha, Ekirra and Visma|Numbtongue, Mrsha, Bird	doom of the raskghar|doombringer (slur)|gnoll cub|mrsha child|mrsha of the stone spears|mrsha the brave|mrsha the great and terrible|mrsha the studious / mrsha the magically gifted	Y
-gecko of liscor	Relc	138	73	8	1,2,3,4,5,7,8,9,10,11,13,15,16,17,18,19	Relc|Relc and Klbkch|Klbkch and Relc|Relc Grasstongue|Relc and Embria|Ceria and Relc	commander grasstongue (4th company)|relc|relc grasstongue|santa claus (relc costume)|senior guardsman relc / gecko of liscor	Y
+flos	Flos	143	34	28	1,2,5,6,7,10,13,14,15,16,17,18,19	Flos|Flos Reimarch|King of Destruction|Flos and Fetohep	flans|flos of reim|flos reimarch|king flos reimarch|king of destruction|king of reim|king reimarch	Y
+mrsha	Mrsha	141	71	98	2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19	Mrsha|Lyonette, Drassi, Mrsha|Ceria and Mrsha|Erin, Lyonette, Mrsha|Mrsha, Ekirra and Visma|Numbtongue, Mrsha, Bird	doom of the raskghar|doombringer (slur)|gnoll cub|mrsha child|mrsha of the stone spears|mrsha the brave|mrsha the great|mrsha the great and terrible	Y
+sergeant relc	Relc	138	73	8	1,2,3,4,5,7,8,9,10,11,13,15,16,17,18,19	Relc|Relc and Klbkch|Klbkch and Relc|Relc Grasstongue|Relc and Embria|Ceria and Relc	commander grasstongue (4th company)|gecko of liscor|relc|relc grasstongue|santa claus (relc costume)|senior guardsman relc / gecko of liscor	Y
 teriarch	Teriarch	134	26	43	1,2,3,4,5,6,13,15,16,17,18,19	Teriarch|Dragon|Eldavin	dragon|dragons|eldavin|grand mage|grand mage eldavin|grand magus eldavin|lord of flame|old dragon	Y
 pawn	Pawn	123	54	33	1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,18,19	Pawn|Pawn and Lyonette|Lyonette and Pawn|Bird, Belgrade, Anand, Garry and Pawn|Pawn and Bird	individual pawn|pawn (individual)|pawn of the free antinium	Y
 selys shivertail	Selys	116	55	15	1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,18,19	Selys|Selys Shivertail|Krshia and Selys|Pisces and Selys|Selys, Krshia, Zevara|Selys and Maviola	miss shivertail|selys|zel shivertail niece	Y
-zel shivertail	Zel Shivertail	115	38	99	2,3,4,5,6,7,16	Zel Shivertail|Zel|Zel Shivertail and Ilvriss|Klbkch, Xrn, Zel and Ilvriss|Zel and Ilvriss|Zel Shivertail and Klbkch	drake general|mister shivertail|tidebreaker|zel	Y
+zel shivertail	Zel Shivertail	115	38	99	2,3,4,5,6,7,16	Zel Shivertail|Zel|Zel Shivertail and Ilvriss|Klbkch, Xrn, Zel and Ilvriss|Zel and Ilvriss|Zel Shivertail and Klbkch	drake general|general of the line|general shivertail|mister shivertail|shivertail|tidebreaker|zel	Y
+ilvriss	Ilvriss	114	46	99	2,3,5,6,7,8,9,10,11,13,15,18	Ilvriss|Wall Lord Ilvriss|Zel Shivertail and Ilvriss|Ilvriss Gemscale|Klbkch, Xrn, Zel and Ilvriss|Zel and Ilvriss	ilvriss gemscale|lord of the wall|wall lord|wall lord ilvriss|wall lord ilvriss gemscale	Y
 numbtongue	Numbtongue	114	57	81	2,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19	Numbtongue|Hobgoblin|Rabbiteater, Numbtongue|Rabbiteater and Numbtongue|Headscratcher, Rabbiteater, Shorthilt, Badarrow, Numbtongue|Headscratcher, Numbtongue, Rabbiteater, Shorthilt, Badarrow	bard|hobgoblin|numb-hob|pyrite (memory voice)	Y
-ilvriss (erin nickname)	Ilvriss	106	42	99	2,3,5,6,7,8,9,10,11,13,15,18	Ilvriss|Zel Shivertail and Ilvriss|Klbkch, Xrn, Zel and Ilvriss|Zel and Ilvriss|Erin and Ilvriss|Ilvriss and Pallass	ilvriss|lord of the wall|wall lord|wall lord ilvriss gemscale|wall-face	Y
 calruz	Calruz	103	37	30	1,6,8,9,10,11,12,13,14,16,17,19	Calruz|Ceria and Calruz|Calruz, Bezale and Zevara	honorbound prisoner|horn chieftain|minotaur	Y
 olesm swifttail	Olesm	101	63	21	1,2,3,4,5,6,7,8,9,10,11,13,15,17,18,19	Olesm|Olesm Swifttail|Olesm Swifttail and Pisces|Ceria and Olesm|Pisces and Olesm|Drassi and Olesm	olesm|oresm|strategist from liscor / olesm whatshisface	Y
-krshia silverfang	Krshia	100	54	22	1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,19	Krshia|Krshia Silverfang|Krshia and Elirr|Krshia and Tkrn|Krshia and Selys|Krshia and Brunkr	honored krshia|krisha|krshia	Y
+krshia	Krshia	100	54	22	1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,19	Krshia|Krshia Silverfang|Krshia and Elirr|Krshia and Tkrn|Krshia and Selys|Krshia and Brunkr	honored krshia|krisha|krshia silverfang	Y
 zevara	Zevara	98	60	62	1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19	Zevara|Watch Captain Zevara|Venim and Zevara|Council and Zevara|Zevara and Krshia|Krshia and Zevara	watch captain zevara|zevara sunderscale	Y
-yvlon	Yvlon	93	49	50	1,2,3,4,5,6,7,8,9,11,12,13,14,17,18,19	Yvlon|Yvlon Byres|Ceria, Yvlon and Ksmvr|Ceria and Yvlon|Yvlon and Cervial|Yvlon and Ceria	armsmistress|silversteel armsmistress|wounded warrior|wounded warrior yvlon|yvlon byres	Y
+yvlon	Yvlon	93	49	50	1,2,3,4,5,6,7,8,9,11,12,13,14,17,18,19	Yvlon|Yvlon Byres|Ceria, Yvlon and Ksmvr|Ceria and Yvlon|Yvlon and Cervial|Yvlon and Ceria	armsmistress|miss byres|silversteel armsmistress|wounded warrior|wounded warrior yvlon|yvlon byres	Y
 bird	Bird	92	54	64	1,2,5,6,7,8,9,11,13,14,15,16,18,19	Bird|Bird, Belgrade, Anand, Garry and Pawn|Pawn and Bird|Numbtongue, Bird and Octavia|Numbtongue, Mrsha, Bird	bird the hunter|individual bird|prognugator bird	Y
 prognugator of the free antinium (false claim to the watch)	Ksmvr	91	48	40	1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,19	Ksmvr|Pisces and Ksmvr|Ceria, Yvlon and Ksmvr|Pisces, Yvlon, Ksmvr|Ceria and Ksmvr	former prognugator|ksmvr|prognugator (false claim)	Y
 az'kerash	Az'kerash	83	32	46	1,2,5,6,9,10,13,14,15,16,17,18	Az'kerash|Perril Chandler|Archmage Chandler	archmage chandler|chandler|master (to reiss)|peril chandler|perril chandler|slayer of kerash|undying shield of calanfer	Y
 garren redfang	Garen Redfang	83	25	97	2,3,4,5,6,7,8,9	Garen Redfang|Garen|Rags and Garen|Garen and Tremborag|Tremborag and Garen	garen|garen redfang|hobgoblin with rags|redfang (chieftain)|redfang chieftain	Y
-gazi the omniscient	Gazi	81	27	39	1,2,5,7,10,13,15,17	Gazi|Gazi Pathseeker|Gazi the Omniscient	dunestalker|gabrielle|gazi|gazi pathseeker|half-gazer	Y
-stitch girl	Octavia	68	46	75	2,3,4,5,7,8,9,10,11,12,15,16,17,18,19	Octavia|Erin and Octavia|Stitchworks|Erin Solstice and Octavia|Numbtongue, Bird and Octavia	alchemist|miss cotton|octavia|stitchworks|stitchworks (shop)	Y
+gazi	Gazi	81	27	39	1,2,5,7,10,13,15,17	Gazi|Gazi Pathseeker|Gazi the Omniscient	dunestalker|gabrielle|gazi pathseeker|gazi the omniscient|half-gazer|lady pathseeker	Y
+stitch girl	Octavia	68	46	75	2,3,4,5,7,8,9,10,11,12,15,16,17,18,19	Octavia|Erin and Octavia|Stitchworks|Erin Solstice and Octavia|Numbtongue, Bird and Octavia	alchemist|miss cotton|octavia|stitch-girl|stitchworks|stitchworks (shop)	Y
+geneva	Geneva	67	19	129	3,5,10,11,14,16,17,18,19	Geneva|Geneva Scala	doctor|doctor g / doctor geneva / last light of baleros|geneva scala|last light|last light of baleros|miss scala	Y
 pyrite	Pyrite	67	28	106	2,4,6,7,8,9,10,12,18,19	Pyrite|Gold Stone Chieftain|Rags and Pyrite	big hob|gold rock chieftain|gold stone chieftain|goldstone chieftain|numbtongue (spirit call)|sir pyrite	Y
 tyrion veltras	Tyrion Veltras	66	25	184	5,6,7,8,9,10,12,17,18,19	Tyrion Veltras|Tyrion|Lord Tyrion	lord tyrion|tyrion	Y
 goblin with magic	Reiss	61	15	240	6,7,8,9,19	Reiss	reiss	Y
 witch	Wiskeria	59	25	203	5,6,7,8,12,18	Wiskeria|Odveig and Wiskeria|Wiskeria and Belavierr	general wiskeria|miss wiskeria|wiskeria	Y
 jelaqua ivirith	Jelaqua	58	40	94	2,3,4,5,6,7,8,9,10,11,12,13,15,16,19	Jelaqua|Jelaqua Ivirith|Selphid|Jelaqua, Moore, Seborn|Relc, Jelaqua, Seborn|Revi, Jelaqua, Ceria	jelaqua|jelaqua (drake body)|selphid	Y
-antinium	Antinium	56	42	8	1,2,3,4,5,6,7,8,9,16,18	Antinium|Antinium and Goblins|The Antinium		Y
-fierre	Fierre	56	18	323	10,11,12,14,16,18,19	Fierre|Ryoka, Fierre, Salamani|Ryoka and Fierre	cougher|serafierre val lischelle-drakle	Y
+antinium	Antinium	57	42	8	1,2,3,4,5,6,7,8,9,16,18	Antinium|Antinium and Goblins|The Antinium|Gold-ranks and Antinium		Y
+fierre	Fierre	56	18	323	10,11,12,14,16,18,19	Fierre|Ryoka, Fierre, Salamani|Ryoka and Fierre	cougher|serafierre|serafierre val lischelle-drakle	Y
 saliss of lights	Saliss	56	22	333	10,12,15,16,17,18,19	Saliss|Saliss of Lights|Onieva|Saliss Oliwing|Saliss and Xif	honored saliss / master saliss|master saliss|named alchemist|onieva|onieva oliwing / saliss oliwing (same person)|saliss|saliss cousin (cover story)|saliss oliwing	Y
 goblins	Goblins	54	39	3	1,2,3,4,5,6,8,9,12,15,16,18	Goblins|Antinium and Goblins		Y
 ceria, yvlon, ksmvr (and pisces)	Horns of Hammerad	53	44	30	1,2,3,4,5,6,7,8,11,12,14,15,16,17,18	Horns of Hammerad	hammerbad (taunt)|horns of hammerad	Y
-grimalkin	Grimalkin	53	25	332	10,11,12,13,14,15,16,17,18,19	Grimalkin|Zevara and Grimalkin	fist mage|grimalkin the fist mage|muscle mage|muscle mage of pallass|physical magic master|sinew magus	Y
+grimalkin	Grimalkin	53	25	332	10,11,12,13,14,15,16,17,18,19	Grimalkin|Zevara and Grimalkin	fist mage|grimalkin of pallass|grimalkin the fist mage|muscle mage|muscle mage of pallass|physical magic master|sinew magus	Y
 ivolethe	Ivolethe	52	21	89	2,3,4,5,7,18,19	Ivolethe|Frost Faerie|Frost faerie	archduchess (promised title)|frost faerie|frost faery (blue)|sister (faerie usage)|winter sprite	Y
-belavierr	Belavierr	51	17	373	12,15,16,17,18,19	Belavierr|Wiskeria and Belavierr|Califor, Belavierr	belavierr / spider of terandria / threadstealer / weaver of terandria|great witch of terandria|spider|spider/eater of threads/witch of calamity|stitch witch|temptress|temptress of izril|witch of webs	Y
+belavierr	Belavierr	51	17	373	12,15,16,17,18,19	Belavierr|Wiskeria and Belavierr|Califor, Belavierr	great witch of terandria|spider|spider/eater of threads/witch of calamity|stitch witch|temptress|temptress of izril|witch of webs	Y
 redfang warriors	Redfang Warriors	51	22	142	3,6,7,8,9	Redfang Warriors|Redfang band|Redfang Goblins|Hobs|Redfang warriors	hobs|redfang band|redfang goblins	Y
 durene	Durene	49	29	123	3,4,5,6,7,8,9,12,18	Durene|Durene and Laken	half-troll	Y
-small queen	Xrn	49	24	148	3,4,5,6,9,11,16,17,18,19	Xrn|Klbkch, Xrn, Zel and Ilvriss	aunt (permitted address)|azure (color of the sky)|centenium xrn|small queen / centenium|xrn|xrn of the centenium|xrn the small queen|xrniavxxel / the small queen	Y
-liscor	Liscor	48	38	11	1,2,5,6,7,9,10,11,12,13,16	Liscor|Liscor and the Drake cities		Y
+grand queen of the antinium	Xrn	49	24	148	3,4,5,6,9,11,16,17,18,19	Xrn|Klbkch, Xrn, Zel and Ilvriss	aunt (permitted address)|azure (color of the sky)|centenium xrn|small queen|small queen / centenium|xrn|xrn of the centenium|xrn the small queen	Y
+liscor	Liscor	48	38	11	1,2,5,6,7,9,10,11,12,13,16	Liscor|Liscor and the Drake cities	liscorian	Y
 fetohep of khelt	Fetohep	47	10	398	13,15,16,17,18,19	Fetohep|Fetohep of Khelt|Fetohep and Quarass|Trey and Fetohep|Flos and Fetohep	eternal king of khelt|eternal majesty|fetohep	Y
 frost faeries	Frost Faeries	46	22	78	2,3,6	Frost Faeries|Faeries|Winter Sprites	faeries|frost faeries of the winter court|winter sprite (ressa usage)|winter sprites	Y
 halrac	Halrac	45	31	92	2,3,4,5,7,8,9,10,16,18	Halrac|Halrac, Typhenous, Olesm and Ceria	halrac the grim	Y
+bethal walchais	Bethal	44	18	184	5,6,7,8,11,17,18	Bethal|Bethal Walchaís|Bethal Walchais|Lady Bethal Walchais|Lady Bethal|Bethal and Thomast	bethal|lady bethal|lady bethal walcha??s|lady bethal walchais|lady of thorns|lady walcha??s|lady walchais	Y
 embria	Embria	43	22	256	7,8,9,11,12,13,15,16,17,18,19	Embria|Embria Grasstongue|Relc and Embria|Ilvriss and Embria|Wing Commander Embria	embria grasstongue|wing commander embria|wing commander embria grasstongue	Y
 maviola el	Maviola El	43	18	460	16,17,18,19	Maviola El|Maviola|Maviola and Olesm|Maviola and Gresaria|Selys and Maviola	lady el|lady firestarter|maviola|maviola imarris	Y
 pallass	Pallass	41	26	231	6,7,8,9,10,11,15,16,17,18,19	Pallass|Ilvriss and Pallass		Y
 pirateaba	pirateaba	41	13	151	3,5,6,7,8,9,10,11,12,13,14,15,16	pirateaba		Y
-tremborag	Tremborag	40	13	152	4,6,7,8,9	Tremborag|Garen and Tremborag|Tremborag and Garen	fomirelin|great chieftain of the goblins|great chieftain of the mountain city tribe|great chieftain of the north|great goblin|great goblin chieftain	Y
-bethal walchais	Bethal	39	17	184	5,6,7,8,11,17,18	Bethal|Bethal Walchaís|Bethal Walchais|Lady Bethal|Bethal and Thomast|Bethal Walchais and Thomast	bethal|lady bethal|lady of thorns	Y
+tremborag	Tremborag	40	13	152	4,6,7,8,9	Tremborag|Garen and Tremborag|Tremborag and Garen	fomirelin|great chieftain of dwarfhalls rest|great chieftain of the goblins|great chieftain of the mountain city tribe|great chieftain of the north|great goblin|great goblin chieftain	Y
 trey atwood	Trey	39	16	90	2,5,7,10,13,15,17,18,19	Trey|Trey Atwood|Trey and Teres|Trey and Fetohep	trey|troy atlas	Y
 raskghar	Raskghar	38	18	224	6,7,8,9,19	Raskghar|Cave Goblins and Raskghar	not-gnolls|not-gnolls / cave gnolls|not-gnolls / gnoll throwbacks	Y
-geneva	Geneva	36	13	197	5,10,11,14,16,17,18,19	Geneva	doctor g / doctor geneva / last light of baleros	Y
 goblin lord	Goblin Lord	36	16	105	2,4,5,6,7	Goblin Lord	apprentice of the necromancer	Y
 free queen	Free Queen	35	10	277	8,9,11,14,15,16,18	Free Queen	queen of the free antinium|xevccha (invective)	Y
 gnolls	Gnolls	35	29	15	1,2,4,5,6,7,8,9,12,14,15,16	Gnolls|Drakes and Gnolls|The Gnolls|Gnolls and Drakes		Y
 tom	Tom	35	9	95	2,6,18	Tom	clown of rhir|sir tom	Y
+greydath of blades	Greydath of Blades	34	13	154	4,6,8,9,19	Greydath of Blades|Greybeard|Greydath|Old Goblin	graybeard|greybeard|greydath|old goblin|whitebeard	Y
 wandering inn	The Wandering Inn	34	29	22	1,2,4,5,6,9,10,11,12,13,14,15,17,18,19	The Wandering Inn|Wandering Inn		Y
 ylawes byres	Ylawes Byres	34	17	143	3,6,7,8,9,14,18,19	Ylawes Byres|Ylawes|Yvlon and Ylawes|Dawil, Ylawes and Falene	man in silver armor|sir ylawes|ylawes|yvlon older brother	Y
 grand strategist chaldion	Chaldion	33	14	374	12,15,16,17,18,19	Chaldion	chaldion|grand strategist	Y
+rabbiteater	Rabbiteater	32	16	246	7,8,9,14,18,19	Rabbiteater|Goblin Slayer|Rabbiteater, Numbtongue|Rabbiteater and Numbtongue|Headscratcher, Rabbiteater, Shorthilt, Badarrow, Numbtongue|Headscratcher, Numbtongue, Rabbiteater, Shorthilt, Badarrow	champion|goblin slayer|ser solstice	Y
 riverfarm	Riverfarm	32	22	123	3,4,5,7,9,12,14,15,18,19	Riverfarm	demesne of riverfarm|our emperor laken godart demesne	Y
-ser solstice	Rabbiteater	32	16	246	7,8,9,14,18,19	Rabbiteater|Goblin Slayer|Rabbiteater, Numbtongue|Rabbiteater and Numbtongue|Headscratcher, Rabbiteater, Shorthilt, Badarrow, Numbtongue|Headscratcher, Numbtongue, Rabbiteater, Shorthilt, Badarrow	champion|goblin slayer|rabbiteater	Y
-last light of baleros	Geneva Scala	31	12	129	3,5,10,16,17,18,19	Geneva Scala	doctor|geneva scala|last light|miss scala	Y
+garia strongheart	Garia Strongheart	31	20	24	1,2,3,5,10,11,12,15,16,17,19	Garia Strongheart|Garia|Garia Strongarm	garia|garia strongarm	Y
 tekshia shivertail	Tekshia	31	14	235	6,7,9,11,13,14	Tekshia|Tekshia Shivertail	guildmistress|tekshia|tekshia the spearmaster	Y
 drake shopkeeper who cheated erin	Lism	30	19	41	1,2,7,8,10,11,12,13,15,19	Lism|Krshia and Lism	lism	Y
 flos steward	Orthenon	30	17	28	1,2,5,7,10,14,15,16,19	Orthenon	king of destruction left hand|king steward|my steward|orthenon|ruinbringer steward	Y
-raelt leysars	Raelt	30	7	338	10,15,16,17,18,19	Raelt|Raelt Leysars	duelist king|king leysars|king of challenges|king of duels|raelt	Y
+raelt leysars	Raelt	30	7	338	10,15,16,17,18,19	Raelt|Raelt Leysars	duelist king|king leysars|king of challenges|king of duels|king of jecrass|raelt|raelt of jecrass	Y
 hawk	Hawk	29	18	80	2,4,5,6,7,8,10,12,13,16,18	Hawk|Elirr and Hawk	hare of liscor|rabbit courier	Y
 palt	Palt	29	22	402	13,14,15,16,17,18,19	Palt|Palt, Montressa and Beza|Montressa, Beza, Palt		Y
 reynold	Reynold	29	19	107	2,3,4,6,14,17,18	Reynold|Reynold and Ressa|Reynold and Sacra|Reynold Ferusdam	mister reynold|reynold ferusdam	Y
@@ -89,8 +90,7 @@ belgrade	Belgrade	26	17	78	2,3,4,5,6,7,8,11,15,16,18	Belgrade|Belgrade and Anand
 venitra	Venitra	26	12	99	2,3,5,16	Venitra|Venitra and Ijvani|Venitra, Kerash and Bea|Ijvani and Venitra	regrika|regrika blackpaw (disguise)|woman made of bone	Y
 anand	Anand	25	17	146	3,5,6,7,8,9,11,14,16,18,19	Anand|Belgrade and Anand|Bird, Belgrade, Anand, Garry and Pawn|Anand and Belgrade|Anand and the Free Antinium		Y
 halfseekers	Halfseekers	25	18	153	4,5,6,7,8,9,10,13,14,15,17,18	Halfseekers|Halfseekers and Griffon Hunt|Griffon Hunt and the Halfseekers|Griffon Hunt and Halfseekers|Griffon Hunt, Halfseekers and Horns	halfseeker adventurers	Y
-osthia blackwing	Osthia Blackwing	25	15	194	5,6,8,9,10,13,15,18	Osthia Blackwing|Osthia|Captain Shieldscale	asrira shieldscale (6.02 l303)|captain osthia|captain shieldscale|osthia|osthmissa shieldscale	Y
-greydath of blades	Greydath of Blades	24	8	227	6,8,9,19	Greydath of Blades|Greydath	greybeard|greydath	Y
+osthia blackwing	Osthia Blackwing	24	14	194	5,6,8,9,10,13,15	Osthia Blackwing|Osthia	asrira shieldscale (6.02 l303)|captain osthia|osthia|osthmissa shieldscale	Y
 fals	Fals	23	14	24	1,2,3,15,17,19	Fals		Y
 mars	Mars	23	14	90	2,5,7,10,13,15,16,19	Mars|Mars the Illusionist|Mars and Teres	illusionist|mars the illusionist|maven	Y
 pelt	Pelt	23	9	332	10,15,16,17,18	Pelt	mad dwarf|pelt of derithal-vel	Y
@@ -99,12 +99,12 @@ redscar	Redscar	23	16	157	4,6,7,8,9,16	Redscar|Redscar, Noears, Poisonbite|Redsc
 umina caxical	Umina	23	12	289	8,9,11,13,14,16,18,19	Umina|Umina and Marian|Umina Caxical|Umina and Wil|Wil and Umina	ullia|umina	Y
 wailant strongheart	Wailant	23	11	195	5,11,15,16,17,18,19	Wailant|Wailant Strongheart|Ryoka and Wailant|Teliv and Wailant|Wailant Strongheart and Seborn Sailwinds	humble farmer|wailant	Y
 wil kallinad	Wil	23	10	349	11,13,14,16,17	Wil|Wil Kallinad|Umina and Wil|Wil and Umina|Wil, Venaz, Feshi	kallinad|lord charles de trevalier|lord kallinad / wil|wil	Y
+actors rehearsing macbeth	Players of Celum	22	15	246	7,8,9,10,11,14,15,16,17,19	Players of Celum|Players of Liscor and Players of Celum	players of celum|temile cast	Y
 apista	Apista	22	18	116	2,5,6,7,8,9,10,14,15,16,17,19	Apista|Bee	ashfire bee queen|bee|beeyonce (erin suggestion)	Y
 cognita	Cognita	22	14	119	2,3,4,8,13,14,16,18,19	Cognita	carved golem|cognita (archmage zelkyr creation)|truestone construct|truestone golem	Y
 ijvani	Ijvani	22	12	147	3,5,13,14,16	Ijvani|Venitra and Ijvani|Imenet|Ijvani and Venitra	black skeleton mage|imenet|imenet southwing (disguise)	Y
 plague mage	Typhenous	22	17	94	2,4,5,7,8,9,10,16,17	Typhenous|Typhenous, Revi, Seborn|Pisces, Moore, Typhenous|Typhenous and Griffon Hunt|Halrac, Typhenous, Olesm and Ceria	typhenous	Y
 seborn	Seborn	22	19	94	2,5,6,7,8,9,12,13,14,16	Seborn|Jelaqua, Moore, Seborn|Typhenous, Revi, Seborn|Relc, Jelaqua, Seborn|Seborn and Moore|Moore and Seborn	drowned man	Y
-actors rehearsing macbeth	Players of Celum	21	14	246	7,8,9,10,11,14,15,16,17,19	Players of Celum	players of celum|temile cast	Y
 daly sullivan	Daly	21	9	197	5,10,11,14,17	Daly|Daly and Paige|Daly Sullivan	daly	Y
 headscratcher	Headscratcher	21	16	145	3,6,7,8,9	Headscratcher|Headscratcher and Badarrow|Headscratcher, Rabbiteater, Shorthilt, Badarrow, Numbtongue|Headscratcher, Numbtongue, Rabbiteater, Shorthilt, Badarrow|Headscratcher, Numbtongue, Shorthilt, Badarrow and Rabbiteater	berserker|hob|redfang berserker	Y
 kenjiro murata	Ken	21	7	196	5,10,11	Ken|Ken and Luan|Ken and Aiko|Luan, Ken and Aiko|Ken, Luan and Aiko	ken	Y
@@ -117,14 +117,12 @@ stitch-woman	Revi	19	16	92	2,5,7,8,9,10,16	Revi|Typhenous, Revi, Seborn|Revi, Je
 venaz	Venaz	19	12	330	10,11,13,17,18,19	Venaz|Wil, Venaz, Feshi|Venaz, Peki	sir bull|sir bull / sir sea cow|sir sea cow|venaz of hammerad|venaz of hammerad (shailt)|venaz the minotaur	Y
 bevussa slenderscale	Bevussa	18	13	281	8,9,13,14,15,19	Bevussa|Bevussa Slenderscale|Bevussa and Keldrass|Bevussa and the Wings of Pallass	bevussa|captain of the wings of pallass|issa|wings of pallass captain	Y
 celum	Celum	18	13	35	1,2,3,4,7,8,12,15,17	Celum		Y
-garia strongheart	Garia Strongheart	18	12	24	1,2,5,10,11,12,15,16,19	Garia Strongheart|Garia Strongarm	garia|garia strongarm	Y
-mavika	Mavika	18	8	368	12,15,19	Mavika|Eloise, Hedag and Mavika|Alevica, Eloise and Hedag, Mavika|Laken, Eloise, Mavika|Mavika and Eloise	crow witch|witch mavika	Y
-nsiia	Nsiia	18	6	338	10,13,19	Nsiia	animalfriend exile (class)	Y
+mavika	Mavika	18	8	368	12,15,19	Mavika|Eloise, Hedag and Mavika|Alevica, Eloise and Hedag, Mavika|Laken, Eloise, Mavika|Mavika and Eloise	crow witch|witch mavika|witch of flocks	Y
+nsiia	Nsiia	18	6	338	10,13,19	Nsiia	animalfriend exile (class)|empress nsiia|empress nsiia of tiqr|empress of beasts	Y
 okasha	Okasha	18	9	130	3,5,10,11,16,17	Okasha	idis (replacement)|oksaha|selphid roommate|selphid sharing geneva scala body|selphid who shares geneva body	Y
 pebblesnatch	Pebblesnatch	18	11	281	8,9,15,18,19	Pebblesnatch|Pebblesnatch and Ulvama	chef|lecci (ulvama offered name)|pebblesnatch the mighty	Y
 rie valerund	Rie	18	11	226	6,7,12,17,18,19	Rie|Rie Valerund	rie	Y
 witch califor	Califor	18	8	373	12	Califor|Califor, Belavierr	califor|califor weishart	Y
-beza	Beza	17	13	404	13,14,15,16,17,18,19	Beza|Montressa and Beza|Bezale|Palt, Montressa and Beza|Isceil and Beza|Montressa, Beza, Palt	bezale|bezale of maweil	Y
 creature led crypt undead attack	Skinner	17	8	61	1,2,11	Skinner	guardian of the crypts|skinner	Y
 illphres	Illphres	17	8	119	2,4,8	Illphres|Amerys and Illphres	cryomancer|ice demon|ice mage / cryomancer	Y
 inn	The inn	17	14	1	1,12,13,16	The inn|Inn		Y
@@ -134,14 +132,15 @@ venith crusland	Venith	17	6	179	5,10,15,17	Venith|Venith Crusland	lord of battle
 beniar	Beniar	16	13	203	5,6,7,8,12,15	Beniar	sightless riders / blacksky riders	Y
 elirr	Elirr	16	10	287	8,9,10,11,12,14,15,19	Elirr|Krshia and Elirr|Elirr and Hawk|Elirr and Hexel		Y
 lasica	Lasica	16	12	332	10,11,12,15,16,17,18	Lasica|Rufelt and Lasica|Lasica and Rufelt		Y
-leader of germina	Quarass	16	5	184	5,10,13,15	Quarass|The Quarass|Fetohep and Quarass	quarass	Y
+leader of germina	Quarass	16	5	184	5,10,13,15	Quarass|The Quarass|Fetohep and Quarass	quarass|quarass (new)|quarass lives	Y
 persua	Persua	16	13	30	1,2,3,5,11,17	Persua		Y
 queen of the free antinium	Antinium Queen	16	9	29	1,2	Antinium Queen	antinium queen|free queen	Y
-thomast veniral	Thomast	16	9	184	5,6,7,8,11,18	Thomast|Thomast Veniral|Bethal and Thomast|Bethal Walchais and Thomast	chevalier|chevalier thomast|thomast	Y
+thomast veniral	Thomast	16	9	184	5,6,7,8,11,18	Thomast|Thomast Veniral|Bethal and Thomast|Bethal Walchais and Thomast	chevalier|chevalier thomast|sir thomast|thomast	Y
 valeterisa	Valeterisa	16	4	490	18,19	Valeterisa	archmage of izril	Y
 hayvon operland	Hayvon Operland	15	5	420	14,16,18	Hayvon Operland|Hayvon	hayvon|lord operland	Y
-rags tribe, per lady rie	Flooded Waters tribe	15	12	81	2,4,6,7,8,9	Flooded Waters tribe|Flooded Waters Tribe|Goblin Lord's army and Flooded Waters tribe	flood water tribe|flooded water tribe|flooded waters tribe|flowing water chieftain|rags tribe (laken side calls it so)	Y
+rags tribe, per lady rie	Flooded Waters tribe	15	12	81	2,4,6,7,8,9	Flooded Waters tribe|Flooded Waters Tribe|Goblin Lord's army and Flooded Waters tribe	flood water tribe|flooded water tribe|flooded waters|flooded waters tribe|flowing water chieftain|rags tribe (laken side calls it so)	Y
 antinium workers	Antinium Workers	14	9	29	1,5	Antinium Workers		Y
+cara o'sullivan	Cara	14	6	437	15,17,18,19	Cara|Cara O'Sullivan|Queen of Pop	baroness of the beats|cara|queen of pop|singer of terandria	Y
 cervial	Cervial	14	9	50	1	Cervial|Yvlon and Cervial|Gerald, Cervial, Lir		Y
 charlay	Charlay	14	6	371	12,14	Charlay|Ryoka and Charlay	dustrider charlay|dusty charlie	Y
 drakes	Drakes	14	13	8	1,2,6,7,8,12,15,16	Drakes|Drakes and Gnolls|Gnolls and Drakes		Y
@@ -153,11 +152,12 @@ tulm	Tulm	14	5	350	11,13,19	Tulm|Tulm the Mithril|Tulm and Perorn	second-in-comm
 wesle	Wesle	14	11	117	2,3,4,7,9,14,18	Wesle|Wesle and Jasi|Jasi and Wesle|Jasi, Wesle, Emme, Grev, Kilkran	fuzzylips (erin nickname)	Y
 adventurers	Adventurers	13	11	35	1,2,5,7,8,9	Adventurers		Y
 alevica	Alevica	13	7	371	12	Alevica|Alevica, Eloise and Hedag, Mavika	witch runner	Y
-cara o'sullivan	Cara	13	5	469	17,18,19	Cara|Cara O'Sullivan	cara|singer of terandria	Y
+beza	Beza	13	10	404	13,14,15,16,17,18	Beza|Montressa and Beza|Palt, Montressa and Beza|Isceil and Beza|Montressa, Beza, Palt	bezale	Y
 cave goblins	Cave Goblins	13	10	186	5,7,8,9	Cave Goblins|Cave Goblins and Raskghar		Y
-garia	Garia	13	9	51	1,2,3,5,16,17	Garia	garia strongheart	Y
 marian	Marian	13	8	59	1,2,11,16,18	Marian|Umina and Marian		Y
+nawalishifra tannousin	Nawal	13	6	251	7,10,15,19	Nawal|Nawalishifra|Nawalishifra Tannousin	nawal|nawalishifra|nawalishifra of clan tannousin	Y
 paige	Paige	13	7	197	5,10,11,14,17	Paige|Daly and Paige		Y
+sir kerrig, knight sworn to lady bethal walchais	Kerrig	13	6	262	7,8,11	Kerrig|Sir Kerrig|Sir Kerrig Louis|Welca Caveis and Sir Kerrig Louis	kerrig|kerrig louis|sir kerrig|sir kerrig louis	Y
 sserys	Sserys	13	5	110	2,4,6,7	Sserys		Y
 calectus	Calectus	12	5	198	5,17,18	Calectus	doctor geneva (his title for her)	Y
 calvaron	Calvaron	12	7	119	2,4	Calvaron|Calvaron and Beatrice		Y
@@ -187,12 +187,11 @@ vuliel drae	Vuliel Drae	11	7	186	5,7,8	Vuliel Drae	lucky team	Y
 wilovan	Wilovan	11	8	468	17,18,19	Wilovan and Ratici|Wilovan|Ratici and Wilovan	gentleman caller (gnoll)	Y
 amerys	Amerys	10	9	119	2,4,5,10,14,18	Amerys|Amerys and Illphres	amerys residing in wistram|calm flower of the battlefield|mage of the king of destruction seven	Y
 circle of thorns	Circle of Thorns	10	4	376	12,17,18,19	Circle of Thorns		Y
-eloise	Eloise	10	6	373	12,18,19	Eloise|Eloise, Hedag and Mavika|Alevica, Eloise and Hedag, Mavika|Laken, Eloise, Mavika|Mavika and Eloise	eloise du havin|tea witch	Y
+eloise	Eloise	10	6	373	12,18,19	Eloise|Eloise, Hedag and Mavika|Alevica, Eloise and Hedag, Mavika|Laken, Eloise, Mavika|Mavika and Eloise	eloise du havin	Y
 empress of sands	Emperor of Sands	10	3	178	5,7,15	Emperor of Sands|Empress of Sands	emira saet-rei|emperor of sands|stitch-man/stitchman	Y
 fool	Fool	10	3	218	6	Fool		Y
 frostwing	Frostwing	10	9	136	3,4,5,7,8,12	Frostwing|Frostwing and Bismarck		Y
 goblin king	Goblin King	10	5	106	2,4,6	Goblin King	velan the kind	Y
-greybeard	Greybeard	10	6	154	4,6	Greybeard|Old Goblin	graybeard|greydath of blades|old goblin|whitebeard	Y
 hedag	Hedag	10	7	373	12,18	Hedag|Eloise, Hedag and Mavika|Alevica, Eloise and Hedag, Mavika|Hedag, Agratha	hedag the executioner	Y
 ieka imarris	Ieka	10	5	460	16,17,18,19	Ieka|Ieka Imarris	ieka	Y
 isceil	Isceil	10	7	402	13,14	Isceil|Isceil and Beza		Y
@@ -213,10 +212,10 @@ ulrien	Ulrien	9	7	94	2,5,6,7	Ulrien		Y
 valceif godfrey	Valceif	9	4	83	2,4,19	Valceif|Valceif Godfrey	courier valceif|valceif	Y
 aiko	Aiko	8	6	196	5,10	Aiko|Ken and Aiko|Luan, Ken and Aiko|Ken, Luan and Aiko		Y
 bloodfeast raiders	Bloodfeast Raiders	8	4	346	11,17,19	Bloodfeast Raiders	bloodfeast	Y
-dawil	Dawil	8	6	249	7,9,10,14	Dawil|Dawil, Ylawes and Falene		Y
+dawil	Dawil	8	6	249	7,9,10,14	Dawil|Dawil, Ylawes and Falene	dwarf	Y
 earlia	Earlia	8	5	271	8,12,13	Earlia|Earlia of Gemhammer	earlia of gemhammer	Y
 elia arcsinger	Elia Arcsinger	8	8	238	6,8,9,16,19	Elia Arcsinger	ellia arcsinger|kingslayer	Y
-femithain	Femithain	8	4	397	13,19	Femithain	first crafter-magus	Y
+femithain	Femithain	8	4	397	13,19	Femithain	first crafter-magus|magus-crafter	Y
 feshi	Feshi	8	5	351	11,17,18	Feshi|Wil, Venaz, Feshi		Y
 garden of sanctuary	[Garden of Sanctuary]	8	4	436	15,16,19	[Garden of Sanctuary]|Garden of Sanctuary	magic garden|room of requirement (erin joke)	Y
 gralton	Gralton	8	6	314	9,12,14,15,19	Gralton|Lord Gralton|Laken, Gralton and Yitton	dog lord|lord gralton	Y
@@ -237,13 +236,12 @@ urksh	Urksh	8	3	98	2	Urksh		Y
 val	Val	8	3	85	2	Val		Y
 vampires	Vampires	8	3	324	10,12,19	Vampires		Y
 venitra, disguised	Regrika Blackpaw	8	7	207	5,6,10	Regrika Blackpaw	fortress blackpaw|regrika blackpaw|venitra (disguise)|venitra (disguised)	Y
-wall lord ilvriss	Wall Lord Ilvriss	8	6	224	6,8,10,18	Wall Lord Ilvriss|Ilvriss Gemscale	ilvriss gemscale	Y
 xif	Xif	8	7	332	10,12,16	Xif|Saliss and Xif		Y
 acid flies	Acid flies	7	6	7	1,2,11	Acid flies|Acid Flies		Y
 bismarck	Bismarck	7	7	203	5,7,8,12	Mossbear|Bismarck|Frostwing and Bismarck	bear|mossbear	Y
 bushrangers	Bushrangers	7	4	327	10,11,17	Bushrangers		Y
 cave goblin	Cave Goblin	7	3	280	8	Cave Goblin		Y
-council	Council	7	7	159	4,10,11,13,14	Council|The Council|Council and Zevara		Y
+council	Council	7	7	159	4,10,11,13,14	Council|The Council|Council and Zevara	councilmembers	Y
 earth group	Earth group	7	1	107	2	Earth group		n
 eltistiman verdue	Eltistiman Verdue	7	5	304	9,14,16	Eltistiman Verdue|Eltistiman	eltistiman|mister magus	Y
 esthelm horror	Esthelm Horror	7	3	143	3	Esthelm Horror		Y
@@ -253,14 +251,13 @@ grev	Grev	7	6	117	2,3,4,14,18	Grev|Jasi and Grev|Jasi, Wesle, Emme, Grev, Kilkra
 high passes	High Passes	7	7	24	1,2,16	High Passes|The High Passes		Y
 lady rie	Lady Rie	7	6	223	6,7,8,12,18	Lady Rie		Y
 nalth	Nalthaliarstrelous	7	4	467	17,18,19	Nalthaliarstrelous	gardener|nalthaliarstrelous|nathal	Y
-nawalishifra tannousin	Nawalishifra	7	4	251	7,10,15,19	Nawalishifra|Nawalishifra Tannousin	nawalishifra	Y
 nokha	Nokha	7	3	288	8,17	Nokha	female awakened raskghar	Y
 octavia cotton	Octavia Cotton	7	6	325	10,11,12,16,18,19	Octavia Cotton		Y
-order of seasons	Order of Seasons	7	4	380	12,14	Order of Seasons		Y
+order of seasons	Order of Seasons	7	4	380	12,14	Order of Seasons	season	Y
 perric of medain	Perric of Medain	7	3	439	15,19	Perric of Medain|Perric	high king of medain|perric	Y
 purple smile	Purple Smile	7	6	228	6,8	Purple Smile|Yellow Splatters and Purple Smile		Y
 quarass of germina	Quarass of Germina	7	4	397	13,15,19	Quarass of Germina	dragonslayer of ger	Y
-red fang tribe	Red Fang Tribe	7	5	81	2	Red Fang Tribe|Red Fang tribe		Y
+red fang tribe	Red Fang Tribe	7	5	81	2	Red Fang Tribe|Red Fang tribe	red fang	Y
 ruins of liscor	Ruins of Liscor	7	4	52	1	Ruins of Liscor		Y
 sir vumat	Knight	7	2	62	1	Knight	knight	Y
 skystrall	Falene Skystrall	7	6	233	6,7,8,10,16	Falene Skystrall	falene skystrall|pointy (dawil)	Y
@@ -282,25 +279,24 @@ emme	Emme	6	4	246	7,8,14,18	Emme|Jasi, Wesle, Emme, Grev, Kilkran		Y
 erin inn	Erin's inn	6	6	193	5,7,13,14	Erin's inn		Y
 garusa	Garusa	6	1	194	5	Garusa|Thrissiam and Garusa		n
 healing potions	Healing potions	6	6	25	1,3,6,10	Healing potions		Y
+himilt val lischelle-drakle	Himilt	6	4	324	10,19	Himilt|Himilt Drakle|Himilt and Bamer	himilt|himilt drakle|lord himilt val lischelle-drakle	Y
 hollowstone deceiver (drake name)	Rock Crab	6	6	20	1,2,4	Rock Crab|Rock crab	rock crab	Y
 horns	Horns	6	5	134	3,9,13,14,17	Horns|Griffon Hunt, Halfseekers and Horns|Pisces and the Horns		Y
-invrisil	Invrisil	6	6	168	4,6,14,16,17	Invrisil		Y
+invrisil	Invrisil	6	6	168	4,6,14,16,17	Invrisil	city of adventurers	Y
 jecrass	Jecrass	6	5	338	10,15,17,18,19	Jecrass		Y
 karsaeu-dequoa	Karsaeu-Dequoa	6	1	490	18	Karsaeu-Dequoa	karsy|unmarked coach driver|unmarked coach driver (karsy)	n
-kerrig	Kerrig	6	2	262	7	Kerrig		Y
 liscor council	Liscor Council	6	6	209	5,13,14,17,19	Liscor Council|Liscor council		Y
 magic door	Magic door	6	6	156	4,9,15,16,17	Magic door|The magic door		Y
 maresar	Maresar	6	3	180	5	Maresar|Lady Maresar	bandit lord maresar|lady maresar|mares	Y
 naili	Naili	6	5	278	8,14,15,18	Nailihuaile|Naili|Feor, Naili and Viltach	archmage nailihuaile|nailihuaile	Y
-nawal	Nawal	6	3	251	7,10	Nawal		Y
 ozem of maweil	Ozem of Maweil	6	1	501	19	Ozem of Maweil		n
 peki	Peki	6	6	350	11,16,17,18	Peki|Venaz, Peki		Y
 pellmia	Pellmia	6	2	298	9	Pellmia		Y
-quexa	Quexa	6	3	197	5,10	Quexa		Y
+quexa	Quexa	6	3	197	5,10	Quexa	lizardgirl	Y
 quiteil	Quiteil	6	3	484	18	Quiteil		Y
 raekea	Raekea	6	4	360	11,12,17,18	Raekea		Y
 redfang tribe	Redfang tribe	6	5	142	3,6,8,9	Redfang tribe|Redfang Tribe		Y
-runners	Runners	6	6	22	1,2	Runners		Y
+runners	Runners	6	6	22	1,2	Runners	street runner	Y
 ser raim	Ser Raim	6	4	380	12,17	Ser Raim		Y
 tailless thief	Tailless Thief	6	6	76	2,5,6,7,9	Tailless Thief		Y
 tiqr	Tiqr	6	4	355	11,13,18	Tiqr		Y
@@ -336,7 +332,6 @@ heartflame breastplate	Heartflame Breastplate	5	5	232	6,7,11	Heartflame Breastpl
 jelov	Jelov	5	5	204	5,7,12	Jelov		Y
 kel	Kel	5	4	360	11,15,18	Kel		Y
 kitchen	The kitchen	5	3	5	1	The kitchen		Y
-lady bethal walchais	Lady Bethal Walchais	5	3	265	8,11	Lady Bethal Walchais		Y
 lady magnolia reinhart	Lady Magnolia Reinhart	5	2	75	2	Lady Magnolia Reinhart		Y
 levels	Levels	5	3	19	1,7	Levels		Y
 liscor dungeon	Liscor dungeon	5	4	116	2,5,6,7	Liscor dungeon|Liscor's dungeon		Y
@@ -354,11 +349,11 @@ pivr	Pivr	5	4	148	3,4,6,18	Pivr		Y
 pomle	Pomle	5	3	338	10,16,18	Pomle		Y
 raverian fighters	Raverian Fighters	5	2	129	3	Raverian Fighters	ravarian fighters|raverian fighter company	Y
 redfang hobs	Redfang Hobs	5	4	221	6,9,12	Redfang Hobs		Y
-seve-alrelious	Seve-Alrelious	5	2	503	19	Seve-Alrelious	courier seve|hundredfriends courier	Y
+seve-alrelious	Seve-Alrelious	5	2	503	19	Seve-Alrelious	courier seve|hundredfriends courier|seve	Y
 sostrom	Sostrom	5	3	56	1	Sostrom		Y
-takhatres	Takhatres	5	3	178	5,7,15	Takhatres	lord of the skies	Y
+takhatres	Takhatres	5	3	178	5,7,15	Takhatres	lord of the skies|skies	Y
 thrissiam	Thrissiam	5	1	194	5	Thrissiam|Thrissiam and Garusa		n
-walled cities	Walled Cities	5	5	110	2,6,8,12,15	Walled Cities		Y
+walled cities	Walled Cities	5	5	110	2,6,8,12,15	Walled Cities	walled city	Y
 wyvern lord	Wyvern Lord	5	4	426	15,16	Wyvern Lord	greater wyvern|leader of the weyr	Y
 agnes	Agnes	4	4	140	3,5,19	Agnes|Agnes and Maran|Miss Agnes	miss agnes	Y
 alber	Alber	4	4	323	10,11,16,17	Alber		Y
@@ -367,6 +362,7 @@ anith	Anith	4	2	186	5,13	Anith		Y
 antinium queens	Antinium Queens	4	3	114	2,9,17	Antinium Queens		Y
 bamer	Bamer	4	2	324	10,19	Bamer|Himilt and Bamer		Y
 beilmark	Beilmark	4	4	306	9,10,14,16	Beilmark|Jeiss and Beilmark		Y
+bezale	Bezale	4	3	412	14,19	Bezale|Calruz, Bezale and Zevara|Montressa and Bezale	beza|bezale of maweil	Y
 blood fields	Blood Fields	4	3	27	1	Blood Fields	bloodfields	Y
 calac	Calac	4	3	180	5,13	Calac		Y
 charles de trevalier	Charles de Trevalier	4	4	119	2,4	Charles de Trevalier|Charles de Trevalier and Timor du Havrington		Y
@@ -387,12 +383,12 @@ frenzied hare	Frenzied Hare	4	4	121	2,3	Frenzied Hare		Y
 gnoll tribes	Gnoll tribes	4	4	110	2,7,13	Gnoll tribes		Y
 goblin lord army	Goblin Lord's army	4	4	145	3,6,9	Goblin Lord's army|Goblin Lord's army and Flooded Waters tribe		Y
 goblinhome	Goblinhome	4	2	453	16,19	Goblinhome		Y
+gold-rank adventurers	Gold-rank adventurers	4	4	214	5,7,8	Gold-rank adventurers|Gold-ranks and Antinium	gold-rank|gold-ranks	Y
 gresaria	Gresaria	4	1	491	18	Gresaria|Maviola and Gresaria		n
 grunter	Grunter	4	2	144	3	Grunter		Y
 half-elves	Half-Elves	4	4	102	2,4	Half-Elves		Y
 healing potion	Healing potion	4	4	9	1	Healing potion		Y
 hectval	Hectval	4	4	475	17,18,19	Hectval		Y
-himilt	Himilt	4	3	324	10,19	Himilt|Himilt and Bamer	lord himilt val lischelle-drakle	Y
 humans	Humans	4	3	37	1,9	Humans		Y
 jeiss	Jeiss	4	3	331	10,11,15	Jeiss|Jeiss and Beilmark		Y
 khelt	Khelt	4	2	398	13	Khelt		Y
@@ -410,13 +406,12 @@ petals of death	Petals of Death	4	1	472	17	Petals of Death		n
 quietstab	Quietstab	4	3	298	9	Quietstab		Y
 razorbeak	Dino-bird	4	4	7	1,5,7	Dino-bird|Razorbeak	dino-bird	Y
 red fang chieftain	Red Fang Chieftain	4	1	97	2	Red Fang Chieftain|Rags and the Red Fang Chieftain		n
-remi canada	Rémi Canada	4	4	396	13,16,18	Rémi Canada		Y
+remi canada	Rémi Canada	4	4	396	13,16,18	Rémi Canada	r??mi canada|remi	Y
 richard	Richard	4	4	95	2,6,18	Richard		Y
 rustless guard	Rustless Guard	4	4	327	10,11	Rustless Guard		Y
 selphids	Selphids	4	4	197	5,10	Selphids		Y
 silent queen	Silent Queen	4	3	306	9,15,18	Silent Queen		Y
 silvenia	Silvenia	4	1	486	18	Silvenia	archmage rebel in rhir (unnamed)|death of magic|silvenia the traitor	n
-sir kerrig	Sir Kerrig	4	3	267	8	Sir Kerrig		Y
 sir relz and noass	Sir Relz and Noass	4	4	250	7,9,15,18	Sir Relz and Noass		Y
 spiderbite	Spiderslicer	4	4	309	9	Spiderslicer|Redscar and Spiderslicer	spiderslicer	Y
 stan	Stan	4	2	347	11,14	Stan and Alais|Stan	crossbow stan	Y
@@ -448,9 +443,9 @@ archmages	Archmages	3	2	49	1,18	Archmages		Y
 assassin guild	Assassin's Guild	3	2	355	11,16	Assassin's Guild		Y
 beatica	Beatica	3	3	372	12,18	Beatica		Y
 brilm	Brilm	3	2	361	11,18	Brilm		Y
-carn wolf	Carn Wolves	3	3	43	1,2	Carn Wolves	carn wolves	Y
+carn wolf	Carn Wolves	3	3	43	1,2	Carn Wolves	carn wolves|his carn wolf	Y
 celum watch	Celum Watch	3	3	117	2,9,15	Celum Watch		Y
-centaurs	Centaurs	3	3	197	5,10	Centaurs		Y
+centaurs	Centaurs	3	3	197	5,10	Centaurs	centauress	Y
 centenium	Centenium	3	3	235	6,11	Centenium		Y
 chessboard	Chessboard	3	3	85	2,3	Chessboard		Y
 cire	Cire	3	1	494	18	Cire	cirediel anvi'dualln olic	n
@@ -467,7 +462,7 @@ faerie	Faerie	3	1	98	2	Faerie		n
 farri sightly	Farri Sightly	3	2	345	11,13	Farri Sightly		Y
 female goblins	Female Goblins	3	2	82	2,9	Female Goblins|Poisonbite and female Goblins		Y
 feor	Feor	3	2	278	8,14	Feor|Feor, Naili and Viltach		Y
-first unified army	First Unified Army	3	1	111	2	First Unified Army		n
+first unified army	First Unified Army	3	1	111	2	First Unified Army	army	n
 flora	Flora	3	2	485	18	Flora		Y
 gaile	Gaile	3	2	381	12	Gaile	hunter with axe	Y
 galina	Galina	3	3	475	17,18	Galina		Y
@@ -476,7 +471,6 @@ garusa weatherfur	Garusa Weatherfur	3	2	194	5,6	Garusa Weatherfur|Garusa Weather
 gemhammer	Gemhammer	3	3	272	8,9	Gemhammer		Y
 gentlemen callers	Gentlemen Callers	3	2	468	17,19	Gentlemen Callers	wilovan and ratici	Y
 goblin child	Goblin child	3	3	17	1,8,13	Goblin child		Y
-gold-rank adventurers	Gold-rank adventurers	3	3	214	5,7,8	Gold-rank adventurers		Y
 gold-rank teams	Gold-rank teams	3	3	94	2,9	Gold-rank teams		Y
 hellios	Hellios	3	3	251	7,10,13	Hellios		Y
 helm	Helm	3	2	203	5,18	Helm		Y
@@ -500,23 +494,22 @@ lorent	Lorent	3	3	332	10,11	Lorent	people in armour (dullahan)	Y
 merish	Merish	3	3	484	18	Merish		Y
 merrik	Merrik	3	3	350	11,16,17	Merrik		Y
 message spell	Message spell	3	3	37	1,2	Message spell|[Message] spell		Y
-minotaurs	Minotaurs	3	2	500	19	Minotaurs		Y
+minotaurs	Minotaurs	3	2	500	19	Minotaurs	minotauress	Y
 narrator	Narrator	3	3	233	6,7,9	Narrator		Y
 pekona	Pekona	3	2	186	5,7	Pekona|Pekona and Toren		Y
 pisces jealnet	Pisces Jealnet	3	2	417	14,16	Pisces Jealnet		Y
 pryde	Pryde	3	3	460	16,17	Pryde|Pryde and Wuvren		Y
 rast	Rast	3	1	181	5	Rast		n
 regis	Regis	3	1	209	5	Regis		n
-revine	Revine	3	3	338	10,13	Revine	siren of tides	Y
+revine zecrew	Revine	3	3	338	10,13	Revine	revine|siren of savere|siren of tides	Y
 rose knights	Rose Knights	3	2	227	6,8	Rose Knights	knights of the petal	Y
 ruins by liscor	Ruins by Liscor	3	2	50	1	Ruins by Liscor		Y
 ruins of albez	Ruins of Albez	3	3	30	1,3	Ruins of Albez		Y
 sadomere	Sadomere	3	2	469	17	Sadomere	drevish madness	Y
 shield spider	Shield Spider	3	2	39	1	Shield Spider		Y
-sir kerrig, knight sworn to lady bethal walchais	Sir Kerrig Louis	3	3	262	7,11	Sir Kerrig Louis|Welca Caveis and Sir Kerrig Louis	kerrig louis|sir kerrig louis	Y
 siri	Siri	3	3	327	10,17	Siri|Siri and Luan		Y
-snow golem	Snow Golem	3	2	92	2,4	Snow Golem		Y
-stitch-folk	String People	3	2	79	2,5	String People	stitch-men|stitch-women|string people	Y
+snow golem	Snow Golem	3	2	92	2,4	Snow Golem	golem|golems	Y
+stitch-folk	String People	3	2	79	2,5	String People	stitch-man|stitch-men|stitch-women|string people	Y
 stone spears	Stone Spears	3	3	104	2	Stone Spears		Y
 tagil	Tagil	3	2	382	12	Tagil		Y
 talenqual	Talenqual	3	3	327	10,17	Talenqual		Y
@@ -555,7 +548,7 @@ archmage zelkyr	Archmage Zelkyr	2	2	160	4,17	Archmage Zelkyr|Zelkyr	zelkyr	Y
 archmages feor, viltach and nailihuaile	Archmages Feor, Viltach and Nailihuaile	2	2	489	18,19	Archmages Feor, Viltach and Nailihuaile		Y
 assassins	Assassins	2	2	139	3,14	Assassins		Y
 awakened raskghar	The awakened Raskghar	2	2	287	8	The awakened Raskghar|Awakened Raskghar		Y
-baleros	Baleros	2	2	129	3,9	Baleros		Y
+baleros	Baleros	2	2	129	3,9	Baleros	balerosian	Y
 begal	Begal	2	1	464	17	Begal		n
 bekia	Bekia	2	2	232	6,14	Bekia		Y
 blake	Blake	2	1	328	10	Blake	kiwi	n
@@ -634,7 +627,7 @@ geir	Geir	2	1	111	2	Geir		n
 general duln	General Duln	2	2	429	15,19	General Duln		Y
 general sserys	General Sserys	2	2	226	6,7	General Sserys	spear of the drakes	Y
 gershal	Gershal	2	1	235	6	Gershal		n
-gnoll	Gnoll	2	2	15	1,8	Gnoll		Y
+gnoll	Gnoll	2	2	15	1,8	Gnoll	gnollish	Y
 gnoll representatives	Gnoll representatives	2	1	307	9	Gnoll representatives		n
 goblin chieftains	Goblin Chieftains	2	2	25	1,10	Goblin Chieftains|Goblin chieftains		Y
 goblin lord vanguard	Goblin Lord's vanguard	2	1	142	3	Goblin Lord's vanguard		n
@@ -651,7 +644,6 @@ hetarria	Hetarria	2	2	485	18	Hetarria		Y
 hexel quithail	Hexel Quithail	2	2	468	17	Hexel Quithail	architect	Y
 high command	High Command	2	2	256	7,13	High Command		Y
 high magus laisa	High Magus Laisa	2	1	420	14	High Magus Laisa		n
-himilt drakle	Himilt Drakle	2	1	499	19	Himilt Drakle		n
 hissle	Hissle	2	1	401	13	Hissle		n
 hoard	Hoard	2	1	300	9	Hoard		n
 holdnose	Holdnose	2	2	434	15,16	Holdnose		Y
@@ -674,7 +666,7 @@ kidnappers	Kidnappers	2	2	260	7	Kidnappers		Y
 kilkran	Kilkran	2	2	415	14,18	Kilkran|Jasi, Wesle, Emme, Grev, Kilkran		Y
 king of minotaurs	King of Minotaurs	2	1	501	19	King of Minotaurs		n
 kirana	Kirana	2	2	328	10,11	Kirana		Y
-knights of the petal	Order of the Petal	2	2	275	8,11	Order of the Petal	order of the petal|rose knights	Y
+knights of the petal	Order of the Petal	2	2	275	8,11	Order of the Petal	order of the petal|petal|rose knights	Y
 krakk trees	Krakk trees	2	2	39	1,2	Krakk trees		Y
 lady bevia	Lady Bevia	2	2	276	8	Lady Bevia		Y
 lady pryde	Lady Pryde	2	1	492	18	Lady Pryde	lady of pride	n
@@ -688,10 +680,10 @@ leveling lore	Leveling lore	2	1	114	2	Leveling lore		n
 liscor floodplains	Liscor Floodplains	2	2	268	8,11	Liscor Floodplains		Y
 liscor market	Liscor market	2	2	15	1	Liscor market		Y
 liska	Liska	2	2	480	18,19	Liska		Y
-lizardfolk	Lizardfolk	2	2	8	1,5	Lizardfolk	lizardpeople|lizardperson	Y
+lizardfolk	Lizardfolk	2	2	8	1,5	Lizardfolk	lizardman|lizardpeople|lizardperson|lizardwoman	Y
 loot	Loot	2	2	102	2	Loot		Y
 lord bein terland	Lord Bein Terland	2	2	457	16	Lord Bein Terland		Y
-lord erill	Lord Erill	2	2	274	8,9	Lord Erill		Y
+lord erill	Lord Erill	2	2	274	8,9	Lord Erill	erill	Y
 lord tyrion veltras	Lord Tyrion Veltras	2	2	235	6,9	Lord Tyrion Veltras	most infamous lord	Y
 madain	Madain	2	2	323	10,14	Madain	mad madain|madman	Y
 magehammer company	Magehammer Company	2	2	129	3	Magehammer Company		Y
@@ -706,17 +698,18 @@ mister soot	Soot	2	2	412	14,15	Soot|Mister Soot	soot	Y
 moths	Moths	2	2	250	7	Moths		Y
 nailren	Nailren	2	2	271	8	Nailren		Y
 neriha	Neriha	2	1	501	19	Neriha		n
-nerrhavia	Nerrhavia	2	2	396	13	Nerrhavia		Y
+nerrhavia	Nerrhavia	2	2	396	13	Nerrhavia	nerrhavian	Y
 noass	Noass	2	2	460	16,19	Noass		Y
 nobility	Nobility	2	2	252	7,11	Nobility		Y
 nune salismen	Nune Salismen	2	1	182	5	Nune Salismen		n
 pawn unit	Pawn's unit	2	2	191	5,8	Pawn's unit		Y
-peclir im	Peclir Im	2	2	208	5,10	Peclir Im		Y
+peclir im	Peclir Im	2	2	208	5,10	Peclir Im	peclir	Y
 perorn	Perorn	2	2	350	11	Tulm and Perorn|Perorn	perorn sadiluc / fleethoof	Y
 perorn sadiluc (fleethoof)	Perorn Sadiluc (Fleethoof)	2	2	400	13,16	Perorn Sadiluc (Fleethoof)		Y
 pirose	Pirose	2	1	367	12	Pirose		n
 pit	Pit	2	2	132	3,8	Pit|The pit		Y
 plague zombie woman, one of az'kerash chosen	Plague Zombie Woman, One Of Az'Kerash Chosen	2	2	100	2,6	Venitra, Kerash and Bea|Bea	bea|bea (chosen)	Y
+players	Players	2	2	457	16,19	Players|Players of Liscor and Players of Celum	players of liscor	Y
 preservation runes	Preservation runes	2	2	31	1	Preservation runes		Y
 prognugators	Prognugators	2	1	111	2	Prognugators		n
 pryde ulta	Pryde Ulta	2	2	411	14,17	Pryde Ulta		Y
@@ -756,7 +749,7 @@ sidney	Sidney	2	1	478	18	Sidney		n
 silent box	Silent Box	2	2	402	13	Silent Box		Y
 sillk	Sillk	2	2	350	11	Sillk		Y
 sir molte	Sir Molte	2	2	353	11	Sir Molte|Clairei Knight	clairei knight	Y
-sisters of chell	Sisters of Chell	2	2	369	12	Sisters of Chell	chell	Y
+sisters of chell	Sisters of Chell	2	2	369	12	Sisters of Chell	chell|sister of chell	Y
 sithorn	Trapmaster Assassin	2	2	490	18	Trapmaster Assassin|Sithorn	trapmaster assassin	Y
 skills	Skills	2	2	34	1,2	Skills		Y
 skywalker company	4th Company	2	2	256	7,11	4th Company	4th company	Y
@@ -767,7 +760,7 @@ stone starers	Stone Starers	2	2	285	8,18	Stone Starers		Y
 strategists	Strategists	2	2	238	6,18	Strategists		Y
 stream	Stream	2	2	4	1	Stream		Y
 summoned humans	Summoned humans	2	1	13	1	Summoned humans		n
-tails and scales	Tails and Scales	2	2	333	10,15	Tails and Scales		Y
+tails and scales	Tails and Scales	2	2	333	10,15	Tails and Scales	scales|tails	Y
 taxiela	Taxiela	2	1	509	19	Taxiela	galei|galei (presumed same)	n
 teliv	Teliv	2	2	482	18,19	Teliv and Wailant|Teliv		Y
 temile	Temile	2	2	401	13,19	Temile		Y
@@ -778,6 +771,7 @@ therrium	Therrium	2	1	465	17	Therrium		n
 therrium sailwinds	Therrium Sailwinds	2	2	464	17	Therrium Sailwinds		Y
 three-color stalker	Three-Color Stalker	2	2	232	6,10	Three-Color Stalker|The Titan and Three-Color Stalker	commander foliana|foliana|leader of the forgotten wing company	Y
 timor du havrington	Timor Du Havrington	2	2	158	4	Charles de Trevalier and Timor du Havrington|Timor du Havrington	timon	Y
+titan	Titan	2	2	129	3,10	Titan|The Titan and Three-Color Stalker	niers astoragon	Y
 treasure	Treasure	2	2	334	10,18	Treasure		Y
 trebuchets	Trebuchets	2	2	223	6,8	Trebuchets		Y
 tritel and ci	Tritel and Ci	2	2	482	18,19	Tritel and Ci		Y
@@ -789,12 +783,12 @@ ullim	Ullim	2	2	383	12,18	Ullim		Y
 ulseil	Ulseil	2	2	280	8,11	Ulseil		Y
 ulseil greenscale	Ulseil Greenscale	2	2	356	11,13	Ulseil Greenscale		Y
 unnamed young woman (erin)	Unnamed young woman (Erin)	2	1	1	1	Unnamed young woman (Erin)		n
-vaitsha zectiou	Vaitsha Zectiou	2	2	398	13,15	Vaitsha Zectiou	highborn vaitsha	Y
+vaitsha zectiou	Vaitsha Zectiou	2	2	398	13,15	Vaitsha Zectiou	highborn vaitsha|vaitsha	Y
 vell	Vell	2	2	358	11	Vell		Y
 wall lord zail	Wall Lord Zail	2	2	394	13,18	Wall Lord Zail		Y
 war golems	War Golems	2	2	232	6	War Golems		Y
 watch	Watch	2	2	87	2	Watch		Y
-welsca crimsonscale	Welsca Crimsonscale	2	2	207	5,10	Welsca Crimsonscale		Y
+welsca crimsonscale	Welsca Crimsonscale	2	2	207	5,10	Welsca Crimsonscale	welsca	Y
 wesle salkis	Wesle Salkis	2	2	246	7,14	Wesle Salkis	mister salkis	Y
 wikir	Wikir	2	2	358	11	Wikir		Y
 wil army	Wil's army	2	1	351	11	Wil's army		n
@@ -855,7 +849,7 @@ antinium discovery	Antinium discovery	1	1	111	2	Antinium discovery		n
 antinium dungeon push	Antinium dungeon push	1	1	489	18	Antinium dungeon push		n
 antinium grand queen	Antinium Grand Queen	1	1	111	2	Antinium Grand Queen		n
 antinium hive data	Antinium Hive data	1	1	116	2	Antinium Hive data		n
-antinium hive in liscor	Antinium Hive in Liscor	1	1	108	2	Antinium Hive in Liscor		n
+antinium hive in liscor	Antinium Hive in Liscor	1	1	108	2	Antinium Hive in Liscor	liscor hive	n
 antinium hive kill zone	Antinium Hive kill zone	1	1	230	6	Antinium Hive kill zone		n
 antinium hive vs liscor dungeon	Antinium Hive vs Liscor dungeon	1	1	228	6	Antinium Hive vs Liscor dungeon		n
 antinium hives	Antinium Hives	1	1	185	5	Antinium Hives		n
@@ -873,7 +867,7 @@ archer b23 and the archer b units	Archer B23 and the Archer B units	1	1	357	11	A
 archmage balkizat	Archmage Balkizat	1	1	236	6	Archmage Balkizat		n
 archmage kishkeria	Archmage Kishkeria	1	1	307	9	Archmage Kishkeria		n
 archmage mansion	Archmage's mansion	1	1	490	18	Archmage's mansion		n
-archmage nailihuaile	Archmage Nailihuaile	1	1	502	19	Archmage Nailihuaile	naili	n
+archmage nailihuaile	Archmage Nailihuaile	1	1	502	19	Archmage Nailihuaile	lamia|naili	n
 archmage nailihuaile (naili)	Archmage Nailihuaile (Naili)	1	1	278	8	Archmage Nailihuaile (Naili)		n
 archmage nekhret	Archmage Nekhret	1	1	164	4	Archmage Nekhret		n
 archmage of izril	Archmage of Izril	1	1	496	18	Archmage of Izril	valeterisa	n
@@ -881,14 +875,14 @@ area	The area	1	1	10	1	The area		n
 armor captain shailt	Armor Captain Shailt	1	1	352	11	Armor Captain Shailt		n
 armor fight	Armor fight	1	1	87	2	Armor fight		n
 armored antinium	Armored Antinium	1	1	431	15	Armored Antinium		n
-armsmaster dellic	Armsmaster Dellic	1	1	504	19	Armsmaster Dellic		n
+armsmaster dellic	Armsmaster Dellic	1	1	504	19	Armsmaster Dellic	dellic	n
 arnel	Arnel	1	1	47	1	Arnel		n
 arrow of winter	Arrow of Winter	1	1	485	18	Arrow of Winter		n
 artifacts	Artifacts	1	1	75	2	Artifacts		n
 asdf	asdf	1	1	66	2	asdf		n
 asoma	Asoma	1	1	507	19	Asoma		n
 assassin naga	Assassin Naga	1	1	414	14	Assassin Naga		n
-assembly of crafts	Assembly of Crafts	1	1	332	10	Assembly of Crafts		n
+assembly of crafts	Assembly of Crafts	1	1	332	10	Assembly of Crafts	assembly	n
 auras	Auras	1	1	471	17	Auras		n
 author	Author	1	1	177	4	Author		n
 ayan	ayan	1	1	66	2	ayan		n
@@ -966,7 +960,7 @@ brotherhood of serendipitous meetings	Brotherhood of Serendipitous Meetings	1	1	
 brothers of serendipitous meetings and sisters of chell	Brothers of Serendipitous Meetings and Sisters of Chell	1	1	306	9	Brothers of Serendipitous Meetings and Sisters of Chell		n
 burgers	Burgers	1	1	80	2	Burgers		n
 burning march 6th battalion	Burning March 6th Battalion	1	1	130	3	Burning March 6th Battalion		n
-byres family	Byres family	1	1	102	2	Byres family		n
+byres family	Byres family	1	1	102	2	Byres family	byres	n
 byres, veltras and terland families	Byres, Veltras and Terland families	1	1	324	10	Byres, Veltras and Terland families		n
 cacao pods	Cacao pods	1	1	447	16	Cacao pods		n
 cacao trees	Cacao trees	1	1	445	16	Cacao trees		n
@@ -983,11 +977,12 @@ calruz axe	Calruz's axe	1	1	300	9	Calruz's axe		n
 camera videos	Camera videos	1	1	469	17	Camera videos		n
 canrel	Canrel	1	1	487	18	Canrel		n
 captain earlia (gemhammer)	Captain Earlia (Gemhammer)	1	1	497	19	Captain Earlia (Gemhammer)		n
-captain kam	Captain Kam	1	1	401	13	Captain Kam		n
+captain kam	Captain Kam	1	1	401	13	Captain Kam	kam	n
 captain kirust	Captain Kirust	1	1	218	6	Captain Kirust		n
 captain of the liscorian watch	Captain of the Liscorian Watch	1	1	33	1	Captain of the Liscorian Watch		n
 captain pielt	Captain Pielt	1	1	433	15	Captain Pielt		n
 captain salvia	Captain Salvia	1	1	239	6	Captain Salvia		n
+captain shieldscale	Captain Shieldscale	1	1	483	18	Captain Shieldscale		n
 captain xenic	Captain Xenic	1	1	465	17	Captain Xenic		n
 caravan	Caravan	1	1	380	12	Caravan		n
 casklal	Casklal	1	1	483	18	Casklal	spellcaster	n
@@ -1107,7 +1102,7 @@ deadly skulker	Nolocks	1	1	497	19	Nolocks	nolocks	n
 deaths	Deaths	1	1	486	18	Deaths		n
 debate	Debate	1	1	184	5	Debate		n
 declarations	Declarations	1	1	182	5	Declarations		n
-deilan el	Deilan El	1	1	509	19	Deilan El		n
+deilan el	Deilan El	1	1	509	19	Deilan El	deilan	n
 delanay d'artien	Delanay d'Artien	1	1	477	17	Delanay d'Artien		n
 delani of hellios	Delani of Hellios	1	1	335	10	Delani of Hellios		n
 demerra	Demerra	1	1	482	18	Demerra		n
@@ -1160,7 +1155,7 @@ dungeon monsters	Dungeon monsters	1	1	229	6	Dungeon monsters		n
 dungeon raid	Dungeon raid	1	1	281	8	Dungeon raid		n
 dungeon rooms	Dungeon rooms	1	1	202	5	Dungeon rooms		n
 dungeon trap	Dungeon trap	1	1	125	3	Dungeon trap		n
-dwarves	Dwarves	1	1	438	15	Dwarves		n
+dwarves	Dwarves	1	1	438	15	Dwarves	dwarven	n
 dyed lands	Dyed Lands	1	1	470	17	Dyed Lands		n
 earlia of gemhammer and nailren pride of kelia	Earlia of Gemhammer and Nailren's Pride of Kelia	1	1	466	17	Earlia of Gemhammer and Nailren's Pride of Kelia		n
 earth students	Earth students	1	1	278	8	Earth students		n
@@ -1250,7 +1245,7 @@ filk	Filk	1	1	252	7	Filk		n
 final battle	Final battle	1	1	238	6	Final battle		n
 fire and beans	Fire and beans	1	1	248	7	Fire and beans		n
 fire starters	Fire starters	1	1	172	4	Fire starters		n
-first antinium war	First Antinium War	1	1	111	2	First Antinium War		n
+first antinium war	First Antinium War	1	1	111	2	First Antinium War	antinium war|antinium wars	n
 first crafter inerta of elbe	First Crafter Inerta of Elbe	1	1	504	19	First Crafter Inerta of Elbe		n
 first gardener	Shaerrha Brasswing	1	1	494	18	Shaerrha Brasswing	shaerrha brasswing	n
 first grand queen	The first Grand Queen	1	1	114	2	The first Grand Queen		n
@@ -1280,12 +1275,12 @@ fluffles	Fluffles	1	1	499	19	Fluffles		n
 fluffles the sixth	Fluffles the Sixth	1	1	324	10	Fluffles the Sixth		n
 fly whisk	Fly whisk	1	1	262	7	Fly whisk		n
 flying antinium	Flying Antinium	1	1	489	18	Flying Antinium		n
-flynn patel	Flynn Patel	1	1	500	19	Flynn Patel		n
+flynn patel	Flynn Patel	1	1	500	19	Flynn Patel	flynn	n
 football match	Football match	1	1	474	17	Football match		n
 forces	Forces	1	1	290	8	Forces		n
 forest camp	Forest camp	1	1	155	4	Forest camp		n
 forest fire	Forest fire	1	1	298	9	Forest fire		n
-forgotten wing	Forgotten Wing	1	1	330	10	Forgotten Wing		n
+forgotten wing	Forgotten Wing	1	1	330	10	Forgotten Wing	forgotten wing company	n
 forgotten wing banner	Forgotten Wing banner	1	1	224	6	Forgotten Wing banner		n
 fortress beaver	Fortress Beaver	1	1	248	7	Fortress Beaver		n
 fortress beaver colony	Fortress Beaver colony	1	1	249	7	Fortress Beaver colony		n
@@ -1366,7 +1361,7 @@ gnoll tavern	Gnoll tavern	1	1	82	2	Gnoll tavern		n
 gnoll with feather wings	Gnoll with feather wings	1	1	243	7	Gnoll with feather wings		n
 gnolls (nailren team)	Gnolls (Nailren's team)	1	1	281	8	Gnolls (Nailren's team)		n
 gnolls in pallass	Gnolls in Pallass	1	1	445	16	Gnolls in Pallass		n
-gnolls of liscor	Gnolls of Liscor	1	1	307	9	Gnolls of Liscor		n
+gnolls of liscor	Gnolls of Liscor	1	1	307	9	Gnolls of Liscor	city gnoll|city gnolls	n
 go	Go	1	1	172	4	Go		n
 goats	Goats	1	1	43	1	Goats		n
 goblin	Goblin	1	1	27	1	Goblin		n
@@ -1416,7 +1411,6 @@ gold stone tribe	Gold Stone Tribe	1	1	97	2	Gold Stone Tribe		n
 gold-rank assault	Gold-rank assault	1	1	288	8	Gold-rank assault		n
 gold-rank captains	Gold-rank Captains	1	1	284	8	Gold-rank Captains		n
 gold-rank team	Gold-rank team	1	1	50	1	Gold-rank team		n
-gold-ranks and antinium	Gold-ranks and Antinium	1	1	285	8	Gold-ranks and Antinium		n
 goldstone chieftain	Goldstone Chieftain	1	1	510	19	Goldstone Chieftain	pyrite	n
 golem theory	Golem theory	1	1	504	19	Golem theory		n
 gossips	Gossips	1	1	483	18	Gossips		n
@@ -1425,7 +1419,7 @@ grand queen plan	Grand Queen's plan	1	1	306	9	Grand Queen's plan		n
 grasgil	Grasgil	1	1	427	15	Grasgil	bronzewater|frozen metal	n
 grassland rocks	Grassland rocks	1	1	39	1	Grassland rocks		n
 graves	Graves	1	1	325	10	Graves		n
-great companies	Great Companies	1	1	470	17	Great Companies		n
+great companies	Great Companies	1	1	470	17	Great Companies	great company	n
 great queen	Great Queen	1	1	110	2	Great Queen		n
 gregor	Gregor	1	1	50	1	Gregor		n
 grey goblins	Grey Goblins	1	1	194	5	Grey Goblins		n
@@ -1496,7 +1490,7 @@ horns of hammerad and other adventurers	Horns of Hammerad and other adventurers	
 horns rescue	Horns rescue	1	1	416	14	Horns rescue		n
 hot hands	Hot Hands	1	1	377	12	Hot Hands		n
 house of el	House of El	1	1	460	16	House of El		n
-house of minos	House of Minos	1	1	501	19	House of Minos		n
+house of minos	House of Minos	1	1	501	19	House of Minos	minos	n
 house of minos army	House of Minos army	1	1	501	19	House of Minos army		n
 house of minos warship	House of Minos warship	1	1	465	17	House of Minos warship		n
 house veltras	House Veltras	1	1	509	19	House Veltras		n
@@ -1547,7 +1541,7 @@ iron vanguard, forgotten wing, maelstrom howling	Iron Vanguard, Forgotten Wing, 
 iron wood wand	Iron wood wand	1	1	169	4	Iron wood wand		n
 irregulars on 4th wall	Irregulars on 4th Wall	1	1	484	18	Irregulars on 4th Wall		n
 ishkr, lykr, ississi	Ishkr, Lykr, Ississi	1	1	432	15	Ishkr, Lykr, Ississi		n
-italians lorenzo, diana and nicoletta	Italians Lorenzo, Diana and Nicoletta	1	1	328	10	Italians Lorenzo, Diana and Nicoletta		n
+italians lorenzo, diana and nicoletta	Italians Lorenzo, Diana and Nicoletta	1	1	328	10	Italians Lorenzo, Diana and Nicoletta	nicoletta	n
 itorin pride	Itorin's Pride	1	1	476	17	Itorin's Pride		n
 ivolethe sisters	Ivolethe's sisters	1	1	134	3	Ivolethe's sisters		n
 jackal team	Jackal's team	1	1	276	8	Jackal's team		n
@@ -1579,7 +1573,6 @@ kilmet	Kilmet	1	1	298	9	Kilmet		n
 king raelt of jecrass	King Raelt of Jecrass	1	1	461	16	King Raelt of Jecrass		n
 king seven	King's Seven	1	1	251	7	King's Seven		n
 kingdom	The kingdom	1	1	28	1	The kingdom		n
-klbkch (klbkchhezeim)	Klbkch (Klbkchhezeim)	1	1	185	5	Klbkch (Klbkchhezeim)		n
 klbkch queen	Klbkch's Queen	1	1	185	5	Klbkch's Queen		n
 knight orders named	Knight orders named	1	1	410	14	Knight orders named		n
 knight-commander calirn	Knight-Commander Calirn	1	1	380	12	Knight-Commander Calirn		n
@@ -1593,7 +1586,7 @@ ladies gathered	Ladies gathered	1	1	460	16	Ladies gathered		n
 lady aerta	Lady Aerta	1	1	496	18	Lady Aerta		n
 lady desinee	Lady Desinee	1	1	491	18	Lady Desinee		n
 lady gresaria wellfar	Lady Gresaria Wellfar	1	1	491	18	Lady Gresaria Wellfar		n
-lady hetessana wellfar	Lady Hetessana Wellfar	1	1	457	16	Lady Hetessana Wellfar		n
+lady hetessana wellfar	Lady Hetessana Wellfar	1	1	457	16	Lady Hetessana Wellfar	lady hetessana	n
 lady ieka	Lady Ieka	1	1	274	8	Lady Ieka		n
 lady ieka imarris	Lady Ieka Imarris	1	1	477	17	Lady Ieka Imarris		n
 lady in silver robes	Lady in silver robes	1	1	89	2	Lady in silver robes		n
@@ -1603,7 +1596,7 @@ lady magnolia reinhart (young), lord tyron veltras and general sserys	Lady Magno
 lady pryde of house ulta	Lady Pryde of House Ulta	1	1	355	11	Lady Pryde of House Ulta		n
 lady salkis	Lady Salkis	1	1	488	18	Lady Salkis		n
 lady theras and lady zekyria	Lady Theras and Lady Zekyria	1	1	217	6	Lady Theras and Lady Zekyria		n
-lady urele	Lady Urele	1	1	398	13	Lady Urele		n
+lady urele	Lady Urele	1	1	398	13	Lady Urele	urele	n
 lady welca caveis	Lady Welca Caveis	1	1	299	9	Lady Welca Caveis		n
 lady wuvren	Lady Wuvren	1	1	355	11	Lady Wuvren		n
 lady zekyria	Lady Zekyria	1	1	219	6	Lady Zekyria		n
@@ -1676,7 +1669,7 @@ lord belchaus meron (lord bel, the lord of the dance)	Lord Belchaus Meron (Lord 
 lord deilan el	Lord Deilan El	1	1	460	16	Lord Deilan El		n
 lord eick	Lord Eick	1	1	480	18	Lord Eick		n
 lord erill (house fienst)	Lord Erill (House Fienst)	1	1	304	9	Lord Erill (House Fienst)		n
-lord gilam	Lord Gilam	1	1	298	9	Lord Gilam		n
+lord gilam	Lord Gilam	1	1	298	9	Lord Gilam	gilam	n
 lord gralton of lycit	Lord Gralton of Lycit	1	1	274	8	Lord Gralton of Lycit		n
 lord gralton radivaek	Lord Gralton Radivaek	1	1	410	14	Lord Gralton Radivaek		n
 lord hayvon operland	Lord Hayvon Operland	1	1	484	18	Lord Hayvon Operland		n
@@ -1687,7 +1680,7 @@ lord ranga	Lord Ranga	1	1	479	18	Lord Ranga		n
 lord tilwa petroms	Lord Tilwa Petroms	1	1	252	7	Lord Tilwa Petroms		n
 lord tyron	Lord Tyron	1	1	109	2	Lord Tyron		n
 lord yebior	Lord Yebior	1	1	219	6	Lord Yebior		n
-lord yitton byres	Lord Yitton Byres	1	1	314	9	Lord Yitton Byres		n
+lord yitton byres	Lord Yitton Byres	1	1	314	9	Lord Yitton Byres	lord byres	n
 lorell	Lorell	1	1	411	14	Lorell		n
 lottery	Lottery	1	1	304	9	Lottery		n
 luan/ken/aiko	Luan/Ken/Aiko	1	1	198	5	Luan/Ken/Aiko		n
@@ -1781,7 +1774,7 @@ montressa (mons)	Montressa ("Mons")	1	1	163	4	Montressa ("Mons")		n
 montressa du valeross (mons)	Montressa du Valeross ("Mons")	1	1	162	4	Montressa du Valeross ("Mons")		n
 montressa mission	Montressa's mission	1	1	417	14	Montressa's mission		n
 mountain captives	Mountain captives	1	1	262	7	Mountain captives		n
-mountain city	Mountain City	1	1	276	8	Mountain City		n
+mountain city	Mountain City	1	1	276	8	Mountain City	mountain	n
 mountain city tribe	Tremborag's Goblins	1	1	154	4	Tremborag's Goblins	tremborag goblins	n
 mousey	Mousey	1	1	410	14	Mousey		n
 mr. soot	Mr. Soot	1	1	476	17	Mr. Soot		n
@@ -1863,7 +1856,7 @@ orchard	The orchard	1	1	5	1	The orchard		n
 order	Order	1	1	380	12	Order		n
 order members	Order members	1	1	411	14	Order members		n
 order of savellia	Order of Savellia	1	1	446	16	Order of Savellia		n
-order of the thirsting veil	Order of the Thirsting Veil	1	1	439	15	Order of the Thirsting Veil		n
+order of the thirsting veil	Order of the Thirsting Veil	1	1	439	15	Order of the Thirsting Veil	thirsting veil	n
 orica	Orica	1	1	415	14	Orica		n
 origin debate	Origin debate	1	1	175	4	Origin debate		n
 orthenon army	Orthenon's army	1	1	183	5	Orthenon's army		n
@@ -1928,9 +1921,7 @@ pizza	Pizza	1	1	101	2	Pizza		n
 plan	The Plan	1	1	29	1	The Plan		n
 plan g	Plan G	1	1	286	8	Plan G		n
 play frozen	Play Frozen	1	1	246	7	Play Frozen		n
-players	Players	1	1	457	16	Players		n
 players of celum, liscor branch	Players of Celum, Liscor branch	1	1	417	14	Players of Celum, Liscor branch		n
-players of liscor and players of celum	Players of Liscor and Players of Celum	1	1	506	19	Players of Liscor and Players of Celum		n
 plusone	plusOne	1	1	66	2	plusOne		n
 poison attempt	Poison attempt	1	1	254	7	Poison attempt		n
 poisoned cup	Poisoned cup	1	1	254	7	Poisoned cup		n
@@ -1960,9 +1951,8 @@ pxier	Pxier	1	1	330	10	Pxier		n
 pyrite cave knowledge	Pyrite's cave knowledge	1	1	332	10	Pyrite's cave knowledge		n
 pyromancer	Pyromancer	1	1	377	12	Pyromancer		n
 quarass mage	Quarass's [Mage]	1	1	182	5	Quarass's [Mage]		n
-queen of pop	Queen of Pop	1	1	437	15	Queen of Pop	baroness of the beats	n
 queen of pop / singer of terandria	Queen of Pop / Singer of Terandria	1	1	469	17	Queen of Pop / Singer of Terandria		n
-queen yisame	Queen Yisame	1	1	445	16	Queen Yisame		n
+queen yisame	Queen Yisame	1	1	445	16	Queen Yisame	yisame	n
 queen yisame of nerrhavia	Queen Yisame of Nerrhavia	1	1	454	16	Queen Yisame of Nerrhavia		n
 queens	Queens	1	1	433	15	Queens		n
 quelmi seventails of fissival	Quelmi Seventails of Fissival	1	1	356	11	Quelmi Seventails of Fissival		n
@@ -2055,7 +2045,7 @@ rock hiders	Rock Hiders	1	1	22	1	Rock Hiders		n
 rock-crab	Rock-crab	1	1	3	1	Rock-crab		n
 rockmites	Rockmites	1	1	332	10	Rockmites		n
 rolling rocks tribe	Rolling Rocks tribe	1	1	411	14	Rolling Rocks tribe		n
-romeo and juliet	Romeo and Juliet	1	1	141	3	Romeo and Juliet		n
+romeo and juliet	Romeo and Juliet	1	1	141	3	Romeo and Juliet	juliet|romeo	n
 rose knights (knights of the petal)	Rose Knights (Knights of the Petal)	1	1	239	6	Rose Knights (Knights of the Petal)		n
 rose knights' loot	Rose Knights' loot	1	1	263	7	Rose Knights' loot		n
 rose, joseph, galina, troy and imani	Rose, Joseph, Galina, Troy and Imani	1	1	420	14	Rose, Joseph, Galina, Troy and Imani		n
@@ -2143,7 +2133,7 @@ sewer slime	Sewer Slime	1	1	247	7	Sewer Slime		n
 shadow loaf	Shadow Loaf	1	1	494	18	Shadow Loaf		n
 shailt of tergim	Shailt of Tergim	1	1	351	11	Shailt of Tergim	sixth armor captain / minotaur armor captain	n
 shakespeare	Shakespeare	1	1	415	14	Shakespeare		n
-shassa weaverweb	Shassa Weaverweb	1	1	481	18	Shassa Weaverweb		n
+shassa weaverweb	Shassa Weaverweb	1	1	481	18	Shassa Weaverweb	shassa	n
 shel cleansenborne	Shel's Cleansenborne	1	1	485	18	Shel's Cleansenborne		n
 shellbazaar and the four winds of teral	Shellbazaar and The Four Winds of Teral	1	1	503	19	Shellbazaar and The Four Winds of Teral		n
 shellc	Shellc	1	1	485	18	Shellc		n
@@ -2164,10 +2154,10 @@ silver and bronze adventurers	Silver and Bronze adventurers	1	1	202	5	Silver and
 silver rank	Silver rank	1	1	297	9	Silver rank		n
 silver spears	Silver Spears	1	1	59	1	Silver Spears		n
 silver-rank	Silver-rank	1	1	51	1	Silver-rank		n
-silver-rank adventurers	Silver-rank adventurers	1	1	202	5	Silver-rank adventurers		n
+silver-rank adventurers	Silver-rank adventurers	1	1	202	5	Silver-rank adventurers	silver	n
 silver-rank team	Silver-rank team	1	1	420	14	Silver-rank team		n
 silvereye sables	Silvereye Sables	1	1	500	19	Silvereye Sables	silvereyes	n
-silverfang tribe	Silverfang tribe	1	1	114	2	Silverfang tribe		n
+silverfang tribe	Silverfang tribe	1	1	114	2	Silverfang tribe	silverfang	n
 sir evimore	Sir Evimore	1	1	239	6	Sir Evimore		n
 sir kelm	Sir Kelm	1	1	380	12	Sir Kelm		n
 sir kerrig and lady welca	Sir Kerrig and Lady Welca	1	1	266	8	Sir Kerrig and Lady Welca		n
@@ -2276,7 +2266,7 @@ three visitors at erin inn	Three visitors at Erin's inn	1	1	176	4	Three visitors
 thresk	Thresk	1	1	132	3	Thresk		n
 thunder kiss	Thunder's Kiss	1	1	247	7	Thunder's Kiss		n
 thunder solace	Thunder's Solace	1	1	346	11	Thunder's Solace		n
-tier magic	Tier Magic	1	1	36	1	Tier Magic		n
+tier magic	Tier Magic	1	1	36	1	Tier Magic	tier	n
 time gap	Time gap	1	1	478	18	Time gap		n
 timeline	Timeline	1	1	380	12	Timeline		n
 tiqr defenders	Tiqr's defenders	1	1	397	13	Tiqr's defenders		n
@@ -2492,3 +2482,133 @@ zel shivertail killer	Zel Shivertail's killer	1	1	244	7	Zel Shivertail's killer	
 zelkyr cargo location	Zelkyr's cargo location	1	1	464	17	Zelkyr's cargo location		n
 zombie village	Zombie village	1	1	157	4	Zombie village		n
 zombies	Zombies	1	1	59	1	Zombies		n
+abebi	Abebi	0	0			Abebi		M
+admiral dakelos	Admiral Dakelos	0	0			Admiral Dakelos	dakelos	M
+ancestors	Ancestors	0	0			Ancestors		M
+athal	Athal	0	0			Athal		M
+bastam	Bastam	0	0			Bastam		M
+bastion-general	Bastion-General	0	0			Bastion-General	bastion-general	M
+beycalt	Beycalt	0	0			Beycalt		M
+bezha	Bezha	0	0			Bezha	bezhavil	M
+bishop	Bishop	0	0			Bishop		M
+black tide	The Black Tide	0	0			The Black Tide		M
+blighted kingdom	Blighted Kingdom	0	0			Blighted Kingdom		M
+bloodtear pirates	Bloodtear Pirates	0	0			Bloodtear Pirates		M
+bronze-rank adventurers	Bronze-rank adventurers	0	0			Bronze-rank adventurers	bronze-rank	M
+caddin	Caddin	0	0			Caddin		M
+cade	Cade	0	0			Cade		M
+cameral	Cameral	0	0			Cameral		M
+carven city	Carven City	0	0			Carven City		M
+celestial trackers	Celestial Trackers	0	0			Celestial Trackers		M
+centrists	Centrists	0	0			Centrists		M
+chief warrior	Chief Warrior	0	0			Chief Warrior		M
+chole	Chole	0	0			Chole		M
+ci	Ci	0	0			Ci		M
+city gnolls	City Gnolls	0	0			City Gnolls		M
+claiven earth	Claiven Earth	0	0			Claiven Earth		M
+commander uxel	Commander Uxel	0	0			Commander Uxel	gorgon|gorgons	M
+crafters	Crafters	0	0			Crafters		M
+cynthia	Cynthia	0	0			Cynthia		M
+dawn concordat	Dawn Concordat	0	0			Dawn Concordat		M
+delivan	Delivan	0	0			Delivan		M
+demon king	Demon King	0	0			Demon King		M
+depth captain	Depth Captain	0	0			Depth Captain		M
+desk sergeant	Desk Sergeant	0	0			Desk Sergeant		M
+dragonspeaker	Dragonspeaker	0	0			Dragonspeaker		M
+drath	Drath	0	0			Drath	drathian	M
+draug	Draug	0	0			Draug		M
+draugr	Draugr	0	0			Draugr		M
+drowned folk	Drowned Folk	0	0			Drowned Folk		M
+dwarf	Dwarf	0	0			Dwarf		M
+elbe	Elbe	0	0			Elbe		M
+elf	Elf	0	0			Elf		M
+elves	Elves	0	0			Elves		M
+facestealer	Facestealer	0	0			Facestealer	snatcher	M
+firebreath whiskey	Firebreath Whiskey	0	0			Firebreath Whiskey		M
+flooded waters tribe	Flooded Waters tribe	0	0			Flooded Waters tribe		M
+ger	Ger	0	0			Ger		M
+giant	Giant	0	0			Giant		M
+giants	Giants	0	0			Giants		M
+golem	Golem	0	0			Golem		M
+golems	Golems	0	0			Golems		M
+gorgon	Gorgon	0	0			Gorgon		M
+gorgons	Gorgons	0	0			Gorgons		M
+griffins	Griffins	0	0			Griffins		M
+halassia	Halassia	0	0			Halassia		M
+hamlet	Hamlet	0	0			Hamlet		M
+hammera	Hammera	0	0			Hammera	hammer of elbe	M
+hemp	Hemp	0	0			Hemp		M
+hesseif	Hesseif	0	0			Hesseif		M
+house kallinad	House Kallinad	0	0			House Kallinad		M
+house reinhart	House Reinhart	0	0			House Reinhart	reinhart|reinharts	M
+invek	Invek	0	0			Invek		M
+izril	Izril	0	0			Izril	izrilian	M
+jelaim	Jelaim	0	0			Jelaim		M
+jerci	Jerci	0	0			Jerci		M
+jurix	Jurix	0	0			Jurix	jurix (dullahan)	M
+kingdom of pheislant	Kingdom of Pheislant	0	0			Kingdom of Pheislant	pheislant	M
+kissilt	Kissilt	0	0			Kissilt		M
+knight-commander	Knight-Commander	0	0			Knight-Commander		M
+lady dealia	Lady Dealia	0	0			Lady Dealia		M
+lamia	Lamia	0	0			Lamia		M
+leafarmor	Leafarmor	0	0			Leafarmor		M
+levil	Levil	0	0			Levil		M
+levrhine	Levrhine	0	0			Levrhine		M
+libertarians	Libertarians	0	0			Libertarians		M
+lord alman	Lord Alman	0	0			Lord Alman		M
+lord pattin of vaunt	Lord Pattin of Vaunt	0	0			Lord Pattin of Vaunt	pattin	M
+magus-crafter	Magus-Crafter	0	0			Magus-Crafter		M
+manticores	Manticores	0	0			Manticores	manticore	M
+mendi	Mendi	0	0			Mendi		M
+merec	Merec	0	0			Merec		M
+merreid	Merreid	0	0			Merreid		M
+mirin	Mirin	0	0			Mirin		M
+miss iglesias	Miss Iglesias	0	0			Miss Iglesias		M
+mothbear	Mothbear	0	0			Mothbear		M
+named-rank adventurers	Named-rank adventurers	0	0			Named-rank adventurers	named-rank	M
+naq-alrama	Naq-Alrama	0	0			Naq-Alrama		M
+noelictus	Noelictus	0	0			Noelictus		M
+north	The North	0	0			The North		M
+ossky	Ossky	0	0			Ossky		M
+plains gnolls	Plains Gnolls	0	0			Plains Gnolls	plains gnoll	M
+potion of youth	Potion of Youth	0	0			Potion of Youth		M
+pride of kelia	Pride of Kelia	0	0			Pride of Kelia		M
+quelm	Quelm	0	0			Quelm		M
+razorshard armor	Razorshard Armor	0	0			Razorshard Armor		M
+redit	Redit	0	0			Redit		M
+rima	Rima	0	0			Rima		M
+river wardens	River Wardens	0	0			River Wardens		M
+savere	Savere	0	0			Savere		M
+second antinium war	Second Antinium War	0	0			Second Antinium War	second antinium wars	M
+senior guardsman	Senior Guardsman	0	0			Senior Guardsman	senior guardsmen	M
+ser slayer	Ser Slayer	0	0			Ser Slayer		M
+ser thornst	Ser Thornst	0	0			Ser Thornst		M
+ser vorn	Ser Vorn	0	0			Ser Vorn		M
+sharphorns	Sharphorns	0	0			Sharphorns		M
+silent antinium	Silent Antinium	0	0			Silent Antinium		M
+sir nil moxae	Sir Nil Moxae	0	0			Sir Nil Moxae	sir nil	M
+sir relz hauscale	Sir Relz Hauscale	0	0			Sir Relz Hauscale	sir relz	M
+siren	Siren	0	0			Siren		M
+squirrel-woman	Squirrel-woman	0	0			Squirrel-woman		M
+strongheart family	Strongheart family	0	0			Strongheart family	strongheart	M
+sylind	Sylind	0	0			Sylind		M
+terland family	Terland family	0	0			Terland family	terland	M
+thunderfur	Thunderfur	0	0			Thunderfur		M
+tommie	Tommie	0	0			Tommie		M
+tottenval	Tottenval	0	0			Tottenval		M
+troy	Troy	0	0			Troy		M
+true antinium	True Antinium	0	0			True Antinium		M
+ullsinoi	Ullsinoi	0	0			Ullsinoi		M
+undersea crews	Undersea Crews	0	0			Undersea Crews		M
+uxel	Uxel	0	0			Uxel		M
+viri	Viri	0	0			Viri		M
+walls (defensive lines)	Walls (defensive lines)	0	0			Walls (defensive lines)	wall	M
+warden winta	Warden Winta	0	0			Warden Winta		M
+watch house	Watch House	0	0			Watch House		M
+watchertree	Watchertree	0	0			Watchertree		M
+wellfar family	Wellfar family	0	0			Wellfar family	wellfar	M
+wishdrinks	Wishdrinks	0	0			Wishdrinks		M
+yellats	Yellats	0	0			Yellats		M
+zalaiss	Zalaiss	0	0			Zalaiss		M
+zassil	Zassil	0	0			Zassil		M
+zeikhal	Zeikhal	0	0			Zeikhal		M

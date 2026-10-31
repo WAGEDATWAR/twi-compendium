@@ -35,10 +35,23 @@ for r in read_tsv("aliases.tsv"):
     if a and c and a != c and a not in conflicts: amap[a] = c
 for r in read_tsv("coverage_decisions.tsv"):
     if r["kind"] == "alias" and r["target"]: amap[key(r["term"])] = key(r["target"])
+override_targets = set()
 for r in read_tsv("alias_overrides.tsv"):
     a, c = key(r["alias"]), key(r["canonical"])
-    if c: amap[a] = c
+    if c: amap[a] = c; override_targets.add(c)
     else: amap.pop(a, None); conflicts.discard(a)
+for c in override_targets:   # a reviewed canonical is terminal: it must not map elsewhere (avoids cycles)
+    amap.pop(c, None)
+# reviewed coverage decisions (ledgers/coverage_decisions_gap.tsv, written by merge_gap_decisions.py):
+# alias rows fold the term into an existing entity; entity rows create a fact-less manual entity (filled in Phase 3).
+manual = {}
+for r in read_tsv("coverage_decisions_gap.tsv"):
+    a, c = key(r["term"]), key(r["target"])
+    if r["kind"] == "alias" and c and a != c and a not in override_targets:
+        amap[a] = c
+    elif r["kind"] == "entity" and c:
+        manual.setdefault(c, {"display": r["target"], "etype": r.get("etype", ""), "note": r.get("note", ""), "cite": r.get("first_cite", "")})
+        if a != c and a not in override_targets: amap[a] = c
 
 def canon(k):
     seen = set()
@@ -51,6 +64,17 @@ HDR = re.compile(r"^## (\S+) \| seq (\d+)")
 CITE = re.compile(r"\(([^()]*\bL\d+[^()]*)\)\s*$")
 SPAN = re.compile(r"L(\d+)(?:-L?(\d+))?")
 XREF = re.compile(r"\b\d\.\d\d[A-Z]*\b")
+
+REVEAL = re.compile(r"\b(reveal|revealed|reveals|identity|true name|turns out|is actually|is really|learns? that|secretly|disguis|alias)", re.I)
+STATE = re.compile(r"\b(dies|died|death|killed|dead|slain|class|level|levels|reaches|gains?|gained|becomes?|became|promoted|joins?|joined|leaves|left|captured|freed|wakes|awake|arrives?|relocat|moves? to|returns?|loses?|lost|destroyed|burned|crowned)\b", re.I)
+REL = re.compile(r"^(friends?|enem(y|ies)|allies|ally|mother|father|sister|brother|daughter|son|wife|husband|married|owner|employer|employs|serves?|member of|leader of|rival|lover|mentor|student|apprentice|ward|child|children|parents?|cousin|uncle|aunt|niece|nephew|girlfriend|boyfriend|partner|siblings?)\b", re.I)
+
+def classify(mk, text):
+    "Heuristic fact kind (refined in review): + fact|rel, ~ belief, ! reveal|state|event."
+    if mk == "~": return "belief"
+    if mk == "!":
+        return "reveal" if REVEAL.search(text) else ("state" if STATE.search(text) else "event")
+    return "rel" if REL.match(text) else "fact"
 
 facts, pairs = [], []
 display = collections.defaultdict(collections.Counter)
@@ -78,7 +102,7 @@ for path in sorted(glob.glob(os.path.join(SRC, "Chapter_Notes", "b[0-9][0-9].md"
         k = key(ent)
         if not k or not text: continue
         display[k][ent] += 1
-        facts.append({"entity_raw": ent, "k0": k, "marker": mk, "kind": {"+": "fact", "~": "belief", "!": "state"}[mk],
+        facts.append({"entity_raw": ent, "k0": k, "marker": mk, "kind": classify(mk, text), "kind_source": "heuristic",
                       "text": text, "cite": cite, "lines": spans, "xref": xref, "seq": seq, "book": e["book"], "chapter": e["id"]})
 
 # alias pairs from `=` lines also feed the map (only where the alias is not conflicted and not already mapped)
@@ -113,6 +137,10 @@ for i, f in enumerate(facts, 1):
 with open(os.path.join(LED, "facts.jsonl"), "w", encoding="utf-8", newline="\n") as o:
     for f in facts: o.write(json.dumps(f, ensure_ascii=False) + "\n")
 
+with open(os.path.join(LED, "alias_map.tsv"), "w", encoding="utf-8", newline="\n") as o:
+    o.write("alias_key\tcanonical_key\n")
+    for a in sorted(amap): o.write(f"{a}\t{canon(a)}\n")
+
 # ---- entities --------------------------------------------------------------
 E = collections.defaultdict(lambda: {"n": 0, "chs": set(), "first": 10**9, "books": set(), "raw": collections.Counter(), "kinds": collections.Counter()})
 for f in facts:
@@ -129,10 +157,15 @@ with open(os.path.join(LED, "entities.tsv"), "w", encoding="utf-8", newline="\n"
         o.write("\t".join([k, ent_display[k].most_common(1)[0][0], str(d["n"]), str(len(d["chs"])), str(d["first"]),
                            ",".join(map(str, sorted(d["books"]))), "|".join(x for x, _ in d["raw"].most_common(6)),
                            "|".join(sorted(rev.get(k, ()))[:8]), "Y" if nf else "n"]) + "\n")
+    for k, m in sorted(manual.items()):   # fact-less manual entities from coverage decisions (to be filled in Phase 3)
+        if k in E: continue
+        o.write("\t".join([k, m["display"], "0", "0", "", "", m["display"], "|".join(sorted(rev.get(k, ()))[:8]), "M"]) + "\n")
+nmanual = sum(1 for k in manual if k not in E)
 ne = len(rows); nfile = sum(1 for k, d in rows if d["n"] >= 15 or len(d["chs"]) >= 2)
 single = sum(1 for k, d in rows if d["n"] == 1)
 rep = [f"joint-subject facts split across entities: {joint}", f"facts {len(facts)}  alias pairs from '=' lines {len(pairs)} (new mappings {added_pairs})  xref-cite facts {sum(f['xref'] for f in facts)}  facts without cite {sum(1 for f in facts if not f['cite'])}",
        f"entities (canonical keys) {ne}; needing a file (>=15 facts or 2+ chapters) {nfile}; single-fact entities {single}",
+       f"manual fact-less entities (from coverage decisions, needs_file=M): {nmanual}",
        f"alias map size {len(amap)}; conflicted aliases left unmerged {len(conflicts)}", "", "Top 40 entities:"]
 rep += [f"  {d['n']:5d}  {len(d['chs']):3d} ch  {ent_display[k].most_common(1)[0][0]}" for k, d in rows[:40]]
 open(os.path.join(LED, "entity_report.txt"), "w", encoding="utf-8", newline="\n").write("\n".join(rep) + "\n")
