@@ -1,0 +1,8 @@
+# Non-entity capitalised words (family terms used as names, interjections). One per line.
+Mom
+Dad
+Grandma
+Yes
+Yeah
+Maybe
+How

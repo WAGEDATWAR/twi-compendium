@@ -7,4 +7,5 @@
 - Merged ledgers: `aliases.tsv` (887 pairs), `alias_conflicts.tsv` (54), `open_questions.md` (622).
 - Created the git repository and pushed to `WAGEDATWAR/twi-compendium`.
 - Notes blocks for the 12 remaining Author's Notes (Books 5-16); 475 blocks total, verifier still 0 errors.
+- Added `tools/check_coverage.py` (Gate 1 name coverage) and a seed `ledgers/stoplist.txt`; 2010 census terms >=15 occurrences, 66 uncovered.
 - Added scaffolding: `DEFERRALS.md`, `SUGGESTIONS.md`, `DECISIONS.md`, `CHANGELOG.md`, `AGENTS.md`.

@@ -8,8 +8,8 @@ Single home for everything deliberately put off or left unfinished. Anything wri
 | # | Item | Owed since | Owner | Status |
 |---|---|---|---|---|
 | DEF-001 | Chapter_Notes blocks for the 12 remaining Author's Notes (Meta seq 215-461) | 2026-10-31 | Gate 1 | done (this commit; Meta pages other than Author's Notes intentionally not noted) |
-| DEF-002 | Stoplist ledger (non-entity capitalised words) for the names census | 0.8 | Gate 1 | open |
-| DEF-003 | Gate 1 coverage check: every census term with >=15 occurrences is an entity, alias or stoplisted (needs a `check_coverage.py`) | Phase 1 | Gate 1 | open |
+| DEF-002 | Stoplist ledger (non-entity capitalised words) for the names census | 0.8 | Gate 1 | done (seed `ledgers/stoplist.txt`; `check_coverage.py` also ignores contractions and sentence-leading function words by rule) |
+| DEF-003 | Gate 1 coverage: 66 census terms with >=15 occurrences are still not covered by any note entity, NEW item, alias or stoplist entry (`ledgers/coverage_gaps.tsv`). Mostly species/titles (Dragons, Lizardman, Griffins, Nagas, Gorgons, Manticores, Gargoyle, Bastion-General, Councilmembers), Earth demonyms and places (English, Japanese, Australia), and the truncation "Klb". Cover each as an entity, alias or stoplist entry | Phase 1 | Gate 1 | open |
 | DEF-004 | Triage the entity warnings in `ledgers/verify_report.txt` (634 lines, 4.8%): fix cite or entity name where it is a real mismatch | 2026-10-31 | Gate 1 | open |
 | DEF-005 | Resolve `ledgers/alias_conflicts.tsv` (54 aliases mapped to more than one canonical); decide homonym vs same entity | 2026-10-31 | Phase 2 | open |
 | DEF-006 | Resolve `ledgers/open_questions.md` (622 items) before export; each answered against the text or kept as a documented ambiguity | Phase 1 | Gate 5 | open |
