@@ -10,3 +10,4 @@
 - Added `tools/check_coverage.py` (Gate 1 name coverage) and a seed `ledgers/stoplist.txt`; 2010 census terms >=15 occurrences, 66 uncovered.
 - Added scaffolding: `DEFERRALS.md`, `SUGGESTIONS.md`, `DECISIONS.md`, `CHANGELOG.md`, `AGENTS.md`.
 - Gate 1 passed: 475 blocks, verifier 0 errors, coverage 0 uncovered (66 terms resolved in `coverage_decisions.tsv`). Fixed curly-apostrophe handling in the verifier (entity warnings 638 -> 540) and added FAR tagging. Filled 5 missing `NEW:` lines. Removed `Chapter_Notes/parts/` after merge.
+- Phase 2 started: `tools/extract_facts.py` (facts.jsonl 13,077 facts, entities.tsv 2,493 canonical entities of which 706 need a file under the Gate 2 rule), `tools/fold_suggest.py`, `ledgers/alias_overrides.tsv` (41 reviewed first-name folds). Added item 2.3 (stricter coverage check) to the plan.

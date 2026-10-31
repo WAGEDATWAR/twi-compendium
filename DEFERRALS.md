@@ -21,3 +21,6 @@ Single home for everything deliberately put off or left unfinished. Anything wri
 | DEF-012 | Phases 2-5 (entity ledger, entity files, verification, lorebook export) | project start | Phases 2-5 | scheduled |
 | DEF-013 | Appendices (Glossary, Name_Index, Source_Register) listed in the structure doc; Change_Log is covered by root `CHANGELOG.md` | project start | Phase 3 | scheduled |
 | DEF-014 | Create entity files/entries for every `entity` row in `ledgers/coverage_decisions.tsv` (about 25 species, ranks, factions, unresolved epithets such as The Centauress and Lizardman) | 2026-10-31 | Phase 3 | scheduled |
+| DEF-015 | Strengthen `check_coverage.py` (a term must resolve to a canonical ledger entity, not just appear in a note line); re-run Gate 1 coverage under the stricter rule | 2026-10-31 | Phase 2 (item 2.3) | scheduled |
+| DEF-016 | Remaining fold suggestions in `ledgers/fold_suggestions.tsv` (7 dominant, 20 ambiguous, e.g. Pawn, Olesm variants, Antinium, Witch/Califor): review and either add to `alias_overrides.tsv` or leave as separate entities | 2026-10-31 | Phase 2 (2.2) | open |
+| DEF-017 | 1,682 single-fact entities in `entities.tsv`: many are fragments or misspellings of existing entities (e.g. "Gecko of Liscor" vs "Gecko"); sweep for folds or drop into topic files | 2026-10-31 | Phase 2 (2.2) | open |

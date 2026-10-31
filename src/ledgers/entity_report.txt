@@ -1,0 +1,46 @@
+joint-subject facts split across entities: 307
+facts 13077  alias pairs from '=' lines 378 (new mappings 160)  xref-cite facts 2  facts without cite 0
+entities (canonical keys) 2493; needing a file (>=15 facts or 2+ chapters) 706; single-fact entities 1682
+alias map size 957; conflicted aliases left unmerged 54
+
+Top 40 entities:
+    821  224 ch  Erin
+    528  118 ch  Ryoka
+    267  104 ch  Pisces
+    227   86 ch  Klbkch
+    205   88 ch  Ceria Springwalker
+    204   44 ch  Laken
+    187   60 ch  Magnolia Reinhart
+    171   49 ch  Rags
+    153   49 ch  Toren
+    152   35 ch  Niers
+    145   76 ch  Lyonette
+    143   34 ch  Flos
+    141   71 ch  Mrsha
+    138   73 ch  Relc
+    134   26 ch  Teriarch
+    123   54 ch  Pawn
+    116   55 ch  Selys
+    115   38 ch  Zel Shivertail
+    114   57 ch  Numbtongue
+    106   42 ch  Ilvriss
+    103   37 ch  Calruz
+    101   63 ch  Olesm
+    100   54 ch  Krshia
+     98   60 ch  Zevara
+     93   49 ch  Yvlon
+     92   54 ch  Bird
+     91   48 ch  Ksmvr
+     83   32 ch  Az'kerash
+     83   25 ch  Garen Redfang
+     81   27 ch  Gazi
+     68   46 ch  Octavia
+     67   28 ch  Pyrite
+     66   25 ch  Tyrion Veltras
+     61   15 ch  Reiss
+     59   25 ch  Wiskeria
+     58   40 ch  Jelaqua
+     56   42 ch  Antinium
+     56   18 ch  Fierre
+     56   22 ch  Saliss
+     54   39 ch  Goblins
