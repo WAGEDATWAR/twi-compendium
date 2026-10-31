@@ -1,4 +1,4 @@
-blocks 463  fact lines 13131  errors 0  entity-warnings 634
+blocks 475  fact lines 13171  errors 0  entity-warnings 638
 
 == ERRORS ==
 
@@ -526,6 +526,8 @@ b10.md:286 6.08 line 292: 'Wandering Inn' not within +-6 of cite: + Wandering In
 b10.md:286 6.08 line 308: 'Lyonette's vision' not within +-6 of cite: + Lyonette's vision: Apista sees the inn as a hill castle with a tower
 b10.md:389 6.11 line 408: 'Az'kerash' not within +-6 of cite: + Az'kerash: thought dead in the Second Antinium War; secretly alive; 
 b10.md:450 6.13K line 471: 'Flos' not within +-6 of cite: + Flos: returns at sundown with about eight wagons of gold and artifac
+b10.md:545 Meta_B10_Authors_Note line 547: 'pirateaba' not within +-6 of cite: + pirateaba: writing on 24 September 2023 while in Volume 9 (L2)
+b10.md:545 Meta_B10_Authors_Note line 548: 'pirateaba' not within +-6 of cite: + pirateaba: Book 10, The Wind Runner, is a return to Ryoka after a lo
 b11.md:48 6.18H line 70: 'Surviving rumour' not within +-6 of cite: + Surviving rumour: a Flawless Flights [Hunter] told Celum that Cervia
 b11.md:48 6.18H line 75: 'Brawl' not within +-6 of cite: + Brawl: Ceria freezes about ten, Pisces about eight, Yvlon about ten;
 b11.md:48 6.18H line 81: 'Horns of Hammerad' not within +-6 of cite: ! Horns of Hammerad: take the bandit bounty and are alienated from Cel
@@ -586,6 +588,7 @@ b14.md:400 6.68 line 433: 'Az'kerash' not within +-6 of cite: + Az'kerash: recal
 b15.md:1 7.00 line 20: 'Bird' not within +-6 of cite: + Bird: sits in a ramshackle tower on the inn roof (L451-452)
 b15.md:78 7.02 line 85: 'Saliss' not within +-6 of cite: + Saliss: says he undresses because his Skills protect his scales from
 b15.md:121 7.03 line 157: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: calls Bird a new Centenium (L1389)
+b15.md:514 Meta_B15_Authors_Note line 516: 'pirateaba' not within +-6 of cite: + pirateaba: writing on 16 December 2024 (L2)
 b16.md:45 Interlude_Dancing_and_Brawling line 72: 'Fierre' not within +-6 of cite: ~ Fierre: says the Savellian knights and Lord Bel fight in perfect for
 b16.md:374 Mating_Rituals_Pt.2 line 393: 'Az'kerash' not within +-6 of cite: + Az'kerash: tells Bea sex is biological and entertainment; he lost a 
 b16.md:417 7.14T line 422: 'Az'kerash' not within +-6 of cite: + Az'kerash: lives in a hidden castle at the foot of the High Passes, 
@@ -598,6 +601,7 @@ b16.md:417 7.14T line 439: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: says
 b16.md:417 7.14T line 440: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: believes Zelkyr may be alive; says only one being still h
 b16.md:417 7.14T line 441: 'Az'kerash' not within +-6 of cite: ! Az'kerash: discovers Toren holds the unwritten key to creating true 
 b16.md:550 7.18M line 580: 'Belavierr' not within +-6 of cite: ~ Belavierr: believes the era cares about importance shown on scrying 
+b16.md:594 Meta_B16_Authors_Note line 596: 'pirateaba' not within +-6 of cite: + pirateaba: writing on 31 March, three months past the deadline for f
 b17.md:1 Interlude_Strategists_at_Sea_Pt._1 line 10: 'The Emerald Signet' not within +-6 of cite: + The Emerald Signet: galleon with 300+ [Storm Sailors]; Captain Lasc 
 b17.md:1 Interlude_Strategists_at_Sea_Pt._1 line 20: 'Remaining targets' not within +-6 of cite: + Remaining targets: Archmage Zelkyr's cargo ship, the Diamond Swords 
 b17.md:1 Interlude_Strategists_at_Sea_Pt._1 line 23: 'Seventh location' not within +-6 of cite: + Seventh location: the hermit crab is ship-sized, wears a warship as 
