@@ -1,0 +1,11 @@
+# Open questions b15 p03
+- 7.07: why scrying Mrsha fails only while she is in the garden; how the garden door picks who may open it (L28-35, L346-384)
+- 7.07: who placed the claims (Brother of Serendipitous Meetings, Elusive Lot) and who wants the white Gnoll alive (L1149-1172)
+- 7.08K: Gnoll refugee count: "at least eight thousand" (L869) vs Zamea's six thousand (L829)
+- 7.08K: how many heads the Empress of Sands has and who the female pedestal head is (L56-57)
+- 7.09K: what the creature under A'ctelios is and why one eye turns toward the party; Trey says it is "from my world" (L644, L1314)
+- 7.09K: who the transformed children were and how the camera and backpack reached A'ctelios (L1195-1201)
+- 7.09K: which nation A'ctelios Salash declares war on (L1331)
+- 7.10K: where the second missing Gnoll tribe (half-Elf route) is (L747, L852)
+- 7.10K: who is behind the first Gnoll tribe's slaughter on the Chandrar road at L8-12 and whether it relates to Belchan (L8-12)
+- 7.10K: why Jecaina has a purple knot and appears on the Jecrass side after the camp duel (L227, L1186)

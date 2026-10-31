@@ -1,0 +1,14 @@
+# Open questions Book 5 part 01
+- 4.03K L608: the sender of the declaration of war is unstated.
+- 4.03K L286-295: Flos says what he would do to a Gandhi; unclear whether he is bluffing about defeating guns (L324-329).
+- 4.04K L486: Gazi "blinded" in Nune's account; cause unstated.
+- 4.04K L277: Flos says he has two of his Seven present; Maresar appears not to be counted as one.
+- 4.05K L84 vs 4.04K L242: Orthenon expected Balimar Wulten to command; the general is Uleth.
+- 4.05K L597: Amerys location (Wistram per Uleth) unconfirmed.
+- 4.05K L9: Maresar is called "Mares" in Venith POV.
+- 4.06KM L503: the Circle of Thorns is named but unexplained.
+- 4.06KM L539: Magnolia's oath never to return to the family estate, broken.
+- 4.06KM L367: Halast says Amerys stays in Wistram (rumor).
+- 4.07 L343: the large unexplained coin Erin keeps back is presumably the solstice coin from Interlude B04_1.
+- 4.07 L519: Reynold is the carriage driver; role with Ryoka unexplained here.
+- 4.07 L170: Xrn says Zel was sent after Wrymvr; confirm against b04 4.0x Dragon chapter.

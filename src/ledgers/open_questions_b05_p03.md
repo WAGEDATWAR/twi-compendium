@@ -1,0 +1,13 @@
+- 4.13L L371: what triggers the Worker-turned-Aberration beyond refusing to die?
+- 4.13L L411: identity of the "not-Gnolls" monsters in the Hive fights.
+- 4.14L L158: who exactly are the "fish man" and half-Giant adventurers (likely Jelaqua and Moore)?
+- 4.14L L131: who is in charge at the inn when Erin is absent is never stated.
+- 4.14L L313: which living god do Ryoka and Klbkch fear?
+- 4.15L L596: the "cave Goblins" skirmish mentioned for the damaged-antennae Soldier.
+- 4.15L L579: whether [Mass Prayer] caused the shared feeling among Antinium.
+- 4.15L L21-29: purpose of the mana-potion-grown mold Erin gives Brunkr (L21-29).
+- 4.16 L28: Garusa says Liscor's old army was beaten in the Second Antinium War by a single Goblin Lord's army and "not by the King".
+- 4.16 L336: who animated Garusa as a Draugr, the Goblin Lord or the Necromancer?
+- 4.16 L345: where did Thrissiam's corpse go "north, not to Liscor"?
+- 4.17 L158: Wailant mentions seeing a kraken and thousands of glowing eyes in the sea; embellished or true?
+- 4.17 L166: Viceria described as a Wistram graduate studying the Blood Fields; her Wistram history is untold.

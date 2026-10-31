@@ -1,0 +1,11 @@
+# Open questions Book 5 part 6
+- 4.23E L81: whether Wiskeria's team knew Sacra was Magnolia's spy is unstated.
+- 4.23E L429-431: identity of the Invrisil informant is unstated.
+- 4.24 L289: how Periss died is only asked, not answered.
+- 4.24 L97: where the Gold-rank adventurers went is unstated.
+- 4.25N L363: whether Niers learns more about Olesm's source is open.
+- 4.25N L453 vs L483: Niers is called both a former Named Adventurer and Forgotten Wing second-in-command, relationship to Foliana's leadership unclear.
+- 4.26M L371-375: identity of Az'kerash's servants in Liscor is unstated.
+- 4.26M L261: the otherworlder issue is unexplained.
+- 4.27H L539 vs 4.24 L488: the Drake mage with Regrika is male here but a slight young female earlier.
+- 4.27H L563: how Venitra learned of Ryoka's letter run is unstated.

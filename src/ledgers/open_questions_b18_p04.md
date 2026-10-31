@@ -1,0 +1,9 @@
+- 7.40ER L497-502: what is the crude door in Ulvama hut and what is she waiting for?
+- 7.40ER L256: did Rie order the attack on the Goblins and on Magnolia Maid?
+- Interlude_Food_and_Growth L162: who hired the Mercenaries chasing the Diamond Swords of Serept?
+- 7.41 L345: what is Teriarch geas on Ryoka that prevents her telling Fierre?
+- 7.41 L423: who is Valceif, the Courier who lost his mind charm?
+- 7.41 L84: Ser Raim lost to Belavierr (earlier ref)
+- 7.42M L229-232/L389: did Teriarch (asleep) teleport Magnolia, Ressa and Reynold away?
+- 7.42M L33: which Named Adventurer quit the Valeterisa assignment?
+- 7.42M L83: Lyonette 6th Princess of Calanfer appears eligible to marry Hethon (links Lyonette du Marquin).

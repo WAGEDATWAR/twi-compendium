@@ -1,0 +1,6 @@
+- 7.26 L1503: Maviola's viridian potion and "Three weeks" is unexplained; 7.27 L963-964 echoes it as one Great House waiting and another with three weeks to live.
+- 7.26 L1543: whether Wistram still suspects Earthers after Palt's advert remains open.
+- 7.27 L915: whether Laken's claim to the fae is truly insufficient, per Teriarch.
+- Interlude L792: origin of the Golden Triangle in Oteslia or another Walled City is unconfirmed.
+- Interlude L185: number and identity of Elusive Lot members unknown.
+- 7.28 L471: which Archmage on an island Ieka wants contacted is unnamed.

@@ -1,0 +1,640 @@
+blocks 463  fact lines 13131  errors 0  entity-warnings 634
+
+== ERRORS ==
+
+
+== ENTITY WARNINGS ==
+b01.md:1 1.00: missing NEW: line
+b01.md:34 1.03: missing NEW: line
+b01.md:45 1.04 line 56: 'The kitchen' not within +-6 of cite: + The kitchen: has several knives from cleaver to finger-size and a fr
+b01.md:59 1.05 line 63: 'The kitchen' not within +-6 of cite: + The kitchen: the other cupboards have the same runes etched along th
+b01.md:83 1.07 line 91: 'Levelling' not within +-6 of cite: + Levelling: classes can be gained by meeting requirements (a farmer o
+b01.md:83 1.07 line 92: 'Levelling' not within +-6 of cite: + Levelling: only "thinking races" level; animals and dragons do not l
+b01.md:104 1.08 line 107: 'Basic Crafting' not within +-6 of cite: + Basic Crafting: Erin weaves a durable basket from grass in about twe
+b01.md:104 1.08: missing NEW: line
+b01.md:115 1.09 line 117: 'Pisces' not within +-6 of cite: + Pisces: pale young man with unkempt brown hair in dirty grey robes, 
+b01.md:115 1.09 line 118: 'Pisces' not within +-6 of cite: + Pisces: tries to pay for the scare with bronze, then silver, then a 
+b01.md:127 1.10 line 138: 'Hammers' not within +-6 of cite: + Hammers: cost a silver coin or two in the city; Basic Crafting is an
+b01.md:143 1.11 line 151: 'Law of Liscor' not within +-6 of cite: + Law of Liscor: guards cannot arrest without testimony, and there is 
+b01.md:143 1.11: missing NEW: line
+b01.md:155 Interlude_B01_1 line 157: 'Summoning' not within +-6 of cite: + Summoning: a priest-and-mage ritual with glowing floor diagrams ends
+b01.md:155 Interlude_B01_1: missing NEW: line
+b01.md:163 1.12 line 173: 'Liscor' not within +-6 of cite: + Liscor: its wall is nearly forty feet tall; the gate is two solid me
+b01.md:179 1.13 line 187: 'Liscor' not within +-6 of cite: + Liscor: Drakes are the majority, with some Gnolls and a few Antinium
+b01.md:179 1.13 line 189: 'Liscor' not within +-6 of cite: + Liscor: Drakes stare at Erin, Gnolls avoid her (L101-102)
+b01.md:197 1.14 line 200: 'Liscor' not within +-6 of cite: + Liscor: dress varies; male Drakes often wear only loincloths, female
+b01.md:197 1.14 line 207: 'Liscor guards' not within +-6 of cite: + Liscor guards: gossip that humans smell and that Relc is odd for lik
+b01.md:235 1.16 line 243: 'Erin Solstice' not within +-6 of cite: ! Erin Solstice: reaches [Innkeeper] Level 9 and gains [Tavern Brawlin
+b01.md:284 1.19 line 289: 'Chess' not within +-6 of cite: + Chess: exists in this world as a game invented about a year ago (L91
+b01.md:318 Interlude_1.00_R line 329: 'Runners' not within +-6 of cite: + Runners: also called Messengers, Travellers, Sealers and Carriers; a
+b01.md:333 1.01R line 344: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: a girl from Wisconsin, a college freshman, on a track
+b01.md:333 1.01R line 346: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: earned over thirty silver in a day; an inn costs thre
+b01.md:333 1.01R line 347: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: blocks the nightly system messages about [Barefoot Ru
+b01.md:333 1.01R line 348: 'Ryoka Griffin' not within +-6 of cite: ! Ryoka Griffin: has been in the world about a week and a half (L128)
+b01.md:351 1.21 line 356: 'The inn' not within +-6 of cite: + The inn: Erin sleeps at the second table by the bar; Klbkch helped i
+b01.md:351 1.21 line 367: 'Innkeepers' not within +-6 of cite: + Innkeepers: Selys advises apprenticing to another innkeeper until Le
+b01.md:394 1.23 line 396: 'Liscor merchants' not within +-6 of cite: + Liscor merchants: do not know baking soda, baking powder, cookies or
+b01.md:394 1.23 line 412: 'Erin's menu' not within +-6 of cite: + Erin's menu: now also apple juice and a minty drink (L212)
+b01.md:420 Interlude_King_Edition line 428: 'Threats' not within +-6 of cite: + Threats: the Emperor of the Sands leads armies from the east; the Mi
+b01.md:455 1.02R line 463: 'Runner's Guild' not within +-6 of cite: + Runner's Guild: pay is usually collected in one lump sum at week's e
+b01.md:455 1.02R line 465: 'Magnolia's requests' not within +-6 of cite: + Magnolia's requests: an unwritten rule says a Runner should wait a w
+b01.md:455 1.02R line 469: 'Celers' not within +-6 of cite: = Celers = Celum (Magnolia's city), as written in this chapter (L129)
+b01.md:475 1.03R line 488: 'Ryoka Griffin' not within +-6 of cite: ~ Ryoka Griffin: concludes Magnolia is the scariest person she has met
+b01.md:475 1.03R line 489: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: has agreed to run a delivery with Garia the next day 
+b01.md:475 1.03R line 490: 'Persua' not within +-6 of cite: ! Persua: and about twenty Street Runners box Ryoka in, trip her, and 
+b01.md:512 1.26 line 516: cross-chapter cite not checked: = Prognugator = Propugnator (Antinium rank of Klbkch; spelling differs
+b01.md:512 1.26 line 525: 'Antinium' not within +-6 of cite: + Antinium: do not have names, and Selys says one should never ask a W
+b01.md:530 1.27 line 538: 'Levelling' not within +-6 of cite: + Levelling: comes from learning and trials, so repetitive work gives 
+b01.md:583 1.05R line 589: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: owns one item from Earth, a device with earbuds, dead
+b01.md:583 1.05R line 605: 'Ryoka Griffin' not within +-6 of cite: ~ Ryoka Griffin: believes Magnolia can read minds or sense untruths (L
+b01.md:583 1.05R line 606: 'Ryoka Griffin' not within +-6 of cite: ~ Ryoka Griffin: fears telling Magnolia about Earth technology (gunpow
+b01.md:643 1.06R line 664: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: half Japanese; vows she would do a dogeza (L285-286)
+b01.md:675 1.29 line 697: 'Gazi' not within +-6 of cite: + Gazi: can see a person's class and level (L245-247)
+b01.md:675 1.29 line 698: 'Gazi' not within +-6 of cite: + Gazi: reads Erin as an [Innkeeper] who has a talent for fighting; sa
+b01.md:732 1.31 line 735: 'Liscor' not within +-6 of cite: + Liscor: a run of petty thefts across the city, Lism the latest victi
+b01.md:732 1.31 line 749: 'Liscor Watch' not within +-6 of cite: + Liscor Watch: detected no magic at the thefts, so likely human (L390
+b01.md:761 1.07R line 763: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: ran about thirty miles flat out after the cure; the H
+b01.md:761 1.07R line 764: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: rested two days under Ceria's advice; broke and livin
+b01.md:761 1.07R line 775: 'Horns of Hammerad' not within +-6 of cite: + Horns of Hammerad: lend potions, store Ryoka's belongings at the Adv
+b01.md:761 1.07R line 786: 'Ryoka Griffin' not within +-6 of cite: ~ Ryoka Griffin: believes the era is peaceful compared to past ages (L
+b01.md:792 1.08R line 794: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: listens to "Heathens" while running; Suicide Squad ca
+b01.md:792 1.08R line 800: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: kills a Goblin with a roundhouse kick, her first kill
+b01.md:792 1.08R line 810: 'Dragon' not within +-6 of cite: + Dragon: expected a visitor to the cave only months later (L187)
+b01.md:792 1.08R line 813: 'Ryoka Griffin' not within +-6 of cite: ~ Ryoka Griffin: believes she could beat most non-Gold adventurers in 
+b01.md:817 1.32 line 825: 'Crossbows' not within +-6 of cite: + Crossbows: used by Minotaurs and some southern humans; rare and cost
+b01.md:817 1.32 line 826: 'Gnolls' not within +-6 of cite: + Gnolls: show teeth as a greeting; Erin returns it (L52)
+b01.md:868 1.09R line 870: 'Teriarch' not within +-6 of cite: + Teriarch: silver-haired old man with violet-blue nebula eyes and poi
+b01.md:868 1.09R line 871: 'Teriarch' not within +-6 of cite: + Teriarch: compels Ryoka to stay still and answer honestly (L45, L74)
+b01.md:868 1.09R line 872: 'Teriarch' not within +-6 of cite: + Teriarch: has been secluded and wants news; knows Magnolia Reinhart 
+b01.md:868 1.09R line 873: 'Teriarch' not within +-6 of cite: + Teriarch: appraisal spells show no class or level for Ryoka (L71)
+b01.md:868 1.09R line 874: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: stopped herself from leveling and can cancel level-up
+b01.md:868 1.09R line 875: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: stands six foot one (L30)
+b01.md:868 1.09R line 877: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: three Runners died trying to reach the cave (L52)
+b01.md:868 1.09R line 878: 'Teriarch' not within +-6 of cite: + Teriarch: cannot scry Ryoka because he lacks the kanji of her name (
+b01.md:868 1.09R line 879: 'Teriarch' not within +-6 of cite: + Teriarch: sends her to the Blood Fields to deliver a sealed letter a
+b01.md:868 1.09R line 880: 'Az'kerash' not within +-6 of cite: + Az'kerash: a necromancer with white hair, white skin and violet eyes
+b01.md:868 1.09R line 881: 'Teriarch' not within +-6 of cite: + Teriarch: Az'kerash is shielded from magical contact, as is Teriarch
+b01.md:868 1.09R line 882: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: gets a speed potion, a bag of gold and a warning not 
+b01.md:868 1.09R line 883: 'Teriarch' not within +-6 of cite: + Teriarch: Ryoka's mana poisoning would have caused fever and illness
+b01.md:868 1.09R line 885: 'Teriarch' not within +-6 of cite: + Teriarch: Dragons invented the rhetorical question per his lecture (
+b01.md:868 1.09R line 888: 'Teriarch' not within +-6 of cite: ~ Teriarch: believes Magnolia Reinhart still lives (L109-110)
+b01.md:868 1.09R line 889: 'Ryoka Griffin' not within +-6 of cite: ~ Ryoka Griffin: guesses the potion and ring are magical and dangerous
+b01.md:893 1.10R line 899: 'Horns of Hammerad' not within +-6 of cite: + Horns of Hammerad: gone to Esthelm to prepare for the Liscor ruins (
+b01.md:914 1.34 line 933: 'Gnolls' not within +-6 of cite: + Gnolls: pick a shaman for each tribe who wields the pack's magic (L2
+b01.md:963 1.11R line 977: 'Horns of Hammerad' not within +-6 of cite: + Horns of Hammerad: have a member able to detect and disarm traps (L6
+b01.md:963 1.11R line 984: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: ran over sixty miles the night before (L248)
+b01.md:963 1.11R line 998: 'Ryoka Griffin' not within +-6 of cite: ! Ryoka Griffin: casts her first spell, was taught [Light] earlier, no
+b01.md:1043 1.36 line 1045: 'Toren' not within +-6 of cite: + Toren: Level 2 skeleton, Erin's inn staff (L25-26)
+b01.md:1043 1.36 line 1061: 'Calruz' not within +-6 of cite: + Calruz: promises "upon my honor" not to attack guests (L415)
+b01.md:1075 1.37 line 1088: 'Inn' not within +-6 of cite: + Inn: about an hour's walk from Liscor (L161)
+b01.md:1075 1.37 line 1103: 'Skeletons' not within +-6 of cite: + Skeletons: binding spells fade; most skeletons collapse within a day
+b01.md:1170 1.40 line 1189: 'Gazi Pathseeker' not within +-6 of cite: + Gazi Pathseeker: [Charm] by eye hits anyone who meets her gaze (L307
+b01.md:1170 1.40 line 1190: 'Princess' not within +-6 of cite: + Princess: blonde filthy girl with an emerald ring that shoots a spid
+b01.md:1206 1.13R line 1213: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: sings or hears Centuries, Counting Stars, Apologize o
+b01.md:1206 1.13R line 1221: 'Ryoka Griffin' not within +-6 of cite: ~ Ryoka Griffin: believes bullies are a pattern and the world is wrong
+b01.md:1206 1.13R line 1222: 'Ryoka Griffin' not within +-6 of cite: ! Ryoka Griffin: breaks free of Teriarch's geas by walking north throu
+b01.md:1257 1.00H line 1265: 'Expedition' not within +-6 of cite: + Expedition: supplies for at least four days (L44)
+b01.md:1257 1.00H line 1277: 'Drakes' not within +-6 of cite: + Drakes: descended from dragons and love collecting; a vault would be
+b01.md:1257 1.00H line 1281: 'Ruins of Liscor' not within +-6 of cite: + Ruins of Liscor: lower area is a crypt with stone slabs and prayer r
+b01.md:1257 1.00H line 1283: 'Cervial' not within +-6 of cite: ~ Cervial: zombies attacked too conveniently and quickly (L312)
+b01.md:1257 1.00H line 1285: 'Expedition' not within +-6 of cite: ! Expedition: ambushed by the dead from hidden wall alcoves (L409-410)
+b01.md:1289 1.01H line 1306: 'Expedition' not within +-6 of cite: ! Expedition: Crypt Lords killed, camp made in the burial room (L97, L
+b01.md:1309 1.02H line 1321: 'Skinner' not within +-6 of cite: + Skinner: adds the faces of Gerald, Cervial and Lir to its body (L271
+b01.md:1337 1.42 line 1364: 'Knight' not within +-6 of cite: + Knight: kills a deranged named Worker who speaks in mixed case and b
+b01.md:1393 1.44 line 1412: 'Undead' not within +-6 of cite: + Undead: withdraw to the Ruins after Skinner dies (L330)
+b01.md:1417 1.45 line 1426: 'Liscor' not within +-6 of cite: + Liscor: eighty-plus guardsmen and almost two hundred civilians died;
+b02.md:1 Interlude_The_Call line 21: 'Chat' not within +-6 of cite: + Chat: levelling here seems based on adversity, not repetition (L235-
+b02.md:1 Interlude_The_Call line 24: 'Chat users' not within +-6 of cite: ~ Chat users: report differing home-world dates: primaries vs election
+b02.md:1 Interlude_The_Call line 29: 'Chat' not within +-6 of cite: + Chat: ends with a Japanese user, 伶央, joining and leaving alone (L373
+b02.md:1 Interlude_The_Call line 30: 'Users' not within +-6 of cite: + Users: names given in chat: strider_479 = Zara Walker, plusOne = car
+b02.md:35 2.01 line 40: 'Ryoka' not within +-6 of cite: + Ryoka: still has several gold coins in her Runner's pack (L119)
+b02.md:35 2.01 line 41: 'Ryoka' not within +-6 of cite: + Ryoka: first-person narrator in alternating sections (L95-152)
+b02.md:35 2.01 line 42: 'Ryoka' not within +-6 of cite: + Ryoka: wrote or played as [batman] in the chat and impersonated a th
+b02.md:35 2.01 line 43: 'Ryoka' not within +-6 of cite: ~ Ryoka: Teriarch taught her about the [Scrying] spell (L135)
+b02.md:35 2.01 line 44: 'Ryoka' not within +-6 of cite: + Ryoka: ate dry rations and water for about eight days (L125)
+b02.md:35 2.01 line 45: 'Ryoka' not within +-6 of cite: + Ryoka: had her leg shattered by something moving; scars healed by ma
+b02.md:35 2.01 line 46: 'Ryoka' not within +-6 of cite: + Ryoka: has been to the High Passes, the other gateway to the souther
+b02.md:35 2.01 line 47: 'Ryoka' not within +-6 of cite: + Ryoka: dodged spells from a Lich while delivering healing potions to
+b02.md:35 2.01 line 49: 'Ryoka' not within +-6 of cite: + Ryoka: ate ice cream with Magnolia Reinhart (L114)
+b02.md:35 2.01 line 50: 'Ryoka' not within +-6 of cite: + Ryoka: Calruz was around Level 22 (L141)
+b02.md:35 2.01 line 63: 'Ryoka' not within +-6 of cite: ! Ryoka: learns the Horns stayed at the inn the night before they died
+b02.md:100 2.03 line 110: 'Ryoka' not within +-6 of cite: + Ryoka: read in a book that Antinium do not have names except Prognug
+b02.md:100 2.03 line 117: 'Adventurer's Guild' not within +-6 of cite: + Adventurer's Guild: Drake adventurers refuse to enter the Ruins, say
+b02.md:133 2.04 line 135: 'Party' not within +-6 of cite: + Party: walks two abreast, Ksmvr and Toren in front, Pisces and Rags 
+b02.md:192 2.06 line 214: 'Casualties' not within +-6 of cite: + Casualties: two guardsmen and a headless Gnoll dead (L212)
+b02.md:192 2.06 line 218: 'Fairies' not within +-6 of cite: ~ Fairies: use slurs for humans and mention Dragons and "dogs" (Gnolls
+b02.md:222 2.07 line 228: 'Chapter' not within +-6 of cite: ! Chapter: lightning strikes the inn as the strike continues (L118)
+b02.md:259 2.09 line 265: 'Runner's Guild' not within +-6 of cite: + Runner's Guild: slow business in the early winter; roads frozen, car
+b02.md:259 2.09 line 268: 'Ryoka' not within +-6 of cite: + Ryoka: buys the Guild's rulebook for fifteen silver with a gold coin
+b02.md:259 2.09 line 269: 'Artifacts' not within +-6 of cite: + Artifacts: cheapest self-renewing ones about eight hundred gold; a d
+b02.md:259 2.09 line 283: 'Ryoka' not within +-6 of cite: + Ryoka: threatens Octavia to get it back (L408)
+b02.md:259 2.09 line 284: 'Ryoka' not within +-6 of cite: ~ Ryoka: Teriarch gave her the potion as payment for the delivery (L29
+b02.md:350 2.11 line 361: 'Klbkch' not within +-6 of cite: + Klbkch: also called the Revalantor by Pawn (L200, L206)
+b02.md:391 2.12 line 407: 'Ryoka' not within +-6 of cite: + Ryoka: pays Octavia five teaspoons of her potion for information (L9
+b02.md:391 2.12 line 408: 'Ryoka' not within +-6 of cite: + Ryoka: has eighty gold pieces (L64)
+b02.md:391 2.12 line 409: 'Ryoka' not within +-6 of cite: + Ryoka: her father is a big hitter in politics and business (L65)
+b02.md:391 2.12 line 410: 'Ryoka' not within +-6 of cite: ! Ryoka: tells Garia the Horns of Hammerad are dead; Garia breaks down
+b02.md:391 2.12 line 411: 'Ryoka' not within +-6 of cite: + Ryoka: wears new shoes in place of the Gnoll boots (L70)
+b02.md:431 2.13 line 448: 'Liscor' not within +-6 of cite: + Liscor: just over ten thousand souls (L264)
+b02.md:506 S01_Mating_Rituals line 516: 'Gnolls' not within +-6 of cite: + Gnolls: scent tells them when a female is in estrus or pregnant (L28
+b02.md:506 S01_Mating_Rituals line 517: 'Gnolls' not within +-6 of cite: + Gnolls: brew a contraceptive tea; Krshia gave Erin some earlier (L28
+b02.md:535 2.14 line 538: 'Ryoka' not within +-6 of cite: + Ryoka: stays in the north a day after Teriarch's bargain, making del
+b02.md:535 2.14 line 540: 'Ryoka' not within +-6 of cite: + Ryoka: regards Teriarch's potion as a last resort (L32)
+b02.md:535 2.14 line 545: 'Ryoka' not within +-6 of cite: + Ryoka: travels with snow shoes and a change of clothes (L87)
+b02.md:535 2.14 line 546: 'Ryoka' not within +-6 of cite: ~ Ryoka: begins to suspect Teriarch is a dragon (L97-99)
+b02.md:535 2.14 line 558: 'Valceif' not within +-6 of cite: + Valceif: uses [Double Step] to run at twice speed and outpaces Ryoka
+b02.md:535 2.14 line 559: 'Valceif' not within +-6 of cite: + Valceif: wants to meet the Drake [Tactician] who is the best chess p
+b02.md:535 2.14 line 561: 'Ryoka' not within +-6 of cite: + Ryoka: runs as fast as she can and cannot keep up with Valceif (L374
+b02.md:565 2.15 line 599: 'Valceif' not within +-6 of cite: ! Valceif: gives Ryoka a small metal dreamcatcher charm; it breaks the
+b02.md:604 2.16 line 606: 'Teriarch' not within +-6 of cite: + Teriarch: a Dragon four times the size of a house, mismatched heliot
+b02.md:751 2.00K line 768: 'Flos's former forces' not within +-6 of cite: + Flos's former forces: Rustängmarder, Forgotten Legion and Silent Mar
+b02.md:751 2.00K line 776: 'Takhatres' people' not within +-6 of cite: = Takhatres' people = Garuda (L110)
+b02.md:818 2.01T line 828: 'Thief' not within +-6 of cite: + Thief: complains about "filthy peasants", orders Toren as "Thing", a
+b02.md:911 1.00C line 921: 'Dead' not within +-6 of cite: + Dead: Ron (killed in first expedition) and Marian (L85, L124)
+b02.md:931 1.01C line 934: 'Tom' not within +-6 of cite: + Tom: believes gods are dead and calls himself a failure; his medicin
+b02.md:931 1.01C line 935: 'Tom' not within +-6 of cite: ! Tom: [Clown Level 24!], [Skill – Greater Pain Tolerance Obtained.], 
+b02.md:931 1.01C line 936: 'Tom' not within +-6 of cite: + Tom: concludes Classes are shaped by what the person brings from the
+b02.md:931 1.01C line 937: 'Tom' not within +-6 of cite: + Tom: drinks two healing potions; Richard's potion burns when overuse
+b02.md:931 1.01C line 945: 'Tom' not within +-6 of cite: ! Tom: [Hero Level 2!] and [Skill – Weapon Proficiency: Knives Obtaine
+b02.md:977 2.23 line 991: 'Ryoka' not within +-6 of cite: + Ryoka: tells Superman, Batman and other stories to the faeries and G
+b02.md:1001 2.24 line 1003: 'Az'kerash' not within +-6 of cite: + Az'kerash: also called Perril Chandler; nickname "Peril" forgotten; 
+b02.md:1001 2.24 line 1006: 'Az'kerash' not within +-6 of cite: + Az'kerash: tells Venitra to observe armies and kill any who enter (L
+b02.md:1001 2.24 line 1008: 'Ryoka' not within +-6 of cite: + Ryoka: runs without movement skills; Venitra thinks she is a Runner 
+b02.md:1001 2.24 line 1015: 'Ryoka' not within +-6 of cite: + Ryoka: carries a City Runner Seal that breaks if away from her more 
+b02.md:1001 2.24 line 1016: 'Ryoka' not within +-6 of cite: + Ryoka: lies that she is delivering to the Stone Spears Chieftain Urk
+b02.md:1001 2.24 line 1023: 'Ryoka' not within +-6 of cite: ! Ryoka: uncorks Octavia's stink potion and sprays the pepper-spray po
+b02.md:1029 2.25 line 1031: 'Ryoka' not within +-6 of cite: + Ryoka: has one bag, one potion and Teriarch's Haste potion left; pot
+b02.md:1029 2.25 line 1032: 'Ryoka' not within +-6 of cite: ! Ryoka: casts [Flashlight] by renaming her [Light] spell, creating a 
+b02.md:1029 2.25 line 1033: 'Ryoka' not within +-6 of cite: + Ryoka: removes an arrow splinter from her leg with a knife (L50-54)
+b02.md:1029 2.25 line 1038: 'Ryoka' not within +-6 of cite: ! Ryoka: reaches Az'kerash's castle; Periss and her soldiers follow an
+b02.md:1029 2.25 line 1043: 'Venitra' not within +-6 of cite: + Venitra: bone-armoured female knight with a bone sword and altered s
+b02.md:1029 2.25 line 1044: 'Az'kerash' not within +-6 of cite: + Az'kerash: appears as an old man with white hair and albino skin, bl
+b02.md:1029 2.25 line 1045: 'Az'kerash' not within +-6 of cite: + Az'kerash: reads Teriarch's letter and ring as a gift for his two hu
+b02.md:1078 2.00H line 1098: 'Lyonette' not within +-6 of cite: + Lyonette: is a Level 1 [Barmaid] (L75)
+b02.md:1078 2.00H line 1103: 'Party funds' not within +-6 of cite: + Party funds: one gold coin plus coppers, with Pisces's coins just un
+b02.md:1078 2.00H line 1104: 'Party needs' not within +-6 of cite: + Party needs: fifteen gold for a full supply, six at the bare minimum
+b02.md:1078 2.00H line 1128: 'Raiders' not within +-6 of cite: + Raiders: have notched ears, came from the south and are not Rags's t
+b02.md:1078 2.00H line 1129: 'Loot' not within +-6 of cite: + Loot: a wand and feather amulet from the Goblin [Shaman], rings, a n
+b02.md:1134 2.27 line 1158: 'Lyonette' not within +-6 of cite: + Lyonette: refuses to fetch water, afraid of Goblins and of Toren (L2
+b02.md:1134 2.27 line 1162: 'Loot' not within +-6 of cite: + Loot: two rings, a hardening short sword, and a claw necklace (L286)
+b02.md:1180 2.28 line 1182: 'Ryoka' not within +-6 of cite: + Ryoka: the Haste potion ran about twenty minutes and she covered ove
+b02.md:1180 2.28 line 1183: 'Ryoka' not within +-6 of cite: + Ryoka: spent two days in a cave recovering torn muscles; all her hea
+b02.md:1180 2.28 line 1184: 'Ryoka' not within +-6 of cite: + Ryoka: spells [Light], [Noise], [Flashlight] and [Flashbang] (combin
+b02.md:1180 2.28 line 1185: 'Ryoka' not within +-6 of cite: + Ryoka: says she has no classes and no skills, never levelled, and ch
+b02.md:1180 2.28 line 1202: 'Stone Spears' not within +-6 of cite: + Stone Spears: miners are several days away; a [Shaman] knows no usef
+b02.md:1216 2.29 line 1218: 'Ryoka' not within +-6 of cite: + Ryoka: has no Skills or classes; relies on a few spells that she sha
+b02.md:1216 2.29 line 1219: 'Ryoka' not within +-6 of cite: + Ryoka: [Light] can be brightened, reshaped and thrown as an orb that
+b02.md:1216 2.29 line 1220: 'Ryoka' not within +-6 of cite: + Ryoka: casting a single spell tires her (L13)
+b02.md:1216 2.29 line 1222: 'Ryoka' not within +-6 of cite: + Ryoka: thinks the fae love fragments of immortality, eternal stories
+b02.md:1216 2.29 line 1229: 'Ryoka' not within +-6 of cite: + Ryoka: made a rope harness for Mrsha, climbed the rope unaided and p
+b02.md:1216 2.29 line 1232: 'Ryoka' not within +-6 of cite: + Ryoka: casts [Flashbang] with thumbs in her ears; carries Mrsha in a
+b02.md:1216 2.29 line 1234: 'Ryoka' not within +-6 of cite: + Ryoka: mentions Erin's words "you're not a killer" and thinks of Rag
+b02.md:1298 2.30 line 1302: 'Lyonette' not within +-6 of cite: + Lyonette: tries to force her way aboard; Toren holds her back (L4-6)
+b02.md:1298 2.30 line 1321: 'Earth group' not within +-6 of cite: + Earth group: say they arrived last week at a city in the middle of n
+b02.md:1298 2.30 line 1328: 'Earth group' not within +-6 of cite: + Earth group: kept in the guest wing; Ressa insists they stay there (
+b02.md:1298 2.30 line 1329: 'Earth group' not within +-6 of cite: + Earth group: say Magnolia laughs at explanations of democracy; serva
+b02.md:1375 Interlude_B02_1 line 1389: 'Mrsha' not within +-6 of cite: + Mrsha: Ressa reports white fur, which Magnolia says is a portent (L1
+b02.md:1375 Interlude_B02_1 line 1411: 'Chat log' not within +-6 of cite: + Chat log: Wistram mages believe the Earth-born arrival was a spell f
+b02.md:1375 Interlude_B02_1 line 1412: 'Chat log' not within +-6 of cite: + Chat log: they mention a "Kyle imposter" who may be a spy (L375)
+b02.md:1375 Interlude_B02_1 line 1413: 'Chat log' not within +-6 of cite: + Chat log: BlackMage says the King of Destruction is moving and wars 
+b02.md:1492 2.32 line 1515: 'Toren' not within +-6 of cite: + Toren: roams the snow outside hunting and killing at night (L588)
+b02.md:1492 2.32 line 1516: 'Ryoka' not within +-6 of cite: + Ryoka: lost two fingers on her right hand; the stumps ache (L290)
+b02.md:1492 2.32 line 1517: 'Ryoka' not within +-6 of cite: + Ryoka: her system notifications have stopped since the night of the 
+b02.md:1492 2.32 line 1518: 'Ryoka' not within +-6 of cite: + Ryoka: levels noted were [Barefoot Runner Level 1!] and [Disciple Le
+b02.md:1492 2.32 line 1519: 'Ryoka' not within +-6 of cite: + Ryoka: bargained with the faeries to save herself and Mrsha, leaving
+b02.md:1492 2.32 line 1520: 'Ryoka' not within +-6 of cite: + Ryoka: told Erin the whole story but kept the faerie camp stories pr
+b02.md:1492 2.32 line 1527: 'Ryoka' not within +-6 of cite: + Ryoka: Magnolia's healer friend cannot regrow lost limbs, only repai
+b02.md:1492 2.32 line 1530: 'Lyonette' not within +-6 of cite: + Lyonette: watches Erin and Ryoka from the stairs (L588)
+b02.md:1538 2.33 line 1557: 'Ryoka' not within +-6 of cite: + Ryoka: takes on Erin's debt; she has nothing close to it (L369-372)
+b02.md:1538 2.33 line 1558: 'Ryoka' not within +-6 of cite: + Ryoka: eight hundred gold would be 1.6 percent of the debt (L372)
+b02.md:1538 2.33 line 1573: 'Ryoka Griffin' not within +-6 of cite: ! Ryoka Griffin: takes on Lyonette's debt (L369)
+b02.md:1579 2.34 line 1599: 'Spellbooks' not within +-6 of cite: + Spellbooks: immune to ordinary harm but destroyed by sufficiently po
+b02.md:1579 2.34 line 1618: 'Ryoka' not within +-6 of cite: ~ Ryoka: cumulative total levels, not age, slow leveling, so extra cla
+b02.md:1579 2.34 line 1620: 'Ryoka' not within +-6 of cite: ~ Ryoka: speculates a level cap near 100 and a softcap (L406, L458)
+b02.md:1626 2.35 line 1644: 'Zevara' not within +-6 of cite: + Zevara: appears as "Watch Captain Zevarra" (L389)
+b02.md:1683 2.37 line 1693: 'Celum' not within +-6 of cite: + Celum: Liscor is over forty miles south (L101)
+b02.md:1683 2.37 line 1694: 'Celum gate' not within +-6 of cite: + Celum gate: import tax is four silver per honey jar and seven for th
+b02.md:1713 2.38 line 1715: 'Ryoka' not within +-6 of cite: + Ryoka: runs north without boots or coat and shreds her feet (L22, L4
+b02.md:1713 2.38 line 1727: 'Ryoka' not within +-6 of cite: + Ryoka: challenges Teriarch to a riddle game, wagering the secret of 
+b02.md:1762 2.39 line 1776: 'Ryoka' not within +-6 of cite: + Ryoka: learns a fire spell instantly from the tome; fire needs fuel 
+b02.md:1762 2.39 line 1777: 'Ryoka' not within +-6 of cite: + Ryoka: iPhone 4 with 32 GB; plays "Beethoven's 5 Secrets" which Teri
+b02.md:1762 2.39 line 1781: 'Ryoka's pouch' not within +-6 of cite: + Ryoka's pouch: is a bag of holding (L389-391)
+b02.md:1790 2.40 line 1799: 'Celum' not within +-6 of cite: + Celum: over 100 miles from Liscor; Toren covered it in one day (L138
+b02.md:1811 2.41 line 1818: 'Az'kerash' not within +-6 of cite: + Az'kerash: alias Perril Chandler; new huge flesh-and-bone undead; ne
+b02.md:1811 2.41 line 1819: 'Az'kerash' not within +-6 of cite: + Az'kerash: Teriarch's gift was a ring for his 200th year; sends Veni
+b03.md:1 3.00E line 11: 'Laken Godart' not within +-6 of cite: + Laken Godart: tells villagers he is a traveler sidetracked by a spel
+b03.md:1 3.00E line 12: 'Setting' not within +-6 of cite: + Setting: current year about 22 A.F.; Izril is the continent (L91, L4
+b03.md:19 3.01E line 29: 'Laken Godart' not within +-6 of cite: + Laken Godart: finds a sack with 141 gold coins and 8 gemstones burie
+b03.md:19 3.01E line 30: 'Laken Godart' not within +-6 of cite: + Laken Godart: believes [King's Bounty] produced the gold (L392-397)
+b03.md:19 3.01E line 31: 'Laken Godart' not within +-6 of cite: + Laken Godart: trusts Durene's description that Skills grow stronger 
+b03.md:19 3.01E line 32: 'Laken Godart' not within +-6 of cite: ! Laken Godart: reaches [Emperor Level 2] on Day 19 after teaching Dur
+b03.md:19 3.01E line 34: 'Laken Godart' not within +-6 of cite: ! Laken Godart: [Emperor Level 4!] and [Skill - King's Bounty obtained
+b03.md:40 3.02H line 44: 'Horns of Hammerad' not within +-6 of cite: + Horns of Hammerad: borrowed money from Erin; one gold coin left; foo
+b03.md:40 3.02H line 54: 'Horns of Hammerad' not within +-6 of cite: ! Horns of Hammerad: teleported to a pit and hit by an [Insanity] rune
+b03.md:58 3.03 line 67: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: holds 800 gold from Teriarch in a bag of holding that
+b03.md:58 3.03 line 73: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: cannot cast [Water Spray] (Tier 0); learned a telekin
+b03.md:58 3.03 line 74: 'Ivolethe' not within +-6 of cite: + Ivolethe: faerie who followed Ryoka; warned her of armies, led her t
+b03.md:121 1.00D line 142: 'Fortum' not within +-6 of cite: ~ Fortum: says the objective is to push back Magehammer until their Co
+b03.md:121 1.00D line 145: 'Raverian Fighters' not within +-6 of cite: ! Raverian Fighters: night raid by hooved attackers smashes the potion
+b03.md:121 1.00D line 146: 'Raverian Fighters' not within +-6 of cite: ! Raverian Fighters: with potions gone, the soldiers look to Geneva (L
+b03.md:209 3.07H line 231: 'Treasury' not within +-6 of cite: ! Treasury: all treasure and the staff are lost to the fire; Pisces' s
+b03.md:209 3.07H line 232: 'Horns of Hammerad' not within +-6 of cite: ! Horns of Hammerad: all four survive, unconscious in the heat as the 
+b03.md:236 3.08H line 254: 'Ocre crowd' not within +-6 of cite: ~ Ocre crowd: calls the team "Hammerbad" mockingly in one shout; treat
+b03.md:262 3.09 line 267: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: right hand has two missing fingers (L117, L122)
+b03.md:262 3.09 line 278: 'Horns' not within +-6 of cite: + Horns: plan to give shares of the gold to relatives of those who die
+b03.md:262 3.09 line 283: 'Ivolethe's sisters' not within +-6 of cite: ~ Ivolethe's sisters: say she risks death for Ryoka, who is "not proph
+b03.md:295 3.10 line 316: 'Ryoka Griffin' not within +-6 of cite: ~ Ryoka Griffin: suspects the wine could be a truth serum (L303-304)
+b03.md:295 3.10 line 317: 'Ryoka Griffin' not within +-6 of cite: ~ Ryoka Griffin: believes the tall Hobgoblin was the one from the inn 
+b03.md:325 3.11E line 328: 'Laken' not within +-6 of cite: + Laken: sees the area around Durene's cottage as a circle he can sens
+b03.md:325 3.11E line 333: 'Frostwing' not within +-6 of cite: + Frostwing: eaglet, female, grey-green fuzz, no feathers, found in a 
+b03.md:325 3.11E line 340: 'Riverfarm' not within +-6 of cite: + Riverfarm: families typically hold about one gold coin in savings; a
+b03.md:325 3.11E line 342: 'Laken' not within +-6 of cite: + Laken: titles granted to faeries include Comtesse of the Soup Spoon,
+b03.md:325 3.11E line 345: 'Laken' not within +-6 of cite: ! Laken: faeries partly refuse to tell him of coming misfortune, sayin
+b03.md:325 3.11E line 347: 'Riverfarm' not within +-6 of cite: ! Riverfarm: lies in the avalanche's path; its fate unknown at chapter
+b03.md:352 3.12E line 361: 'Laken' not within +-6 of cite: + Laken: no longer goads villagers; his thunder voice silences fightin
+b03.md:352 3.12E line 366: 'Laken' not within +-6 of cite: + Laken: [Emperor] Level 9 and [Skill - Empire: Blessing of the Hearth
+b03.md:352 3.12E line 372: 'Riverfarm' not within +-6 of cite: ! Riverfarm: villagers stop disparaging Durene (L405)
+b03.md:352 3.12E line 373: 'Riverfarm' not within +-6 of cite: ! Riverfarm: animals are dead; villagers eat meaty broth (L403)
+b03.md:377 3.13E line 387: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: estimates a prototype gun within a month with a kingd
+b03.md:377 3.13E line 388: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: names sulfur as a gunpowder component; Magnolia finds
+b03.md:377 3.13E line 393: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: believes the Antinium fled Rhir fighting something th
+b03.md:377 3.13E line 401: 'Ryoka Griffin' not within +-6 of cite: ! Ryoka Griffin: injured with a stone fragment deep in her thigh (L592
+b03.md:405 3.14 line 417: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: helps with wounds using cloth and potions; sleeps at 
+b03.md:405 3.14 line 425: 'Laken Godart' not within +-6 of cite: ~ Laken Godart: tells villagers Riverfarm is Emperor's dominion; they 
+b03.md:405 3.14 line 428: 'Ryoka Griffin' not within +-6 of cite: ! Ryoka Griffin: becomes Magnolia's ally, released to attend to artifa
+b03.md:433 3.15 line 442: 'Frenzied Hare' not within +-6 of cite: + Frenzied Hare: staff includes Maran and Safry; Agnes' husband Jerom 
+b03.md:433 3.15 line 452: 'Jasi' not within +-6 of cite: ~ Jasi: pleads for mercy for Grev, claims he is a child (L338)
+b03.md:459 3.16 line 471: 'Celum' not within +-6 of cite: + Celum: has almost no plays; Wesle once saw a travelling troupe reena
+b03.md:509 3.18T line 515: 'Ylawes Byres' not within +-6 of cite: + Ylawes Byres: came to Esthelm to put the dead to rest when other cit
+b03.md:509 3.18T line 517: 'Ylawes Byres' not within +-6 of cite: + Ylawes Byres: kills a man and heals the Bronze team's injuries from 
+b03.md:509 3.18T line 524: 'Ylawes Byres' not within +-6 of cite: ~ Ylawes Byres: suspects the Goblins spared Esthelm's people to make a
+b03.md:532 3.19T line 541: 'Redfang band' not within +-6 of cite: + Redfang band: clean a burned building, build a fire pit, cook human 
+b03.md:532 3.19T line 542: 'Grunter' not within +-6 of cite: + Grunter: asks "Innkeeper? You? Clss." and learns she was a flower-gr
+b03.md:532 3.19T line 543: 'Redfang band' not within +-6 of cite: + Redfang band: share soup and laugh when she tosses a pebble that lan
+b03.md:558 3.20T line 562: 'Esthelm Horror' not within +-6 of cite: + Esthelm Horror: draws pictures in the dirt to communicate; Goblins a
+b03.md:558 3.20T line 563: 'Esthelm Horror' not within +-6 of cite: + Esthelm Horror: loses [Condition - Terrible Hunger] after Headscratc
+b03.md:558 3.20T line 575: 'Esthelm Horror' not within +-6 of cite: ! Esthelm Horror: dies of an arrow from a Human archer, smiling; she t
+b04.md:27 3.27M line 47: 'Rescue party' not within +-6 of cite: + Rescue party: Zel, Jelaqua, Klbkch, Krshia, Halrac, Xrn; Halrac fire
+b04.md:54 3.28G line 67: 'Noears' not within +-6 of cite: + Noears: earless Goblin [Spellcaster] who feigns idiocy; casts lightn
+b04.md:54 3.28G line 76: 'Pyrite' not within +-6 of cite: ! Pyrite: leads an attack on Tremborag's Goblins with Hobs sent by Rag
+b04.md:108 3.30 line 121: 'Teriarch' not within +-6 of cite: + Teriarch: white-bearded, six-foot-plus old man with one cerulean and
+b04.md:108 3.30 line 124: 'Teriarch' not within +-6 of cite: + Teriarch: kicks Pisces unconscious, stuns Yvlon with snow, ties Ksmv
+b04.md:205 Wistram_Days_Pt.3 line 221: 'Teachers' not within +-6 of cite: + Teachers: Tshya, old Drake, died of scale rot a year ago; teaching d
+b04.md:300 Wistram_Days_Pt.7 line 307: 'Guardian chamber' not within +-6 of cite: + Guardian chamber: obsidian double doors; the corridor outside is fro
+b04.md:325 3.32 line 335: 'Esthelm' not within +-6 of cite: + Esthelm: has an unmarked flower-covered grave of a "young woman, a h
+b04.md:405 3.35 line 411: 'Ryoka' not within +-6 of cite: + Ryoka: wears magical glasses that translate languages in books, but 
+b04.md:405 3.35 line 423: 'Ryoka' not within +-6 of cite: ~ Ryoka: suspects Magnolia is keeping the other Earth people from her 
+b04.md:429 3.36 line 449: 'Laken and Ryoka' not within +-6 of cite: ! Laken and Ryoka: first contact between Earth natives; Laken realizes
+b04.md:454 3.37 line 463: 'Ryoka' not within +-6 of cite: + Ryoka: compares Magnolia to Daenerys, Cersei and Catelyn Stark; Lake
+b04.md:481 3.38 line 492: 'Ryoka's advice' not within +-6 of cite: + Ryoka's advice: wash the wound with hot salt water, apply natural ho
+b04.md:559 3.41 line 579: 'Riverfarm' not within +-6 of cite: ! Riverfarm: receives food, tools and Christmas presents (L563, L605)
+b04.md:585 3.42 line 595: 'Guests' reaction' not within +-6 of cite: + Guests' reaction: Relc proposes leaving her alone; Pisces uses [Flas
+b05.md:43 4.01K line 50: 'Reim' not within +-6 of cite: + Reim: palace traffic keeps right with the centre lane for hurried or
+b05.md:43 4.01K line 51: 'Reim' not within +-6 of cite: + Reim: the people have almost no young; Trey sees a generation missin
+b05.md:43 4.01K line 63: 'Villagers' not within +-6 of cite: ~ Villagers: believe Flos is worthy and would die for him; Flos says t
+b05.md:43 4.01K line 64: 'Palace staff' not within +-6 of cite: ~ Palace staff: believe Lady Mars has no idea why the twins are kept c
+b05.md:72 4.02K line 97: 'Maresar' not within +-6 of cite: ! Maresar: sides with Flos over her husband, saying he is her King too
+b05.md:72 4.02K line 98: 'Drevish' not within +-6 of cite: ! Drevish: head no longer on Flos's dresser (L578)
+b05.md:293 4.08T line 303: 'Dungeon' not within +-6 of cite: + Dungeon: hidden rune traps explode, drop him into a spiked pit; he c
+b05.md:293 4.08T line 312: 'Vuliel Drae' not within +-6 of cite: + Vuliel Drae: team of five scouting without backup, using Erin's magi
+b05.md:293 4.08T line 332: 'Rumour' not within +-6 of cite: ~ Rumour: a masked solo swordswoman in the dungeon fights beside those
+b05.md:293 4.08T line 337: 'Toren's disguise' not within +-6 of cite: = Toren's disguise = the mysterious swordswoman / Miss Adventurer (L25
+b05.md:381 4.10 line 403: 'Hedault' not within +-6 of cite: + Hedault: enchanter whose items do not conflict because an expert mat
+b05.md:504 4.13L line 522: 'Pawn's unit' not within +-6 of cite: + Pawn's unit: one hundred Soldiers, a little less than half his comma
+b05.md:750 1.04D line 755: 'Geneva' not within +-6 of cite: + Geneva: triages with colored stones, green for least wounded, yellow
+b05.md:750 1.04D line 758: 'Geneva' not within +-6 of cite: + Geneva: of the first six red-stone patients, one loses an arm and fo
+b05.md:955 4.20E line 958: 'Laken' not within +-6 of cite: + Laken: his [Emperor] sense ends at the village boundary and he goes 
+b05.md:955 4.20E line 960: 'Laken' not within +-6 of cite: + Laken: had spent about a week in Invrisil buying supplies, hiring fi
+b05.md:955 4.20E line 967: 'Laken' not within +-6 of cite: + Laken: plans a rebuilt village with combined fields, a main road and
+b05.md:955 4.20E line 974: 'Laken' not within +-6 of cite: + Laken: halts the bear with a shouted command, then uses [Intimidatin
+b05.md:955 4.20E line 980: 'Laken' not within +-6 of cite: + Laken: invites Windrest's people to Riverfarm and plans more houses 
+b05.md:955 4.20E line 985: 'Laken' not within +-6 of cite: ! Laken: realises the Mossbear arrived before his sense warned him, an
+b05.md:955 4.20E line 986: 'Laken' not within +-6 of cite: ! Laken: offers Windrest refuge, inviting a refugee influx (L391)
+b05.md:992 4.21E line 1004: 'Riverfarm' not within +-6 of cite: + Riverfarm: after Windrest's arrival, Prost estimates supplies last a
+b05.md:992 4.21E line 1011: 'Laken' not within +-6 of cite: + Laken: has Beniar, Odveig and Wiskeria train villagers; Wiskeria to 
+b05.md:992 4.21E line 1012: 'Laken' not within +-6 of cite: + Laken: orders trainees to run six laps, push-ups, sit-ups and burpee
+b05.md:1031 4.22E line 1037: 'Laken' not within +-6 of cite: + Laken: has been working on a way to see beyond the village that will
+b05.md:1031 4.22E line 1045: 'Laken' not within +-6 of cite: + Laken: touches the dead Goblin and compares it to a small child; he 
+b05.md:1031 4.22E line 1049: 'Laken' not within +-6 of cite: + Laken: says a blind man climbed the world's highest mountain and tha
+b05.md:1031 4.22E line 1058: 'Laken' not within +-6 of cite: + Laken: calls himself an idiot for losing a strong adventurer (L383-3
+b05.md:1031 4.22E line 1063: 'Riverfarm' not within +-6 of cite: ! Riverfarm: down to one Silver-rank team plus Wiskeria after Odveig's
+b05.md:1070 4.23E line 1073: 'Laken' not within +-6 of cite: + Laken: Day 69, three attacks by Goblins left only wounded; Wiskeria 
+b05.md:1070 4.23E line 1078: 'Laken' not within +-6 of cite: + Laken: his [Emperor] command "Stop" works only partly on a Goblin ar
+b05.md:1070 4.23E line 1080: 'Laken' not within +-6 of cite: + Laken: says he tipped the Goblins off that they were coming (L164)
+b05.md:1070 4.23E line 1081: 'Riverfarm' not within +-6 of cite: + Riverfarm: over a hundred and fifty people, many children, old or in
+b05.md:1070 4.23E line 1083: 'Laken' not within +-6 of cite: + Laken: says he became an [Emperor] when he met Durene, inspired by a
+b05.md:1070 4.23E line 1086: 'Laken' not within +-6 of cite: + Laken: names Calop and Fulca as dying villagers and speaks of them a
+b05.md:1070 4.23E line 1088: 'Laken' not within +-6 of cite: + Laken: commands Gamel to stand and live; speaks of fates burning tog
+b05.md:1070 4.23E line 1093: 'Laken' not within +-6 of cite: + Laken: offers Wiskeria the post of [General]; she accepts by taking 
+b05.md:1070 4.23E line 1098: 'Laken' not within +-6 of cite: ~ Laken: believes classes like [General], [Steward] and [Paladin] are 
+b05.md:1070 4.23E line 1099: 'Laken' not within +-6 of cite: ! Laken: reaches [Emperor] Level 15, gains Empire: Art of the Builder 
+b05.md:1157 4.25N line 1184: 'Students' not within +-6 of cite: ~ Students: believe Niers is cursed, which he denies as gossip (L213-2
+b05.md:1197 4.26M line 1228: 'Az'kerash' not within +-6 of cite: + Az'kerash: orders the Goblin Lord, his apprentice, to go past Liscor
+b05.md:1197 4.26M line 1235: 'Az'kerash' not within +-6 of cite: ! Az'kerash: appears to the Goblin Lord, who knowingly informs him of 
+b05.md:1197 4.26M line 1236: 'Liscor' not within +-6 of cite: ! Liscor: council resolves "the Goblin Lord must die" (L338)
+b05.md:1197 4.26M line 1238: 'Az'kerash' not within +-6 of cite: = Az'kerash = the Necromancer (L198, L360)
+b05.md:1288 4.28 line 1295: 'Ijvani' not within +-6 of cite: + Ijvani: tells Ryoka that Ijvani casts a listening spell on her; Ivol
+b05.md:1288 4.28 line 1305: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: claims Ryoka's guarantee of safety lasts "for now" and th
+b05.md:1288 4.28 line 1307: 'Az'kerash' not within +-6 of cite: ! Az'kerash: speaks through Venitra to Ryoka, heals her pinkie bones b
+b05.md:1288 4.28 line 1308: 'Az'kerash' not within +-6 of cite: ! Az'kerash: orders Venitra and Ijvani to observe, hide their identiti
+b05.md:1317 4.29 line 1347: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: believes Winter Sprites are harmless elementals that use 
+b05.md:1317 4.29 line 1351: 'Az'kerash' not within +-6 of cite: ! Az'kerash: orders Venitra and Ijvani to bring back Ryoka's head unda
+b05.md:1357 4.30 line 1375: 'Az'kerash' not within +-6 of cite: + Az'kerash: scrying in his castle with Ijvani, Bea, Oom and Kerash; K
+b05.md:1357 4.30 line 1388: 'Az'kerash' not within +-6 of cite: ! Az'kerash: sends Bea, Kerash, Oom and Ijvani with teleport scrolls t
+b05.md:1394 4.31 line 1400: 'Az'kerash' not within +-6 of cite: + Az'kerash: agrees to leave Ryoka and her associates alone and send s
+b05.md:1394 4.31 line 1404: 'Funeral' not within +-6 of cite: + Funeral: Halrac, Revi, Typhenous, Jelaqua, Moore, Seborn, Ceria, Yvl
+b05.md:1394 4.31 line 1409: 'Griffon Hunt' not within +-6 of cite: + Griffon Hunt: Halrac, Typhenous and Revi leave the inn, staying in t
+b05.md:1394 4.31 line 1418: 'Az'kerash' not within +-6 of cite: + Az'kerash: demotes Venitra and Ijvani, gives Kerash his authority, p
+b05.md:1394 4.31 line 1421: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: hopes Ryoka survives because Teriarch cares for her and s
+b05.md:1394 4.31 line 1425: 'Az'kerash' not within +-6 of cite: ! Az'kerash: Teriarch's attack forces a truce in which he leaves Ryoka
+b06.md:1 4.32G line 17: 'Rags's council' not within +-6 of cite: + Rags's council: Noears (Goblin [Mage], throws lightning, no ears), P
+b06.md:34 1.02C line 57: 'Americans' not within +-6 of cite: + Americans: were once feasted by the Blighted King, then shipped out 
+b06.md:67 1.03C line 72: 'Tom' not within +-6 of cite: + Tom: skills [Sleight of Hand] and [Trick Space] (invisible pocket sp
+b06.md:67 1.03C line 74: 'Tom' not within +-6 of cite: + Tom: the clown music "Doo doo doodle do do doo doo doot" plays unbid
+b06.md:67 1.03C line 78: 'Erille' not within +-6 of cite: + Erille: speaks directly, owns a ring that hides her from Nereshal's 
+b06.md:67 1.03C line 80: 'Americans' not within +-6 of cite: + Americans: a laptop (Emily's, once Reyanne's), an Android phone (Edd
+b06.md:67 1.03C line 84: 'Rhir' not within +-6 of cite: + Rhir: old female spear wielder defeats Richard in a duel; he is welc
+b06.md:67 1.03C line 92: 'Tom' not within +-6 of cite: ! Tom: loses control at the feast, grabs Captain Kirust and shouts tha
+b06.md:159 4.33 line 182: 'Gnolls' not within +-6 of cite: ~ Gnolls: believe Hollowstone Deceivers (Rock Crabs) will not attack w
+b06.md:223 4.35E line 228: 'Laken Godart' not within +-6 of cite: + Laken Godart: uses the markers carved by Jelov (eye of providence sy
+b06.md:223 4.35E line 238: 'Imperial supporters' not within +-6 of cite: + Imperial supporters: three nearest towns and almost all villages wit
+b06.md:223 4.35E line 242: 'Nesor' not within +-6 of cite: + Nesor: young [Mage] who attended Wistram but failed certification (L
+b06.md:283 4.37O line 300: 'Horns of Hammerad' not within +-6 of cite: + Horns of Hammerad: nauseated after a cockroach cave; Yvlon swallowed
+b06.md:345 4.39G line 351: 'Rags's lieutenants' not within +-6 of cite: + Rags's lieutenants: Poisonbite, Noears, Redscar, the Rockfall Chieft
+b06.md:345 4.39G line 356: 'Bethal Walchaís' not within +-6 of cite: + Bethal Walchaís: [Tranquil Skies] parts clouds and arrows around her
+b06.md:518 4.45 line 520: 'Narrator' not within +-6 of cite: + Narrator: opens with Kenjiro in Baleros negotiating paper prices wit
+b06.md:518 4.45 line 544: 'Silver Swords' not within +-6 of cite: ! Silver Swords: arrive in Liscor and take up the Calruz search (L355)
+b06.md:575 4.47 line 592: 'Az'kerash' not within +-6 of cite: + Az'kerash: shaken by news of Zel's alliance; calls it an opportunity
+b06.md:575 4.47 line 598: 'Az'kerash' not within +-6 of cite: ! Az'kerash: orders the Goblin Lord to attack Invrisil (L416)
+b06.md:575 4.47 line 600: 'Laken Godart' not within +-6 of cite: + Laken Godart: learns of the alliance via Lady Rie; Tyrion is enraged
+b06.md:575 4.47 line 606: 'Krsysl Wordsmith' not within +-6 of cite: + Krsysl Wordsmith: Drake [Writer] of "The Second Antinium Wars, a His
+b06.md:575 4.47 line 607: 'Antinium' not within +-6 of cite: + Antinium: six Hives in southern Izril and a foothold; Drake cities t
+b06.md:575 4.47 line 608: 'Az'kerash' not within +-6 of cite: + Az'kerash: Necromancer, outcast of Wistram, fallen Archmage, plagued
+b06.md:575 4.47 line 610: 'Velan the Kind' not within +-6 of cite: + Velan the Kind: Goblin Lord with a peaceful tribe rumored to be a fi
+b06.md:575 4.47 line 611: 'Velan the Kind' not within +-6 of cite: + Velan the Kind: built thousands of ships and sailed from Baleros in 
+b06.md:575 4.47 line 613: 'Jessal Highlands' not within +-6 of cite: + Jessal Highlands: Drake army from three Walled Cities struck a Hive,
+b06.md:575 4.47 line 614: 'Klbkch' not within +-6 of cite: + Klbkch: lost his Centenium form and levels; at the time seven Queens
+b06.md:575 4.47 line 615: 'Xrn' not within +-6 of cite: + Xrn: Small Queen, Prognugator, blue-azure Antinium who casts spells 
+b06.md:575 4.47 line 616: 'Centenium' not within +-6 of cite: + Centenium: one hundred special Antinium made by the Grand Queen on a
+b06.md:575 4.47 line 617: 'Wrymvr the Deathless' not within +-6 of cite: + Wrymvr the Deathless: Prognugator created to defend the Grand Queen,
+b06.md:575 4.47 line 620: 'Walled Cities' not within +-6 of cite: + Walled Cities: according to Pisces, built using the bones of Dragons
+b06.md:575 4.47 line 623: 'Sacrifice of Roses' not within +-6 of cite: + Sacrifice of Roses: [Ladies] under Magnolia entered the battle line 
+b06.md:575 4.47 line 624: 'Crown of Flowers' not within +-6 of cite: + Crown of Flowers: Reinhart artifact that summoned a hundred-thousand
+b06.md:575 4.47 line 627: 'Az'kerash' not within +-6 of cite: + Az'kerash: killed Chieftain Kerash of the Gnolls a century earlier, 
+b06.md:575 4.47 line 628: 'Bethal Walchaís' not within +-6 of cite: + Bethal Walchaís: reads the book, upset by its dismissal of the [Ladi
+b06.md:575 4.47 line 629: 'Pisces' not within +-6 of cite: + Pisces: tells the history by illusion at the inn and claims Walled C
+b06.md:575 4.47 line 631: 'Xrn's escort' not within +-6 of cite: + Xrn's escort: Tersk, Pivr, Prognugator-Guardians; listens to the boo
+b06.md:575 4.47 line 632: 'Krsysl Wordsmith' not within +-6 of cite: ~ Krsysl Wordsmith: claims Antinium "trembled like the insects" at Jes
+b06.md:575 4.47 line 633: 'Pisces' not within +-6 of cite: ~ Pisces: says the Necromancer marched south to use Walled City Dragon
+b06.md:575 4.47 line 634: 'Thomast Veniral' not within +-6 of cite: ! Thomast Veniral: revealed as Bethal's husband and author of the open
+b06.md:575 4.47 line 635: 'Klbkch the Slayer' not within +-6 of cite: = Klbkch the Slayer = Klbkch (L157)
+b06.md:575 4.47 line 636: 'Wrymvr the Deathless' not within +-6 of cite: = Wrymvr the Deathless = Wrymvr (L158)
+b06.md:575 4.47 line 643: 'Az'kerash' not within +-6 of cite: + Az'kerash: killed General Hekiss, Vusso and Misa; unable to kill Zel
+b06.md:575 4.47 line 644: 'Zel Shivertail' not within +-6 of cite: + Zel Shivertail: [General of the Line]; defensive Skills; unable to c
+b06.md:575 4.47 line 645: 'Tallis the Stormbreaker' not within +-6 of cite: + Tallis the Stormbreaker: Goblin Lord [Shaman], Goblin King's right h
+b06.md:575 4.47 line 646: 'Tallis the Stormbreaker' not within +-6 of cite: + Tallis the Stormbreaker: opened a hole in the sky that sucked Xrn's 
+b06.md:575 4.47 line 647: 'Xrn' not within +-6 of cite: + Xrn: Small Queen, Prognugator; lights in her eyes change color with 
+b06.md:575 4.47 line 648: 'Tersk' not within +-6 of cite: + Tersk: Prognugator of the Armored Antinium; Pivr: Revalantor of the 
+b06.md:575 4.47 line 649: 'Antinium' not within +-6 of cite: + Antinium: Grand Queen shifted to night harassment through tunnels an
+b06.md:575 4.47 line 650: 'Niers Astoragon' not within +-6 of cite: + Niers Astoragon: the Titan arrived at the Plains of Saltes on the da
+b06.md:575 4.47 line 651: 'Niers Astoragon' not within +-6 of cite: + Niers Astoragon: Fraerling; his company first agreed to peace with V
+b06.md:575 4.47 line 652: 'Foliana' not within +-6 of cite: + Foliana: Niers's companion; eats tea bags, candle wax, muffins; tri-
+b06.md:575 4.47 line 653: 'Foliana' not within +-6 of cite: + Foliana: persuaded companies to cross to Izril by offering golden mu
+b06.md:575 4.47 line 654: 'Velan the Kind' not within +-6 of cite: + Velan the Kind: Goblin King; sank ships in a landing attack with 5,0
+b06.md:575 4.47 line 658: 'Selys' not within +-6 of cite: + Selys: granddaughter; her mother shot arrows and died to a wraith; h
+b06.md:575 4.47 line 660: 'Antinium' not within +-6 of cite: + Antinium: arrived at the last moment to break the siege; Liscor open
+b06.md:575 4.47 line 661: 'Pisces' not within +-6 of cite: + Pisces: Selys says he saved her and Erin in the undead attack on Lis
+b06.md:575 4.47 line 662: 'Krsysl Wordsmith' not within +-6 of cite: ~ Krsysl Wordsmith: calls Niers a coward, says Drakes alone were heroi
+b06.md:575 4.47 line 663: 'Tekshia' not within +-6 of cite: ~ Tekshia: believes Drakes lack Mages and the book's heroics are false
+b06.md:575 4.47 line 664: 'Xrn' not within +-6 of cite: ! Xrn: reveals the Antinium lost three armies to Tallis Stormbreaker (
+b06.md:575 4.47 line 666: 'Titan' not within +-6 of cite: = Titan = Niers Astoragon (L67)
+b06.md:575 4.47 line 667: 'Foliana' not within +-6 of cite: = Foliana = Commander Foliana / Three-Color Stalker (L81, context)
+b06.md:671 S02_The_Antinium_Wars_Pt.3 line 693: 'Az'kerash' not within +-6 of cite: + Az'kerash: army of Draugr, wraiths, Crypt Lords, wights and Bone Gia
+b06.md:671 S02_The_Antinium_Wars_Pt.3 line 704: 'Az'kerash' not within +-6 of cite: + Az'kerash: slew the Gnoll Chieftain Kerash over a century ago, hence
+b06.md:671 S02_The_Antinium_Wars_Pt.3 line 705: 'Az'kerash' not within +-6 of cite: + Az'kerash: clashed once with the Goblin King (stalemate), then besie
+b06.md:671 S02_The_Antinium_Wars_Pt.3 line 708: 'Krsysl Wordsmith' not within +-6 of cite: ~ Krsysl Wordsmith: claims the Walled Cities predate First Landing by 
+b06.md:671 S02_The_Antinium_Wars_Pt.3 line 710: 'Krsysl Wordsmith' not within +-6 of cite: ~ Krsysl Wordsmith: speculates the Necromancer's siege of Liscor helpe
+b06.md:720 S02_The_Antinium_Wars_Pt.4 line 724: 'Az'kerash' not within +-6 of cite: + Az'kerash: killed Generals Hekiss, Vusso and Misa; destroyed every a
+b06.md:720 S02_The_Antinium_Wars_Pt.4 line 750: 'Wordsmith' not within +-6 of cite: ~ Wordsmith: says the Titan was a coward; Niers says he knew a battle 
+b06.md:758 S02_The_Antinium_Wars_Pt.5 line 785: 'Az'kerash' not within +-6 of cite: ! Az'kerash: killed by Zel at Liscor (L30); Zel later says he cannot b
+b06.md:794 4.48 line 826: 'Sir Evimore' not within +-6 of cite: ! Sir Evimore: killed by the Goblin Lord's [Deathbolt] (L198-201)
+b06.md:833 4.49 line 838: 'Osthia Blackwing' not within +-6 of cite: + Osthia Blackwing: yellow-scaled Oldblood Drake who sprays acid; warn
+b06.md:833 4.49 line 843: 'Az'kerash' not within +-6 of cite: + Az'kerash: raised a dome of bone around Zel and the Goblin Lord; fiv
+b06.md:833 4.49 line 844: 'Az'kerash's Chosen' not within +-6 of cite: + Az'kerash's Chosen: Venitra (bone woman, sword and shield, green eye
+b06.md:833 4.49 line 845: 'Az'kerash' not within +-6 of cite: + Az'kerash: speaks through the Chosen; says his apprentice was the cr
+b06.md:833 4.49 line 846: 'Az'kerash' not within +-6 of cite: + Az'kerash: asked whether Magnolia or someone else told Zel he lived;
+b06.md:833 4.49 line 853: 'Az'kerash' not within +-6 of cite: + Az'kerash: appeared by Greater Teleport (he has four scrolls left, h
+b06.md:833 4.49 line 860: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: claims the living are his enemy and Zel was no match, int
+b06.md:833 4.49 line 865: 'Az'kerash' not within +-6 of cite: ! Az'kerash: revealed to be alive and to have Chosen, and his apprenti
+b07.md:1 5.00 line 15: 'Halfseekers' not within +-6 of cite: + Halfseekers: Jelaqua Ivirith (Selphid, body decaying, uses lavender 
+b07.md:1 5.00 line 32: 'Relc' not within +-6 of cite: ~ Relc: Humans' cowardice caused Zel's death, per the mud-throwing Dra
+b07.md:40 5.01 line 60: 'Door' not within +-6 of cite: + Door: Pallass tracks unauthorised teleports; entry via the door brok
+b07.md:79 5.02 line 100: 'Stitchfolk' not within +-6 of cite: + Stitchfolk: String People, born of cloth, can swap limbs, eyes and b
+b07.md:79 5.02 line 110: 'Common belief' not within +-6 of cite: ~ Common belief: Goblins are savage monsters with no honor or mercy (L
+b07.md:117 5.03 line 124: 'Redfang Warriors' not within +-6 of cite: + Redfang Warriors: saved Erin from Eater Goats (L21-24)
+b07.md:155 5.04 line 168: 'Players of Celum' not within +-6 of cite: + Players of Celum: plays include Hamlet with Macduff played by Pralce
+b07.md:192 5.05 line 209: 'Griffon Hunt' not within +-6 of cite: + Griffon Hunt: Revi and Typhenous joined less than two years ago; Hal
+b07.md:232 5.06M line 236: 'Narrator' not within +-6 of cite: + Narrator: lists other stories, a [Clown], Knights of the Petal captu
+b07.md:364 Interlude_Flos line 391: 'Gazi' not within +-6 of cite: + Gazi: threatens the [Slaver] and merchant with her greatsword in dis
+b07.md:364 Interlude_Flos line 394: 'Gazi' not within +-6 of cite: ~ Gazi: a slave trader's contract can be voided by renouncing the sign
+b07.md:400 5.09E line 403: 'Laken' not within +-6 of cite: + Laken: his friend Zoe described Age of Empires II to him and he trea
+b07.md:400 5.09E line 405: 'Laken' not within +-6 of cite: + Laken: has told only Durene he is from Earth; Ryoka objected to tell
+b07.md:400 5.09E line 414: 'Rie's staff' not within +-6 of cite: + Rie's staff: Geram (huge bald former [Street Brawler]) and Nesor (yo
+b07.md:438 5.10E line 449: 'Laken' not within +-6 of cite: + Laken: lies about his past to hide Earth origins, citing blindness f
+b07.md:438 5.10E line 450: 'Laken' not within +-6 of cite: + Laken: cannot judge fork quality by touch; feels his blindness a hin
+b07.md:474 5.11E line 486: 'Laken' not within +-6 of cite: + Laken: warns fae are neither enemies nor friends, no promises, no li
+b07.md:474 5.11E line 501: 'Fae' not within +-6 of cite: + Fae: salute Laken as Emperor of Eyes, Ruler of the Unseen, Protector
+b07.md:514 5.12 line 532: 'Floodplains' not within +-6 of cite: + Floodplains: flooding; Erin's hill surrounded by water, Liscor may b
+b07.md:514 5.12 line 548: 'Guardsmen' not within +-6 of cite: ~ Guardsmen: gossip that Erin sells acid flies and cooked moths (L462-
+b07.md:555 5.13 line 561: 'Embria' not within +-6 of cite: + Embria: army mission was to return to Liscor to defend it; had been 
+b07.md:555 5.13 line 566: 'Dungeon' not within +-6 of cite: + Dungeon: ratified as Gold-rank by Guilds in all six Walled Cities an
+b07.md:555 5.13 line 570: 'Levels' not within +-6 of cite: + Levels: Dawil, Moore, Seborn, Halrac and the Horns levelled after th
+b07.md:555 5.13 line 589: cross-chapter cite not checked: ! Liscor: Embria's 4th Company posted in the city (L609 of 5.12, L438)
+b07.md:632 5.15 line 653: 'Dungeon' not within +-6 of cite: + Dungeon: enchanted armor suits roam; Hobs dismantle one (L133-139)
+b07.md:632 5.15 line 660: 'Rescuers' not within +-6 of cite: + Rescuers: Falene, Typhenous and Moore lift swimmers out; Pisces, Jel
+b07.md:670 5.16S line 691: 'Zel's relatives' not within +-6 of cite: + Zel's relatives: scrying call with father (elderly Drake), sister-in
+b07.md:670 5.16S line 696: 'Zel's relatives' not within +-6 of cite: ~ Zel's relatives: one calls Zel a "Turnscale" in outrage at a hidden 
+b07.md:704 5.17S line 707: 'Zel's relatives' not within +-6 of cite: + Zel's relatives: Xalia (Zel's sister-in-law) contests the armor and 
+b07.md:704 5.17S line 726: 'Kidnappers' not within +-6 of cite: + Kidnappers: burly Drakes, one dark orange with a scarred snout, knoc
+b07.md:704 5.17S line 727: 'Zel's relative' not within +-6 of cite: ~ Zel's relative: Zel's request in the will is a scandal; compromise r
+b07.md:736 5.18S line 740: 'Kidnappers' not within +-6 of cite: + Kidnappers: about eight hired Drake [Thugs] tie Selys to a chair and
+b08.md:1 5.21E line 20: 'Laken Godart' not within +-6 of cite: + Laken Godart: plan is to teach math, reading, writing and blueprints
+b08.md:1 5.21E line 21: 'Laken Godart' not within +-6 of cite: + Laken Godart: tells nobles to send surplus people to Riverfarm; they
+b08.md:1 5.21E line 23: 'Laken Godart' not within +-6 of cite: ~ Laken Godart: believes Skills make people rely on instinct rather th
+b08.md:32 5.22G line 60: 'Laken Godart' not within +-6 of cite: ! Laken Godart: reveals the Goblin threat to the nobles, trapping them
+b08.md:32 5.22G line 61: 'Laken Godart' not within +-6 of cite: ! Laken Godart: swears to destroy the Goblins with traps and poison (L
+b08.md:67 5.23G line 70: 'Flooded Waters tribe' not within +-6 of cite: + Flooded Waters tribe: pair of Hobs (male and female) speak the commo
+b08.md:67 5.23G line 74: 'Pyrite' not within +-6 of cite: + Pyrite: tells Bethal "Tears are a waste of water" and "We are not th
+b08.md:67 5.23G line 79: 'Laken Godart' not within +-6 of cite: + Laken Godart: directs raids from Riverfarm by [Message] via Nesor; D
+b08.md:202 5.28 line 218: 'Griffon Hunt and Halfseekers' not within +-6 of cite: + Griffon Hunt and Halfseekers: bag of holding holds the cursed neckla
+b08.md:229 5.29 line 246: 'Silver Swords' not within +-6 of cite: + Silver Swords: Ylawes, Falene, Dawil are bad dungeon-delvers; Dawil 
+b08.md:257 5.30G line 271: 'Reiss's lieutenants' not within +-6 of cite: + Reiss's lieutenants: Snapjaw (metallic teeth, oversized head, female
+b08.md:257 5.30G line 284: 'Laken Godart' not within +-6 of cite: + Laken Godart: loses sight of the area around the Goblin-held city, w
+b08.md:257 5.30G line 285: 'Laken' not within +-6 of cite: + Laken: orders more markers carved by Jelov and guards posted by Gene
+b08.md:257 5.30G line 298: 'Laken' not within +-6 of cite: ! Laken: the siege of the Goblin-held city begins with trebuchet fire 
+b08.md:306 5.31G line 336: 'Laken' not within +-6 of cite: + Laken: orders Wiskeria to keep bombarding but hold the assault and s
+b08.md:306 5.31G line 343: 'Laken' not within +-6 of cite: ~ Laken: recalls tipping off Filk about a tribe of Goblins and begins 
+b08.md:352 5.32G line 367: 'Wiskeria' not within +-6 of cite: + Wiskeria: casts [Fox Fire] at Pyrite; Noears's lightning forces her 
+b08.md:352 5.32G line 372: 'Laken' not within +-6 of cite: + Laken: refuses peace after his army fought; says "Someone ordered my
+b08.md:352 5.32G line 374: 'Laken' not within +-6 of cite: + Laken: grazed on the left cheek by Rags's bolt; Rags's second bolt k
+b08.md:352 5.32G line 384: 'Laken' not within +-6 of cite: + Laken: says a blind man's eyes stare at others until he blinks, so h
+b08.md:352 5.32G line 390: 'Laken' not within +-6 of cite: ! Laken: sees the pattern of destroyed totems leading from the Goblins
+b08.md:352 5.32G line 392: 'Laken' not within +-6 of cite: ! Laken: orders the Goblins killed, declining peace (L401)
+b08.md:450 Interlude_Blackmage line 470: 'Revivalists' not within +-6 of cite: + Revivalists: over four hundred stand up at breakfast and block Feor,
+b08.md:572 5.36 line 593: 'Redfang Warriors' not within +-6 of cite: + Redfang Warriors: Goblins do not betray their tribe, but the Cave Go
+b08.md:572 5.36 line 595: 'Horns of Hammerad' not within +-6 of cite: + Horns of Hammerad: row in boats with dozens of others to the rift; C
+b08.md:820 5.42 line 846: 'The pit' not within +-6 of cite: + The pit: a hole half a mile across at the city's centre, guarded by 
+b08.md:863 5.43 line 876: 'Ritual' not within +-6 of cite: + Ritual: twenty Gnolls are sacrificed and twenty-one awakened Raskgha
+b08.md:863 5.43 line 883: 'Redfangs' not within +-6 of cite: + Redfangs: tell Erin they can find the camp again with Cave Goblin he
+b08.md:863 5.43 line 906: 'Nokha' not within +-6 of cite: ~ Nokha: claims the Raskghar need Calruz to think when the moon wanes,
+b08.md:948 5.44 line 986: 'Forces' not within +-6 of cite: + Forces: Gold-rank teams (Horns of Hammerad, Halfseekers, Griffon Hun
+b09.md:76 5.47G line 102: 'Twofeather' not within +-6 of cite: ! Twofeather: killed by Gilam (L84)
+b09.md:108 5.48G line 124: 'Reiss' not within +-6 of cite: + Reiss: Goblin Lord, thinner Hob with black eyes with white pupils, r
+b09.md:147 5.49 line 171: 'Hoard' not within +-6 of cite: + Hoard: estimated about 110,000 gold, give or take 30,000; roughly 35
+b09.md:147 5.49 line 172: 'Hoard' not within +-6 of cite: + Hoard: the Hobs gift it to the Horns, Halfseekers and Griffon Hunt; 
+b09.md:186 5.50G line 213: 'Az'kerash' not within +-6 of cite: + Az'kerash: has informants across the continent, a Human conspiracy h
+b09.md:252 5.51G line 262: 'Noears' not within +-6 of cite: + Noears: lightning mage who nearly hits Ulvama (L198)
+b09.md:252 5.51G line 278: 'Az'kerash' not within +-6 of cite: + Az'kerash: speaks through Reiss, remembers ordering Osthia slain, sa
+b09.md:364 5.54 line 384: 'Az'kerash' not within +-6 of cite: + Az'kerash: possesses Reiss to teach him study of Tome of Greir Rot a
+b09.md:473 5.56G line 494: 'Liscor's defenders' not within +-6 of cite: + Liscor's defenders: four thousand Watch, about eight hundred Pallass
+b09.md:509 5.57 line 536: 'Hobs' not within +-6 of cite: ! Hobs: released from Liscor's prison (L593-595)
+b09.md:542 5.58 line 552: 'Halfseekers' not within +-6 of cite: + Halfseekers: formed with Jelaqua as Captain, Halassia Evergleam (ash
+b09.md:645 5.60 line 651: 'Laken' not within +-6 of cite: + Laken: says ordering Wiskeria to use poison gas on the Goblins and T
+b09.md:691 5.61 line 707: 'Antinium' not within +-6 of cite: + Antinium: the Free Queen says Bird and the Individual Workers would 
+b09.md:691 5.61 line 720: 'Tyrion' not within +-6 of cite: ~ Tyrion: claims it is an accident when his troops fire on Liscor (L56
+b09.md:691 5.61 line 722: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: tells Reiss to take the walls in thirty minutes so his fo
+b09.md:691 5.61 line 725: 'Tyrion' not within +-6 of cite: ! Tyrion: fires on Liscor with enchanted ammunition, starting the assa
+b09.md:731 5.62 line 737: 'Reiss' army' not within +-6 of cite: + Reiss' army: dead on both sides rise as zombies, ghouls and Draug th
+b09.md:731 5.62 line 744: 'Az'kerash' not within +-6 of cite: + Az'kerash: has Chosen Venitra, Kerash and Bea waiting to be teleport
+b09.md:731 5.62 line 753: 'Az'kerash' not within +-6 of cite: + Az'kerash: takes Reiss' body, raises a [Bone Rapier] with [Bloodcall
+b09.md:731 5.62 line 755: 'Az'kerash' not within +-6 of cite: + Az'kerash: kills Yellow Splatters and many Painted Soldiers with [Ma
+b09.md:731 5.62 line 771: 'Narrator' not within +-6 of cite: ~ Narrator: says no one wrote the Goblins' story (L1378-1379)
+b09.md:731 5.62 line 778: 'Az'kerash' not within +-6 of cite: ! Az'kerash: loses his link to Reiss when Garen cuts the arm (L871)
+b09.md:785 Interlude_B09_1 line 804: 'Az'kerash' not within +-6 of cite: + Az'kerash: calms after half a day of fury, dismisses Reiss' death, a
+b10.md:1 6.00 line 28: 'Fierre's family' not within +-6 of cite: + Fierre's family: tall pale-haired mother and three other vampires wi
+b10.md:1 6.00 line 30: 'Alime' not within +-6 of cite: ~ Alime: says every Runner's Guild north of Invrisil has been told unf
+b10.md:1 6.00 line 31: 'Kids' not within +-6 of cite: ~ Kids: gave Ryoka the title Wind Runner; she thinks no guild or city 
+b10.md:40 6.01 line 52: 'Vampires' not within +-6 of cite: + Vampires: no shadow; Himilt casts none (L230, L478)
+b10.md:145 6.04D line 169: 'Earthworlder tech' not within +-6 of cite: + Earthworlder tech: phones and laptops charged by [Repair] spells; Th
+b10.md:178 6.05D line 204: 'Bushrangers' not within +-6 of cite: ! Bushrangers: find Blake, Lorenzo, Diana and Nicoletta and bring them
+b10.md:210 6.06D line 221: 'Geneva's trip' not within +-6 of cite: + Geneva's trip: 16 gold remained of the funds; she performed two surg
+b10.md:210 6.06D line 230: 'Ken's findings' not within +-6 of cite: + Ken's findings: Baleros is the second most dangerous continent, Rhir
+b10.md:210 6.06D line 243: 'Geneva' not within +-6 of cite: ~ Geneva: thinks the world may be flat (L604)
+b10.md:250 6.07D line 257: 'Earthworlders' not within +-6 of cite: + Earthworlders: keep forgetting their families; Aiko, Luan, Paige, Si
+b10.md:250 6.07D line 270: 'Forgotten Wing' not within +-6 of cite: + Forgotten Wing: new Great Company; if Niers or Foliana died it would
+b10.md:286 6.08 line 292: 'Wandering Inn' not within +-6 of cite: + Wandering Inn: five rotating mana stones on the door: Celum, Liscor,
+b10.md:286 6.08 line 308: 'Lyonette's vision' not within +-6 of cite: + Lyonette's vision: Apista sees the inn as a hill castle with a tower
+b10.md:389 6.11 line 408: 'Az'kerash' not within +-6 of cite: + Az'kerash: thought dead in the Second Antinium War; secretly alive; 
+b10.md:450 6.13K line 471: 'Flos' not within +-6 of cite: + Flos: returns at sundown with about eight wagons of gold and artifac
+b11.md:48 6.18H line 70: 'Surviving rumour' not within +-6 of cite: + Surviving rumour: a Flawless Flights [Hunter] told Celum that Cervia
+b11.md:48 6.18H line 75: 'Brawl' not within +-6 of cite: + Brawl: Ceria freezes about ten, Pisces about eight, Yvlon about ten;
+b11.md:48 6.18H line 81: 'Horns of Hammerad' not within +-6 of cite: ! Horns of Hammerad: take the bandit bounty and are alienated from Cel
+b11.md:158 6.21D line 186: 'Rumours' not within +-6 of cite: ~ Rumours: Niers cursed by Queravia, Foliana's treasure map, the unkno
+b11.md:193 6.22D line 196: 'Niers' party' not within +-6 of cite: + Niers' party: about 400 staff, teachers, guards and students made th
+b11.md:193 6.22D line 205: 'Broadcast audience' not within +-6 of cite: + Broadcast audience: King Raelt, Lady Magnolia Reinhart, Wall Lord Il
+b11.md:237 6.23D line 264: 'Wil's army' not within +-6 of cite: ! Wil's army: forced back to one last push after Xol and Tulm's counte
+b11.md:275 6.24D line 282: 'Game casualties' not within +-6 of cite: + Game casualties: seventeen deaths (eight of Niers' side, two civilia
+b11.md:322 6.25 line 324: 'Ryoka Griffin' not within +-6 of cite: + Ryoka Griffin: dreams of Mrsha, the Horns of Hammerad, Periss, the S
+b11.md:367 6.26 line 399: 'Narration' not within +-6 of cite: ~ Narration: the roses and the [Assassins] are unrelated per the footn
+b11.md:410 6.27M line 435: 'Common opinion' not within +-6 of cite: ~ Common opinion: Magnolia Reinhart is a schemer who uses assassins an
+b11.md:449 6.28 line 458: 'Horns of Hammerad' not within +-6 of cite: + Horns of Hammerad: Pisces, Yvlon, Ceria, Ksmvr argue about guarding 
+b11.md:449 6.28 line 477: 'Olesm's critics' not within +-6 of cite: ~ Olesm's critics: say Goblins are historically untrustworthy and comp
+b11.md:640 6.32 line 650: cross-chapter cite not checked: + Garuda: a few hundred in Pallass, outnumbering Humans (6.31 L860)
+b11.md:640 6.32 line 665: 'Zevara' not within +-6 of cite: + Zevara: gives herself less than a week to find a Wistram-certified [
+b11.md:640 6.32 line 667: 'Pallassians' not within +-6 of cite: ~ Pallassians: assert Liscor is foolish to host Antinium; Dullahan spi
+b11.md:640 6.32 line 672: 'Erin' not within +-6 of cite: ! Erin: reaches [Magical Innkeeper] Level 38 and gains [Inn: Partial R
+b12.md:1 6.33E line 21: 'Pirose' not within +-6 of cite: ~ Pirose: says Thivian Stormless probably died in his bed, not at sea 
+b12.md:29 6.34E line 50: 'Laken's [Message]' not within +-6 of cite: + Laken's [Message]: says the Goblins are perhaps people, he is afraid
+b12.md:29 6.34E line 57: 'Laken' not within +-6 of cite: ! Laken: tells Durene he loves her and is coming home (L874)
+b12.md:126 6.35 line 147: 'Ecedale' not within +-6 of cite: + Ecedale: a family has put a bounty on Agratha over the girls she tut
+b12.md:451 6.42E line 455: 'Timeline' not within +-6 of cite: + Timeline: roughly 54 days of travel, 40 since Goblins stopped being 
+b12.md:451 6.42E line 462: 'Laken' not within +-6 of cite: + Laken: senses Riverfarm as hot, like something hot is coming on the 
+b12.md:451 6.42E line 490: 'Ratwhisperer' not within +-6 of cite: ! Ratwhisperer: killed by Belavierr's curse (L397)
+b12.md:547 6.44E line 558: 'Order of Seasons' not within +-6 of cite: + Order of Seasons: Knight-Commander Calirn is a [Winter Knight]; Gran
+b12.md:619 6.46E line 645: 'Belavierr's identity switch' not within +-6 of cite: ! Belavierr's identity switch: the burnt rider is Califor; Belavierr d
+b13.md:27 6.49 line 30: 'Election results' not within +-6 of cite: + Election results: Krshia Silverfang, Elirr Fultpar, Raekea Silversmi
+b13.md:71 6.51A line 77: 'Az'kerash' not within +-6 of cite: + Az'kerash: calls himself an old name, Perril Chandler, once Human, A
+b13.md:71 6.51A line 78: 'Az'kerash' not within +-6 of cite: + Az'kerash: lives in a black-stone castle west of the Bloodfields in 
+b13.md:71 6.51A line 79: 'Az'kerash' not within +-6 of cite: + Az'kerash: remodels a whale as undead for two months, controls puppe
+b13.md:71 6.51A line 80: 'Az'kerash' not within +-6 of cite: + Az'kerash: cannot keep hundreds of puppets; wants to send Kerash as 
+b13.md:71 6.51A line 82: 'Az'kerash' not within +-6 of cite: + Az'kerash: taught Pisces after Venitra, as Regrika Blackpaw, failed 
+b13.md:71 6.51A line 83: 'Az'kerash' not within +-6 of cite: + Az'kerash: gave Pisces the book Perfecting Facets of Undeath by Cred
+b13.md:71 6.51A line 84: 'Az'kerash' not within +-6 of cite: + Az'kerash: casts [Absorb Recollections] on the rat and sees three mo
+b13.md:71 6.51A line 85: 'Az'kerash' not within +-6 of cite: + Az'kerash: makes a deep-dish pizza in his dusty kitchen with Bea, Ve
+b13.md:71 6.51A line 86: 'Az'kerash' not within +-6 of cite: + Az'kerash: laughs for the first time when Pisces and the Horns slide
+b13.md:71 6.51A line 87: 'Az'kerash' not within +-6 of cite: + Az'kerash: tells Bea he is still trying to create life, which he and
+b13.md:71 6.51A line 88: 'Az'kerash' not within +-6 of cite: + Az'kerash: animates a Bone Behemoth folded into Pisces's room and ca
+b13.md:71 6.51A line 89: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: believes Ijvani walks home without a scroll and has not t
+b13.md:71 6.51A line 90: 'Az'kerash' not within +-6 of cite: ! Az'kerash: realizes he is irritated by Pisces and spares him, treati
+b13.md:120 6.53K line 157: 'Flos' not within +-6 of cite: ! Flos: refuses Nsiia's request; per Nsiia he told her to wait and liv
+b13.md:168 6.54K line 179: 'Nerrhavia's troops' not within +-6 of cite: + Nerrhavia's troops: enter Tiqr and loot homes; some citizens taken a
+b13.md:357 6.57 line 368: 'Palt' not within +-6 of cite: + Palt: casts [Mind Blank] on Selys, [Glitterdust Storm] to reveal Pis
+b13.md:391 6.58 line 411: 'Wistram's reply' not within +-6 of cite: + Wistram's reply: pays Montressa's team's fine, asks for her release,
+b13.md:429 6.59 line 444: 'Az'kerash' not within +-6 of cite: + Az'kerash: intercepts Wistram's bounty with [Scribe Thoughts], has B
+b13.md:429 6.59 line 445: 'Az'kerash' not within +-6 of cite: + Az'kerash: reads Pisces's old speech to the Council and laughs; says
+b14.md:1 6.60 line 5: 'Dawil' not within +-6 of cite: + Dawil: wants to return to Terandria within five years and suggests t
+b14.md:111 6.62L line 135: 'Bevussa' not within +-6 of cite: ~ Bevussa: says all Goblins are not bad so not all Necromancers either
+b14.md:145 Interlude_Foliana line 157: 'Elvallian' not within +-6 of cite: + Elvallian: large Baleros trade city around the citadel (L365)
+b14.md:220 6.64 line 232: 'Palt's offer' not within +-6 of cite: + Palt's offer: he can call off Montressa's team if Erin is an ally to
+b14.md:264 6.65 line 275: 'Az'kerash' not within +-6 of cite: + Az'kerash: uses his black-boned skeleton Ijvani to watch Montressa a
+b14.md:264 6.65 line 277: 'Montressa's mission' not within +-6 of cite: + Montressa's mission: Palt tells the team the bounty drops from two t
+b14.md:311 6.66H line 320: 'Az'kerash' not within +-6 of cite: + Az'kerash: watches through Ijvani, tells her to wait until the adven
+b14.md:311 6.66H line 323: 'Casualties of the stand' not within +-6 of cite: + Casualties of the stand: Kam is blasted away by a projectile, Belt v
+b14.md:311 6.66H line 339: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: predicts the Horns will abandon Pisces and betray each ot
+b14.md:400 6.68 line 432: 'Az'kerash' not within +-6 of cite: + Az'kerash: reviews the Creler battle with Ijvani, calls it an amusin
+b14.md:400 6.68 line 433: 'Az'kerash' not within +-6 of cite: + Az'kerash: recalls standing alone on Calanfer's borders as Perril Ch
+b15.md:1 7.00 line 20: 'Bird' not within +-6 of cite: + Bird: sits in a ramshackle tower on the inn roof (L451-452)
+b15.md:78 7.02 line 85: 'Saliss' not within +-6 of cite: + Saliss: says he undresses because his Skills protect his scales from
+b15.md:121 7.03 line 157: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: calls Bird a new Centenium (L1389)
+b16.md:45 Interlude_Dancing_and_Brawling line 72: 'Fierre' not within +-6 of cite: ~ Fierre: says the Savellian knights and Lord Bel fight in perfect for
+b16.md:374 Mating_Rituals_Pt.2 line 393: 'Az'kerash' not within +-6 of cite: + Az'kerash: tells Bea sex is biological and entertainment; he lost a 
+b16.md:417 7.14T line 422: 'Az'kerash' not within +-6 of cite: + Az'kerash: lives in a hidden castle at the foot of the High Passes, 
+b16.md:417 7.14T line 423: 'Az'kerash' not within +-6 of cite: + Az'kerash: formerly Perril Chandler, Archmage of Wistram and "Undyin
+b16.md:417 7.14T line 426: 'Az'kerash' not within +-6 of cite: + Az'kerash: considers pausing his plans for a century; mentions Magno
+b16.md:417 7.14T line 432: 'Az'kerash' not within +-6 of cite: + Az'kerash: casts hundreds of spells, blasting the castle, burning th
+b16.md:417 7.14T line 433: 'Az'kerash' not within +-6 of cite: + Az'kerash: reconstructs Toren a new magical skeleton body; Toren's s
+b16.md:417 7.14T line 434: 'Az'kerash' not within +-6 of cite: + Az'kerash: has the walls sing an old Silvaria hymn; says he will add
+b16.md:417 7.14T line 439: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: says the Wailing Pit and unique Flesh Worms hamper his co
+b16.md:417 7.14T line 440: 'Az'kerash' not within +-6 of cite: ~ Az'kerash: believes Zelkyr may be alive; says only one being still h
+b16.md:417 7.14T line 441: 'Az'kerash' not within +-6 of cite: ! Az'kerash: discovers Toren holds the unwritten key to creating true 
+b16.md:550 7.18M line 580: 'Belavierr' not within +-6 of cite: ~ Belavierr: believes the era cares about importance shown on scrying 
+b17.md:1 Interlude_Strategists_at_Sea_Pt._1 line 10: 'The Emerald Signet' not within +-6 of cite: + The Emerald Signet: galleon with 300+ [Storm Sailors]; Captain Lasc 
+b17.md:1 Interlude_Strategists_at_Sea_Pt._1 line 20: 'Remaining targets' not within +-6 of cite: + Remaining targets: Archmage Zelkyr's cargo ship, the Diamond Swords 
+b17.md:1 Interlude_Strategists_at_Sea_Pt._1 line 23: 'Seventh location' not within +-6 of cite: + Seventh location: the hermit crab is ship-sized, wears a warship as 
+b17.md:1 Interlude_Strategists_at_Sea_Pt._1 line 25: 'Zelkyr's cargo location' not within +-6 of cite: + Zelkyr's cargo location: sold by crew to all buyers, now worthless; 
+b17.md:1 Interlude_Strategists_at_Sea_Pt._1 line 38: 'Wil's group' not within +-6 of cite: ! Wil's group: Zelkyr's cargo found but lost to the crab and golem; lo
+b17.md:48 Interlude_Strategists_at_Sea_Pt._2 line 62: 'Mutiny' not within +-6 of cite: + Mutiny: over two thirds of the 300 crew, bought by various employers
+b17.md:48 Interlude_Strategists_at_Sea_Pt._2 line 73: 'Tearwhales' not within +-6 of cite: + Tearwhales: a pod attacks the fleet, eating Sea Serpents and ships (
+b17.md:133 7.20 line 170: 'Todi's feud' not within +-6 of cite: ! Todi's feud: Pisces insults him, Ceria cuts him, Griffon Hunt smooth
+b17.md:178 Interlude_A_Night_in_the_Inn line 216: 'Earthers' not within +-6 of cite: ! Earthers: reach The Wandering Inn (L1277-1280)
+b17.md:222 7.21KQ line 241: 'A'ctelios footage' not within +-6 of cite: + A'ctelios footage: Athal greets them; the Russian man refuses to ent
+b17.md:222 7.21KQ line 253: 'Hevlca' not within +-6 of cite: + Hevlca: warns Ailendamus is courting Izril's Five Families, includin
+b17.md:402 7.25 line 442: 'Teriarch' not within +-6 of cite: + Teriarch: walks into Celum as a mismatched-eyed half-Elf [Mage], fol
+b17.md:402 7.25 line 448: 'Teriarch' not within +-6 of cite: ! Teriarch: leaves his cave and follows Ryoka to Celum (L1206-1216)
+b17.md:455 7.26 line 483: 'Teriarch' not within +-6 of cite: ~ Teriarch: claims as Eldavin that he abandoned Wistram over a hundred
+b17.md:493 7.27 line 501: 'Flos' not within +-6 of cite: + Flos: sends Joseph a [Message] asking for the rules; Typhenous has J
+b17.md:493 7.27 line 520: 'Teriarch' not within +-6 of cite: + Teriarch: tells Erin safety is an illusion and to value courage and 
+b17.md:493 7.27 line 530: 'Maviola' not within +-6 of cite: ! Maviola: has three weeks left to live, referenced as one of the Grea
+b17.md:577 7.28 line 605: 'Az'kerash' not within +-6 of cite: + Az'kerash: has Chosen Venitra, Kerash (Level 8 [Warrior]), Ijvani an
+b18.md:1 7.29B line 25: 'Earthers' not within +-6 of cite: ! Earthers: agree it is now around 2019 on Earth, with posters and air
+b18.md:191 7.33I line 219: 'Dinner' not within +-6 of cite: + Dinner: Ilvriss wears a Violet Dusker ring that protects against phy
+b18.md:316 7.36C line 331: 'Deaths' not within +-6 of cite: + Deaths: General Telvir (fire pillar), Paxhal and the Garuda (lightni
+b18.md:316 7.36C line 340: 'Ghosts' not within +-6 of cite: + Ghosts: Lacten visits Orjin of Pomle, Ser Vorn his king, Springwater
+b18.md:502 Interlude_Carriages_and_Conversations line 511: 'Karsaeu-Dequoa' not within +-6 of cite: + Karsaeu-Dequoa: bound not to speak of her bond, her master or other 
+b18.md:502 Interlude_Carriages_and_Conversations line 512: 'Karsaeu-Dequoa' not within +-6 of cite: + Karsaeu-Dequoa: says if freed she would destroy Ryoka and Fierre; sa
+b18.md:502 Interlude_Carriages_and_Conversations line 520: 'Riders' not within +-6 of cite: + Riders: discuss the King of Destruction's battle at Daquin versus Tu
+b18.md:502 Interlude_Carriages_and_Conversations line 529: 'Karsaeu-Dequoa' not within +-6 of cite: ~ Karsaeu-Dequoa: states Djinni are not all-powerful but she is strong
+b18.md:538 Interlude_Meetings_and_Friendships line 565: 'Az'kerash' not within +-6 of cite: + Az'kerash: trains four Chosen (Venitra, Ijvani, Bea, Kerash), all be
+b18.md:538 Interlude_Meetings_and_Friendships line 567: 'Az'kerash' not within +-6 of cite: + Az'kerash: promised Belavierr one of his new undead for her help (L5
+b18.md:619 7.40ER line 634: 'Unseen Empire' not within +-6 of cite: + Unseen Empire: [Witches] protected by Laken's laws came to Riverfarm
+b18.md:619 7.40ER line 656: 'Griffon Hunt' not within +-6 of cite: ! Griffon Hunt: hired for a trial week and stays at Riverfarm (L299, L
+b18.md:619 7.40ER line 657: 'Pebblesnatch' not within +-6 of cite: ! Pebblesnatch: recognises Griffon Hunt at the Goblin wall (L487-491)
+b18.md:703 7.41 line 707: 'Az'kerash' not within +-6 of cite: + Az'kerash: alive unknown to the world; can sustain about fourteen si
+b18.md:742 7.42M line 761: 'Ambush' not within +-6 of cite: + Ambush: two wooden posts with invisible mithril wires flip the carri
+b18.md:742 7.42M line 762: 'Faces' not within +-6 of cite: + Faces: the [Trapmaster Assassin] Sithorn (white-haired), Mire the [A
+b19.md:172 7.47K line 203: 'Flos Reimarch' not within +-6 of cite: + Flos Reimarch: his Skill will be unavailable for a crucial month (L9
+b19.md:274 7.49 line 306: 'Noass' not within +-6 of cite: ~ Noass: says the typhoon may last a week to a month (L469)
+b19.md:399 7.51 line 437: ''Bearclaw'' not within +-6 of cite: ! 'Bearclaw': grins in the crowd and slips away (L1349)
+b19.md:442 7.52 line 460: 'Gentlemen Callers' not within +-6 of cite: + Gentlemen Callers: say a client hired them to protect Erin only, ref
+b19.md:592 7.55E line 605: 'Unseen Empire' not within +-6 of cite: + Unseen Empire: eleven nobles have replied for the party after Lady I
+b19.md:592 7.55E line 634: 'Laken' not within +-6 of cite: ~ Laken: believes Rie may have tried to poison Lady Bethal Walchais an

@@ -1,0 +1,7 @@
+- 6.57 L774: who "Aaron" is and what is inside Montressa's attack orb.
+- 6.57 L788: who "L" and the [Emperor] are in the Wistram mission list.
+- 6.58 L896: High Command (Wing Commander Embria) contacting Zevara; content unknown.
+- 6.58 L152: why Montressa gave Erin the name Elenope.
+- 6.59 L289-306: full account of Calvaron's death and Cognita's role.
+- 6.59 L856: which guest Palt means as a close friend of the attacked team.
+- 6.59 L548: what Ijvani holds and why there are beavers; her surveillance target.

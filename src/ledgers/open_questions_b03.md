@@ -1,0 +1,44 @@
+# Open questions Book 3
+
+- 1.00D L6: Geneva tells opening scene as present; flashback gives week-long background; timing gap unclear.
+- 1.00D L204: Centaur raider has a bracelet shining with magic; unexplained.
+- 1.01D L418-453: Okasha the Selphid occupies Geneva body; details of this "forbidden" act and permanence unexplained.
+- 3.06L L266: Klbkch says God is tied to Antinium presence on Rhir; Centenium role unexplained.
+- 3.06L L582-584: Antinium origin and Gods still withheld by Klbkch.
+- 3.07H L440-499: is the guardian really Thresk-made; Yvlon identities Ylawes/Yelen Byres are delusions or family names.
+- 3.08H L175-223: Remendia expected but Ocre reached; relative positions unstated.
+- 3.08H L139: contents of the unburnt bag unknown.
+- 3.09 L227: Fals asks who Erin is, though she is a known innkeeper in Celum; check earlier chapters.
+- 3.09 L259: a faerie vengeance oath against Ryoka; terms unspecified.
+- 3.10 L26: Yvlon says silver was the name she took for her adventuring group; name of former group not given in this chapter.
+- 3.10 L425-435: Rags and a tall crimson-sword Hobgoblin moving north, relation to the Goblin Lord army unclear.
+- 3.11E L82-110: Frostwing species unresolved (eagle vs hawk, green fuzz, low nest).
+- 3.11E L480-491: Riverfarm fate after avalanche.
+- 3.12E L129-135: Conditions for Laken claiming land (permission from owner or leader).
+- 3.12E L405: Prost apology timing vs avalanche; check 3.11E L323.
+- 3.13E L205-212: Magnolia refers to "other children" from Ryoka world as guests; identities not given.
+- 3.13E L372: who is acquiring sulfur.
+- 3.14 L293-294: Laken day count vs avalanche timing (Day 41 vs Day 45 "three days ago").
+- 3.14 L232: Magnolia great grandmother diary and trouble with Circle of Thorns.
+- 3.15 L185: which Runner told Erin about the Horns (Fals via Ryoka?).
+- 3.15 L447-451: Jasi and Grev future in Celum vs Liscor.
+- 3.16 L158: Erin prologue lines come from the Bard of Avalon (Shakespeare equivalent?) per narration.
+- 3.16 L351: [Singer] Level 6 and Skills; check prior.
+- 3.17T L121: Garen sent band to kill Human [Innkeeper]; unclear if Erin.
+- 3.17T L206-213: Horror ranks and Conditions system; mechanics unexplained.
+- 3.18T L92-183: Ylawes Byres is a Gold-rank [Knight]; relation to Yvlon Byres (brother?) unstated; her delusion in 3.07H also named Ylawes.
+- 3.19T L263: who replied "Soon" on Ylawes scroll.
+- 3.19T L244: why Ylawes pales on seeing the Horror face.
+- 3.20T L309 vs L378-383: five vs six Redfang survivors.
+- 3.20T L328: Silver Swords members (Dwarf, half-Elf) unnamed here.
+- 3.21L L226: number of Soldiers in Liscor Hive vs permitted six hundred.
+- 3.21L L8: which events gave Pawn Level 6 and the [Humble Presence] skill.
+- 3.22L L333-340: Niers states the chessboard was sent across the world to an opponent; who is the original opponent (Erin).
+- 3.22L L377-383: Az'kerash sends Venitra and Ijvani for a Courier/Runner; identity.
+- 3.23L L9-12: Lyonette last leveled in her chosen class four years ago; wording ambiguous.
+- 3.23L L451: why Wrymvr and fifth Hive did not send delegates.
+- 3.23L L558: Zel remembers an earlier inn at the site.
+- 3.24 L396-422: Toren link severed; effect on Toren in 3.20T onwards (alive, walking to Liscor) unresolved.
+- 3.24 L297-298: Ylawes is Yvlon brother; Yvlon first claimed Silver Swords.
+- 3.25 L37-39: rare materials Pisces used for Toren (hinted, unnamed).
+- 3.25 L520: Frenzied Hare portal link and wagon passage; door orientation note.

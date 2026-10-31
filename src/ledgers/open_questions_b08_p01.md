@@ -1,0 +1,5 @@
+- 5.30G L186-187: Rags is shown holding a black crossbow while directing the Redfangs; unclear when she acquired it.
+- 5.31G L393-399, L405-412: who forged the attack [Message] and abducted Nesor is unstated.
+- 5.32G L108-111, L398: the friend who warned Laken is not named.
+- 5.33B L18: Zevara glances at a red-light object hidden in her claw during the questioning; function unstated.
+- Interlude_Blackmage L46, L52: [batman] and [twinTrouble_53] are chat handles referenced; identities unstated here.

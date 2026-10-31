@@ -1,0 +1,13 @@
+- Pebblesnatch_and_Garry L40: Klbkch says he was not informed of the Queen's permission for Garry.
+- Pebblesnatch_and_Garry L80: Pebblesnatch is called [Chef] by Garry's reading of her hat; her actual class is not stated.
+- 5.60 L805-811: the student of Az'kerash in Liscor is shown to Reiss as an image but not named.
+- 5.60 L436: which mage assured Tyrion the door would be inoperable is unnamed.
+- 5.60 L402-406: Klbkch's secret plan for the Painted Soldiers is not stated.
+- 5.61 L671: Pebblesnatch is credited with telling the Redfangs that Erin would fight; how she reached them is not shown.
+- 5.61 L720: the second Goblin army's appearance is unexplained to the viewers; narrator's name "Solstice Goblins" is provisional (L786).
+- 5.61 L378: "Miss Arcsinger" and her pulling Skill are not explained.
+- 5.62 L1367-1373: Erin's class-change prompt is cut off mid-line (Skill Crossc-).
+- 5.62 L1057 and L1118 vs 5.60 L677: the Goblins flee "south" toward the mountains, though the High Passes lie north and west.
+- Interlude_B09_1 L546: Garen's key was not on his body; who holds it is unstated, though Greydath says Rags has the key (L111).
+- Interlude_B09_1 L246-259: Ilvriss already knew Az'kerash was alive; how he knew is not stated.
+- Interlude_B09_1 L413-436: Calruz says "she" waits below; who is meant is unstated.

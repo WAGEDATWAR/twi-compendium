@@ -1,0 +1,4 @@
+- Interlude_Niers L195-198: Niers's inferred plan for Tyrion Veltras is not revealed.
+- Interlude_Niers L74-76: who is piling chess pieces on the magical board is not stated (guessed children).
+- 5.44 L305: full moon called one more day away while the moon's absence is also discussed.
+- 5.44 L809-810: the "something new" felt by the Goblins is unexplained.

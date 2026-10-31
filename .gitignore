@@ -1,0 +1,6 @@
+src/Source_Text/
+src/raw_books/
+__pycache__/
+*.pyc
+src/tools/cache/
+src/The Wandering Inn/

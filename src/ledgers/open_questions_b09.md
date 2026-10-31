@@ -1,0 +1,35 @@
+# Open questions Book 9
+
+- 5.45 L5: the five Hobgoblins leading Cave Goblins are described but not named.
+- 5.46 L536: Erin says "Keldram"; probably a slip for Keldrass.
+- 5.47G L353: a mage calls the fire "Enchantment... [Burning Blade]" (singular) vs Rags' spell [Burning Blades] (L165).
+- 5.47G L327/L28: Pellmia and the narration say the tribe is under ten thousand; exact size not stated.
+- 5.48G L669: Reiss says Garen "betrayed the Halfseekers" for the legacy; check earlier books.
+- 5.48G L298: "Great Chieftain of the Mountain" vs Mountain City tribe; Tremborag identified as both.
+- 5.49 L211 vs L245: Ilvriss gives 1,211 gold; Erin calls it "a thousand".
+- 5.49 L80: "Mother of Graves" classification pending.
+- 5.50G L158: Reiss says Garen was "of the Halfseekers"; relates to 5.48G L669.
+- 5.50G L290: Tallis given one of Velan's keys; Tallis unidentified.
+- 5.51G L485-495: Tremborag claims Greydath and Goblin Lords manipulate Goblin Kings; unverified.
+- 5.51G L489: Curulac lived "years" before 100 days of war per Tremborag.
+- 5.52 L795: what "move" Tyrion made regarding the magic door is unexplained.
+- 5.52 L349-353: Tremborag survived a lance through the heart yet kept fighting; not a Skill explanation.
+- 5.52 L146 vs earlier: the number of weeks of rain stated as a month.
+- 5.53 L379: Greydath says he humbled Garen; Garen and Greydath ties unclear.
+- 5.53 L332: Greydath calls the Hobs "a fragment" of a tribe; meaning unclear.
+- 5.53 L436-437: Bird's fate after being struck remains unknown.
+- 5.54 L901: Typhenous swaps the stone-color mapping (green for Celum, blue for Liscor) versus earlier 5.52 L14.
+- 5.54 L849: Eltistiman's employer is a [Lady] with horticulture taste (probably Magnolia, unstated).
+- 5.54 L854: the Smiling Man employs Typhenous.
+- Interlude_Krshia L440: Gnoll Chieftain "Kerash" died a century ago; compare Az'kerash.
+- Interlude_Krshia L461-463: Wistram incident forty years ago; Krshia says she had just been born, check against her age.
+- 5.55G L357: [Deathbolt] kills those under Level 30 when Az'kerash casts it and under Level 15 when Reiss casts it; Rags survives.
+- 5.55G L329: Pyrite mentions a pink flying thing Eater of Spears missed with an axe; unidentified.
+- 5.56G L379-383: Pyrite's survival mechanism (eating magic gemstones) is described as unverified.
+- 5.56G L461-462: Badarrow speaks English-like dialogue to Erin ("No.").
+- 5.57 L270 vs L623: Halassia Evergleam spelled "Halassia Evergleam" and "Halassia Evergleam"; check consistency.
+- 5.57 L113: Garen had been with the Halfseekers for a year when the memory occurs.
+- 5.58 L172: Jelaqua offers Garen membership while wearing a dead female Human body; compare to male Human body at L372.
+- 5.58 L696: after Garen leaves, whether the Halfseekers followed him to a duel is only implied (L683-695).
+- 5.59 L447-449: Erin garbles Spiderslicer as "Spiderbite".
+- 5.59 L540: Poisonbite says Rags spoke to Greybeard; check against earlier chapters.

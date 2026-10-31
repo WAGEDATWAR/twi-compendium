@@ -1,0 +1,302 @@
+event	seq	cite	name_or_class	value
+level	2	(Book 1, Ch1.01 L87)	Innkeeper	1
+skill	2	(Book 1, Ch1.01 L88)	Skill	Basic Cleaning
+skill	2	(Book 1, Ch1.01 L89)	Skill	Basic Cooking
+class	3	(Book 1, Ch1.02 L99)	Mysterious Blue Fruit	
+level	4	(Book 1, Ch1.03 L72)	Innkeeper	4
+level	8	(Book 1, Ch1.07 L350)	Innkeeper	5
+skill	8	(Book 1, Ch1.07 L351)	Skill	Basic Crafting
+level	16	(Book 1, Ch1.14 L187)	Innkeeper	6
+level	18	(Book 1, Ch1.16 L56)	Innkeeper	9
+skill	18	(Book 1, Ch1.16 L57)	Skill	Tavern Brawling
+skill	18	(Book 1, Ch1.16 L58)	Skill	Unerring Throw
+level	26	(Book 1, Ch1.22 L268)	Innkeeper	10
+skill	26	(Book 1, Ch1.22 L269)	Skill	Alcohol Brewer
+skill	26	(Book 1, Ch1.22 L270)	Skill	Dangersense
+level	29	(Book 1, Ch1.24 L386)	Strategist	1
+level	34	(Book 1, Ch1.27 L223)	Innkeeper	11
+skill	34	(Book 1, Ch1.27 L224)	Skill	Lesser Strength Obtained
+skill	34	(Book 1, Ch1.27 L225)	Skill	Immortal Moment Learned.
+level	45	(Book 1, Ch1.33 L2)	Innkeeper	12
+level	45	(Book 1, Ch1.33 L387)	Innkeeper	13
+skill	45	(Book 1, Ch1.33 L388)	Skill	Loud Voice
+level	54	(Book 1, Ch1.38 L335)	Innkeeper	15
+skill	58	(Book 1, Ch1.41 L507)	Skill	Power Strike Learned.
+skill	58	(Book 1, Ch1.41 L510)	Skill	Indomitable Will Learned.
+level	65	(Book 1, Ch1.45 L4)	Innkeeper	18
+skill	65	(Book 1, Ch1.45 L5)	Skill	Immunity: Alcohol
+skill	65	(Book 1, Ch1.45 L6)	Skill	Quick Recovery
+level	74	(Book 2, Ch2.08 L227)	Warrior	2
+skill	74	(Book 2, Ch2.08 L228)	Skill	Lesser Endurance Obtained
+level	78	(Book 2, Ch2.11 L369)	Innkeeper	19
+level	81	(Book 2, Ch2.00G L261)	Leader	2
+skill	81	(Book 2, Ch2.00G L262)	Skill	Aura of Command Obtained
+level	81	(Book 2, Ch2.00G L264)	Tinkerer	1
+skill	81	(Book 2, Ch2.00G L265)	Skill	Basic Repair Obtained
+level	85	(Book 2, Ch2.16 L460)	Innkeeper	20
+level	85	(Book 2, Ch2.16 L461)	Innkeeper	21
+skill	85	(Book 2, Ch2.16 L462)	Skill	Advanced Cooking Obtained
+skill	85	(Book 2, Ch2.16 L463)	Skill	Advanced Crafting Obtained
+level	85	(Book 2, Ch2.16 L465)	Singer	6
+skill	85	(Book 2, Ch2.16 L466)	Skill	Perfect Recall Obtained
+skill	85	(Book 2, Ch2.16 L467)	Skill	Control Pitch Obtained
+level	89	(Book 2, Ch2.19 L443)	Innkeeper	25
+skill	89	(Book 2, Ch2.19 L444)	Skill	Inn’s Aura Obtained
+skill	89	(Book 2, Ch2.19 L445)	Skill	Magical Cooking Learned.
+level	92	(Book 2, Ch2.01T L115)	Skeleton Warrior	16
+skill	92	(Book 2, Ch2.01T L116)	Skill	Even Footing Obtained
+level	92	(Book 2, Ch2.01T L283)	Skeleton Knight	20
+skill	92	(Book 2, Ch2.01T L284)	Skill	Power Strike Obtained
+skill	92	(Book 2, Ch2.01T L285)	Skill	Weapon Proficiency: Shield Obtained
+skill	92	(Book 2, Ch2.01T L286)	Skill Change	Power Strike → Mirage Cut
+skill	92	(Book 2, Ch2.01T L287)	Skill	Mirage Cut Obtained
+skill	94	(Book 2, Ch2.22 L447)	Skill Change	Power Strike → Minotaur Punch
+skill	94	(Book 2, Ch2.22 L448)	Skill	Minotaur Punch Obtained
+level	96	(Book 2, Ch1.01C L45)	Clown	24
+skill	96	(Book 2, Ch1.01C L46)	Skill	Greater Pain Tolerance Obtained.
+skill	96	(Book 2, Ch1.01C L47)	Skill	Devil’s Luck Obtained.
+skill	96	(Book 2, Ch1.01C L48)	Condition	Horrific Laughter Received.
+skill	96	(Book 2, Ch1.01C L49)	Condition	Lesser Insanity Received.
+level	96	(Book 2, Ch1.01C L201)	Hero	2
+skill	96	(Book 2, Ch1.01C L202)	Skill	Weapon Proficiency: Knives Obtained
+level	101	(Book 2, Ch2.26 L511)	Acolyte	1
+skill	101	(Book 2, Ch2.26 L512)	Skill	Prayer Obtained
+level	105	(Book 2, Ch2.29 L460)	Barefoot Runner	8
+skill	105	(Book 2, Ch2.29 L461)	Skill	Flawless Stride
+skill	105	(Book 2, Ch2.29 L462)	Skill	Enhanced Movement
+skill	105	(Book 2, Ch2.29 L463)	Skill	Dangersense
+level	112	(Book 2, Ch2.32 L340)	Barefoot Runner	1
+level	112	(Book 2, Ch2.32 L340)	Disciple	3
+level	116	(Book 2, Ch2.36 L261)	Innkeeper	26
+level	123	(Book 3, Ch3.00E L446)	Emperor	1
+skill	123	(Book 3, Ch3.00E L447)	Skill	Aura of the Emperor
+level	124	(Book 3, Ch3.01E L278)	Emperor	4
+skill	124	(Book 3, Ch3.01E L279)	Skill	King’s Bounty
+level	129	(Book 3, Ch1.00D L136)	Doctor	1
+skill	129	(Book 3, Ch1.00D L137)	Skill	Lesser Resistance: Disease
+level	129	(Book 3, Ch1.00D L297)	Doctor	4
+skill	129	(Book 3, Ch1.00D L298)	Skill	Hygienic Hands
+skill	129	(Book 3, Ch1.00D L299)	Skill	Lesser Resistance: Infection
+level	130	(Book 3, Ch1.01D L192)	Doctor	11
+skill	130	(Book 3, Ch1.01D L193)	Skill	Injury Sense
+skill	130	(Book 3, Ch1.01D L194)	Skill	Sterile Equipment
+level	136	(Book 3, Ch3.11E L154)	Emperor	5
+level	136	(Book 3, Ch3.11E L156)	Beast Tamer	1
+skill	136	(Book 3, Ch3.11E L157)	Skill	Lesser Bond: Frostwing
+level	136	(Book 3, Ch3.11E L212)	Beast Tamer	2
+level	136	(Book 3, Ch3.11E L317)	Emperor	6
+skill	136	(Book 3, Ch3.11E L318)	Skill	Intimidating Glare
+level	136	(Book 3, Ch3.11E L464)	Emperor	7
+level	137	(Book 3, Ch3.12E L392)	Emperor	9
+skill	137	(Book 3, Ch3.12E L393)	Skill	Empire: Blessing of the Hearth Obtained
+level	140	(Book 3, Ch3.15 L456)	Innkeeper	27
+level	141	(Book 3, Ch3.16 L566)	Innkeeper	29
+skill	141	(Book 3, Ch3.16 L567)	Skill	Crowd Control Obtained
+skill	142	(Book 3, Ch3.17T L207)	Condition	Terrible Hunger Received.
+skill	142	(Book 3, Ch3.17T L208)	Condition	Outcast Humanity Received.
+skill	142	(Book 3, Ch3.17T L212)	Skill	Aroma of Spring Lost.
+skill	142	(Book 3, Ch3.17T L213)	Skill	Winter Growth Lost.
+skill	142	(Book 3, Ch3.17T L226)	Condition	Wordless Thing Received.
+skill	142	(Book 3, Ch3.17T L227)	Skill	Gaping Bite Obtained.
+skill	142	(Book 3, Ch3.17T L229)	Skill	Quick Growth Lost.
+level	143	(Book 3, Ch3.18T L340)	Leader	1
+skill	143	(Book 3, Ch3.18T L341)	Skill	Command Lesser Undead
+level	144	(Book 3, Ch3.19T L198)	Leader	4
+skill	144	(Book 3, Ch3.19T L199)	Skill	Daring Charge
+skill	145	(Book 3, Ch3.20T L88)	Condition	Terrible Hunger Removed
+level	147	(Book 3, Ch3.22L L324)	Barmaid	8
+skill	147	(Book 3, Ch3.22L L325)	Skill	Basic Cleaning
+level	147	(Book 3, Ch3.22L L327)	Carer	2
+skill	147	(Book 3, Ch3.22L L328)	Skill	Calming Touch
+level	147	(Book 3, Ch3.22L L330)	Tactician	1
+skill	147	(Book 3, Ch3.22L L331)	Skill	Lesser Intuition
+level	148	(Book 3, Ch3.23L L271)	Beast Tamer	1
+skill	148	(Book 3, Ch3.23L L272)	Skill	Healthy Rearing
+level	157	(Book 4, Ch3.31G L3)	Tactician	16
+level	157	(Book 4, Ch3.31G L5)	Chieftain	15
+skill	157	(Book 4, Ch3.31G L8)	Skill	Tribe: Fleet Foot
+skill	157	(Book 4, Ch3.31G L9)	Skill	Lesser Tinkering
+level	166	(Book 4, Ch3.33 L515)	Innkeeper	30
+skill	166	(Book 4, Ch3.33 L517)	Skill	Inn: Magical Grounds
+skill	166	(Book 4, Ch3.33 L518)	Skill	Inn: Field of Preservation
+level	193	(Book 5, Ch4.15L L60)	Acolyte	8
+skill	193	(Book 5, Ch4.15L L61)	Skill	Mass Prayer
+level	197	(Book 5, Ch1.03D L309)	Warrior	4
+level	197	(Book 5, Ch1.03D L311)	Negotiator	2
+skill	197	(Book 5, Ch1.03D L312)	Skill	Amateur Linguist
+skill	197	(Book 5, Ch1.03D L313)	Skill	Polite Demeanor
+level	199	(Book 5, Ch1.05D L425)	Medic	4
+skill	199	(Book 5, Ch1.05D L426)	Skill	Quick Sprint
+skill	199	(Book 5, Ch1.05D L427)	Skill	Sympathetic Ear
+level	201	(Book 5, Ch4.18 L205)	Magical Innkeeper	31
+level	204	(Book 5, Ch4.21E L193)	Emperor	10
+skill	204	(Book 5, Ch4.21E L194)	Skill	Empire: Low-born Militias Obtained
+skill	204	(Book 5, Ch4.21E L195)	Skill	Rallying Presence Obtained
+level	204	(Book 5, Ch4.21E L285)	Beast Tamer	5
+level	204	(Book 5, Ch4.21E L427)	Beast Tamer	7
+skill	204	(Book 5, Ch4.21E L428)	Skill	Animals: Basic Command Obtained
+level	206	(Book 5, Ch4.23E L388)	Emperor	15
+skill	206	(Book 5, Ch4.23E L389)	Skill	Empire: Art of the Builder Obtained
+skill	206	(Book 5, Ch4.23E L390)	Skill	Undying Loyalty Learned.
+level	210	(Book 5, Ch4.27H L2)	Warrior	1
+skill	210	(Book 5, Ch4.27H L3)	Skill	Basic Footwork
+level	210	(Book 5, Ch4.27H L4)	Princess	6
+skill	210	(Book 5, Ch4.27H L5)	Skill	Royal Tax
+level	214	(Book 5, Ch4.31 L208)	Magical Innkeeper	32
+skill	214	(Book 5, Ch4.31 L209)	Skill	Inn: Reinforced Structure
+level	223	(Book 6, Ch4.35E L374)	Emperor	19
+skill	223	(Book 6, Ch4.35E L375)	Skill	Imperial Levy
+skill	223	(Book 6, Ch4.35E L376)	Skill	Empire: Darksky Riders
+level	225	(Book 6, Ch4.37O L482)	Tactician	28
+skill	225	(Book 6, Ch4.37O L483)	Skill	Rallying Presence Obtained
+level	233	(Book 6, Ch4.45 L409)	Magical Innkeeper	33
+level	246	(Book 7, Ch5.04 L293)	Magical Innkeeper	34
+skill	246	(Book 7, Ch5.04 L294)	Skill	Inn: Grand Theatre
+level	248	(Book 7, Ch5.06M L335)	Beast Tamer	6
+level	248	(Book 7, Ch5.06M L336)	Gardener	3
+level	248	(Book 7, Ch5.06M L337)	Mage	2
+level	248	(Book 7, Ch5.06M L341)	Druid	2
+skill	248	(Book 7, Ch5.06M L342)	Skill	Spell: Wild Growth
+skill	248	(Book 7, Ch5.06M L343)	Skill Change	Wild Affinity → Peace of the Wild
+skill	248	(Book 7, Ch5.06M L344)	Skill	Peace of the Wild
+level	260	(Book 7, Ch5.17S L97)	Heiress	4
+skill	260	(Book 7, Ch5.17S L98)	Skill	Increased Income
+skill	260	(Book 7, Ch5.17S L99)	Skill	Lingering Presence
+level	261	(Book 7, Ch5.18S L930)	Receptionist	19
+level	261	(Book 7, Ch5.18S L931)	Heiress	6
+skill	261	(Book 7, Ch5.18S L932)	Skill	Legacy Whispers: Heartflame Set
+level	263	(Book 7, Ch5.20G L733)	Chieftain	20
+skill	263	(Book 7, Ch5.20G L734)	Skill	Tribe: Scavenger Armor Obtained
+level	268	(Book 8, Ch5.24L L417)	Carer	8
+level	268	(Book 8, Ch5.24L L418)	Beast Tamer	5
+skill	268	(Book 8, Ch5.24L L419)	Skill	Apista: Basic Training
+level	268	(Book 8, Ch5.24L L489)	Barmaid	15
+skill	268	(Book 8, Ch5.24L L490)	Skill	Balanced Posture
+level	268	(Book 8, Ch5.24L L491)	Warrior	4
+skill	268	(Book 8, Ch5.24L L494)	Skill	Detect Poison lost.
+skill	268	(Book 8, Ch5.24L L495)	Skill	Royal Tax lost.
+skill	270	(Book 8, Ch5.26L L577)	Skill	Detect Poison restored.
+skill	270	(Book 8, Ch5.26L L578)	Skill	Royal Tax restored.
+level	270	(Book 8, Ch5.26L L585)	Worldly Princess	11
+skill	270	(Book 8, Ch5.26L L586)	Skill	Basic Crafting
+skill	270	(Book 8, Ch5.26L L587)	Skill	Weapon Proficiency: Sword
+skill	270	(Book 8, Ch5.26L L588)	Skill	Basic Negotiator
+skill	270	(Book 8, Ch5.26L L589)	Skill	Basic Leadership
+skill	270	(Book 8, Ch5.26L L590)	Skill	Flawless Attempt
+level	277	(Book 8, Ch5.33B L741)	Singer	7
+skill	277	(Book 8, Ch5.33B L742)	Skill	Soothing Melody
+level	279	(Book 8, Ch5.34 L545)	Warrior	20
+skill	279	(Book 8, Ch5.34 L547)	Skill	Fury Strength
+skill	279	(Book 8, Ch5.34 L548)	Skill	Overpowering Blow
+level	282	(Book 8, Ch5.37G L381)	Chieftain	24
+skill	282	(Book 8, Ch5.37G L382)	Skill	Tribe: Rapid Reload
+skill	282	(Book 8, Ch5.37G L383)	Skill	Flashfire Spellcraft
+skill	282	(Book 8, Ch5.37G L384)	Spell	Burning Blades
+level	286	(Book 8, Ch5.41 L589)	Warrior	24
+level	286	(Book 8, Ch5.41 L593)	Archer	25
+skill	286	(Book 8, Ch5.41 L596)	Skill Change	Keen Eyes → Eagle Eyes
+level	286	(Book 8, Ch5.41 L600)	Warrior	19
+level	290	(Book 8, Ch5.44 L805)	Magical Innkeeper	36
+skill	290	(Book 8, Ch5.44 L806)	Skill	Natural Allies: Goblins
+level	298	(Book 9, Ch5.47G L262)	Chieftain	25
+skill	300	(Book 9, Ch5.49 L829)	Skill	Champion’s Gear
+skill	300	(Book 9, Ch5.49 L830)	Skill	Grand Slash
+skill	300	(Book 9, Ch5.49 L831)	Skill	Valor of Champions
+level	312	(Book 9, Ch5.59 L880)	Magical Innkeeper	37
+level	316	(Book 9, Ch5.62 L1370)	General	6
+skill	316	(Book 9, Ch5.62 L1371)	Skill	Inspiring Words
+skill	316	(Book 9, Ch5.62 L1372)	Skill	All-or-Nothing Charge
+level	325	(Book 10, Ch6.02 L737)	Miner	1
+skill	325	(Book 10, Ch6.02 L738)	Skill	Durable Picks
+level	326	(Book 10, Ch6.03 L543)	Bard	27
+skill	326	(Book 10, Ch6.03 L544)	Skill	Song of Rejuvenation
+level	331	(Book 10, Ch6.08 L801)	Worldly Princess	17
+skill	331	(Book 10, Ch6.08 L802)	Skill	Apista: Enhanced Intelligence
+skill	331	(Book 10, Ch6.08 L803)	Skill	Apista: Agile Flier
+skill	331	(Book 10, Ch6.08 L804)	Skill	Imperial Aura
+level	333	(Book 10, Ch6.10 L597)	Miner	6
+skill	333	(Book 10, Ch6.10 L598)	Skill	Grinder Teeth
+level	333	(Book 10, Ch6.10 L599)	Bard	29
+level	345	(Book 11, Ch6.17S L621)	Heiress	11
+skill	345	(Book 11, Ch6.17S L622)	Skill	Everything Has a Price
+level	357	(Book 11, Ch6.29 L1045)	Acolyte	18
+level	361	(Book 11, Ch6.32 L1197)	Magical Innkeeper	38
+skill	361	(Book 11, Ch6.32 L1198)	Skill	Inn: Partial Reconstruction
+level	370	(Book 12, ChInterlude_Numbtongue_Pt.2 L1150)	Goblin Soulbard	30
+skill	370	(Book 12, ChInterlude_Numbtongue_Pt.2 L1152)	Skill	A Minute, Reborn
+skill	370	(Book 12, ChInterlude_Numbtongue_Pt.2 L1153)	Skill	Ballad of Bravery
+level	377	(Book 12, Ch6.41E L1242)	Paladin	17
+skill	377	(Book 12, Ch6.41E L1243)	Skill	Iron Skin
+level	378	(Book 12, ChInterlude_Two_Rats L852)	Magical Innkeeper	39
+level	385	(Book 12, Ch6.47E L380)	Emperor	20
+skill	385	(Book 12, Ch6.47E L381)	Skill	Group: Surge of Inspiration
+skill	385	(Book 12, Ch6.47E L382)	Skill	Empire: Fields of Bounty
+level	411	(Book 14, ChInterlude_Talia L1140)	Champion	28
+skill	411	(Book 14, ChInterlude_Talia L1141)	Skill	Steelcut Sunder
+class	411	(Book 14, ChInterlude_Talia L1142)	Knight	
+level	411	(Book 14, ChInterlude_Talia L1143)	Knight	2
+skill	411	(Book 14, ChInterlude_Talia L1144)	Skill	Reinforced Armor (Steel)
+skill	411	(Book 14, ChInterlude_Talia L1145)	Skill	Basic Riding
+level	415	(Book 14, Ch6.63P L828)	Actress	25
+skill	415	(Book 14, Ch6.63P L830)	Skill	Perfect Imitation
+skill	415	(Book 14, Ch6.63P L831)	Skill	Refinement by Accolade
+level	419	(Book 14, Ch6.67 L954)	Magical Innkeeper	40
+skill	419	(Book 14, Ch6.67 L956)	Skill	Inn: Unlimited Mana Pool
+skill	419	(Book 14, Ch6.67 L957)	Skill	Kamehameha Punch
+level	420	(Book 14, Ch6.68 L1180)	Magical Innkeeper	40
+skill	420	(Book 14, Ch6.68 L1181)	Skill	Inn: Garden of Sanctuary
+skill	420	(Book 14, Ch6.68 L1182)	Skill	Like Fire, Memory
+level	434	(Book 15, Ch7.05P L624)	Cook	6
+skill	434	(Book 15, Ch7.05P L625)	Skill	Ingredients Sense (Minor)
+level	434	(Book 15, Ch7.05P L734)	Cook	7
+level	434	(Book 15, Ch7.05P L787)	Cook	8
+level	434	(Book 15, Ch7.05P L851)	Cook	10
+skill	434	(Book 15, Ch7.05P L854)	Skill	Natural Oils
+skill	434	(Book 15, Ch7.05P L855)	Skill	One More Portion
+level	438	(Book 15, Ch7.09K L1332)	Sand Mage	18
+skill	438	(Book 15, Ch7.09K L1333)	Skill	Create Lifesand Golems
+skill	438	(Book 15, Ch7.09K L1334)	Spell	Karas Duststorm
+level	451	(Book 16, ChInterlude_Burning_Alcohol L890)	Magical Innkeeper	41
+level	452	(Book 16, ChInterlude_The_Hangover_After L215)	Goblin Soulbard	32
+skill	453	(Book 16, Ch7.12G L920)	Spell	Fast Fireball
+skill	453	(Book 16, Ch7.12G L921)	Skill	Dual Shot
+level	454	(Book 16, Ch7.13K L1031)	Duelist	35
+skill	454	(Book 16, Ch7.13K L1032)	Skill Change	Quick Step → Flash Step
+level	454	(Book 16, Ch7.13K L1033)	King	28
+level	454	(Book 16, Ch7.13K L1052)	King	28
+skill	454	(Book 16, Ch7.13K L1053)	Skill	Aura of the Lion
+level	454	(Book 16, Ch7.13K L1082)	King	30
+skill	454	(Book 16, Ch7.13K L1085)	Skill	Army: Flicker Charge
+skill	454	(Book 16, Ch7.13K L1086)	Skill	Royal Arms
+skill	458	(Book 16, Ch7.16L L1081)	Skill	Recaptured Sublimity
+level	466	(Book 17, Ch7.19 L608)	Druid	7
+skill	466	(Book 17, Ch7.19 L609)	Skill	Ambient Mana Gatherer
+level	470	(Book 17, Ch7.22D L967)	Doctor	34
+skill	470	(Book 17, Ch7.22D L968)	Skill	Disease Detector
+level	471	(Book 17, Ch7.23LM L846)	Worldly Princess	20
+level	471	(Book 17, Ch7.23LM L1441)	Strategist	33
+skill	471	(Book 17, Ch7.23LM L1442)	Skill	Instantaneous Barrage (Phantom Arrows)
+level	471	(Book 17, Ch7.23LM L1443)	Lady Firestarter	49
+skill	471	(Book 17, Ch7.23LM L1444)	Skill	Conjure Fast Fireball
+level	474	(Book 17, Ch7.26 L1563)	Magical Innkeeper	43
+level	477	(Book 17, Ch7.28 L2)	Spearmaster	36
+skill	477	(Book 17, Ch7.28 L3)	Skill	Recall Weapon: Spear
+level	477	(Book 17, Ch7.28 L4)	Guardsman	17
+skill	477	(Book 17, Ch7.28 L5)	Skill	Eyes In The Back
+level	477	(Book 17, Ch7.28 L966)	Druid	8
+level	480	(Book 18, Ch7.31 L1705)	Magical Innkeeper	44
+skill	480	(Book 18, Ch7.31 L1706)	Skill	Inn: Compartments of Holding
+level	485	(Book 18, Ch7.35C L585)	Foreign Commander	33
+level	497	(Book 19, Ch7.43G L578)	Great Chieftain	34
+skill	497	(Book 19, Ch7.43G L579)	Skill	Natural Allies: Ogres
+skill	497	(Book 19, Ch7.43G L580)	Spell	Ogre’s Strength
+level	497	(Book 19, Ch7.43G L1044)	Gambler	4
+skill	497	(Book 19, Ch7.43G L1045)	Skill	Sense Trickery
+skill	497	(Book 19, Ch7.43G L1046)	Skill	Weak Lucky Draw
+level	497	(Book 19, Ch7.43G L1047)	Goblin Soulbard	34
+skill	497	(Book 19, Ch7.43G L1049)	Skill	Flash Cut
+skill	501	(Book 19, Ch7.47K L915)	Skill	Shadowcut Blade
+skill	501	(Book 19, Ch7.47K L916)	Skill	Acrobat’s Form
+skill	501	(Book 19, Ch7.47K L917)	Skill	Sword: Keening Edge
+skill	501	(Book 19, Ch7.47K L918)	Skill	Enhanced Strength
+skill	504	(Book 19, ChInterlude_Experiments_in_Golems L1306)	Skill	Sentience-class Crafting

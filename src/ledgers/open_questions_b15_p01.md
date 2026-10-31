@@ -1,0 +1,13 @@
+# Open questions b15_p01
+- 7.00 L637: were Isceil's remains taken by Palt/Montressa/Beza?
+- 7.00 L652: where does the Wyvern weyr settle?
+- 7.01 L956: who is the "Lizardwoman in Wistram" who could etch Grasgil?
+- 7.01 L975: what was the impure-steel sin that drove Pelt from the Dwarven homeland?
+- 7.01 L969: "Palt" appears where Pelt is meant (typo).
+- 7.02 L1166: do Watch Captain Rekhassha and the Day Strategist survive the frost orb?
+- 7.02 L1212: how do Az'kerash, Tyrion Veltras and Magnolia respond to the Pallass attack news?
+- 7.02 L765: Saliss's remark that Erin reached Level 40 before thirty.
+- 7.03 L1021: Is Lasica pregnant? (hinted, not stated)
+- 7.03 L1310: what summoning spell does Nereshal connect to Erin?
+- 7.03 L1381: will Bird claim of being a Prognugator be treated as war?
+- Story_1 L9: when does the city return the magic door?

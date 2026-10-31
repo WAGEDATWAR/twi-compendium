@@ -1,0 +1,9 @@
+- 7.38 L145: where was Relc reassigned?
+- 7.38 L1007: who is Master Felkhr and what is the "flight" lead Grimalkin pursues?
+- 7.39A L1096/L1311: Wrymvr "insane" per Xrn vs Twisted Queen explanation; what is the Twisted Queen completed project that removes the need for Queens (L1317-1326)?
+- 7.39A L519: Grand Queen says Xrn did not know her return plan; did Xrn lie?
+- Interlude_Carriages L255: who are the "visitors of winter" Karsaeu-Dequoa misses and why warn against Chandrar?
+- Interlude_Meetings L168: will Saliss supply Maviola more Potion of Youth?
+- Interlude_Meetings L549: what is Belavierr weaving with the Chosen bullying and Toren slime bond (L635)?
+- Interlude_Sand L172: what wager did Fetohep of Khelt lose to give the condensation stone?
+- Interlude_Sand L339: why does Lady Pryde send Grimalkin lifting lists?

@@ -1,0 +1,6 @@
+- 6.48T L10 vs L841: Toren calls Erin dead, but hears her inn named at the end.
+- 6.49 L930 Jeiss: Watch lost its [Mage] unit 24 years ago; check against earlier Necromancer references.
+- 6.50I L202-215: Ilvriss's 'Salazsar' ring appears gold to Erin only; cause unknown.
+- 6.51A L649: Az'kerash only now remembers Ijvani's absence; earlier text says Ijvani waits unheard for 96 days.
+- 6.52K L88: Erin's memory blurs at the thought of "her dad" mid-conversation.
+- 6.52K L773-782: Rémi Canada; Feor calls Canada "one of the countries from the other world", confirm whether Rémi is an earthling.

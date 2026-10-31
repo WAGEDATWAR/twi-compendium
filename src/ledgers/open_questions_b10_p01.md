@@ -1,0 +1,13 @@
+# Open questions b10 p01
+- 6.12K L396: Flos claims never to have heard of a [Preacher]; check against earlier religion mentions.
+- 6.12K L120: Is the child Quarass truly a lineage-less look-alike? Ritual rules uncertain (Ilhmet improvised).
+- 6.13K L226: cause of Gazi's damaged main eye.
+- 6.13K L317: Amerys remaining in Wistram, possible traitor.
+- 6.13K L735: why Pelt rejects any impurity; his past as an outcast (L884).
+- 6.14K L309: Queravia's relationship with Flos and her fate not explained.
+- 6.14K L315: Tottenval's death at sea unexplained.
+- 6.15K L607: contents of the Emperor of Sands letter to the southern rulers.
+- 6.15K L498: Emperor of Sands claim not finished by Femithain.
+- 6.16 L858: unnamed Level 50+ [Innkeeper] up north.
+- 6.16 L437: Pelt exile and forge master incident per Dawil.
+- 6.16 L692: how Typhenous obtained about 7,000 gold; to be revealed in a talk with Halrac.

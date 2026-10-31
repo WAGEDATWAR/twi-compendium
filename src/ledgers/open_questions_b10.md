@@ -1,0 +1,25 @@
+# Open questions Book 10
+
+- 6.00 L101: Bloodfeast Raiders reported near Gilliel Swamplands two months before; not seen again here.
+- 6.00 L215: Ryoka reaches Blaiseford in six hours vs the guild estimate of eight hours.
+- 6.01 L844: Ryoka compares vampire illness to AIDS; cause unknown.
+- 6.01 L255: Fluffles "the Sixth" implies five earlier Fluffles.
+- 6.02 L146: Zevara and Lyonette still unaware how long Erin will stay silent.
+- 6.02 L728: Numbtongue lists six graves though earlier text mentions "five graves" before the sixth; Rabbiteater and Badarrow appear in list of the dead (L403).
+- 6.03 L411: Erin calls Asrira "Captain/Major Scaleshield" (Ilvriss speaking) while 6.02 says Shieldscale; likely slip.
+- 6.04D L81 vs L66: Luan is called an Olympic rower; elsewhere "South African" (L162) and "Olympic hopeful" (L155).
+- 6.04D L54: Chapter text mixes timeline; flashback sections not individually dated.
+- 6.05D L641: Okasha is an assistant of Geneva whom Daly says must remain unknown; no description.
+- 6.05D L719: Tofte is called Norwegian here; 6.04D (L24, L655) says Siri and Tofte were Swedish-linked ("the other, from Sweden"); check.
+- 6.06D L643-646: Ken lists Great Companies as Iron Vanguard, Maelstrom Howling, Forgotten Wing, Eyes of Baleros; Aiko says Centaurs/Dullahans/Gazers/Forgotten Wing.
+- 6.06D L892-894 vs 6.04D: crossbow text; Dawson is called Australian patriot (L464 of 6.05D).
+- 6.07D L683: "Her" after the flag illustration is not named; presumably Erin (white flag in Liscor battle).
+- 6.07D L447: "annual/biennial" Professor game frequency unclear.
+- 6.08 L595: Klbkch says Pawn, Belgrade or Anand must supervise Workers; Pawn recovery status unclear.
+- 6.08 L570: Narration says Relc "killed Garen Redfang", consistent with earlier books; not detailed here.
+- 6.09 L476-501: Pallass charges five gold for use of the Liscor door; Zevara unaware per Erin.
+- 6.09 L296: Erin recalls "Venim and the Assembly" gave poor welcome last time.
+- 6.10 L26 vs L383: Numbtongue/Pyrite call it mana sludge; Typhenous calls it magicore (layfolk term).
+- 6.10 L505: Falene says over a month spent aiding Ylawes sister; dating vs other chapters unclear.
+- 6.11 L388 vs 6.02 L303: Shieldscale is called Asrira in 6.02 and Osthmissa in 6.11, cover for Osthia Blackwing; both may be false names.
+- 6.11 L433: Ilvriss lists those who know Az'kerash lives; excludes Zevara, Olesm.

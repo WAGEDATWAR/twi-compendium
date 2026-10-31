@@ -1,0 +1,11 @@
+- Ch502 L632: Az'kerash calls "Shivertail" one of the most dangerous mortals; unclear context.
+- Ch503 L563-567: origin and effect of Erin's gold flowers (Avalon) and Saliss's "Drink me" potion on Maviola.
+- Ch503 L432-444: what the winged shape Cognita drove off in the typhoon was.
+- Ch504 L1306: skill message "Sentience-class Crafting obtained" has no named recipient (Nsiia or Femithain).
+- Ch504 L1313-1334: what Belavierr's cloth Gnoll puppet is for.
+- Ch504 L1008 vs L1041: Oracle's claimed abilities versus Femithain's dismissal at L1046-1052.
+- Ch505 L1411: Lady Salkis's concluding identity is blacked out in the source.
+- Ch505 L1220: the triangle-and-eye symbol in Cara's video is not explained.
+- Ch506 L1310-1312: where Nokha is; the surrendering Raskghar say she left moons ago.
+- Ch506 L1349: who 'Bearclaw' is and why he watches the Raskghar surrender.
+- Ch506 L181: Tombhome is described as not quite as Seve remembered; meaning unclear.

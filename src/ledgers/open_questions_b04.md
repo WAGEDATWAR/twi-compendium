@@ -1,0 +1,52 @@
+# Open questions Book 4
+
+- 3.26G L189 vs L114: "Gold Rock Chieftain" vs Gold Stone Chieftain, likely typo.
+- 3.26G L187 vs L292: Tremborag called both Great Chieftain and former Gold-rank adventurer; source of this info unclear.
+- 3.27M L331 vs L336/L353: Brunkr is Krshia's cousin (narration) but "Aunt"/"Nephew" in dialogue.
+- 3.27M L33-36, L57: who is the hungover "companion" of Zel Shivertail?
+- 3.28G L9: Tremborag said to be the sixth named Goblin Rags knows; who are the others?
+- 3.28G L84 vs 3.26G: Pyrite said to be over ten years old.
+- 3.28G L16 vs 3.26G L187: Tremborag not a Goblin Lord despite power; unexplained transformation (L241).
+- 3.29G L188: city name uncertain (Merendia/Balum/Ostegrast).
+- 3.29G L317: Greybeard knows about Chieftain memories; how?
+- 3.30 L165: spelling Remendia/Ocre vs Merendia in 3.29G L188 (same city?).
+- 3.30 L151 vs L61: timeline of door; door first used "second day".
+- 3.31G L222 vs 3.26G L187: Tremborag said he met Velan ten years ago, Greybeard says Velan died long ago; Goblins are short-lived so timeline unclear.
+- 3.31G L8: Skill name format "[Skill - Tribe: Fleet Foot]".
+- WD1 L194 vs L5: Ceria swimming for fifty years but is 58; Human-age reckoning.
+- WD1 L265: "King of Destruction's Seven": Amerys one of them; later context needed.
+- WD2 L10 vs L5: spell called [Ice Shard] and [Ice Dart] for the same spell.
+- WD2 L321 first mentions Ceria noticing the missing combat teacher; unsettled.
+- WD3 L22 vs L477: two weeks vs three weeks to the exam.
+- WD3 L417: "Preservationists" listed alongside Revivalists; earlier Wistram faction Expansionists (WD1 L343) not in this list.
+- WD3 L52, L515: how Pisces eavesdrops/sends notes (Pt.2 ends with the dead mouse).
+- WD4 L485: "Timon" appears on the pass list, likely Timor.
+- WD4 L342-352: who struck Ceria in the exam; unstated (Charles or friend).
+- WD5 L509: Az'kerash "once studied here before he was slain on Izril" - check vs later Az'kerash facts.
+- WD5 L291-292: Ceria fell in "mid-summer" yet earlier timeline said second year began; confirm months.
+- WD6 L2: "year 2 EL.R" dating system; meaning of EL.R unexplained.
+- WD6 L500: Illphres said to be younger than Ceria; WD2 L347 estimates late thirties.
+- WD7 L331 vs L240: all four Golems intact per Ceria, yet WD6 L374 said a replacement knight; first challenge group may have destroyed one.
+- WD7 L297: who was the sixth body (a Selphid-evacuated body)?
+- WD7 L463: Cognita claims power to "graduate"; unusual precedent.
+- 3.32 L5 / L6: whether Erin and Ryoka share the secret basement; Erin may not know it exists (L449-451).
+- 3.33 L517: the new class [Magical Innkeeper] and exact Skill names (Magical Grounds, Field of Preservation).
+- 3.34 L555: Zel is reminded of one other Human; who?
+- 3.34 L373: Xrn called Prognugator to the Grand Queen but Centenium; titles to confirm.
+- 3.35 L22-27 vs L57: Ivolethe time: Ryoka says week since attack; also L122 "a few days".
+- 3.35 L249 Receptionist is a String Person with pale skin: first mention of skin variation among Stitch-folk.
+- 3.36 L509: Frostwing - what is it (Laken feeding at the inn)?
+- 3.36 L509-518: Erin has sent a message to Ryoka and Mage's Guild messages exist.
+- 3.37 L174, L431: how Laken got money - tied to [Emperor] class per 3.00E; is the gem pouch from "his class" (L353).
+- 3.37 L493 timeline: Valceif died "two weeks ago" yet Ryoka met him "just a few days" before (L521).
+- 3.38 L13: only Magnolia and an "infamous Lord" react to news; Lord Tyrion Veltras implied but not named.
+- 3.39 L113 vs earlier: Niers Astoragon credited as inventor of chess by Pawn; Erin says chess is from Earth (flag).
+- 3.40 L383: "fake wanker Kent Scott" - the Earth chat impostor whom Ryoka exposed; background unknown here.
+- 3.40 L372: Ryoka thinks iPhone calls can be traced; unresolved.
+- 3.41 L2 vs L120: "Two days before Christmas" opening, then "day before Christmas" for Erin; timeline across scenes uneven.
+- 3.42 L46 spelling Revelantor vs Revalantor elsewhere.
+- 3.42 L227 vs 3.34: Xrn "Prognugator who never fell"; exact status vs Klbkch "acting Prognugator" (L46).
+- 3.42 L273: Relc says Erin said she ran from a Dragon when she arrived; link to 3.30 Teriarch scene.
+- Interlude_B04_1 L213: identity of Tamaroth and his companions; three-fold gift motif (umbrella, noose, horn).
+- Interlude_B04_1 L316-319: what are the three dead beings and their relation to Tamaroth's trio (mirrored offers)?
+- Interlude_B04_1 L558 etc: white silver coin from Tamaroth's party; function unknown.

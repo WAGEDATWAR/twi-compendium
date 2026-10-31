@@ -1,0 +1,21 @@
+# Open questions Book 6
+- Ch4.32G L87: what is the key Garen Redfang showed Tremborag?
+- Ch4.32G L122-124: Greybeard "should be here, very important"; nature unrevealed
+- Ch1.02C L65-66,L206-209: is Tom's inner voice a separate entity?
+- Ch1.03C L131: who is [BlackMage] calling Richard's iPhone?
+- Ch1.03C L544-548: Fool's survival after being gutted
+- Ch1.04C L175-179: how did the Demon assassins enter the palace; why only the princesses?
+- Ch1.05C L494-500: the unborn-souls ritual; future larger ritual planned
+- Ch4.33 L68: "another Skinner" implies Regrika is a Skinner; term not defined here.
+- Ch4.34 L293-298,L315: Jelaqua knows Garen Redfang by sight; what was her group's past with him (lost half to a Goblin)?
+- Ch4.34 L410-413: Zel's ulterior motives for supporting the Goblins
+- Ch4.36O L212-216: what discrepancy is Olesm chasing in the crypt report and the dead adventurers' possessions?
+- Ch4.37O L355-363: did Calruz survive the Raskghar bone room and the dungeon?
+- Ch4.37O L452: Pisces says his [Fencer] class does not exist (inner thought)
+- Ch4.38B L450-453: what Zel wrote to Magnolia; terms of their alliance (Goblin Lord, Az'kerash, Antinium).
+- Ch4.39G L324-328: why Greydath hid among Goblins; relation to Pyrite (Pyrite was taught by him).
+- Ch4.40L L89,L308-309: Individual Soldiers leveling slower; Twin Stripes becomes an Aberration.
+- Ch4.43 L309: whether Lyonette's royal favor has any effect on Krshia.
+- Ch4.44M L186,L264-266: who is the unnamed "magic user" Magnolia means; what are the "tablets" and "children"?
+- Ch4.46 L360-362: Greybeard hints at a coward, a child, and a slave as candidate Goblin Lords; identify.
+- S02 Pt3 L312-313: what exactly is the Crown of Flowers and does Magnolia still have it?

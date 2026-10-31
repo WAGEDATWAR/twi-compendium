@@ -1,0 +1,12 @@
+# open questions b18 p01
+- 7.29B L519: Taxiela and Galei may be one illusionist or two entities.
+- 7.29B L614: who told Aaron about the hidden latch (Emerrhain implied).
+- 7.29B L814: "Seer of Steel" complaint source (Niers/Seer of Steel).
+- 7.30 L1396: Bethal says Magnolia told her to avoid the inn; relation to the ban on Magnolia unclear.
+- 7.30 L113-123: Ishkr secret/money need unexplained.
+- 7.31 L1710: the class-change prompt text is cut off; Erin refuses Bannerlady?
+- 7.31 L170: Grimalkin theory on Erin time traveller unconfirmed.
+- Interlude L1308: garden sign reads no Druids allowed; Mrsha removes it.
+- Interlude L1196-1199: why Teriarch and Xrn recognize each other as hostile.
+- 7.32D L19: Idis replaced Okasha but Okasha is held, status unknown.
+- 7.32D L629-641: Erin as Joseph claims Ullsinoi protection.

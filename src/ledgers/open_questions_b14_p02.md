@@ -1,0 +1,9 @@
+- 6.63P L632-642: How did the Men of Invrisil obtain the Players' scripts (copyists, fired actors, spy)?
+- 6.63P L28-30: Gnoll language described inconsistently (secret tongue vs half-language).
+- 6.64 L613/L1129: names Calvaron and Palt blurred in Montressa narration (typo or intentional slip).
+- 6.64 L1142-1144: What woke in the Bloodfields after Yvlon blood fell on the dead zone?
+- 6.65 L774: whose mask and clothing Toren wears to ambush the Wings of Pallass is not explained.
+- 6.65 L1176-1178: Erin says the door was checked within a minute; adventurers say ten minutes of messages went unanswered.
+- 6.66H L583: Perril Chandler appears without introduction among the survivors.
+- 6.66H L724-727: level-up notices truncated; Ceria and Pisces new levels not shown.
+- 6.67 L331-335: Keldrass gives 1268th team but also about 1200 Silver-rank teams in six thousand years; counts inconsistent.

@@ -1,0 +1,12 @@
+# Open questions b16 p02
+- Ch450 (L497): secret inn-to-Hive tunnel claimed to have always existed; relation to Creler-era tunnel unclear.
+- Ch451 (L119-126): Bearclaw case and two murdered Senior Guards unresolved.
+- Ch451 (L677): Ryoka's warning about "people like me" coming to the inn; identities unknown.
+- Ch452 (L214): mechanism of Bird flying for fourteen seconds unexplained.
+- Ch452 (L63-64): Dragonthrower Project and Salazsar army referenced without detail.
+- Ch453 (L664): Teriarch cave visibility; concealment unexplained.
+- Ch453 (L853-855): the Goblin Kings' secret and what "right words" unlock Teriarch's answer.
+- Ch453 (L919-922): Rags listed as Level 27 Steelflame Tactician and Level 32 Great Chieftain.
+- Ch453 (L902-906): identities of the northern Chieftains ([Fighter] and [Witch]).
+- Ch454 (L1117): nature of Flos' [Army of the King].
+- Ch454 (L511): Gazi, the Quarass and Trey marching north; the Quarass declined battle.

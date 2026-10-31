@@ -1,0 +1,15 @@
+# Open questions b11 p02
+- 6.24D L646-649: Niers says the whole game was a feint to arrange one meeting; whom the meeting is with is unstated.
+- 6.24D L577-580: the question Niers offered, which Tulm and the Seer of Steel wanted badly enough to risk the game; contents unknown.
+- 6.24D L399-405: Luan's glowing device; hints he reports to his company.
+- 6.25 L417: Sir Molte says the delivery is "a matter of politics"; who coordinated the black-rose campaign across houses and orders is unstated.
+- 6.25 L344: Lupp's "team" that failed to scare off a monster is unexplained.
+- 6.26 L796: client behind the [Assassin] attempts on Bethal (and other Ladies) is unknown; whether linked to the roses is unsettled.
+- 6.26 L189-191: Bethal suspects the Circle of Thorns; unconfirmed.
+- 6.26 L733: Thomast's secret plan for Kerrig and Nathald against the Clairei Order is whispered, not revealed.
+- 6.27M L807: Ressa thinks of a specific Runner's name (likely Ryoka) but does not say it.
+- 6.27M L444: who the "guests from another world" are, how many, and their city of residence is vague.
+- 6.27M L729-735: Circle of Thorns membership; Magnolia assumes a noble in Tyrion's camp.
+- 6.28 L88-91: Erin reacts blankly to being called "Mom"; reason not stated in this chapter.
+- 6.28 L352: anonymous sender of the four-gold-coin letter to Olesm is unknown.
+- 6.28 L454-481: how many Councilmembers there are (eight vs five referenced at L542, "one fifth of the votes"); apparent inconsistency.

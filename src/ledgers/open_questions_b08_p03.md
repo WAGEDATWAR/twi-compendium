@@ -1,0 +1,14 @@
+# Open questions Book 8 part 03
+- 5.39 L116: why Raskghar intelligence follows the moon is not explained.
+- 5.39 L150: the ritual female is said to be the Raskghar Krshia met in Liscor; her name is unstated.
+- 5.40 L386: Bevussa's "bright green" eyes are described as "Bird's eyes".
+- 5.40 L469: Issa pretends to be captain of the Wings of Pallass while Bevussa leads in practice.
+- 5.41 L593: the text does not say which Hob received which level-up, only that Shorthilt and Badarrow reacted.
+- 5.41 L249: the Shield Spider brood queen is said to still bear marks of Typhenous's comet spell.
+- 5.42 L233: Calruz says three nests (Face-Eater Moth, Shield Spider, fungus) besides an empty fourth; his count is inconsistent.
+- 5.42 L360-368: whether the dungeon's water truly blinds drinkers to monsters is only Calruz's inference.
+- 5.42 L586: what caused the explosion that begins the camp attack is not stated.
+- 5.43 L25 vs L80-81: the adventurer Nokha kills is "his", but the Scalers' dead member Cassa is "her".
+- 5.43 L160 vs L374: remaining Gnolls are "over forty" and "forty four".
+- 5.43 L521: Pisces's "new master" who refused his request for help is unnamed.
+- 5.43 L570: Erin's plan is not revealed to the reader.

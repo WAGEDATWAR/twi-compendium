@@ -1,0 +1,213 @@
+kind	term	first_seq	first_cite	count	books
+Class	Innkeeper	2	(Book 1, Ch1.01 L87)	19	1,2,3,4
+Skill	Basic Cleaning	2	(Book 1, Ch1.01 L88)	2	1,3
+Skill	Basic Cooking	2	(Book 1, Ch1.01 L89)	1	1
+Skill	Basic Crafting	8	(Book 1, Ch1.07 L351)	2	1,8
+Skill	Tavern Brawling	18	(Book 1, Ch1.16 L57)	1	1
+Skill	Unerring Throw	18	(Book 1, Ch1.16 L58)	1	1
+Skill	Alcohol Brewer	26	(Book 1, Ch1.22 L269)	1	1
+Skill	Dangersense	26	(Book 1, Ch1.22 L270)	2	1,2
+Class	Strategist	29	(Book 1, Ch1.24 L386)	2	1,17
+Skill	Immortal Moment Learned.	34	(Book 1, Ch1.27 L225)	1	1
+Skill	Lesser Strength Obtained	34	(Book 1, Ch1.27 L224)	1	1
+Skill	Loud Voice	45	(Book 1, Ch1.33 L388)	1	1
+Skill	Indomitable Will Learned.	58	(Book 1, Ch1.41 L510)	1	1
+Skill	Power Strike Learned.	58	(Book 1, Ch1.41 L507)	1	1
+Skill	Immunity: Alcohol	65	(Book 1, Ch1.45 L5)	1	1
+Skill	Quick Recovery	65	(Book 1, Ch1.45 L6)	1	1
+Class	Warrior	74	(Book 2, Ch2.08 L227)	7	2,5,8
+Skill	Lesser Endurance Obtained	74	(Book 2, Ch2.08 L228)	1	2
+Class	Leader	81	(Book 2, Ch2.00G L261)	3	2,3
+Class	Tinkerer	81	(Book 2, Ch2.00G L264)	1	2
+Skill	Aura of Command Obtained	81	(Book 2, Ch2.00G L262)	1	2
+Skill	Basic Repair Obtained	81	(Book 2, Ch2.00G L265)	1	2
+Class	Singer	85	(Book 2, Ch2.16 L465)	2	2,8
+Skill	Advanced Cooking Obtained	85	(Book 2, Ch2.16 L462)	1	2
+Skill	Advanced Crafting Obtained	85	(Book 2, Ch2.16 L463)	1	2
+Skill	Control Pitch Obtained	85	(Book 2, Ch2.16 L467)	1	2
+Skill	Perfect Recall Obtained	85	(Book 2, Ch2.16 L466)	1	2
+Skill	Inn’s Aura Obtained	89	(Book 2, Ch2.19 L444)	1	2
+Skill	Magical Cooking Learned.	89	(Book 2, Ch2.19 L445)	1	2
+Class	Skeleton Knight	92	(Book 2, Ch2.01T L283)	1	2
+Class	Skeleton Warrior	92	(Book 2, Ch2.01T L115)	1	2
+Skill	Even Footing Obtained	92	(Book 2, Ch2.01T L116)	1	2
+Skill	Mirage Cut Obtained	92	(Book 2, Ch2.01T L287)	1	2
+Skill	Power Strike Obtained	92	(Book 2, Ch2.01T L284)	1	2
+Skill	Weapon Proficiency: Shield Obtained	92	(Book 2, Ch2.01T L285)	1	2
+Skill Change	Power Strike → Mirage Cut	92	(Book 2, Ch2.01T L286)	1	2
+Skill	Minotaur Punch Obtained	94	(Book 2, Ch2.22 L448)	1	2
+Skill Change	Power Strike → Minotaur Punch	94	(Book 2, Ch2.22 L447)	1	2
+Class	Clown	96	(Book 2, Ch1.01C L45)	1	2
+Class	Hero	96	(Book 2, Ch1.01C L201)	1	2
+Condition	Horrific Laughter Received.	96	(Book 2, Ch1.01C L48)	1	2
+Condition	Lesser Insanity Received.	96	(Book 2, Ch1.01C L49)	1	2
+Skill	Devil’s Luck Obtained.	96	(Book 2, Ch1.01C L47)	1	2
+Skill	Greater Pain Tolerance Obtained.	96	(Book 2, Ch1.01C L46)	1	2
+Skill	Weapon Proficiency: Knives Obtained	96	(Book 2, Ch1.01C L202)	1	2
+Class	Acolyte	101	(Book 2, Ch2.26 L511)	3	2,5,11
+Skill	Prayer Obtained	101	(Book 2, Ch2.26 L512)	1	2
+Class	Barefoot Runner	105	(Book 2, Ch2.29 L460)	2	2
+Skill	Enhanced Movement	105	(Book 2, Ch2.29 L462)	1	2
+Skill	Flawless Stride	105	(Book 2, Ch2.29 L461)	1	2
+Class	Disciple	112	(Book 2, Ch2.32 L340)	1	2
+Class	Emperor	123	(Book 3, Ch3.00E L446)	10	3,5,6,12
+Skill	Aura of the Emperor	123	(Book 3, Ch3.00E L447)	1	3
+Skill	King’s Bounty	124	(Book 3, Ch3.01E L279)	1	3
+Class	Doctor	129	(Book 3, Ch1.00D L136)	4	3,17
+Skill	Hygienic Hands	129	(Book 3, Ch1.00D L298)	1	3
+Skill	Lesser Resistance: Disease	129	(Book 3, Ch1.00D L137)	1	3
+Skill	Lesser Resistance: Infection	129	(Book 3, Ch1.00D L299)	1	3
+Skill	Injury Sense	130	(Book 3, Ch1.01D L193)	1	3
+Skill	Sterile Equipment	130	(Book 3, Ch1.01D L194)	1	3
+Class	Beast Tamer	136	(Book 3, Ch3.11E L156)	7	3,5,7,8
+Skill	Intimidating Glare	136	(Book 3, Ch3.11E L318)	1	3
+Skill	Lesser Bond: Frostwing	136	(Book 3, Ch3.11E L157)	1	3
+Skill	Empire: Blessing of the Hearth Obtained	137	(Book 3, Ch3.12E L393)	1	3
+Skill	Crowd Control Obtained	141	(Book 3, Ch3.16 L567)	1	3
+Condition	Outcast Humanity Received.	142	(Book 3, Ch3.17T L208)	1	3
+Condition	Terrible Hunger Received.	142	(Book 3, Ch3.17T L207)	1	3
+Condition	Wordless Thing Received.	142	(Book 3, Ch3.17T L226)	1	3
+Skill	Aroma of Spring Lost.	142	(Book 3, Ch3.17T L212)	1	3
+Skill	Gaping Bite Obtained.	142	(Book 3, Ch3.17T L227)	1	3
+Skill	Quick Growth Lost.	142	(Book 3, Ch3.17T L229)	1	3
+Skill	Winter Growth Lost.	142	(Book 3, Ch3.17T L213)	1	3
+Skill	Command Lesser Undead	143	(Book 3, Ch3.18T L341)	1	3
+Skill	Daring Charge	144	(Book 3, Ch3.19T L199)	1	3
+Condition	Terrible Hunger Removed	145	(Book 3, Ch3.20T L88)	1	3
+Class	Barmaid	147	(Book 3, Ch3.22L L324)	2	3,8
+Class	Carer	147	(Book 3, Ch3.22L L327)	2	3,8
+Class	Tactician	147	(Book 3, Ch3.22L L330)	3	3,4,6
+Skill	Calming Touch	147	(Book 3, Ch3.22L L328)	1	3
+Skill	Lesser Intuition	147	(Book 3, Ch3.22L L331)	1	3
+Skill	Healthy Rearing	148	(Book 3, Ch3.23L L272)	1	3
+Class	Chieftain	157	(Book 4, Ch3.31G L5)	4	4,7,8,9
+Skill	Lesser Tinkering	157	(Book 4, Ch3.31G L9)	1	4
+Skill	Tribe: Fleet Foot	157	(Book 4, Ch3.31G L8)	1	4
+Skill	Inn: Field of Preservation	166	(Book 4, Ch3.33 L518)	1	4
+Skill	Inn: Magical Grounds	166	(Book 4, Ch3.33 L517)	1	4
+Skill	Mass Prayer	193	(Book 5, Ch4.15L L61)	1	5
+Class	Negotiator	197	(Book 5, Ch1.03D L311)	1	5
+Skill	Amateur Linguist	197	(Book 5, Ch1.03D L312)	1	5
+Skill	Polite Demeanor	197	(Book 5, Ch1.03D L313)	1	5
+Class	Medic	199	(Book 5, Ch1.05D L425)	1	5
+Skill	Quick Sprint	199	(Book 5, Ch1.05D L426)	1	5
+Skill	Sympathetic Ear	199	(Book 5, Ch1.05D L427)	1	5
+Class	Magical Innkeeper	201	(Book 5, Ch4.18 L205)	13	5,6,7,8,9,11,12,14,16,17,18
+Skill	Animals: Basic Command Obtained	204	(Book 5, Ch4.21E L428)	1	5
+Skill	Empire: Low-born Militias Obtained	204	(Book 5, Ch4.21E L194)	1	5
+Skill	Rallying Presence Obtained	204	(Book 5, Ch4.21E L195)	2	5,6
+Skill	Empire: Art of the Builder Obtained	206	(Book 5, Ch4.23E L389)	1	5
+Skill	Undying Loyalty Learned.	206	(Book 5, Ch4.23E L390)	1	5
+Class	Princess	210	(Book 5, Ch4.27H L4)	1	5
+Skill	Basic Footwork	210	(Book 5, Ch4.27H L3)	1	5
+Skill	Royal Tax	210	(Book 5, Ch4.27H L5)	1	5
+Skill	Inn: Reinforced Structure	214	(Book 5, Ch4.31 L209)	1	5
+Skill	Empire: Darksky Riders	223	(Book 6, Ch4.35E L376)	1	6
+Skill	Imperial Levy	223	(Book 6, Ch4.35E L375)	1	6
+Skill	Inn: Grand Theatre	246	(Book 7, Ch5.04 L294)	1	7
+Class	Druid	248	(Book 7, Ch5.06M L341)	3	7,17
+Class	Gardener	248	(Book 7, Ch5.06M L336)	1	7
+Class	Mage	248	(Book 7, Ch5.06M L337)	1	7
+Skill	Peace of the Wild	248	(Book 7, Ch5.06M L344)	1	7
+Skill	Spell: Wild Growth	248	(Book 7, Ch5.06M L342)	1	7
+Skill Change	Wild Affinity → Peace of the Wild	248	(Book 7, Ch5.06M L343)	1	7
+Class	Heiress	260	(Book 7, Ch5.17S L97)	3	7,11
+Skill	Increased Income	260	(Book 7, Ch5.17S L98)	1	7
+Skill	Lingering Presence	260	(Book 7, Ch5.17S L99)	1	7
+Class	Receptionist	261	(Book 7, Ch5.18S L930)	1	7
+Skill	Legacy Whispers: Heartflame Set	261	(Book 7, Ch5.18S L932)	1	7
+Skill	Tribe: Scavenger Armor Obtained	263	(Book 7, Ch5.20G L734)	1	7
+Skill	Apista: Basic Training	268	(Book 8, Ch5.24L L419)	1	8
+Skill	Balanced Posture	268	(Book 8, Ch5.24L L490)	1	8
+Skill	Detect Poison lost.	268	(Book 8, Ch5.24L L494)	1	8
+Skill	Royal Tax lost.	268	(Book 8, Ch5.24L L495)	1	8
+Class	Worldly Princess	270	(Book 8, Ch5.26L L585)	3	8,10,17
+Skill	Basic Leadership	270	(Book 8, Ch5.26L L589)	1	8
+Skill	Basic Negotiator	270	(Book 8, Ch5.26L L588)	1	8
+Skill	Detect Poison restored.	270	(Book 8, Ch5.26L L577)	1	8
+Skill	Flawless Attempt	270	(Book 8, Ch5.26L L590)	1	8
+Skill	Royal Tax restored.	270	(Book 8, Ch5.26L L578)	1	8
+Skill	Weapon Proficiency: Sword	270	(Book 8, Ch5.26L L587)	1	8
+Skill	Soothing Melody	277	(Book 8, Ch5.33B L742)	1	8
+Skill	Fury Strength	279	(Book 8, Ch5.34 L547)	1	8
+Skill	Overpowering Blow	279	(Book 8, Ch5.34 L548)	1	8
+Skill	Flashfire Spellcraft	282	(Book 8, Ch5.37G L383)	1	8
+Skill	Tribe: Rapid Reload	282	(Book 8, Ch5.37G L382)	1	8
+Spell	Burning Blades	282	(Book 8, Ch5.37G L384)	1	8
+Class	Archer	286	(Book 8, Ch5.41 L593)	1	8
+Skill Change	Keen Eyes → Eagle Eyes	286	(Book 8, Ch5.41 L596)	1	8
+Skill	Natural Allies: Goblins	290	(Book 8, Ch5.44 L806)	1	8
+Skill	Champion’s Gear	300	(Book 9, Ch5.49 L829)	1	9
+Skill	Grand Slash	300	(Book 9, Ch5.49 L830)	1	9
+Skill	Valor of Champions	300	(Book 9, Ch5.49 L831)	1	9
+Class	General	316	(Book 9, Ch5.62 L1370)	1	9
+Skill	All-or-Nothing Charge	316	(Book 9, Ch5.62 L1372)	1	9
+Skill	Inspiring Words	316	(Book 9, Ch5.62 L1371)	1	9
+Class	Miner	325	(Book 10, Ch6.02 L737)	2	10
+Skill	Durable Picks	325	(Book 10, Ch6.02 L738)	1	10
+Class	Bard	326	(Book 10, Ch6.03 L543)	2	10
+Skill	Song of Rejuvenation	326	(Book 10, Ch6.03 L544)	1	10
+Skill	Apista: Agile Flier	331	(Book 10, Ch6.08 L803)	1	10
+Skill	Apista: Enhanced Intelligence	331	(Book 10, Ch6.08 L802)	1	10
+Skill	Imperial Aura	331	(Book 10, Ch6.08 L804)	1	10
+Skill	Grinder Teeth	333	(Book 10, Ch6.10 L598)	1	10
+Skill	Everything Has a Price	345	(Book 11, Ch6.17S L622)	1	11
+Skill	Inn: Partial Reconstruction	361	(Book 11, Ch6.32 L1198)	1	11
+Class	Goblin Soulbard	370	(Book 12, ChInterlude_Numbtongue_Pt.2 L1150)	3	12,16,19
+Skill	A Minute, Reborn	370	(Book 12, ChInterlude_Numbtongue_Pt.2 L1152)	1	12
+Skill	Ballad of Bravery	370	(Book 12, ChInterlude_Numbtongue_Pt.2 L1153)	1	12
+Class	Paladin	377	(Book 12, Ch6.41E L1242)	1	12
+Skill	Iron Skin	377	(Book 12, Ch6.41E L1243)	1	12
+Skill	Empire: Fields of Bounty	385	(Book 12, Ch6.47E L382)	1	12
+Skill	Group: Surge of Inspiration	385	(Book 12, Ch6.47E L381)	1	12
+Class	Champion	411	(Book 14, ChInterlude_Talia L1140)	1	14
+Class	Knight	411	(Book 14, ChInterlude_Talia L1143)	1	14
+Skill	Basic Riding	411	(Book 14, ChInterlude_Talia L1145)	1	14
+Skill	Reinforced Armor (Steel)	411	(Book 14, ChInterlude_Talia L1144)	1	14
+Skill	Steelcut Sunder	411	(Book 14, ChInterlude_Talia L1141)	1	14
+Class	Actress	415	(Book 14, Ch6.63P L828)	1	14
+Skill	Perfect Imitation	415	(Book 14, Ch6.63P L830)	1	14
+Skill	Refinement by Accolade	415	(Book 14, Ch6.63P L831)	1	14
+Skill	Inn: Unlimited Mana Pool	419	(Book 14, Ch6.67 L956)	1	14
+Skill	Kamehameha Punch	419	(Book 14, Ch6.67 L957)	1	14
+Skill	Inn: Garden of Sanctuary	420	(Book 14, Ch6.68 L1181)	1	14
+Skill	Like Fire, Memory	420	(Book 14, Ch6.68 L1182)	1	14
+Class	Cook	434	(Book 15, Ch7.05P L624)	4	15
+Skill	Ingredients Sense (Minor)	434	(Book 15, Ch7.05P L625)	1	15
+Skill	Natural Oils	434	(Book 15, Ch7.05P L854)	1	15
+Skill	One More Portion	434	(Book 15, Ch7.05P L855)	1	15
+Class	Sand Mage	438	(Book 15, Ch7.09K L1332)	1	15
+Skill	Create Lifesand Golems	438	(Book 15, Ch7.09K L1333)	1	15
+Spell	Karas Duststorm	438	(Book 15, Ch7.09K L1334)	1	15
+Skill	Dual Shot	453	(Book 16, Ch7.12G L921)	1	16
+Spell	Fast Fireball	453	(Book 16, Ch7.12G L920)	1	16
+Class	Duelist	454	(Book 16, Ch7.13K L1031)	1	16
+Class	King	454	(Book 16, Ch7.13K L1033)	3	16
+Skill	Army: Flicker Charge	454	(Book 16, Ch7.13K L1085)	1	16
+Skill	Aura of the Lion	454	(Book 16, Ch7.13K L1053)	1	16
+Skill	Royal Arms	454	(Book 16, Ch7.13K L1086)	1	16
+Skill Change	Quick Step → Flash Step	454	(Book 16, Ch7.13K L1032)	1	16
+Skill	Recaptured Sublimity	458	(Book 16, Ch7.16L L1081)	1	16
+Skill	Ambient Mana Gatherer	466	(Book 17, Ch7.19 L609)	1	17
+Skill	Disease Detector	470	(Book 17, Ch7.22D L968)	1	17
+Class	Lady Firestarter	471	(Book 17, Ch7.23LM L1443)	1	17
+Skill	Conjure Fast Fireball	471	(Book 17, Ch7.23LM L1444)	1	17
+Skill	Instantaneous Barrage (Phantom Arrows)	471	(Book 17, Ch7.23LM L1442)	1	17
+Class	Guardsman	477	(Book 17, Ch7.28 L4)	1	17
+Class	Spearmaster	477	(Book 17, Ch7.28 L2)	1	17
+Skill	Eyes In The Back	477	(Book 17, Ch7.28 L5)	1	17
+Skill	Recall Weapon: Spear	477	(Book 17, Ch7.28 L3)	1	17
+Skill	Inn: Compartments of Holding	480	(Book 18, Ch7.31 L1706)	1	18
+Class	Foreign Commander	485	(Book 18, Ch7.35C L585)	1	18
+Class	Gambler	497	(Book 19, Ch7.43G L1044)	1	19
+Class	Great Chieftain	497	(Book 19, Ch7.43G L578)	1	19
+Skill	Flash Cut	497	(Book 19, Ch7.43G L1049)	1	19
+Skill	Natural Allies: Ogres	497	(Book 19, Ch7.43G L579)	1	19
+Skill	Sense Trickery	497	(Book 19, Ch7.43G L1045)	1	19
+Skill	Weak Lucky Draw	497	(Book 19, Ch7.43G L1046)	1	19
+Spell	Ogre’s Strength	497	(Book 19, Ch7.43G L580)	1	19
+Skill	Acrobat’s Form	501	(Book 19, Ch7.47K L916)	1	19
+Skill	Enhanced Strength	501	(Book 19, Ch7.47K L918)	1	19
+Skill	Shadowcut Blade	501	(Book 19, Ch7.47K L915)	1	19
+Skill	Sword: Keening Edge	501	(Book 19, Ch7.47K L917)	1	19
+Skill	Sentience-class Crafting	504	(Book 19, ChInterlude_Experiments_in_Golems L1306)	1	19

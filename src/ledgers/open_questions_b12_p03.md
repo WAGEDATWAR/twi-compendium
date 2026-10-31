@@ -1,0 +1,11 @@
+# Open questions b12 p03
+- 6.41E L876: Wiskeria says Belavierr is not her birth mother, yet Belavierr calls her Daughter.
+- 6.41E L1138: Is Califor the Yellat runner of the north after the 2nd Antinium War?
+- 6.41E L170-203: identity and aims of the traveller who warns about Witches.
+- Two_Rats L852-856: Erin lands Level 39 after asking for protective power; whether the inn responds is unresolved.
+- Two_Rats L368-369: cause of Calruz madness (spell, water in dungeon) not settled.
+- Rufelt L385: does Lism have a child? Rufelt only guesses.
+- 6.42E L582: Ser Raim is above Level 50; Talia believes this makes him a legend, yet is only now widely known.
+- 6.42E L774: Laken sees light from Riverfarm; identity (Raim, Belavierr) unclear.
+- 6.43E L1587: Belavierr called the Witch of Webs; whether Raim kills her is unresolved at chapter end.
+- 6.43E L1476: Belavierr senses two deaths (one flame); relation to Fierre curse trigger unclear.
