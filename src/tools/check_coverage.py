@@ -32,6 +32,10 @@ stop = set()
 sp = os.path.join(SRC, "ledgers", "stoplist.txt")
 if os.path.exists(sp):
     stop = {norm(l) for l in open(sp, encoding="utf-8") if l.strip() and not l.startswith("#")}
+dp = os.path.join(SRC, "ledgers", "coverage_decisions.tsv")
+if os.path.exists(dp):
+    with open(dp, encoding="utf-8") as f:
+        for r in csv.DictReader(f, delimiter="	"): stop.add(norm(r["term"]))
 names.discard("")
 words = set()
 for n in names: words.update(re.findall(r"[a-z0-9']+", n))
@@ -43,6 +47,7 @@ CONTR = re.compile(r"^(i|you|he|she|we|they|it|that|there|what|who|let|here|wher
 
 def covered(term):
     t = norm(term)
+    if t in names or t in stop: return True
     ws = t.split()
     while ws and ws[0] in LEAD:
         ws = ws[1:]

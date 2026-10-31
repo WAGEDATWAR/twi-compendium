@@ -10,9 +10,9 @@ Status legend: [x] done, [~] in progress, [ ] not started.
 - [x] 0.5 deterministic catalogs: bracket terms (classes/skills/spells/conditions, level events) and capitalised-name census (scan_brackets.py, scan_names.py)
 - [x] 0.6 project structure and process document
 - [x] 0.7 notes verifier (verify_notes.py; report in src/ledgers/verify_report.txt): parses Chapter_Notes, checks every `(Lnn)` exists and named entities occur within +-6 lines
-- [~] 0.8 aliases merged (ledgers/aliases.tsv, alias_conflicts.tsv, open_questions.md via tools/merge_ledgers.py); stoplist not started
+- [x] 0.8 aliases merged (ledgers/aliases.tsv, alias_conflicts.tsv, open_questions.md via tools/merge_ledgers.py); stoplist seeded
 
-## Phase 1: study pass, front to back, once (Chapter_Notes/bNN.md)
+## Phase 1 (DONE 2026-10-31, gate passed): study pass, front to back, once (Chapter_Notes/bNN.md)
 One block per chapter in the format of `src/Chapter_Notes/README.md`. Order = reading order (seq 1..510). Also appended while reading: `ledgers/aliases.tsv`, `ledgers/open_questions.md`, `ledgers/entities_seen.tsv`.
 Gate 1: every chapter has a block; verify_notes.py reports zero dangling cites; all census terms >=15 occurrences are covered (entity, alias or stoplist).
 

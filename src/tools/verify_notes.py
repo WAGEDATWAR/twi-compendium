@@ -12,8 +12,10 @@ CITE = re.compile(r"\(([^()]*\bL\d+[^()]*)\)\s*$")
 CITES = re.compile(r"L(\d+)(?:-L?(\d+))?")
 XREF = re.compile(r"\b\d\.\d\d[A-Z]*\b")
 WIN = 6
+FAR = 40  # warnings are tagged FAR when the entity is not within +-FAR lines either (likely a real cite error)
 
 def norm(s):
+    s = s.replace("’", "'").replace("‘", "'")
     return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
 
 cache = {}
@@ -62,7 +64,9 @@ for path in sorted(glob.glob(os.path.join(SRC, "Chapter_Notes", "b[0-9][0-9].md"
             if not toks: continue
             blob = " ".join(" ".join(L[max(0, a - 1 - WIN):min(nl, b + WIN)]) for a, b in spans)
             if not any(t in blob for t in toks):
-                warns.append(f"{cur['tag']} line {ln}: '{ent.strip()}' not within +-{WIN} of cite: {raw[:70]}")
+                far = " ".join(" ".join(L[max(0, a - 1 - FAR):min(nl, b + FAR)]) for a, b in spans)
+                lvl = "FAR" if not any(t in far for t in toks) else "near"
+                warns.append(f"{lvl} {cur['tag']} line {ln}: '{ent.strip()}' not within +-{WIN} of cite: {raw[:70]}")
     close()
 out = os.path.join(SRC, "ledgers", "verify_report.txt")
 with open(out, "w", encoding="utf-8") as f:
