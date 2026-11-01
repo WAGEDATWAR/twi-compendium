@@ -1,0 +1,65 @@
+type	key	target	verdict	note
+ALIAS	(local celebrity healer)	healer of tenbault	ok	Ch6.44E L941: 'the Healer of Tenbault, a local celebrity' - same healer.
+ALIAS	ancestor guard company	oldblood	reject	Ch4.16 L59-67: Ancestor Guard company is a unit of Oldblood Drakes; Oldblood is the trait/people, so company is a subset.
+ALIAS	armsmistress	yvlon	ok	[Silversteel Armsmistress] is Yvlon's class (Ch6.66H L736; Ch6.67 L373); all bracketed [Armsmistress] hits are her.
+ALIAS	bard	numbtongue	ok	Ch6.10 L19 Numbtongue: 'This is why I am a [Bard]'; only Goblin Bard (Ch5.34 L585).
+ALIAS	bea (chosen)	plague zombie woman, one of az'kerash chosen	ok	Ch2.25 L276 'I am Bea'; Ch2.41 L124-136 Bea, reanimated Chosen with plague abilities; notes b13 L464.
+ALIAS	bezhavil	bezha	ok	Notes b10 L453: 'Bezha/Bezhavil (aunt, runs the women and caravan)'; Ch7.46K L216 Bezhavil.
+ALIAS	brother of serendipitous meetings	enforcer	reject	Brother of Serendipitous Meetings is membership fitting many (Wilovan, Ratici, Ch5.54 L969); Enforcer is one member (Interlude_Numbtongue_Pt.1 L26).
+ALIAS	cave goblin (captive)	cave goblin who revived	ok	Notes b08 L567: '= Cave Goblin (captive) = Cave Goblin who revived (L421)'; same captive in Ch5.35H.
+ALIAS	children (human lands)	scalelings	ok	Ch3.23L L371: 'Scalelings--or Children as they were known in Human lands'.
+ALIAS	companion pisces	pisces	ok	Ch3.07H L295 'Companion Pisces' addresses Pisces asked to recast his spell.
+ALIAS	defenders of the cave	fortress beavers and shield spiders	ok	Notes b14 L463 '= Defenders of the Cave = Fortress Beavers and Shield Spiders'; b16 L425 lists both as Defenders.
+ALIAS	dragonblood crystal	cridel	ok	Ch7.31 L439: 'Some call this crystal Cridel... Others knew it of old as Dragonblood Crystal'.
+ALIAS	dusty charlie	charlay	ok	Ch6.35 L122: 'I hear they call you Dusty Charlie' said to Dustrider Charlay.
+ALIAS	emperor godart	laken	ok	Emperor Godart is Laken Godart, Emperor of the Unseen (Ch3.00E L69, L436; Ch5.10E L9).
+ALIAS	eternal majesty	fetohep of khelt	ok	Ch6.55K L28, L73 'your Eternal Majesty' to Fetohep; Ch7.21KQ L122 'his Eternal Majesty, Fetohep of Khelt'.
+ALIAS	female goblin warrior leader	hob scout	ok	Ch3.31G L76: female Goblin warrior with poisoned daggers nicknamed Poisonbite; Ch5.23G L196; entity key 'hob scout' holds Poisonbite.
+ALIAS	flood water tribe	rags tribe, per lady rie	ok	Spelling variant of Flooded Waters tribe (notes b19 L30); target entity is the Flooded Waters tribe (Rags's tribe, b08 L317).
+ALIAS	frost faerie	ivolethe	reject	'Frost faerie' is a species word fitting many Winter Court faeries (Ch3.04 L32); Ivolethe is one individual.
+ALIAS	galei (presumed same)	taxiela	ok	Ch7.29B L519 Taxiela and Galei 'thought to be the same person'; Interlude_Elusive L174-176 Taxiela/Galei admits it.
+ALIAS	gentleman caller (gnoll)	wilovan	ok	Ch7.26 L1507 'Wilovan... The Gentleman Caller was a big Gnoll'; Interlude_A_Night_in_the_Inn L709 pairs him with Drake Ratici.
+ALIAS	golem fights	test of mirrhen / the testing	ok	Interlude_Experiments L365: 'not Golem Fights. The proper name is the Test of Mirrhen'; L384 'the Testing'.
+ALIAS	great mage nemor	nemor	ok	Ch3.13E L309-313 'the Great Mage Nemor'; Ch3.14 L8 same man; no other Great Mage Nemor.
+ALIAS	guildmistress	tekshia shivertail	reject	Guildmistress is a title worn by several: Tekshia, Alonna of Mage's Guild (Ch6.49 L122), Godfrey of First Landing (Ch7.15R L1641).
+ALIAS	hastel	miss hastel	ok	Ch6.05D L164 Miss Hastel the Centaur landlady; Ch6.06D L988 Rital cries 'Hasty. Hastel' as she goes into labour.
+ALIAS	highborn vaitsha	vaitsha zectiou	ok	Ch6.12K L132 '[Highborn] Vaitsha Zectiou. I am Vaitsha, daughter of Germina'; Highborn is her title.
+ALIAS	hundredfriends courier	seve-alrelious	ok	Ch7.49 L574-578: 'They called him the Hundredfriends Courier... His name was Seve-Alrelious'.
+ALIAS	imenet	ijvani	ok	Ch4.28 L11: 'being that called itself Imenet shed the illusion', revealing skeleton Ijvani (L16, L23); Imenet is her disguise.
+ALIAS	jelaqua (drake body)	jelaqua ivirith	ok	Selphid Jelaqua hops bodies (Ch2.22); drake body is same individual; alias ledger b07 Ch5.13 L252.
+ALIAS	kingslayer	elia arcsinger	ok	Ch5.38 L311 'Ellia Arcsinger, the Kingslayer'; S02 L153 title from killing the Goblin King.
+ALIAS	lady caveis	welca caveis	ok	Ch4.39G L215 'Lady Welca Caveis'; Ch5.19G L169-175 Welca, Knight of the Petal, captive.
+ALIAS	lasc ship	emerald signet	ok	Interlude_Chess_and_Ships L180, L226: galleon Emerald Signet, Captain Lasc; Lasc's ship is the Emerald Signet.
+ALIAS	lord astoragon	niers astoragon	ok	Ch6.07D L580-581 'Lord Astoragon' said of Niers the Titan; Niers is the only Astoragon.
+ALIAS	lord operland	hayvon operland	ok	Ch6.68 L3 'Lord Hayvon Operland', L38 'Lord Operland'; only Operland in text.
+ALIAS	madwoman of liscor	erin solstice	ok	Ch7.00 L545: 'So this was her. The madwoman of Liscor. The [Innkeeper]' - Erin; no other referent.
+ALIAS	maqua	maquit	ok	Ch6.06D L32: Selphid 'name was Maquit... in a female body, preferred Maqua'; same Selphid.
+ALIAS	mexisa	mexisa (mexy)	ok	Same Medusa adventuress; 'Mexy' is the short form of Mexisa (Ch7.22D L30).
+ALIAS	miss shivertail	selys shivertail	ok	Selys is addressed 'Miss Shivertail' (Ch5.17S L261; Ch6.17S L253); Tekshia is Guildmistress. Ch6.67 L331 'the younger' is slight ambiguity.
+ALIAS	moonlight rider	tritel; silver mare of izril	ok	Notes b16 L585 '= Moonlight Rider = Tritel; Silver Mare of Izril = Ci'; Ch7.18M L464 Tritel. Target key also names the mare.
+ALIAS	mrsha-gnoll (soldier pov)	mrsha	ok	Same young Gnoll Mrsha seen from a soldier's POV (Ch3.22L L164); suffix is only a descriptor.
+ALIAS	neres	nereshal	ok	Ch1.05C L131 'good old Neres' vs Ch1.02C L265 'His name is Nereshal'; same chronomancer steward.
+ALIAS	numbtongue, bird, mrsha, saliss, octavia	wandering band	ok	Notes b16 L276 '= The Wandering Band = Numbtongue, Bird, Mrsha, Saliss, Octavia (L148)'; Interlude_Hangover L148.
+ALIAS	order of the petal	rose knights	ok	Notes b11 L404 '= Rose Knights = Knights of the Petal = Order of the Petal'; Ch4.39G L127 Bethal's order.
+ALIAS	pawn (individual)	pawn	ok	'(individual)' only disambiguates; Ch1.26 L186-267 Worker takes the name Pawn.
+ALIAS	pithfire hounds	levil team	ok	Ch6.00 L395 Pithfire Hounds; L445 their leader is Pyromancer Levil; Levil's team is the Pithfire Hounds.
+ALIAS	prognugator	propugnator (antinium rank of klbkch; spelling differs)	ok	Rank word spelled both ways for one rank (Ch1.24 L11 Propugnator; Ch1.26 L32 Prognugator, Klbkch's); target is the rank, not Klbkch.
+ALIAS	rabbit courier	hawk	ok	Ch2.17 L195 'Hawk, Beastkin, giant talking rabbit, and Courier of Liscor'; Ch6.56 L43 'Rabbit Courier' is Hawk.
+ALIAS	really tall section of hills before the high passes	humpbacker hills	ok	Ch6.19H L291: 'Humpbacker Hills. You know, that really tall section of hills that starts appearing before the actual mountains'.
+ALIAS	rehanna cloth infant	mihka	ok	Ch6.43E L551-568: Rehanna's baby is Mihka, the cloth infant who won't grow.
+ALIAS	reynold ferusdam	reynold	ok	Ch2.30 L4 Reynold the [Butler]; single Reynold in entities (Reynold Ferusdam).
+ALIAS	sammy	sammial veltras	ok	Ch7.24 L467: 'Sammy, or Sammial Veltras, ten years old'; S02 L74-77 he insists on Sammy.
+ALIAS	selys	selys shivertail	ok	Selys is Selys Shivertail (Ch1.13 receptionist); no other Selys in entities; shortened name.
+ALIAS	silvereyes	silvereye sables	ok	Ch7.46K L1017-1022: 'the Silvereyed Sables... You're the Silvereyes, right?'; L1161 Silvereye Sables.
+ALIAS	sir ylawes	ylawes byres	ok	Sir Ylawes Byres, Gold-rank Knight (Ch3.18T); Sir is his honorific; only Ylawes.
+ALIAS	soldier (damaged antennae)	soldier with a damaged antennae	ok	Ch4.15L L596: one unnamed 'Soldier with a Damaged Antennae'; alias is the same label rephrased.
+ALIAS	stitchworks	stitch girl	reject	Stitchworks is Octavia's shop (notes b12 L76, Ch2.09); target stitch girl is the person Octavia; a shop is not a person.
+ALIAS	taxiela (possibly same person)	taxiela	ok	Same name with hedge note; Ch7.29B L512 Taxiela the Lizardgirl.
+ALIAS	timon	timor du havrington	ok	Wistram_Days_Pt.7 L485 list 'Pisces... Charles de Trevalier's, and Timon's' in Timor's story; Timon likely typo for Timor du Havrington.
+ALIAS	traveler pie	shepherd pie	ok	Ch6.55K L171: 'Traveler's Pie' is the Izril/Terandria name for the shepherd's pie Trey describes (L163-169).
+ALIAS	ullia	umina caxical	ok	Ch7.22D L1064 Geneva calls Lizardgirl 'Ullia'; L1083 narration 'Umina bowed' and whispers to a speaking stone: Niers' student under cover.
+ALIAS	venaz of hammerad (shailt)	venaz	ok	Notes b11 L268 '= Venaz of Hammerad = Venaz (Shailt's form of address)'; Venaz is Niers' Minotaur student.
+ALIAS	walt team	walt team ensoldier shields	ok	Ch6.64 L792-793 Ensoldier Shields = Walt's team (alias ledger b14_p02); same team.
+ALIAS	wings of pallass captain	bevussa slenderscale	reject	Captain of the Wings of Pallass fits two: Bevussa is real captain, Issa poses as captain in public (Ch5.40 L469; Ch5.36 L28).
+ALIAS	xevccha (invective)	queen of the free antinium	uncertain	Interlude_Queens_and_Dragons L17: Grand Queen shouts 'Xevccha! Free Queen', called an invective (L18); one occurrence, unclear if a name.
+ALIAS	young man, the necromancer	pisces	ok	Wistram_Days_Pt.7 L491: 'the young man, the necromancer, stepped off the ship' after Ceria leaves; Pisces.

@@ -1,0 +1,64 @@
+type	key	target	verdict	note
+ALIAS	alrric kerrfa	alrric	ok	Full name of Alrric, Gnoll Administrator of Gemscale holdings (Ch7.33I L66; Ch6.32 L44)
+ALIAS	archmage rebel in rhir (unnamed)	silvenia	ok	Elena names Death of Magic as rebel Archmage in Rhir (b19 L677); Silvenia calls herself Death of Magic (Ch7.36C L1218)
+ALIAS	azure (color of the sky)	small queen	ok	Ilvriss says "Azure. The color of the sky" of the Small Queen Xrn (Ch3.23L L485-489)
+ALIAS	battle hymnist	bannermare of baleros	ok	Aria Fellstrider known as Bannermare of Baleros or Battle Hymnist (Ch7.44 L24; Ch6.06D L3)
+ALIAS	berserker	headscratcher	reject	[Berserker] is a class word used of Headscratcher but also Garen, Ryoka and others (Ch5.41 L147); not a unique name
+ALIAS	bronzewater	grasgil	ok	Metal known as bronzewater, other name Grasgil (Ch7.01 L880)
+ALIAS	carn wolves	carn wolf	ok	Plural of carn wolf, same rust-red wolf species
+ALIAS	chevalier thomast	thomast veniral	ok	Chevalier Thomast is Lady Bethal's husband Thomast Veniral (Ch4.38B L144; Ch7.30 L1390)
+ALIAS	commander grasstongue (4th company)	gecko of liscor	reject	Commander Grasstongue of 4th Company is Embria, a woman (Ch5.13 L39); Gecko of Liscor is Relc
+ALIAS	deadly flower blooming in the north	magnolia reinhart	ok	Magnolia Reinhart is the deadly flower blooming in the north (Ch2.12 L15; Ch2.20 L397)
+ALIAS	doombringer (slur)	mrsha	reject	Doombringer is a curse label for any white Gnoll, also applied to Alrric (Ch7.33I L865); not Mrsha alone
+ALIAS	dunestalker	gazi	ok	Gazi's other name is Dunestalker (Ch6.13K L408)
+ALIAS	embria grasstongue	embria	ok	Wing Commander Embria Grasstongue is Embria (Ch5.13 L165; Interlude_Embria L2)
+ALIAS	eternal beauty	wuvren	ok	Wuvren is the [Eternal Beauty] (Ch7.20 L1323)
+ALIAS	fellow antinium of the free hive pawn	free antinium	reject	Address spoken by Dekass to Pawn, a single Worker, not the Free Antinium group (Story_2 L7)
+ALIAS	flesh mage	sainath	reject	[Flesh Mage] is a crude class label; another speaker uses it generically (Ch6.32 L934); Sainath self-applies it (Ch7.09K L978)
+ALIAS	fraerling	niers astoragon	reject	Fraerling is a species word (Interlude_B02_1 L159-160); Niers is only one famous Fraerling
+ALIAS	gabrielle	gazi	ok	Gazi uses the alias Gabrielle in disguise (Interlude_Flos L221 "Gaz--I mean, Gabrielle")
+ALIAS	general wiskeria	witch	ok	Wiskeria of the Celestial Trackers (Ch4.20E L83-92) is Laken's General Wiskeria; entity key witch displays Wiskeria
+ALIAS	gold rock chieftain	hobgoblin spirit speaking through numbtongue	ok	Gold Rock/Stone Chieftain spelling variant; fat Hob who refused to kneel (Ch3.26G L189) is Pyrite's source
+ALIAS	great goblin	tremborag	reject	Great Goblin is a Goblin type, Fomirelin, six in one tribe (Ch7.43G L211,L445); Tremborag only one
+ALIAS	grimalkin the fist mage	grimalkin	ok	Grimalkin the Fist Mage, Muscle Mage of Pallass (Ch7.04 L456; Ch7.23LM L730)
+ALIAS	hammerbad (taunt)	ceria, yvlon, ksmvr (and pisces)	ok	Crowd taunt "Hammerbad" at the Horns of Hammerad (Ch3.08H L372-374)
+ALIAS	hero-death / courier of the first antinium wars	mihaela godfrey	reject	Hero-death is Rasea Zecrew (Ch7.43G L258); Courier of the First Antinium Wars is Mihaela (Ch7.44 L625)
+ALIAS	host: the thinking room	thinking room	ok	Skill named [Host: The Thinking Room], shortened [The Thinking Room] (Ch7.22D L444, L477)
+ALIAS	illusionist	mars	ok	Mars is called the Illusionist (Ch2.00K L76; Ch4.01K L98)
+ALIAS	jecaina leysars	jecaina	ok	Jecaina of Jecrass, Leysars royal house (Ch7.08K L219); same Dueling Princess
+ALIAS	king of destruction left hand	flos steward	ok	Orthenon known as King of Destruction's Left Hand (Ch4.05K L98)
+ALIAS	ksmvr	prognugator of the free antinium (false claim to the watch)	ok	Key is Ksmvr; entity display Ksmvr, Prognugator false claim title for him (b11 L38)
+ALIAS	laken godart (jest title)	laken tongue-in-cheek title	reject	Target is a descriptive note not an entity; jest title Protector of Durene's Cottage belongs to Laken (b12 L744)
+ALIAS	lizardperson	lizardfolk	ok	Lizardperson singular of Lizardfolk, same species (Ch1.03D L153)
+ALIAS	lord of the skies	takhatres	ok	Takhatres, Lord of the Skies, named together with Mars (Ch2.00K L76)
+ALIAS	mad zanthia first husband	emir sandel	ok	Zanthia's first husband is Emir Sandel of Chandrar (Ch6.27M L600-604)
+ALIAS	man in silver armor	ylawes byres	ok	Tall blond man in plate armor with shield and sword charging the street is Ylawes (Ch3.18T L92)
+ALIAS	melizsa	melitza	ok	Spelling variant of Huntress Melitza in same chapter (Ch7.50 L1115, L1180)
+ALIAS	miss saurisi	saucy	ok	Klbkch asks "Saucy, the Drake owner?" then answers "Miss Saurisi" (Ch6.61L L617-618)
+ALIAS	monster girl	horror (esthelm girl)	reject	Descriptor also used for half-monster Durene (Ch3.14 L317); generic, not a unique name for the Esthelm Horror
+ALIAS	mrsha the studious / mrsha the magically gifted	mrsha	ok	Honorific nicknames of Mrsha, like Mrsha the Brave and the Great and Terrible (b15_p02 L238-240)
+ALIAS	named alchemist	saliss of lights	ok	The Named Alchemist is Saliss at the bar (Ch7.51 L702)
+ALIAS	numbtongue (pyrite)	numbtongue with pyrite control	ok	Numbtongue under Pyrite's control (b13 6.58 L491); same referent as target, distinct from Pyrite's own entity
+ALIAS	onieva oliwing / saliss oliwing (same person)	saliss of lights	ok	Saliss: "as authentically Saliss as when I'm Onieva" (Ch7.17S L839); same person
+ALIAS	painted antinium	painted soldiers	ok	Painted Antinium and Painted Soldiers are Pawn's painted group (Ch5.03 L296; Ch5.12 L15)
+ALIAS	piglets	stelbore	reject	Generic word, also real pigs (Ch6.36E L571); only young Stelbore as "Piglets. Boarlets" (Ch6.04D L426), a subset
+ALIAS	professor	niers astoragon	reject	Title used of Niers (Ch4.25N L101) but also Ceria as Professor Springwalker (Wistram_Days_Pt.6 L142)
+ALIAS	quallet	quallet marshhand	ok	Quallet is the Gravetender's Fist captain Quallet Marshhand (Ch1.02D)
+ALIAS	raverian fighter company	raverian fighters	ok	Singular/variant of Raverian Fighters, mercenary company (Ch1.00D L36)
+ALIAS	regrika blackpaw	venitra	ok	Fake Named Gnoll revealed as undead servant, i.e. Venitra in disguise (Ch6.11 L390-393)
+ALIAS	revelantor	klbkch	ok	Klbkch addressed as Revalantor (Ch5.03 L296-297); spelling variant of his rank
+ALIAS	saliss cousin (cover story)	saliss of lights	ok	Onieva presented as Saliss's relation is Saliss's other form (Ch7.17S L692, L839)
+ALIAS	selphid who lived in the secret library	nemistra verdinan	ok	Residence of Nemistra Verdinan, Selphid who hid there for years (Wistram_Days_Pt.3 L135)
+ALIAS	silvenia the traitor	silvenia	ok	"Silvenia, the Death of Magic... The Traitor" (Ch7.36C L1218-1221)
+ALIAS	sir tom	tom	ok	Blighted King addresses the Clown as Sir Tom (Ch1.04C L48, L75)
+ALIAS	smiling man / infiltrator	oldblood drake	ok	Smiling man hiring bandits is the Drake infiltrator flying and burning forests (Ch6.47E L1042-1045)
+ALIAS	stitch-men	stitch-folk	ok	Stitch-Men are String People/Stitchfolk, same species (Ch4.06KM L10)
+ALIAS	sword-wielding clones of klbkch	prognugators created by the grand queen	ok	Clones of Klbkch are the Custodium made by the Grand Queen (Ch4.13L L411, L422; Queens_and_Dragons L27)
+ALIAS	thunder solace lightning mage	aeromancer alais	ok	Alais, leader of Thunder's Solace and its [Lightning Mage] (Ch6.18H L400)
+ALIAS	torena / female toren	nekhti	ok	Female skeleton names herself Torena then Nekhti (Ch7.14T L40-43)
+ALIAS	tyrant seagrass	lord admiral seagrass	ok	"Lord Admiral Seagrass. The Tyrant Seagrass." (Interlude_Strategists_at_Sea_Pt._2 L880)
+ALIAS	velan the kind	goblin king	ok	Last Goblin King Velan, known as Velan the Kind (Ch3.31G L222)
+ALIAS	wall lord ilvriss gemscale	ilvriss	ok	Wall Lord Ilvriss Gemscale is Ilvriss (Ch5.01 L206)
+ALIAS	wing commander embria grasstongue	embria	ok	Embria Grasstongue, 4th Company Wing Commander (Ch5.13 L165)
+ALIAS	wounded warrior yvlon	yvlon	ok	Yvlon Byres, a [Wounded Warrior] (Ch4.24 L478)
+ALIAS	ylawes team (dwarf, half-elf)	silver swords	ok	Ylawes's Gold-rank team with Dwarf and half-elf mage is the Silver Swords (Ch3.20T)

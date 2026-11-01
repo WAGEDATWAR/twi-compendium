@@ -19,10 +19,10 @@ Gate 1: every chapter has a block; verify_notes.py reports zero dangling cites; 
 ## Phase 2: entity ledger
 Merge notes into `ledgers/facts.jsonl` (entity, kind, text, cite, seq). Resolve aliases, split homonyms. Phase 2 items:
 - [x] 2.1 `extract_facts.py`: parse notes into `ledgers/facts.jsonl` (13,077 facts), group by canonical entity via the alias map, split joint-subject "A and B" facts across both entities (307); writes `entities.tsv` and `entity_report.txt`
-- [~] 2.2 (all 2,601 entities reviewed: 299 folds, 36 splits, 5 homonym splits, 453 topics; folds and splits independently verified; older alias pairs under independent verification) resolve `alias_conflicts.tsv`, split homonyms, fold surname/title variants (Ryoka vs Ryoka Griffin)
+- [x] 2.2 (DONE: all 2,601 entities reviewed; folds/splits and all 766 older alias pairs independently verified; 130+15 rejected merges left unmerged) resolve `alias_conflicts.tsv`, split homonyms, fold surname/title variants (Ryoka vs Ryoka Griffin)
 - [x] 2.3 (strict rule live: 0 of 2,010 census terms >=15 uncovered; 271 gaps decided in `coverage_decisions_gap.tsv`, 145 as fact-less manual entities) strengthen `check_coverage.py`: a census term counts as covered only if it resolves to a canonical entity in the entity ledger (or is stoplisted / a bracket term), not merely because it appears in some note line; turn the `entity` rows in `coverage_decisions.tsv` into real ledger entities
 - [~] 2.4 (kinds classified by heuristic, `kind_source: heuristic`; supersession links not started) classify fact kinds (`fact`/`rel`/`event`/`belief`/`reveal`/`state`) and set `seq` per fact; supersession links for retcons
-- [ ] 2.5 entity-ledger report and orphan-fact check
+- [x] 2.5 entity-ledger report and orphan-fact check (0 orphan facts; `entity_report.txt`; every entity with >=15 facts or 2+ chapters is a row in `entities.tsv`)
 Gate 2: each entity with >=15 facts or 2+ chapters has a file; no orphan facts.
 
 ## Phase 3: entity files and topic files

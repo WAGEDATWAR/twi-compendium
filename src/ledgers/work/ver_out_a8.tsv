@@ -1,0 +1,65 @@
+type	key	target	verdict	note
+ALIAS	agnes inn staff	safry/maran	reject	Descriptive group label for Agnes' staff; only Safry and Maran are named ex-staff (Book 5 Ch4.14L L461); staff set is wider than the pair.
+ALIAS	archer b12	autonomous worker working at the inn	reject	Archer B12 is one named Autonomous Worker among twelve on the inn's second floor (Book 16 Lifting_Ants L121-157); target is generic class/group.
+ALIAS	awakened	raskghar (awakened)	ok	'the awakened' = the Raskghar who did the ritual and gained intelligence (Book 8 Ch5.43 L148-152).
+ALIAS	batman (call alias)	ryoka griffin	ok	Ryoka Griffin aka 'batman' on the phone to Elena (Book 19 Ch7.54 L1164; Ch7.55E L188).
+ALIAS	belc	belsc	ok	Spelling variant: same western-gate guard named Belsc at L44 and Belc at L51 (Book 1 Ch1.14).
+ALIAS	bloodfeast	bloodfeast raiders	ok	Short form of the Bloodfeast Raiders; all facts under the name concern the raider gang (Book 17 Ch7.25 L50-51).
+ALIAS	captain of the wings of pallass	bevussa slenderscale	reject	Issa publicly poses as captain while Bevussa is the real Captain (Book 8 Ch5.40 L469); title fits two people.
+ALIAS	chef	pebblesnatch	reject	Generic class/occupation word; Pebblesnatch is a [Chef] but so are others, e.g. Garry is a [Cook] (Book 9 Interlude_Pebblesnatch L80,L144).
+ALIAS	cognizant-overseer golem head	cognizant-overseer golem, sela-ceramic body	ok	Only the Golem's head exists; it says 'Cognizant-Overseer type Golem, Sela-ceramic body' (Book 19 Ch0504 L1008).
+ALIAS	daly	daly sullivan	ok	Only one Daly in the text; Daly Sullivan, Australian leader (Book 10 Ch6.04D L18-23).
+ALIAS	doctor g / doctor geneva / last light of baleros	geneva	ok	Geneva is called Doctor G and the Last Light of Baleros (Book 10 Ch6.04D L67; Ch6.06D L81).
+ALIAS	duchess of waves	duchess of salt	ok	Same person: 'Duchess of Waves, or the Duchess of Salt' (Book 18 Interlude_Meetings_and_Friendships L492).
+ALIAS	ellia arcsinger	elia arcsinger	ok	Spelling variant: 'Ellia Arcsinger, the Kingslayer' (Book 8 Ch5.38 L311); Elia elsewhere (39 uses).
+ALIAS	enchanted arrow	evercut arrow	reject	Generic term; many enchanted arrows exist (Book 5 Ch4.05K L296, Ch1.03D L420); Evercut is one specific type.
+ALIAS	fake name goblin	nameless child	ok	Tremborag calls Rags 'Fake Name Goblin' (Book 4 Ch3.28G L183) and 'nameless child' (Book 9 Ch5.50G L25).
+ALIAS	fist of the winds / hurricane fist	windcaller wrath disciples	reject	'Hurricane's Fists' are senior Martial Artists, a rank within the cult (Book 16 Interlude_Dancing_and_Brawling L278-296); subset/title, not all disciples.
+ALIAS	former prognugator	prognugator of the free antinium (false claim to the watch)	reject	Title worn by Klbkch (Book 1 Ch1.38 L165) and Ksmvr (Book 5 Ch4.13L L224); target is Ksmvr's false claim.
+ALIAS	fury of the skies	fury of skies	ok	Spelling variant of Fury of Skies, cult leader of Windcaller's Wrath (Book 16 Interlude_Dancing_and_Brawling L243,L251).
+ALIAS	garen sword	garen redfang tribe; name from his red sword	reject	Garen's red sword is an item; target is the Redfang tribe (Chapter_Notes b07 L36). Different referents.
+ALIAS	goblinlands	goblin area at riverfarm (humans' insult term the goblins like)	ok	Goblins' walled area at Riverfarm, called 'Goblinlands' (Book 18 Ch7.40ER L71,L203,L471).
+ALIAS	great chieftain of the goblins	tremborag	ok	Title names Tremborag directly (Book 7 Ch5.10E L47); Great Chieftain of the North (Book 4 Ch3.26G L187).
+ALIAS	griffin prince	banished prince of kaliv, name struck from record	ok	Griffin Prince Ostevien, the cursed exile of Kaliv (Book 12 Ch6.43E L970; Ch6.44E L248).
+ALIAS	halrac bow	invisibow	ok	Halrac's bow is nicknamed the Invisibow (Book 16 Ch7.15R L294-300).
+ALIAS	hedag the executioner	hedag	ok	Hedag the [Executioner] is the witch Hedag (Book 12 Ch6.37E L187,L256).
+ALIAS	honored saliss / master saliss	saliss of lights	ok	Honorifics for Saliss: 'Honored Saliss. No wait, Sir Saliss'; 'Master Saliss' the alchemist.
+ALIAS	idis	selphid sharing geneva body	ok	Idis is the Selphid sharing Geneva's body ('Idis was keeping her heart from pounding'); target entity displays Idis.
+ALIAS	ironscales of oteslia	general ironscales	ok	General Ironscales of Oteslia owned the Heartflame Breastplate (Book 7 Ch5.17S L50,L422).
+ALIAS	king flos reimarch	flos	ok	Full name and title of Flos, King of Destruction.
+ALIAS	knight-commander of the order of seasons	calirn	ok	Only Knight-Commander named is Calirn (30 uses; Book 12 Ch6.42E L466).
+ALIAS	lady of thorns	bethal walchais	ok	[Lady of Thorns] is Bethal Walchais (Book 18 Ch7.30 L1322; Book 16 Ch7.18M L959,L1025).
+ALIAS	lischelle-drakle	drakle	ok	House name; 'We're just the Drakles... Lischelle-Drakle' (Book 10 Ch6.01); shortened form of the same family name.
+ALIAS	lord of flame	teriarch	ok	Teriarch introduces himself as Lord of Flame (Book 16 Ch7.12G L691).
+ALIAS	lyonette du marquin	lyonette	ok	Full name of Lyonette (42 uses of 'Lyonette du Marquin').
+ALIAS	maid (reinhart head maid)	ressa	ok	The unnamed [Maid] in Book 3 Ch3.10 L60-66 is Ressa, Reinhart head maid.
+ALIAS	maven	mars	ok	Single use: Flos addresses Mars in disguise as 'Ma-Maven?' (Book 7 Interlude_Flos L262).
+ALIAS	miss erin	erin solstice	ok	Honorific for Erin Solstice.
+ALIAS	mister salkis	wesle salkis	ok	All five uses address Wesle Salkis (Book 7 Ch5.04 L93,L160; Book 14 Ch6.63P L536); Lady Salkis is separate.
+ALIAS	mrsha stonespears	mrsha stone spears	ok	Spelling variant of 'Mrsha Stone Spears', scrying her full name (Book 15 Ch7.07 L28-30).
+ALIAS	nailihuaile	archmage nailihuaile	ok	Archmage Nailihuaile; only one bearer of the name (69 uses).
+ALIAS	numb-hob	numbtongue	ok	Wailant calls Numbtongue 'Numb-Hob' (Book 16 Ch7.11 L381-382).
+ALIAS	old man	teriarch	reject	Generic descriptor, no facts under it; Teriarch's disguise only (Book 4 Ch3.30 L228).
+ALIAS	osthmissa shieldscale	osthia blackwing	ok	Osthia's cover name: scales dyed and 'a fake name... Osthmissa Shieldscale' (Book 10 Ch6.11 L388).
+ALIAS	perorn sadiluc / fleethoof	perorn sadiluc (fleethoof)	ok	Fleethoof is Perorn Sadiluc's nickname (Book 11 'Perorn Fleethoof').
+ALIAS	princess (class upgrade)	worldly princess	ok	[Princess -> Worldly Princess] class change for Lyonette (Book 8 Ch5.26L L579).
+ALIAS	pukey	ryoka griffin	ok	Garia's nickname for Ryoka: 'Pukey' / 'Puke Runner' (Book 12 Ch6.35 L129,L153).
+ALIAS	rasea the shining	rasea zecrew	ok	Captain Rasea Zecrew, Rasea the Shining (Book 17 Interlude_Strategists_at_Sea L1453).
+ALIAS	redfang elite with a scar	redscar	ok	Rags dubs the scarred Redfang elite Redscar (Book 4 Ch3.29G L121).
+ALIAS	revalantor klbkch / klbkch the slayer	klbkch	ok	Titles of Klbkch (207 and 63 uses, e.g. Book 2 Ch2.00H L300).
+ALIAS	royal vanguard	flos elderly rider group	reject	[Royal Vanguard] is a Skill/unit used with changing groups (refugees Book 5 Ch4.05K L271; Gazi/Mars Book 13 Ch6.54K L762).
+ALIAS	selphid	jelaqua ivirith	reject	Species word fits many Selphids (Jelaqua, Okasha, Idis); not one individual.
+ALIAS	shepherd zamea	zamea	ok	Shepherd Zamea is Zamea, half-Giant leader of Nomad's Sky (Book 15 Ch7.08K L789,L818).
+ALIAS	sir redscar	redscar	ok	Sir Kerrig addresses Redscar as 'Sir Redscar' (Book 7 Ch5.20G L676-680).
+ALIAS	sky mirage	chaita of keymos	ok	Garuda Courier nicknamed Sky's Mirage; Flos recalls her (Book 10 Ch6.14K L530-534).
+ALIAS	spiderslicer	spiderbite	ok	Erin misnames 'Spiderbite', corrected 'Spiderslicer' (Book 9 Ch5.59 L447-452); same Goblin.
+ALIAS	strongest of pomle	orjin of pomle	ok	Orjin is the Strongest of Pomle in all uses (Book 10 Ch6.15K L295; Book 13 Ch6.52K L516).
+ALIAS	tessa	shriekblade (tessa)	reject	Shriekblade's real name is Tessa (Book 18 Ch7.33I L167) but a Human face called Tessa appears in Book 17 Ch7.19 L782; bare name ambiguous.
+ALIAS	toren (masked persona)	toren masked persona	ok	Toren's masked disguise; variant of the same persona key (Book 13).
+ALIAS	tunnel crawlers	crelers	ok	'Tunnel Crawlers? Oh. Crelers' (Book 14 Ch6.68 L750-752); Ryoka's local name (Book 1 Interlude_1.00_R L23).
+ALIAS	unseen carriage	unseen carriage / unmarked carriage	ok	Ryoka's 'Unseen Carriage' is the Unmarked Coach with driver Karsaeu (Book 19 Ch7.45 L1020; Ch7.44 L358).
+ALIAS	wailing pit	flesh-pit	ok	Toren's 'flesh-pit' is identified as 'a Wailing Pit' (Book 13 Ch6.48T L103,L792).
+ALIAS	windcaller rest (orjin slip)	fury of skies	reject	Orjin's slip for the cult Windcaller's Wrath (Book 16 Interlude_Dancing_and_Brawling L387); target Fury of Skies is its leader, a person.
+ALIAS	witch runner	alevica	ok	Alevica the Witch Runner (Book 12 Ch6.37E L380).
+ALIAS	yasyiin	yasyiin, last grand gardener	ok	Yasyiin, the last Grand Gardener of Oteslia (Book 18 Interlude_Food_and_Growth L267).
+ALIAS	zelkyr	archmage zelkyr	ok	Archmage Zelkyr; sole bearer of the name.

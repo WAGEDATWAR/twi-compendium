@@ -1,0 +1,65 @@
+type	key	target	verdict	note
+ALIAS	(unclassified dungeon enemy)	mother of graves	ok	Described as major unique enemy known as Mother of Graves (b09 5.49 L80).
+ALIAS	apprentice of the necromancer	goblin lord	reject	Necromancer's apprentice is a role also applied to others (7.14T L170 new apprentice); Goblin Lord only once (4.16 L380).
+ALIAS	aunt (permitted address)	small queen	ok	Xrn tells Anand and Pawn "call me Aunt" (7.19 L837, L899); target resolves to Xrn.
+ALIAS	barmaid of the frenzied hare	safry	reject	Barmaid at Frenzied Hare is a role shared by Safry, Maran and others (4.12 L384-386).
+ALIAS	bee	apista	ok	POV bee in 6.08 L17-19 is named Apista; same Ashfire Bee queen.
+ALIAS	blighted king	othius iv	ok	Othius IV known as the Blighted King (7.34C L73, L80).
+ALIAS	captain crossbow stan	stan	ok	Crossbow Stan is the same Silver-rank crossbowman; forms and alias list agree.
+ALIAS	chaldion	grand strategist chaldion	ok	Chaldion is the Grand Strategist of Pallass; same one-eyed Drake (6.38, 7.02).
+ALIAS	clown of rhir	tom	ok	Tom calls himself "Clown of Rhir" (7.34C L1363).
+ALIAS	crazy human of liscor	erin solstice	ok	"Crazy Human of Liscor" is Erin Solstice (7.20 L1212).
+ALIAS	dimwitted goblin without ears	noears	ok	Dimwitted Goblin without ears is Noears (3.28G L275, L467).
+ALIAS	drake general	zel shivertail	reject	Generic title; "Drake General" in 3.22L L350 is one of several Drake generals (Zel, Ilvriss).
+ALIAS	elden veis	bea masquerade name	ok	Elden Veis is Bea's masquerade name (b13 L474); target key is a stub descriptor.
+ALIAS	emperor of sands	empress of sands	ok	Same ruler changing bodies; "she was still the Emperor" (5.02 L174).
+ALIAS	facesnatcher	snatcher	ok	Facesnatcher, Facestealer, Snatcher are the same headless guardian (5.43 L682-708; 5.44 L121).
+ALIAS	first-mage teura / high mage teura	teura	ok	First-Mage Teura / High Mage Teura same half-Elf Wistram mage (b11 L151).
+ALIAS	flying gnoll of pallass	felkhr	ok	Felkhr is the Flying Gnoll of Pallass (7.11 L62).
+ALIAS	frostfeeder goblins	tribe rags rescues	ok	Frostfeeder goblins are the tribe Rags rescues (b07 5.20G L577); target is descriptor, true entity Frostfeeder Tribe.
+ALIAS	gardener	nalth	reject	Bare class word [Gardener] also fits Royal/First Gardeners; Nalth only one gardener (11 Ch_0355 L92).
+ALIAS	gnoll peg-leg captain	saltears	ok	Gnoll peg-leg captain says "They call me Saltears" (6.23D L327).
+ALIAS	grandfather	regis reinhart	reject	Bare "grandfather" is an address term; only Magnolia's usage for Regis (4.26M L121).
+ALIAS	greybeard	greydath of blades	ok	Greybeard = Greydath of Blades explicit (b08 L69-71).
+ALIAS	half-gazer	gazi	ok	Half-Gazer is Gazi's consistent epithet (1.30 L70; 1.31 L201), no other half-Gazer individual.
+ALIAS	head-collector monster	head-collector	ok	Head-collector monster is the Head-collector/Face Collector (5.15, 5.16S).
+ALIAS	hobs	redfang warriors	reject	Hobs is a species term; Redfang warriors are a thirteen-member subset (3.17T L115).
+ALIAS	hygenic hands	skill - hygienic hands	ok	Spelling variant of the skill [Hygienic Hands] (b03 1.00D L302).
+ALIAS	individual pawn	pawn	ok	Antinium addresses Pawn as "Individual Pawn" repeatedly (4.13L L192-312).
+ALIAS	karsy	karsaeu-dequoa	ok	Karsy is the Unmarked Coach driver Karsaeu-Dequoa (7.44 L352-354).
+ALIAS	klbkchhezeim of the centenium	klbkch	ok	Klbkch addressed as "Klbkchhezeim of the Centenium" (5.54 L154, L727).
+ALIAS	lady magnolia	magnolia reinhart	ok	Lady Magnolia is Magnolia Reinhart (2.09 L235; 2.30 L80).
+ALIAS	lecci (ulvama offered name)	pebblesnatch	ok	Ulvama told Pebblesnatch she could be called Lecci (7.05P L1096).
+ALIAS	lord himilt val lischelle-drakle	himilt val lischelle-drakle	ok	Full name with title for Himilt Drakle; same noble.
+ALIAS	luan the runner / luan the city runner	luan khumalo	ok	Luan the Runner / City Runner is Luan Khumalo (b11 L32, L1259).
+ALIAS	magical typhoon	typhoon erannda	ok	Wistram names the Magical Typhoon "Typhoon Erannda" (7.46 Ch503 L209).
+ALIAS	masked warrior	toren masked persona	ok	Toren is the Masked Warrior adventurer (6.48T L324, L652, L705).
+ALIAS	miss adventurer	toren	reject	"Miss Adventurer" is a generic form of address to different adventurers (4.08T L250; 5.29 L441).
+ALIAS	mister hedault	hedault	ok	Mister Hedault is the lawyer Hedault (3.36 L304-318).
+ALIAS	most powerful lady on the continent	magnolia reinhart	uncertain	Superlative epithet in 3.38 L13 names no one; Magnolia plausible but Lady unnamed.
+ALIAS	mysterious chess opponent	niers astoragon	reject	Epithet depends on viewpoint: in 3.22L L348 it means Erin, in Niers chapters Erin's opponent is Niers.
+ALIAS	not-gnolls	raskghar	ok	Not-Gnolls are the Raskghar (5.28 L420; 5.29 L431).
+ALIAS	oksaha	okasha	ok	Spelling variant of Okasha, the Selphid (1.01D L234).
+ALIAS	orthenon	flos steward	ok	Orthenon is the King of Destruction's steward; entity Orthenon.
+ALIAS	pelt of derithal-vel	pelt	ok	Pelt of DerÃ­thal-Vel is the Dwarf Pelt (7.31 L366, L441).
+ALIAS	poisonbite	hob scout	ok	Entity displays Poisonbite with all her facts; alias is her name (5.23G L196).
+ALIAS	prognugators made by the grand queen	prognugators created by the grand queen	ok	Custodium are the Prognugators created by the Grand Queen (b15 = L27).
+ALIAS	rags tribe (laken side calls it so)	rags tribe, per lady rie	ok	Rags tribe is the Flooded Waters tribe (b08 L317); same group.
+ALIAS	redfang band	redfang warriors	ok	Same band of Redfang warriors (3.26G L100; 3.20T L30, L187).
+ALIAS	resse	ressa	ok	Resse is a spelling of Ressa, head maid (1.05R L168).
+ALIAS	romeo and juliet (players of celum)	juliet and romeo	ok	Same Players of Celum play; word order variant (5.27 L66).
+ALIAS	scorchling	half-drake	reject	Scorchling is a species of Oldblood Drake (4.43 L450); target is Halassia as half-Drake.
+ALIAS	serpent-titan	zavaral-swarm	ok	Serpent-Titan is the name designated for the entity (7.35C L25).
+ALIAS	sir bull / sir sea cow	venaz	ok	Sir Bull and Sir Sea Cow are names for Venaz (7.17 Interlude L916).
+ALIAS	skeleton	toren	reject	"Skeleton" is a species word; Toren is one of many skeletons.
+ALIAS	spaghetti	damcli noodles	reject	Earth spaghetti appears in 25 chapters; Damcli Noodles only a similar dish (Interlude Niers L14).
+ALIAS	strategist from liscor / olesm whatshisface	olesm swifttail	ok	Olesm whatshisface is the Strategist from Liscor (6.21D L144).
+ALIAS	temptress of izril	belavierr	ok	Belavierr is called the Temptress of Izril (6.43E L43).
+ALIAS	todi the turbulent (magnolia mis-recalls tobi)	todi	ok	Magnolia mis-recalls Todi's name as Tobi (7.31 L981-982).
+ALIAS	truestone construct	cognita	reject	Truestone Construct is a golem type; Cognita speaks of her kindred (Wistram Days L297).
+ALIAS	unmarked coach	unseen carriage / unmarked carriage	ok	Unseen Carriage and Unmarked Coach are the same vehicle (7.45 L1020).
+ALIAS	viceria	viceria strongheart	ok	Viceria Strongheart is the only Viceria (4.13L area; entity forms).
+ALIAS	wildfrozen riders	windfrozen riders	ok	Wildfrozen is a variant of Windfrozen Riders (4.21E L7; 3.35 L212).
+ALIAS	wiskeria	witch	ok	Wiskeria's entity is displayed as Wiskeria; same witch.
+ALIAS	xrn the small queen	small queen	ok	Xrn is the Small Queen (3.23L L489; 7.19 L832).
+ALIAS	zanthia	lady zanthia	ok	Lady Zanthia is Magnolia's emissary (6.36 Ch_0355 L505).

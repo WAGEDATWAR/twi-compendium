@@ -1,0 +1,65 @@
+type	key	target	verdict	note
+ALIAS	(pyrite word for eleven times)	elevenuple	ok	Pyrite coins the word 'Elevenuple' for eleven times (5.55G L17).
+ALIAS	animated suits of armor	reinhart golems	ok	The ten plate-armour Golems (3.14 L91) are called animated suits of armor by Teriarch (3.14 L207).
+ALIAS	asrira	asrira shieldscale	ok	Major Asrira Shieldscale, first-name form (6.02 L303). Note: Osthia later disguised as her (6.50I).
+ALIAS	barkeep	rufelt	reject	[Barkeep] is a class/title any bartender can bear; Rufelt merely answers it (Interlude_Rufelt L112-113).
+ALIAS	bear	bismarck	reject	Generic species word; many bears appear. Bismarck is one specific Mossbear (5.09E L34-35).
+ALIAS	bishop (first, dead)	bishop (second)	reject	Two distinct Antinium share the name Bishop; first died in Liscor battle (6.29 L434-444).
+ALIAS	burning blades	burning blade	ok	Rags's spell [Burning Blades] and Skill [Burning Blade] are the same ability, plural/singular (5.47G L353,L394).
+ALIAS	censer (with chains)	thurible	ok	Chained censer is called a thurible, same object (4.14L L389,L404).
+ALIAS	city of gems	salazsar	ok	Salazsar is the City of Gems; facts under alias are Salazsar facts (6.32 L3).
+ALIAS	courier seve	seve-alrelious	ok	Courier Seve = Seve-Alrelious, Hundredfriends Courier (7.49, 7.51).
+ALIAS	demesne of riverfarm	riverfarm	ok	Laken's demesne is Riverfarm (3.11E L67-69); same place, possessive form.
+ALIAS	dragonspeaker of manus	luciva skybreath	ok	Luciva is the Dragonspeaker of Manus, title worn by one individual (6.33E L33,L45).
+ALIAS	earlia of gemhammer	earlia	ok	Earlia, captain of Gemhammer (5.27 L303); same named person.
+ALIAS	emperor laken godart	laken	ok	Laken Godart, Emperor of Riverfarm; same person with title.
+ALIAS	eye in a pyramid	symbol on laken totem	ok	Eye-in-pyramid symbol designed for Laken's totem pole (4.21E L141-149); target entity key absent though.
+ALIAS	first crafter-magus	femithain	ok	First Crafter-Magus Femithain of Illivere (6.15K L401); single title holder.
+ALIAS	flooded waters tribe	rags tribe, per lady rie	ok	Rags's tribe is the Flooded Waters tribe (2.02G L6).
+ALIAS	frost faery (blue)	ivolethe	ok	Blue frost faerie is Ivolethe: 'You're Ivolethe! why are you still blue?' (5.11E L398-401).
+ALIAS	galewinds strategist / fleethoof / lady fleethoof	perorn sadiluc	ok	Perorn Sadiluc, nickname Fleethoof, Galewinds Strategist (6.21D L129; 6.22D L116-118).
+ALIAS	glorious fezimet / leader of the featherfolk brigade	fezimet	ok	Fezimet leads the Featherfolk Brigade (6.20D L660-663).
+ALIAS	grand mage	teriarch	reject	Grand Mage is a generic title (Esiela, 7.13K L158); Teriarch's guise is Grand Magus Eldavin (7.26).
+ALIAS	greater wyvern	wyvern lord	ok	The Wyvern Lord is the Greater Wyvern attacking Pallass (7.03 L800).
+ALIAS	halassia evergleam (typo)	half-drake	reject	Halassia Evergleam is an individual Scorchling of Halfseekers (5.57 L270); half-drake is a species/race.
+ALIAS	hat duo	gentlemen callers	ok	Wilovan and Ratici are the Gentlemen Callers of the Brotherhood (5.54 L974; 6.42E L375).
+ALIAS	hobgoblin	numbtongue	reject	Species word fitting many Hobs; Numbtongue is one individual.
+ALIAS	hunters of noelictus	witch hunters	reject	Noelictus Hunters include Witch, Undead, Demon Hunters (6.43E L377); witch hunters are a subset.
+ALIAS	imenet southwing (disguise)	ijvani	ok	Imenet is Ijvani's disguise name (entity forms 'Ijvani as Imenet').
+ALIAS	jurix (dullahan)	jurix	ok	Jurix the Dullahan (Wistram_Days_Pt.5 L333); same person with species tag.
+ALIAS	klbkchhezeim / klbkch the slayer / centenium	klbkch	ok	Klbkchhezeim the Slayer, one of the Centenium (3.42 L46); composite names Klbkch alone.
+ALIAS	lady el	maviola el	ok	Maviola El, matriarch of House El (7.18M facts).
+ALIAS	leader of the forgotten wing company	commander foliana / three-color stalker	ok	Foliana, Three-Color Stalker, leads the Forgotten Wing (4.25N L27).
+ALIAS	lord charles de trevalier	wil kallinad	reject	Real Charles de Trevalier is a Wistram mage; Wil merely used the name as a cover (Strategists_at_Sea_Pt2 L267-268).
+ALIAS	luan	luan khumalo	ok	Luan Khumalo, same person (1.02D-1.04D).
+ALIAS	mage of the king of destruction seven	amerys	ok	Amerys is the mage of the Seven (Wistram_Days_Pt.3 L448).
+ALIAS	mars the illusionist	mars	ok	Mars, Flos's Vanguard with illusions (6.12K L487-493).
+ALIAS	minotauress form of face (draught)	female minotauress form from a draught	ok	Mire's draught-given Minotauress form (b18 note L205); same description.
+ALIAS	miss swordswoman	toren	ok	Masked swordswoman called Miss Swordswoman is Toren (4.08T L344,L396).
+ALIAS	mossbear	bismarck	reject	Species word; several Mossbears exist (6.21D L58,L90). Bismarck is one named individual (5.09E L35).
+ALIAS	muscle mage of pallass	grimalkin	ok	Grimalkin is the Muscle Mage of Pallass (6.31 L519,L565).
+ALIAS	nightmen	nightwoman / scourer / hauler / digger	ok	Nightmen/Nightwomen/Scourers are one sewage-worker class (6.22D L974).
+ALIAS	octavia mold (proposed) / octalius (proposed)	occillium	ok	Proposed names for Occillium (Meetings_and_Friendships L43).
+ALIAS	origin of seeking death	invrisil (goblin name)	ok	Goblin name for Invrisil (4.46 L100-102).
+ALIAS	pebblesnatch the mighty	pebblesnatch	ok	Same Cave Goblin Pebblesnatch with epithet.
+ALIAS	players of celum	actors rehearsing macbeth	ok	Players of Celum (5.04 L121); same troupe as target entity displayed Players of Celum.
+ALIAS	prognugator bird	bird	ok	Bird claims to be Prognugator (7.03 L1380-1383); same individual, Klbkch denies the rank.
+ALIAS	rafaema	lady coloseuvia	ok	Lady Coloseuvia is Rafaema's old name (Queens_and_Dragons L134-137).
+ALIAS	redfang (chieftain)	garren redfang	ok	Redfang chieftain is Garen Redfang; explicit chieftain qualifier.
+ALIAS	relc	gecko of liscor	ok	Relc Grasstongue, the Gecko of Liscor (1.07).
+ALIAS	riverfarm empire	unseen empire	ok	Laken's realm is named the Unseen Empire (4.20E L125; 4.21E L275).
+ALIAS	scale soup	erin defense soup	ok	Relc's name for Erin's defense soup (4.07 L434).
+ALIAS	senior guardsman relc / gecko of liscor	gecko of liscor	ok	Relc, Gecko of Liscor (1.07).
+ALIAS	sinew magus	grimalkin	ok	[Sinew Magus] is Grimalkin's class (6.31 L763); no other holder found.
+ALIAS	sister (faerie usage)	ivolethe	reject	Generic kin word; at 3.09 L239 'her sister' is the other faerie, not Ivolethe.
+ALIAS	solstice goblins	flooded waters + cave goblins + redfangs	reject	Alliance of Flooded Waters, Cave Goblins, Redfangs (5.61 L784-786); the whole is not any one member group.
+ALIAS	stormlord captain seagrass	lord admiral seagrass	ok	Lord Admiral Seagrass, Tyrant Seagrass (Strategists_at_Sea_Pt2 L880,L972).
+ALIAS	tekshia the spearmaster	tekshia shivertail	ok	Tekshia calls herself the Spearmaster (6.17S L362-363).
+ALIAS	titan of baleros	niers astoragon	ok	Niers Astoragon is the Titan of Baleros (6.21D L597).
+ALIAS	tritel	tritel; silver mare of izril	ok	Tritel the Moonlight Rider (7.18M L595); target key also names horse Ci, minor conflation.
+ALIAS	uncle (osthia)	thrissiam blackwing	ok	Osthia calls Thrissiam uncle (4.16 L74,L298,L319).
+ALIAS	venitra (disguise)	venitra	ok	Venitra under disguise; same individual.
+ALIAS	white gnoll curse term	doombringer	ok	Doombringer is the curse term used on white Gnoll Mrsha (3.38 L146-147; 3.27M L351).
+ALIAS	winter sprite (ressa usage)	frost faeries	ok	Winter Sprite = frost faeries, Ressa's wording (3.13E L468).
+ALIAS	xrn	small queen	ok	Xrn is the Small Queen / Azure (3.23L L418).
+ALIAS	yvlon byres	yvlon	ok	Yvlon Byres, same person.

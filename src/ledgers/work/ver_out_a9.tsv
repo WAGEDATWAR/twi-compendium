@@ -1,0 +1,65 @@
+type	key	target	verdict	note
+ALIAS	alchemist	stitch girl	reject	Class title fits many (Pisces, Rikku); facts are Octavia/Stitchworks only by context (Book 2, Ch2.09 L306).
+ALIAS	architect	hexel quithail	reject	Title also worn by Drevish, one of Flos's Seven (Book 5, Ch4.00K L8); Hexel is only the Book 17 architect (Ch_0468 L981).
+ALIAS	axe given to ozem	axehorns of minos	reject	One of twin Axehorns of Minos; a single member, not the pair (Book 19, Ch7.47K L839).
+ALIAS	batman (chat handle)	ryoka griffin	ok	Ryoka played [batman] in the Call chat (Book 2, Interlude_The_Call L70; notes b02 L42).
+ALIAS	belchaus meron	lord belchaus meron (lord bel, the lord of the dance)	ok	Lord Belchaus Meron, the Lord of the Dance (Book 17, Interlude_The_Gecko_of_Illusions L70).
+ALIAS	bone behemoth (merged form)	merged ceria-pisces undead construct	ok	Qualified merged form: Frostmarrow Behemoth of Ceria and Pisces, distinct from plain Bone Behemoth (Book 14, Ch6.66H L582).
+ALIAS	captain osthia	osthia blackwing	ok	Captain Osthia Blackwing introduced to Garusa (Book 5, Ch4.16 L59).
+ALIAS	chell	sisters of chell	reject	Chell is a person ("Chell's girls"), namesake leader, not the Sisters group (Book 12, Interlude_Numbtongue_Pt.1 L150).
+ALIAS	coinpurse	alrric	ok	"Coinpurse-Alrric" codename and name equated (Book 18, Ch7.33I L878).
+ALIAS	dasaha	dasha	ok	Spelling variant of Dasha, part-Dwarf axe fighter (Book 7, Ch5.05 L328,L392).
+ALIAS	doctor geneva (his title for her)	calectus	reject	Phrase is Calectus' title for Geneva, a different person (Book 5, Ch1.04D L80).
+ALIAS	duchess of waves / duchess of salt	gresaria wellfar	ok	Sea Lady Gresaria Wellfar nicknamed Duchess of Waves/Salt (Book 18, Interlude_Meetings_and_Friendships L492).
+ALIAS	elmvettelashar	elmvett	ok	Same nation: Elmvettelashar then "people of Elmvett" declare war (Book 5, Ch4.04K L139,L149).
+ALIAS	erin skeleton / revenant creation	toren	ok	Erin's revived skeleton is Toren (Book 1, Ch1.32 L290; Book 3, Ch3.24 L258).
+ALIAS	falene skystrall	falene	ok	Full name of half-Elf Falene (Book 6, Ch4.45 L229).
+ALIAS	flans	flos	ok	Flos's fake name in the bazaar (Book 7, Interlude_Flos L285-L294).
+ALIAS	fortress blackpaw	venitra	ok	Nickname of Regrika Blackpaw, Venitra's disguise (Book 5, Ch4.27H L78; Book 13, Ch6.51A L343).
+ALIAS	fury of the winds	fury of skies	ok	Misnamed variant of Fury of Skies, cult leader (Book 16, Interlude_Dancing_and_Brawling L405).
+ALIAS	gay (drake term)	turnscale	reject	Human word; Drake "Turnscale" is broader, does not cover it exactly (Book 18, Ch7.38 L387; Book 16, Ch7.17S L833).
+ALIAS	goblins of liscor	flooded waters + cave goblins + redfangs	reject	Target is a union of several tribes, not one entity; alias is a loose group label.
+ALIAS	great chieftain of the mountain city tribe	tremborag	ok	Tremborag, Great Chieftain of the Mountain City tribe (Book 7, Ch5.19G L34).
+ALIAS	griffin-slaying team (griffon/griffin spelling)	griffin hunt (pun on griffons that hunt griffins)	ok	Griffon Hunt team spelling variant of Griffin Hunt (Book 2, Ch2.01T L177-184).
+ALIAS	hamburger flipping drake	hamburger stand	reject	Alias is a street vendor Drake; target is the stand/craze, person versus thing (Book 3, Ch3.06L L4).
+ALIAS	hell wardens	crelerbane	ok	Hell's Wardens and Crelerbane both hail the Horns (Book 14, Ch6.66H L772; Ch6.67 L87).
+ALIAS	horn chieftain	calruz	ok	One-armed Calruz hailed as Horn Chieftain (Book 8, Ch5.38 L720-L742).
+ALIAS	idis (replacement)	okasha	reject	Idis is a different Selphid who replaced Okasha (Book 18, Ch7.32D L319).
+ALIAS	issa	bevussa slenderscale	reject	Issa is the Drake publicly called Captain; Bevussa is the Garuda actual captain (Book 8, Ch5.36 L38).
+ALIAS	king leysars	raelt leysars	ok	Raelt Leysars, King of Jecrass; father Meriden is only past reference (Book 15, Ch7.08K L219,L497).
+ALIAS	knights of summer and autumn / order of seasons	kallinad army	reject	Order of Seasons is its own org; Kallinad army is House troops, separate (Book 11 notes b11 L1047).
+ALIAS	lady talia kallinad / summer knight of the order of seasons	talia kallinad	ok	Talia Kallinad, Summer Knight of Order of Seasons (Book 14, Interlude_Talia L6).
+ALIAS	lism	drake shopkeeper who cheated erin	ok	Shopkeeper Lism is Lism Swifttail, one person (Book 1, Ch1.31 L21; Book 13, Ch6.49 L45).
+ALIAS	lord of the dance	lord belchaus meron (lord bel, the lord of the dance)	ok	Lord Belchaus Meron, the Lord of the Dance (Book 17, Interlude_The_Gecko_of_Illusions L70).
+ALIAS	mad dwarf	pelt	ok	Garuda calls Pelt "the mad Dwarf" (Book 15, Ch7.01 L645).
+ALIAS	major scaleshield	asrira shieldscale	ok	Asrira Shieldscale addressed as Major Scaleshield (Book 10, Ch6.03 L411,L460).
+ALIAS	mavika raven	sephraic	reject	Sephraic is Mavika's raven familiar, distinct from the Witch (Book 19, Ch7.43G L647).
+ALIAS	miss griffin	ryoka griffin	ok	Address for Ryoka Griffin (Book 2, Ch2.04 L301).
+ALIAS	mister sauce	ushel	ok	Customer's name for the Gnoll Ushel (Book 16, Interlude_Chocolate_Gold L194,L202).
+ALIAS	mrsha the brave	mrsha	ok	Epithet of Mrsha; single cub of that name.
+ALIAS	nali sugarcane	nali-sticks	ok	Nali-sticks are concentrated sugarcane snack (Book 10, Ch6.05D L265).
+ALIAS	numbpyrite	numbtongue with pyrite control	ok	NumbPyrite is Numbtongue under Pyrite's control (Book 13, Ch6.58 L491; notes b13 L422).
+ALIAS	oldblood drake (bronze)	man with the smile	ok	Bronze-scaled disguised Oldblood Drake, the man with the smile (Book 12, Ch6.45E L684,L820).
+ALIAS	our emperor laken godart demesne	riverfarm	ok	Demesne of Riverfarm is Laken's domain (Book 12, Ch6.33E L433).
+ALIAS	perril chandler	az'kerash	ok	Az'kerash also called Perril Chandler (Book 2, Ch2.24 L2-5; Book 10, Ch6.11 L397).
+ALIAS	princess du marquin / lady du marquin	lyonette	ok	Lyonette du Marquin, a princess (Book 2, Ch2.34 L240).
+ALIAS	pyrite	hobgoblin spirit speaking through numbtongue	ok	Target entity is Pyrite (hob and spirit); same name (Book 10, Ch6.02 L242-L252).
+ALIAS	rasea zecrew ship	rasea ship	ok	Illuminary is Rasea Zecrew's ship (Book 17, Interlude_Strategists_at_Sea_Pt._1 L1453).
+ALIAS	redfang goblins	redfang warriors	ok	Redfang Goblins and Redfang warriors used interchangeably for the band (Book 3, Ch3.18T L41,L48).
+ALIAS	revalantor of the free antinium	klbkch	ok	Klbkch, Revalantor of the Free Antinium (Book 2, Ch2.15 L5).
+ALIAS	ruinbringer steward	flos steward	ok	Orthenon is the Ruinbringer Steward (Book 15, Ch7.10K L824).
+ALIAS	selphid roommate	okasha	ok	Geneva's roommate is Okasha (Book 16, Mating_Rituals_Pt.2 L299-L310).
+ALIAS	shopkeeper lism	lism swifttail	ok	Shopkeeper Lism is Lism Swifttail (Book 13, Ch6.49 L45).
+ALIAS	sir saliss	saliss of lights	ok	Sir Saliss Oliwing is Saliss of Lights (Book 15, Ch7.02 L959,L1025).
+ALIAS	slayer of kerash	az'kerash	ok	Az'kerash means Slayer of Kerash, a name for him (Book 13, Ch6.51A L100).
+ALIAS	steward prost	prost	ok	Prost addressed as Steward Prost; same Riverfarm man (Book 12, Ch6.34E L81).
+ALIAS	summoned group	americans	ok	The Americans summoned from Earth (Book 2, Ch1.00C L13-14).
+ALIAS	testing / golem fights	test of mirrhen	ok	Golem Fights are the Test of Mirrhen (Book 19, Interlude_Experiments_in_Golems L365).
+ALIAS	toren disguise	mysterious swordswoman / miss adventurer	ok	Masked swordswoman/Miss Adventurer is Toren in disguise (entity aliases); same referent.
+ALIAS	turnscales	turnscale	ok	Plural of Turnscale (Book 16, Ch7.17S L868).
+ALIAS	unstoppable messenger of izril	mihaela godfrey	ok	Mihaela Godfrey named Unstoppable Messenger of Izril (Book 19, Ch_0498 L506).
+ALIAS	walker of the forests	faerie king	ok	One of the Faerie King's names (Book 5, Ch4.31 L418).
+ALIAS	windcaller wrath	fury of skies	reject	Windcaller's Wrath is the cult; Fury of Skies is its leader, group versus person (Book 16, Dancing_and_Brawling L250).
+ALIAS	woman made of bone	venitra	ok	Venitra, Az'kerash's bone servant (Book 2, Ch2.25 L329; Ch2.41 L121).
+ALIAS	yellow rivers cure/mold	occillium	ok	Occillium is the mold cure for Yellow Rivers (Book 19, Ch7.49 L129-L131).
+ALIAS	zevara sunderscale	zevara	ok	Zevara, Captain of Liscor's Watch (Book 1, Ch1.42 L64).

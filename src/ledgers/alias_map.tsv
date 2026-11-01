@@ -3,7 +3,6 @@ alias_key	canonical_key
 (local celebrity healer)	healer of tenbault
 (poison antidote reagent)	sage grass
 (pyrite word for eleven times)	elevenuple
-(redfangs and cave goblins at the inn)	wandering inn tribe
 (unclassified dungeon enemy)	mother of graves
 4th company	skywalker company
 aaron	aaron vanwell
@@ -13,18 +12,14 @@ adult	adult creler
 adventurer guilds	adventurer guild
 adventurer teams	adventurers
 adventurers' guild	adventurer guild
-aegiscaster	montressa du valeross
-agnes inn staff	safry/maran
 aiko nonomura	aiko
 albez ruins	ruins of albez
-alchemist	stitch girl
 ald	aldenon
 alonna	alonna swiftwing
 alrric kerrfa	alrric
 amentus fruit (the blue fruit)	amentus fruit
 american group	america group
 amerys residing in wistram	amerys
-ancestor guard company	oldblood
 animalfriend exile (class)	nsiia
 animated suits of armor	reinhart golems
 antinium grand queen	grand queen
@@ -35,11 +30,7 @@ antinium queen	queen of the free antinium
 antinium queen (free antinium)	queen of the free antinium
 antinium war	antinium wars
 apista (ashfire bee)	apista
-apprentice of the necromancer	goblin lord
 archduchess (promised title)	ivolethe
-archer	demon archer with the seven-foot bow
-archer b12	autonomous worker working at the inn
-architect	hexel quithail
 archmage amerys	amerys
 archmage chandler	az'kerash
 archmage nailihuaile (naili)	archmage nailihuaile
@@ -55,10 +46,9 @@ assembly	assembly of crafts
 aunt (permitted address)	small queen
 aunt magnolia (yvlon usage)	magnolia reinhart
 author	pirateaba
-autonomous worker	autonomous worker working at the inn
 awakened	raskghar (awakened)
-axe given to ozem	axehorns of minos
 axe guard sergeant name given by army	tengrip
+axehorns of minos	axe given to ozem
 az'kerash chosen	chosen
 azure (color of the sky)	small queen
 bags of holding	bag of holding
@@ -67,9 +57,6 @@ bandit lord maresar	maresar
 baosar	baosar yeothrix
 bard	numbtongue
 bard of avalon	william shakespeare
-barkeep	rufelt
-barmaid / cook (3.15-3.16)	safry
-barmaid of the frenzied hare	safry
 baroness of the beats	cara o'sullivan
 barracks wall	barracks mural
 batman	ryoka griffin
@@ -80,15 +67,12 @@ battle hymnist	bannermare of baleros
 bea	plague zombie woman, one of az'kerash chosen
 bea (chosen)	plague zombie woman, one of az'kerash chosen
 bea (masquerade name)	bea masquerade name
-bear	bismarck
 bearded man at erin inn	tamaroth
 bee	apista
 beeyonce (erin suggestion)	apista
-belavierr / spider of terandria / threadstealer / weaver of terandria	stitch witch
 belc	belsc
 belchaus meron	lord belchaus meron (lord bel, the lord of the dance)
 beniar riders	windfrozen riders
-berserker	headscratcher
 bethal	bethal walchais
 bethal aura	bethal walchais
 bevia	lady bevia veniford
@@ -98,15 +82,12 @@ beza (bezale)	beza
 bezale	beza
 bezale of maweil	beza
 bezhavil	bezha
-big hob	hobgoblin spirit speaking through numbtongue
 bird the hunter	bird
-bishop (first, dead)	bishop (second)
 black skeleton mage	ijvani
 blackmage	aaron vanwell
 blighted king	othius iv
 blighted king of rhir	othius iv
 blighted king othius iv	othius iv
-blind empire (his term)	laken
 blood fields	bloodfields
 bloodfeast	bloodfeast raiders
 bone behemoth (merged form)	merged ceria-pisces undead construct
@@ -114,25 +95,24 @@ braggart	ryoka griffin
 bronze-rank	bronze-rank adventurers
 bronzewater	grasgil
 brood mother	face-eater moth mother
-brother of serendipitous meetings	enforcer
-brothers	brotherhood of serendipitous meetings
 burning blades	burning blade
 byres family	house byres
 califor ghost	califor
 califor weishart	califor
 calm flower of the battlefield	amerys
+calruz	minotaur
 captain crossbow stan	stan
 captain earlia (gemhammer)	earlia
 captain eldima / eldima of the rustless guard	eldima
 captain lasc	lasc
 captain of the liscorian watch	zevara
-captain of the wings of pallass	bevussa slenderscale
 captain osthia	osthia blackwing
 captain squallcut / drowned man	squallcut
 cara	cara o'sullivan
 carn wolves	carn wolf
 carved golem	cognita
 carven city	a'ctelios salash
+casklal	spellcaster
 cave goblin	cave goblins
 cave goblin (captive)	cave goblin who revived
 cecille	cecille reinhart
@@ -146,13 +126,9 @@ centenium xrn	small queen
 ceria	ceria springwalker
 cetris	cetris duiland
 chaldion	grand strategist chaldion
-champion	rabbiteater
 chandler	az'kerash
 chandrarian	chandrar
 chat log	chat
-chef	pebblesnatch
-chell	sisters of chell
-chevalier	thomast veniral
 chevalier thomast	thomast veniral
 chieftain of goblinhome	nameless child
 children (human lands)	scalelings
@@ -164,7 +140,6 @@ city gnoll	city gnolls
 city of adventurers	invrisil
 city of gems	salazsar
 city watch	liscor watch
-clairei knight	sir molte
 class consolidation	class merging
 clown of rhir	tom
 clutch	wyvern weyr
@@ -172,7 +147,6 @@ cognita (archmage zelkyr creation)	cognita
 cognizant-overseer golem head	cognizant-overseer golem, sela-ceramic body
 coinpurse	alrric
 commander foliana	commander foliana / three-color stalker
-commander grasstongue (4th company)	gecko of liscor
 commander of the circle assets (title offered to tyrion)	first of thorns
 companion pisces	pisces
 comrade pisces	pisces
@@ -183,7 +157,6 @@ couriers	courier
 crazy human of liscor	erin solstice
 crossbow stan	stan
 crow witch	mavika
-cryomancer	illphres
 custodium	prognugators created by the grand queen
 dakelos	admiral dakelos
 daly	daly sullivan
@@ -204,21 +177,15 @@ demon soldiers	demon soldier
 dimwitted goblin without ears	noears
 dino birds	razorbeak
 dino-bird	razorbeak
-doctor	geneva
 doctor g / doctor geneva / last light of baleros	geneva
-doctor geneva (his title for her)	calectus
 dog lord	gralton
 doom of the raskghar	mrsha
-doombringer (slur)	mrsha
 door (erin magic door)	magic door
-dragon	teriarch
 dragonblood crystal	cridel
-dragons	teriarch
+dragons	dragon
 dragonslayer of ger	quarass of germina
 dragonspeaker luciva	luciva skybreath
 dragonspeaker of manus	luciva skybreath
-dragonthrone	eternal throne (calanfer, a stolen one)
-drake general	zel shivertail
 drathian	drath
 draugr	draug
 drevish madness	sadomere
@@ -243,7 +210,6 @@ eldavin	teriarch
 elden veis	bea masquerade name
 eldest	faerie king
 election results	liscor election
-elementalist	ceria springwalker
 elf	elves
 eliasor	eliasor melissar
 ellia arcsinger	elia arcsinger
@@ -262,7 +228,6 @@ emperor of the unseen	laken
 empress nsiia	nsiia
 empress nsiia of tiqr	nsiia
 empress of beasts	nsiia
-enchanted arrow	evercut arrow
 ensoldier shields	walt team ensoldier shields
 erill	lord erill
 erin	erin solstice
@@ -276,7 +241,7 @@ esthelm girl	esthelm horror
 eternal beauty	wuvren
 eternal king of khelt	fetohep of khelt
 eternal majesty	fetohep of khelt
-eternal throne (calanfer, stolen)	eternal throne (calanfer, a stolen one)
+eternal throne (calanfer, stolen)	dragonthrone
 exam	wistram exam
 exploding trees	krakk trees
 eye in a pyramid	symbol on laken totem
@@ -293,8 +258,6 @@ fake name goblin	nameless child
 falene skystrall	falene
 farri	farri sightly
 farri slightly	farri sightly
-favorite worker	garry
-fellow antinium of the free hive pawn	free antinium
 female awakened raskghar	nokha
 female goblin warrior leader	hob scout
 ferris	ferris seftpaw
@@ -309,12 +272,10 @@ first of the chosen	kerash
 first-mage teura / high mage teura	teura
 fist mage	grimalkin
 fist of the skies	fury of skies
-fist of the winds / hurricane fist	windcaller wrath disciples
 flamewardens of pallass	flamewardens
 flans	flos
 fleethoof	perorn sadiluc
 fleethoof / miss perorn / lady perorn	perorn sadiluc
-flesh mage	sainath
 fleshchosen formshaper	sainath
 flood water tribe	rags tribe, per lady rie
 flooded water tribe	rags tribe, per lady rie
@@ -325,21 +286,16 @@ floodplains of liscor	liscor floodplains
 flos of reim	flos
 flos reimarch	flos
 flower of izril	magnolia reinhart
-flowing water chieftain	rags tribe, per lady rie
 fluffles the sixth	fluffles
 flying gnoll of pallass	felkhr
 flynn	flynn patel
 foliana	commander foliana / three-color stalker
-fomirelin	tremborag
 forgotten wing company	forgotten wing
-former prognugator	prognugator of the free antinium (false claim to the watch)
 fortress beaver colony	fortress beaver
 fortress blackpaw	venitra
 four companies of baleros	four great companies
-fraerling	niers astoragon
 free antinium queen	queen of the free antinium
 free queen	queen of the free antinium
-frost faerie	ivolethe
 frost faeries of the winter court	frost faeries
 frost faery (blue)	ivolethe
 frost fairies	frost faeries
@@ -357,18 +313,14 @@ galewinds strategist	perorn sadiluc
 galewinds strategist / fleethoof / lady fleethoof	perorn sadiluc
 galuc	galuc the builder
 gambler of fates	queravia
-gardener	nalth
 garen	garren redfang
 garen redfang	garren redfang
-garen sword	garen redfang tribe; name from his red sword
 garia	garia strongheart
 garia farm	strongheart farm
 garia strongarm	garia strongheart
 garusa weatherfur	garusa
-gay (drake term)	turnscale
 gazi pathseeker	gazi
 gazi the omniscient	gazi
-gembows tribe	lessha
 general of the line	zel shivertail
 general shivertail	zel shivertail
 general sserys of liscor	sserys
@@ -385,7 +337,6 @@ giant	giants
 gilam	lord gilam
 glorious fezimet / leader of the featherfolk brigade	fezimet
 gnoll	gnolls
-gnoll cub	mrsha
 gnoll elirr	elirr
 gnoll peg-leg captain	saltears
 gnollish	gnolls
@@ -396,11 +347,8 @@ goblin kings	goblin king
 goblin lieutenants (former chieftains)	goblin lord lieutenants
 goblin stronghold	tremborag city
 goblin warbands	goblin warband
-goblin warrior (redfang)	bitefly
 goblinlands	goblin area at riverfarm (humans' insult term the goblins like)
 goblins at the inn	goblins at erin inn
-goblins of liscor	flooded waters + cave goblins + redfangs
-goblins under erin flag	flooded waters + cave goblins + redfangs
 gold rock chieftain	hobgoblin spirit speaking through numbtongue
 gold stone chieftain	hobgoblin spirit speaking through numbtongue
 gold-rank	gold-rank adventurers
@@ -409,11 +357,9 @@ gold-ranks	gold-rank adventurers
 goldstone chieftain	hobgoblin spirit speaking through numbtongue
 golem fights	test of mirrhen / the testing
 grand hive klbkch-copy prognugators	sword prognugators
-grand mage	teriarch
 grand mage eldavin	teriarch
 grand magus eldavin	teriarch
 grand strategist	grand strategist chaldion
-grandfather	regis reinhart
 grandmaster of the rose	nathald
 graybeard	greydath of blades
 great chieftain of dwarfhalls rest	tremborag
@@ -421,7 +367,6 @@ great chieftain of the goblins	tremborag
 great chieftain of the mountain city tribe	tremborag
 great chieftain of the north	tremborag
 great company	great companies
-great goblin	tremborag
 great goblin chieftain	tremborag
 great mage nemor	nemor
 great witch of terandria	belavierr
@@ -439,14 +384,9 @@ griffon hunt	griffin hunt (pun on griffons that hunt griffins)
 griffon hunt (halrac, typhenous, revi, briganda, rejoined)	griffin hunt (pun on griffons that hunt griffins)
 grimalkin of pallass	grimalkin
 grimalkin the fist mage	grimalkin
-guardian of the crypts	creature led crypt undead attack
 guards	liscor guards
-guildmistress	tekshia shivertail
 guildmistress tekshia	tekshia shivertail
 guilds	adventurer guild
-halassia evergleam	half-drake
-halassia evergleam (typo)	half-drake
-half-elf	ceria springwalker
 half-gazer	gazi
 half-troll	durene
 halfseeker adventurers	halfseekers
@@ -454,7 +394,6 @@ halfseekers (earlier roster)	halfseekers
 halrac bow	invisibow
 halrac everam	halrac
 halrac the grim	halrac
-hamburger flipping drake	hamburger stand
 hamburgers	hamburger
 hammer of elbe	hammera
 hammerbad (taunt)	ceria, yvlon, ksmvr (and pisces)
@@ -471,12 +410,10 @@ healer demerra	demerra
 healing potion (low-grade)	healing potion
 healing potions	healing potion
 heartflame armor	heartflame breastplate
-heartflame set	heartflame breastplate
 hedag the executioner	hedag
 heic	general heic
 hell wardens	crelerbane
 her highness isodore	isodore
-hero-death / courier of the first antinium wars	mihaela godfrey
 hetarria	mage-captain hetarria
 hide-and-seek game	daquin game
 high king of medain	perric of medain
@@ -487,29 +424,22 @@ himilt drakle	himilt val lischelle-drakle
 his carn wolf	carn wolf
 hive	antinium hive
 hoard	raskghar hoard
-hob	headscratcher
-hobgoblin	numbtongue
 hobgoblin with rags	garren redfang
-hobs	redfang warriors
 holders of the wall	wall lords
 hollowstone deceiver	rock crabs (hollowstone deceivers)
 hollowstone deceivers	rock crabs
-honorbound prisoner	calruz
+honorbound prisoner	minotaur
 honored saliss / master saliss	saliss of lights
-horn chieftain	calruz
+horn chieftain	minotaur
 horns of hammerad	ceria, yvlon, ksmvr (and pisces)
 horns of hammerad (old)	horns
 host: the thinking room	thinking room
-humble farmer	wailant strongheart
 hundredfriends courier	seve-alrelious
 hunter with axe	gaile
-hunters of noelictus	witch hunters
 huntress melitza	huntress melizsa
 hygenic hands	skill - hygienic hands
 ice demon	illphres
-ice mage / cryomancer	illphres
 idis	selphid sharing geneva body
-idis (replacement)	okasha
 ieka	ieka imarris
 ijvani as imenet	ijvani
 illivere federation	illivere
@@ -527,7 +457,6 @@ individual soldiers	colored antinium
 inn	wandering inn
 inventor of chess (per pawn)	niers astoragon
 ironscales of oteslia	general ironscales
-issa	bevussa slenderscale
 issrysil	issiysil
 izrilian	izril
 jecaina leysars	jecaina
@@ -540,7 +469,6 @@ jenkil thert	ratwhisperer
 joseph ortega	joseph
 juliet	romeo and juliet
 jurix (dullahan)	jurix
-kallinad	wil kallinad
 kam	captain kam
 karsaeu-dequoa (karsy)	karsaeu-dequoa
 karsy	karsaeu-dequoa
@@ -560,7 +488,6 @@ king of reim	flos
 king reimarch	flos
 king steward	flos steward
 kingslayer	elia arcsinger
-kiwi	blake
 klb	klbkch
 klbkch (klbkchhezeim)	klbkch
 klbkch queen	queen of the free antinium
@@ -570,15 +497,12 @@ klbkchhezeim / klbkch the slayer / centenium	klbkch
 klbkchhezeim / revalantor / the slayer	klbkch
 klbkchhezeim of the centenium	klbkch
 klbkchhezeim the slayer	klbkch
-knight	sir vumat
 knight-commander calirn	calirn
 knight-commander of the order of seasons	calirn
-knights of summer and autumn / order of seasons	kallinad army
 knights of the petal	rose knights
 krisha	krshia
 krshia message	krshia
 krshia silverfang	krshia
-ksmvr	prognugator of the free antinium (false claim to the watch)
 l	laken
 lady bethal	bethal walchais
 lady bethal walcha??s	bethal walchais
@@ -612,7 +536,6 @@ lady wuvren	wuvren
 lady xersia (marchioness)	xersia the scorpion
 lael	general lael
 laken godart	laken
-laken godart (jest title)	laken tongue-in-cheek title
 laken skill blessing of the hearth	blessing of the hearth
 laken territory (riverfarm)	unseen empire
 lasc ship	emerald signet
@@ -623,7 +546,6 @@ leader of the forgotten wing company	commander foliana / three-color stalker
 leader of the weyr	wyvern lord
 lecci (ulvama offered name)	pebblesnatch
 leveling lore	levelling
-lifesand golem	mini-gazi
 lightning thief	thivian stormless
 lischelle-drakle	drakle
 liscor bathhouses	liscor bathhouse
@@ -644,20 +566,18 @@ lord bein	lord bein terland
 lord bel	lord belchaus meron (lord bel, the lord of the dance)
 lord belchaus meron	lord belchaus meron (lord bel, the lord of the dance)
 lord byres	yitton byres
-lord charles de trevalier	wil kallinad
 lord erill (house fienst)	lord erill
 lord gralton	gralton
 lord gralton of lycit	gralton
 lord gralton radivaek	gralton radivaek
 lord hayvon operland	hayvon operland
 lord himilt val lischelle-drakle	himilt val lischelle-drakle
+lord kallinad	wil kallinad
 lord kallinad / wil	wil kallinad
-lord of battle	venith crusland
 lord of flame	teriarch
 lord of the dance	lord belchaus meron (lord bel, the lord of the dance)
 lord of the glades	faerie king
 lord of the skies	takhatres
-lord of the wall	ilvriss
 lord operland	hayvon operland
 lord pellmia	pellmia
 lord tyrion	tyrion veltras
@@ -701,7 +621,6 @@ masked warrior	toren masked persona
 master (to reiss)	az'kerash
 master saliss	saliss of lights
 maven	mars
-mavika raven	sephraic
 maviola	maviola el
 maviola imarris	maviola el
 melizsa	melitza
@@ -709,11 +628,9 @@ merchant seagrass	lord admiral seagrass
 mexisa	mexisa (mexy)
 mexy	mexisa (mexy)
 minos	house of minos
-minotaur	calruz
 minotauress	minotaurs
 minotauress form of face (draught)	female minotauress form from a draught
 mire	female minotauress form from a draught
-miss adventurer	toren
 miss agnes	agnes
 miss byres	yvlon
 miss cotton	stitch girl
@@ -733,15 +650,11 @@ mister reynold	reynold
 mister salkis	wesle salkis
 mister sauce	ushel
 mister shivertail	zel shivertail
-monster girl	horror (esthelm girl)
 montressa	montressa du valeross
 montressa (mons)	montressa du valeross
 montressa du valeross (mons)	montressa du valeross
 moonlight rider	tritel; silver mare of izril
 moore (halfseekers)	moore
-mossbear	bismarck
-most infamous lord	tyrion veltras
-most powerful lady on the continent	magnolia reinhart
 moths	face-eater moths
 mountain	tremborag city
 mountain city	tremborag city
@@ -759,7 +672,6 @@ mrsha-gnoll (soldier pov)	mrsha
 muscle mage	grimalkin
 muscle mage of pallass	grimalkin
 my steward	flos steward
-mysterious chess opponent	niers astoragon
 mysterious swordswoman	toren
 nagas	naga
 naili	archmage nailihuaile
@@ -790,7 +702,6 @@ not-gnolls / cave gnolls	raskghar
 not-gnolls / gnoll throwbacks	raskghar
 numb-hob	numbtongue
 numbpyrite	numbtongue with pyrite control
-numbtongue (earlia guess)	golden goblin
 numbtongue (pyrite)	numbtongue with pyrite control
 numbtongue (spirit call)	hobgoblin spirit speaking through numbtongue
 numbtongue, bird, mrsha, saliss, octavia	wandering band
@@ -801,8 +712,6 @@ odveig	sacra
 odveig (cover)	sacra
 oksaha	okasha
 old dragon	teriarch
-old goblin	greydath of blades
-old man	teriarch
 oldblood drake (bronze)	man with the smile
 olesm	olesm swifttail
 onieva	saliss of lights
@@ -831,7 +740,6 @@ pebblesnatch the mighty	pebblesnatch
 peclir	peclir im
 pelico	hauntgheist rogue captain
 pelt of derithal-vel	pelt
-people in armour (dullahan)	lorent
 people of pryde	ultanese
 peril chandler	az'kerash
 perorn	perorn sadiluc (fleethoof)
@@ -843,8 +751,6 @@ petal	rose knights
 pheislant	kingdom of pheislant
 physical magic master	grimalkin
 pielt	captain pielt
-piglets	stelbore
-pisces creation	bone horror
 pisces jealnet	pisces
 pithfire hounds	levil team
 plague locust	embrim thrus
@@ -854,16 +760,13 @@ players of liscor	players
 pointy (dawil)	falene
 poisonbite	hob scout
 prickly	pricky
-princess	lyonette
 princess (class upgrade)	worldly princess
 princess du marquin / lady du marquin	lyonette
 princess lyonette (secret)	lyonette
-professor	niers astoragon
 professor springwalker	ceria springwalker
 prognugator	propugnator (antinium rank of klbkch; spelling differs)
-prognugator (false claim)	prognugator of the free antinium (false claim to the watch)
+prognugator (false claim)	ksmvr
 prognugator bird	bird
-prognugator of the free antinium (yellow splatters claim)	propugnator (antinium rank of klbkch; spelling differs)
 prognugators made by the grand queen	prognugators created by the grand queen
 prost surehand	prost
 protector of durene cottage	laken tongue-in-cheek title
@@ -871,7 +774,6 @@ protectors of the walls	protectorate
 pryde	pryde ulta
 pukey	ryoka griffin
 pyrite	hobgoblin spirit speaking through numbtongue
-pyrite (memory voice)	numbtongue
 quallet	quallet marshhand
 quarass	leader of germina
 quarass (new)	leader of germina
@@ -904,7 +806,6 @@ razorbeaks	razorbeak
 really tall section of hills before the high passes	humpbacker hills
 red fang	red fang tribe
 red fang chieftain	garen red fang
-redfang	garen redfang tribe; name from his red sword
 redfang (chieftain)	garren redfang
 redfang (sword)	redfang (the red blade owned by garen, same name as tribe)
 redfang band	redfang warriors
@@ -912,6 +813,7 @@ redfang berserker	headscratcher
 redfang chieftain	garren redfang
 redfang elite with a scar	redscar
 redfang goblins	redfang warriors
+regis reinhart	grandfather
 regrika	venitra
 regrika blackpaw	venitra
 regrika blackpaw (disguise)	venitra
@@ -927,11 +829,9 @@ relc grasstongue	gecko of liscor
 remi	remi canada
 reric	reric feltpaw
 resse	ressa
-revalantor	klbkch
 revalantor klbkch	klbkch
 revalantor klbkch / klbkch the slayer	klbkch
 revalantor of the free antinium	klbkch
-revalantor of the hive	klbkch
 revelantor	klbkch
 revi	stitch-woman
 revine	revine zecrew
@@ -947,9 +847,7 @@ rock-crab	rock crabs (hollowstone deceivers)
 romeo	romeo and juliet
 romeo and juliet (players of celum)	juliet and romeo
 room of requirement (erin joke)	garden of sanctuary
-rose knight	dame truvia
 rose knights (knights of the petal)	rose knights
-royal vanguard	flos elderly rider group
 ruinbringer steward	flos steward
 ruins	ruins of liscor
 ruins by liscor	ruins of liscor
@@ -968,15 +866,12 @@ sammial	sammial veltras
 sammy	sammial veltras
 santa claus (relc costume)	gecko of liscor
 scale soup	erin defense soup
-scarecrow	lupp
-scorchling	half-drake
 seagrass	lord admiral seagrass
 seaman vault	magical card game used by ratici
 seborn sailwinds	seborn
 second antinium wars	second antinium war
 second war	second antinium war
 second-in-command of the iron vanguard / the mithril	tulm
-selphid	jelaqua ivirith
 selphid roommate	okasha
 selphid sharing geneva scala body	okasha
 selphid who lived in the secret library	nemistra verdinan
@@ -1004,7 +899,6 @@ shassa	shassa weaverweb
 shepherd zamea	zamea
 shopkeeper lism	lism swifttail
 shriekblade	shriekblade (tessa)
-sightless riders / blacksky riders	beniar
 silvenia the traitor	silvenia
 silver	silver-rank adventurers
 silveran	worker antinium with silver antennae at the inn
@@ -1028,10 +922,8 @@ sir tourant	lord tourant
 sir ylawes	ylawes byres
 siren of savere	revine zecrew
 siren of tides	revine zecrew
-sister (faerie usage)	ivolethe
 sister of chell	sisters of chell
 sixth armor captain / minotaur armor captain	shailt of tergim
-skeleton	toren
 skill - empire: blessing of the hearth	blessing of the hearth
 skinner	creature led crypt undead attack
 sky mirage	chaita of keymos
@@ -1040,28 +932,21 @@ slayer	klbkch
 slayer of kerash	az'kerash
 small queen / centenium	small queen
 smiling man / infiltrator	oldblood drake
-sniper/archer	badarrow
 soldier (damaged antennae)	soldier with a damaged antennae
 soldier with yellow splatters; sergeant	yellow splatters
-solstice goblins	flooded waters + cave goblins + redfangs
 soot	mister soot
 sostrom reidez	sostrom
-spaghetti	damcli noodles
 spell books	spellbooks
 spellbook	spellbooks
-spellcaster	casklal
 spider/eater of threads/witch of calamity	belavierr
 spiderslicer	spiderbite
 springwalker	ceria springwalker
 squirrel-woman	commander foliana / three-color stalker
 steward prost	prost
 stitch-man	stitch-folk
-stitch-man/stitchman	empress of sands
 stitch-men	stitch-folk
 stitch-women	stitch-folk
 stitchfolk	stitch-folk
-stitchworks	stitch girl
-stitchworks (shop)	stitch girl
 stone spears tribe	stone spears
 stormlord captain seagrass	lord admiral seagrass
 strange traveller	man in dark hat who warns of witches
@@ -1075,13 +960,11 @@ summoned group	americans
 supervisor beycalt	forewoman beycalt
 sword-wielding clones of klbkch	prognugators created by the grand queen
 tails	tails and scales
-takhatres' people	garuda
 takhatres, lord of the skies	takhatres
 tannousin clan	clan tannousin
 taxiela (possibly same person)	taxiela
 tea witch	eloise
 tekshia	tekshia shivertail
-tekshia identifies	heartflame breastplate
 tekshia the spearmaster	tekshia shivertail
 teliv	teliv witherscale
 temile cast	actors rehearsing macbeth
@@ -1093,7 +976,6 @@ teresa	teres
 teresa atwood	teres
 terland	terland family
 tersk and a companion	tersk
-tessa	shriekblade (tessa)
 testing / golem fights	test of mirrhen
 therrium	therrium sailwinds
 thirsting veil	order of the thirsting veil
@@ -1129,8 +1011,6 @@ trey	trey atwood
 tritel	tritel; silver mare of izril
 trolls	troll
 troy atlas	trey atwood
-truestone construct	cognita
-truestone golem	cognita
 tulm the mithril	tulm
 tunnel crawlers	crelers
 turnscales	turnscale
@@ -1138,7 +1018,6 @@ typhenous	plague mage
 tyrant seagrass	lord admiral seagrass
 tyrion	tyrion veltras
 ullia	umina caxical
-ullsinoi faction	elusive lot
 ulseil	ulseil greenscale
 umina	umina caxical
 uncle (osthia)	thrissiam blackwing
@@ -1167,12 +1046,10 @@ venitra (disguise)	venitra
 venitra (disguised)	venitra
 venitra, disguised	venitra
 viceria	viceria strongheart
-wagon driver	adelynn
 wailant	wailant strongheart
 wailing pit	flesh-pit
 walker of the forests	faerie king
 wall	walls (defensive lines)
-wall lord	ilvriss
 wall lord ilvriss	ilvriss
 wall lord ilvriss gemscale	ilvriss
 wall lord of the wall	wall lords
@@ -1194,13 +1071,9 @@ wilovan and ratici	gentlemen callers
 wind runner	ryoka griffin
 wind runner of reizmelt	ryoka griffin
 windblade of serpisel	green diamond greatsword
-windcaller rest (orjin slip)	fury of skies
-windcaller wrath	fury of skies
 wing commander embria	embria
 wing commander embria grasstongue	embria
 wings of pallass	bevussa team
-wings of pallass captain	bevussa slenderscale
-winter sprite	ivolethe
 winter sprite (ressa usage)	frost faeries
 winter sprites	frost faeries
 wiskeria	witch
@@ -1220,7 +1093,6 @@ wounded warrior yvlon	yvlon
 wrymvr	wrymvr the deathless
 xal	xalandrass
 xenic	captain xenic
-xevccha (invective)	queen of the free antinium
 xol of ingrilt	xol
 xol of ingrilt / the juggernaut	xol
 xrn	small queen
@@ -1238,7 +1110,6 @@ yisame	queen yisame of nerrhavia
 yitton	yitton byres
 ylawes	ylawes byres
 ylawes team (dwarf, half-elf)	silver swords
-young man (narration)	gamel
 young man, the necromancer	pisces
 young pisces	pisces
 yvlon byres	yvlon

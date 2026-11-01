@@ -1,0 +1,65 @@
+type	key	target	verdict	note
+ALIAS	aegiscaster	montressa du valeross	reject	[Aegiscaster] is a class; Montressa is one holder, not unique (b13 L237 lists role among party)
+ALIAS	archer	demon archer with the seven-foot bow	reject	Generic class word; also Badarrow, Archer B units; demon archer is one specific enemy (b06 L28)
+ALIAS	autonomous worker	autonomous worker working at the inn	reject	Generic class/kind; target is one Archer B12 style individual vs Autonomous Workers as a group (b11, b16 L134)
+ALIAS	batman	ryoka griffin	ok	Batman is Ryoka's chat handle (Book 2 Interlude_The_Call; Book 19 7.55E L188 "Ryoka Griffin, aka batman")
+ALIAS	belavierr / spider of terandria / threadstealer / weaver of terandria	stitch witch	reject	Aliases are Belavierr; target stitch witch is a shared-title key under alias_overrides never-merge; should map to belavierr
+ALIAS	blind empire (his term)	laken	reject	Blind Empire is Laken's empire, not the man (Book 3 3.11E L304 "Empire of Laken or perhaps the Blind Empire")
+ALIAS	captain lasc	lasc	ok	Captain Lasc is the Emerald Signet's captain (b16 L226)
+ALIAS	chandler	az'kerash	ok	Chandler is Az'kerash's alias Perril Chandler (b05 L100, b13 L93-101)
+ALIAS	cognita (archmage zelkyr creation)	cognita	ok	Cognita, Wistram's truestone golem; variant label of same golem
+ALIAS	custodium	prognugators created by the grand queen	ok	Book 15 Interlude_Queens_and_Dragons L27: the Grand Queen styled her Prognugators the Custodium
+ALIAS	doctor	geneva	reject	[Doctor] is a class/title; other Doctors exist (Exara's neutral-zone Doctor); Geneva is one holder
+ALIAS	drowned people	drowned men	ok	Drowned People and Drowned Men are one race (Book 4 WD5 L383)
+ALIAS	elementalist	ceria springwalker	reject	[Elementalist] is a class word, not a unique name for Ceria
+ALIAS	empress nsiia	nsiia	ok	Empress Nsiia of Tiqr, same person (Empress of Beasts, b10 6.15K)
+ALIAS	faeries	frost faeries	ok	Frost Faeries called faeries (Book 2 2.19 L55 Frost Faerie; 2.23 L44 Frost Faeries)
+ALIAS	fist of the skies	fury of skies	ok	Fury of Skies is addressed as Fist of the Skies (Book 16 Interlude_Dancing_and_Brawling L393 vs L251)
+ALIAS	fomirelin	tremborag	reject	Fomirelin is the Goblin kind/word for Great Goblins, six in one tribe (Book 19 7.43G L211, L445), not Tremborag alone
+ALIAS	frozen metal	grasgil	ok	Grasgil is the frozen metal (Book 15 7.01 L880)
+ALIAS	garen redfang	garren redfang	ok	Spelling variant Garen/Garren Redfang (b03 3.17T L121)
+ALIAS	goblin warrior (redfang)	bitefly	reject	3.19T L183 goblin warrior touching Ryoka is Headscratcher, not Bitefly; descriptor generic
+ALIAS	graybeard	greydath of blades	ok	Greybeard reveals himself as Greydath of Blades (b06 L358); Graybeard spelling variant
+ALIAS	griffin hunt (heard spelling)	griffin hunt (pun on griffons that hunt griffins)	ok	Griffon Hunt heard-spelling variant (b19 L743)
+ALIAS	halfseeker adventurers	halfseekers	ok	Halfseeker adventurers = Halfseekers (b04 3.27M L212)
+ALIAS	heartflame set	heartflame breastplate	reject	Heartflame Breastplate is only one part of the Heartflame set (Book 18 7.38 L218 other parts)
+ALIAS	honorbound prisoner	calruz	ok	Honorbound Prisoner is Calruz in chains (Book 16 Interlude_Burning_Alcohol L611-612)
+ALIAS	ice mage / cryomancer	illphres	reject	Ice mage/cryomancer is a class descriptor (Book 4 WD2 L349, L492); not unique to Illphres
+ALIAS	inventor of chess (per pawn)	niers astoragon	ok	Inventor of chess is Niers Astoragon (Book 4 3.39 L113)
+ALIAS	ken	kenjiro murata	ok	Ken = Kenjiro Murata (b05 L704, L726)
+ALIAS	knight	sir vumat	reject	Knight is a generic title; sample facts are about Worker Magnus, not Vumat
+ALIAS	lady of pride	pryde ulta	ok	Lady of Pride is Lady Pryde (b18 L397; Book 14 Talia L212)
+ALIAS	lightning thief	thivian stormless	ok	Lightning Thief is Thivian Stormless (Book 12 6.33E L312, L360)
+ALIAS	lord of battle	venith crusland	reject	[Lord of Battle] is a non-unique class per Venith himself (Book 15 7.09K L52)
+ALIAS	lyon	lyonette	ok	Lyon is Lyonette's nickname (b03 3.21L L196)
+ALIAS	magus grimalkin	sinew magus grimalkin	ok	Same man: Sinew Magus is Grimalkin's title (entity grimalkin forms)
+ALIAS	master saliss	saliss of lights	ok	Master Saliss is Saliss of Lights (b16 L577)
+ALIAS	miss cotton	stitch girl	ok	Octavia is Miss Cotton (b12 6.39 L381); stitch girl entity is Octavia
+ALIAS	mister reynold	reynold	ok	Mister Reynold is Reynold the Reinhart butler (b11 L209)
+ALIAS	mrsha of the stone spears	mrsha	ok	Mrsha of the Stone Spears is Mrsha (b08 L606)
+ALIAS	naili	archmage nailihuaile	ok	Naili is Archmage Nailihuaile (Book 8 Interlude_Blackmage L325)
+ALIAS	not-gnolls / gnoll throwbacks	raskghar	ok	Raskghar called not-Gnolls (b06 4.36O L129; b07 L73)
+ALIAS	old goblin	greydath of blades	reject	Old Goblin is a generic descriptor, not a unique name; other old Goblins exist
+ALIAS	osthia blackwing (disguise)	asrira shieldscale	ok	Book 13 6.50I L442: Asrira Shieldscale is the disguised Osthia Blackwing, one person
+ALIAS	people of pryde	ultanese	ok	People of Pryde = Ultanese (b14 L212, note L397)
+ALIAS	princess	lyonette	reject	The Princess is a generic title; Lyonette only a secret holder (b05 L325)
+ALIAS	protectors of the walls	protectorate	ok	Protectorate calls itself Protectors of the Walls (Book 10 6.09 L578)
+ALIAS	ramel	ram shackl	ok	Ram, or Ramel, same Riverfarm Rancher (Book 12 6.34E L30)
+ALIAS	redfang chieftain	garren redfang	ok	Redfang Chieftain is Garen (Book 9 5.56G L202, 5.57 L125)
+ALIAS	revalantor klbkch	klbkch	ok	Revalantor is Klbkch's rank; same Antinium (b05 L114)
+ALIAS	rose knight	dame truvia	reject	Rose Knights are a group (Knights of the Petal); title fits many (b11 Ch_0353 L661)
+ALIAS	second-in-command of the iron vanguard / the mithril	tulm	ok	Second-in-command of Iron Vanguard/the Mithril is Tulm (Book 11 6.22D L260)
+ALIAS	shaerrha brasswing	shaerrha	ok	Shaerrha Brasswing is First Gardener Shaerrha (b18 L210)
+ALIAS	sir pyrite	hobgoblin spirit speaking through numbtongue	ok	Pyrite addressed as Sir Pyrite (Book 7 5.20G L147); target entity is Pyrite
+ALIAS	skinner	creature led crypt undead attack	ok	Skinner is the Crypt monster (Book 1 1.02H; b11 L612 Skinner killed Gerial)
+ALIAS	spider/eater of threads/witch of calamity	belavierr	ok	b12 L351 note: Spider/Eater of Threads/Witch of Calamity = Belavierr
+ALIAS	string-people	stitch-people	ok	String-people are Stitch-people (Book 13 6.52K L195)
+ALIAS	teresa atwood	teres	ok	Teresa Atwood is Teres, Trey's twin (b13 6.53K L79)
+ALIAS	tor	toren	ok	Tor short for Toren (Book 1: Toren. Or Tor for short; b01 L240)
+ALIAS	tulm the mithril	tulm	ok	Tulm the Mithril is Tulm (b11 Ch_0352 L4)
+ALIAS	unmarked coach driver (karsy)	karsaeu-dequoa	ok	Karsy is the Unmarked Coach driver Karsaeu-Dequoa (b18 L54, L252)
+ALIAS	wailant	wailant strongheart	ok	Wailant is Wailant Strongheart, Garia's father (b05 4.17)
+ALIAS	windblade of serpisel	green diamond greatsword	ok	Green diamond greatsword is the Windblade of Serpisel (Book 17 Strategists at Sea 2 L1169, L1178)
+ALIAS	witch mavika	mavika	ok	Witch Mavika is Mavika (b12 6.36E L878)
+ALIAS	yasy	yasyiin, last grand gardener	ok	Yasy = Yasyiin, last Grand Gardener (b18 L263, L267)
+ALIAS	zel shivertail niece	selys shivertail	ok	Zel Shivertail's niece is Selys (b14 6.61L L283-289)

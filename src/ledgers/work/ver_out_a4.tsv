@@ -1,0 +1,65 @@
+type	key	target	verdict	note
+ALIAS	(redfangs and cave goblins at the inn)	wandering inn tribe	reject	Target is the Wandering Inn tribe key; alias is a group of Redfangs plus cave goblins, a mixed set, not one tribe.
+ALIAS	antinium queen	queen of the free antinium	ok	All 16 facts under the raw name are the Free Queen (Ch1.24 L5-11; Ch1.44 L160); generic title but consistently this queen.
+ALIAS	asrira shieldscale (6.02 l303)	osthia blackwing	ok	Osthia Blackwing disguised herself as Captain Asrira Shieldscale (Book 13 notes L433-447; Ch4.16 Osthia, Ch6.02 L303).
+ALIAS	barmaid / cook (3.15-3.16)	safry	reject	Generic role; both Safry and Maran are barmaids, Safry cooks (3.15 L217) but Maran also serves; Ch3.16 L15 names Safry only cleaning.
+ALIAS	bearded man at erin inn	tamaroth	ok	Bearded man answers "Some call me Tamaroth" to Erin (Interlude_B04_1 L211-213).
+ALIAS	black skeleton mage	ijvani	ok	Ijvani is the black-bone skeleton mage with golden eye lights (Ch4.18 L421-424; Ch4.28 L12).
+ALIAS	calm flower of the battlefield	amerys	ok	Amerys, the Calm Flower of the Battlefield, one of the Seven (Ch2.00K L221; Wistram Days Pt.7 L340).
+ALIAS	centenium xrn	small queen	ok	Xrn addressed as Centenium Xrn (Ch7.19 L832) and Xrn of the Centenium (Ch3.34 L387); Small Queen is her title.
+ALIAS	clairei knight	sir molte	reject	Six Clairei Knights; Molte is one. Ch6.26 L769 speech is not Molte's; generic order-member term (Ch6.25 L398, Ch6.26 L744).
+ALIAS	courier valceif	valceif godfrey	ok	Valceif introduces himself as Valceif Godfrey, Courier from First Landing (Ch2.14 L319).
+ALIAS	demon giants (children of giants)	demon giants	ok	Same species term; Demon Giants (Ch7.34C L1237, L1423); only a descriptive gloss added.
+ALIAS	dragonthrone	eternal throne (calanfer, a stolen one)	reject	Teriarch's Dragonthrone is one of several; Calanfer's Eternal Throne is a different stolen one (Ch7.12G L767, L782-788).
+ALIAS	eater goat village	village of eater goat shepherds near the high passes	ok	Rags calls it "the Eater Goat Village", closest village to High Passes, shepherds of Eater Goats (Ch7.12G L637-641).
+ALIAS	emperor of riverfarm	laken	ok	Laken is the Emperor of Riverfarm; same blind Earth-born man (Ch3.00E; Book 5 Ch4.21E).
+ALIAS	eye of providence	symbol on laken totem	ok	Eye of Providence is the symbol carved on Laken's totem (Ch4.21E L151, L270; Ch4.35E L167).
+ALIAS	first of the chosen	kerash	ok	Az'kerash calls Kerash first of his Chosen (b06 notes L197); undead Gnoll. Target also holds a Gnoll chieftain Kerash, possibly distinct.
+ALIAS	flowing water chieftain	rags tribe, per lady rie	reject	Alias addresses Rags herself as Flowing Water Chieftain (Ch3.28G L274); target is the tribe, not the person.
+ALIAS	frost golem with a hat	frosty	ok	Single hatted Frost Golem Ryoka thanks as "Frosty" (Ch3.41 L389-394).
+ALIAS	gambler of fates	queravia	ok	Gambler of Fates is Queravia, Flos's Strategist (Ch4.04K L318; Titans_Question L591).
+ALIAS	gnoll cub	mrsha	reject	Generic species-age word fitting any cub; only one line (Ch6.28 L45) uses it for Mrsha.
+ALIAS	grand strategist	grand strategist chaldion	ok	Every use of [Grand Strategist] in text refers to Pallass's Chaldion (Ch6.38 L663; Ch7.02 L911); no other holder found.
+ALIAS	greenblade boys	greenblades	ok	"Greenblade's Boys" and "the Greenblades" are the same gang (Ch6.63P L566, L752).
+ALIAS	half-elf	ceria springwalker	reject	Species word; Falene, Dawil's colleague and others are half-Elves too (Ch5.29 L547 "two half-Elves").
+ALIAS	hauntgheist captain	hauntgheist rogue captain	ok	Captain Pelico leads the Silver-rank team Hauntgheist (Ch6.65 L781); target key is the same rogue captain.
+ALIAS	hobgoblin with rags	garren redfang	ok	Hobgoblin entering with Rags at the inn is named Garen (Ch2.32 L121-135, L241).
+ALIAS	huntress melitza	huntress melizsa	ok	Spelling variant; text reads "Huntress Melizsa" (Ch7.50 L1115); no Melitza elsewhere.
+ALIAS	individual bird	bird	ok	Archer B12 "Individual Bird" is Bird (Interlude_Lifting_Ants L135, L148).
+ALIAS	kallinad	wil kallinad	reject	Surname of house and family: Wil, Talia and the house/army all called Kallinad; fits several referents.
+ALIAS	klbkchhezeim / revalantor / the slayer	klbkch	ok	Klbkchhezeim the Slayer is Klbkch, Revalantor/Prognugator (Ch1.07; Ch1.26 L19-43); Revalantor is also a rank held by Pivr.
+ALIAS	lady firestarter	maviola el	ok	"Maviola was Lady Firestarter" (Maviola El text, Ch7.18M).
+ALIAS	leader of the weyr	wyvern lord	ok	The Wyvern Lord leads the weyr south and attacks Pallass (Ch7.00 L647; Ch7.02 L1166); one individual in Book 15.
+ALIAS	lord gralton	gralton	ok	Lord Gralton and Gralton are the same dog-lord noble (Ch5.30G L10; Ch5.60 L94).
+ALIAS	luan the rower / rower	luan khumalo	ok	"Luan the Rower" is Luan's nickname; rower contender from South Africa (Ch1.02D; Ch6.07D).
+ALIAS	magic garden	garden of sanctuary	ok	The inn's magic garden is the [Garden of Sanctuary], reached by a door anywhere in the inn (Ch7.07 L143-201).
+ALIAS	masked swordswoman	toren	ok	Masked skeleton Toren, seen as "the masked swordswoman" by Vuliel Drae (Ch5.05 L357).
+ALIAS	mire	female minotauress form from a draught	ok	Mire the assassin drinks a draught and becomes a Minotauress (Ch7.42M L205); same person in changed form.
+ALIAS	miss wiskeria	witch	ok	"Miss Wiskeria" addressed to the [Witch] of the Celestial Trackers (Ch4.20E L95); target key displays Wiskeria.
+ALIAS	most infamous lord	tyrion veltras	uncertain	Ch3.38 L13 pairs unnamed "most infamous [Lord]" with most powerful [Lady]; Tyrion implied but never named there.
+ALIAS	my steward	flos steward	ok	Flos says "My steward" to Orthenon (Ch4.03K L105; Ch4.04K L312); target key displays Orthenon.
+ALIAS	nolocks	deadly skulker	ok	Nolocks introduces himself as [Deadly Skulker] (Ch7.43G L891); target key displays Nolocks.
+ALIAS	odveig (cover)	sacra	ok	Odveig is Sacra's cover name: "We've lost Odveig, I mean, Sacra" (Book 7 Ch5.10E); same Celestial Trackers leader.
+ALIAS	orjin	orjin of pomle	ok	Orjin of Pomle is the Martial Artist (Ch6.15K L258); same man as bare Orjin.
+ALIAS	pelico	hauntgheist rogue captain	ok	Pelico is the [Rogue] Captain of Hauntgheist (Ch6.62L L415; Ch6.65 L781, L889).
+ALIAS	pointy (dawil)	falene	ok	Dawil: "You are terrible at goodbyes, Pointy. Which is my new name for you" to Falene (Ch6.16 L433).
+ALIAS	prognugator of the free antinium (yellow splatters claim)	propugnator (antinium rank of klbkch; spelling differs)	reject	Ksmvr/Yellow Splatters' false bluff to the Watch (Book 12 notes L767, L816-821); target is the rank, not Klbkch's person.
+ALIAS	rags	nameless child	ok	Rags the Goblin Chieftain; target key is her entity (display Rags). Facts Ch1.24-1.28 consistent.
+ALIAS	redfang (sword)	redfang (the red blade owned by garen, same name as tribe)	ok	Garen's blade is named Redfang, activated by saying "Redfang" (Ch5.58 L114-116).
+ALIAS	relc grasstongue	gecko of liscor	ok	Relc Grasstongue is the Gecko of Liscor, guardsman Drake (Ch1.07; Ch1.38 L157).
+ALIAS	rock crab	hollowstone deceiver (drake name)	ok	Hollowstone Deceivers are "known as 'Rock Crabs'" (Fals text; Ch1.18 attack); same species word.
+ALIAS	scarecrow	lupp	reject	Generic object word; Ch6.25 L255-257 has a real scarecrow dummy, Lupp only impersonates one (Ch6.26 L241).
+ALIAS	ser greysten	summer champion	ok	Ser Greysten is addressed while the text calls him "the Summer's Champion" (Ch6.44E L325-329); target key displays that title.
+ALIAS	sir bull	venaz	ok	Venaz "was known as 'Sir Bull' behind his back" (Strategists_at_Sea_Pt1 L916).
+ALIAS	sixth armor captain / minotaur armor captain	shailt of tergim	ok	Sixth Armor Captain is Captain Shailt of Tergim, who duels Venaz (Ch6.23D L1059, L1068).
+ALIAS	soot	mister soot	ok	Soot and Mister Soot are the ashy-scaled Drake [Fence]/underworld boss of Liscor (Ch6.61L; Ch7.07).
+ALIAS	strange traveller	man in dark hat who warns of witches	ok	Same toothy-smiled man in a dark hat warning Charlay of Witches (Ch6.41E L170-203); target key is that figure.
+ALIAS	temile cast	actors rehearsing macbeth	ok	Narration at Ch6.28 L129-131 calls Director Temile's rehearsing cast "the Players of Celum"; troupe split in Ch6.08 L233 though.
+ALIAS	titan of baleros / the professor / lord astoragon	niers astoragon	ok	All epithets for Niers Astoragon, the Titan, called Professor by students (Ch6.24D L457).
+ALIAS	troy atlas	trey atwood	ok	Trey gives the false name "T-Troy Atlas" at the docks (Ch7.46K L293).
+ALIAS	undying shield of calanfer	az'kerash	ok	Archmage Az'kerash's old title (Ch6.68 L451; Ch7.14T L121).
+ALIAS	venitra (disguised)	venitra	ok	Venitra disguised (as Regrika Blackpaw) is still Venitra; target entity lists the disguise names.
+ALIAS	whitebeard	greydath of blades	ok	Rags: "going to call him Whitebeard", then prefers Greybeard (Ch3.29G L293-305); Greybeard is Greydath.
+ALIAS	winter sprites	frost faeries	ok	"Faeries, or Winter Sprites as they called them" (Ch2.18 L338; Ch2.08 L260-284); same beings as Frost Faeries.
+ALIAS	xrn of the centenium	small queen	ok	Xrn of the Centenium is the Small Queen (Ch3.34 L387; Ch7.03 L183).
+ALIAS	yvlon older brother	ylawes byres	ok	Yvlon's older brother is Ylawes Byres (Ch3.18T; Ch3.24 L296).

@@ -1,8 +1,8 @@
 joint-subject facts split across entities: 309
-facts 13138  alias pairs from '=' lines 378 (new mappings 147)  xref-cite facts 2  facts without cite 0
-entities (canonical keys) 2168; needing a file (>=15 facts or 2+ chapters) 728; single-fact entities 1345
-manual fact-less entities (from coverage decisions, needs_file=M): 122
-alias map size 1255; conflicted aliases left unmerged 54
+facts 13136  alias pairs from '=' lines 378 (new mappings 132)  xref-cite facts 2  facts without cite 0
+entities (canonical keys) 2181; needing a file (>=15 facts or 2+ chapters) 731; single-fact entities 1353
+manual fact-less entities (from coverage decisions, needs_file=M): 125
+alias map size 1126; conflicted aliases left unmerged 54
 
 Top 40 entities:
     824  225 ch  Erin
@@ -13,13 +13,13 @@ Top 40 entities:
     204   44 ch  Laken
     193   63 ch  Magnolia Reinhart
     172   49 ch  Rags
-    155   35 ch  Niers
-    154   49 ch  Toren
-    146   76 ch  Lyonette
+    154   35 ch  Niers
+    149   47 ch  Toren
     143   34 ch  Flos
+    143   74 ch  Lyonette
     141   71 ch  Mrsha
     138   73 ch  Relc
-    134   26 ch  Teriarch
+    131   25 ch  Teriarch
     124   55 ch  Pawn
     119   38 ch  Zel Shivertail
     117   55 ch  Selys
@@ -35,13 +35,13 @@ Top 40 entities:
      83   32 ch  Az'kerash
      83   25 ch  Garen Redfang
      81   27 ch  Gazi
-     75   48 ch  Octavia
+     73   47 ch  Octavia
      70   29 ch  Tyrion Veltras
      68   28 ch  Pyrite
      67   19 ch  Geneva
      61   15 ch  Reiss
      59   20 ch  Fierre
      59   25 ch  Wiskeria
-     58   40 ch  Jelaqua
      58   49 ch  The Wandering Inn
      57   42 ch  Antinium
+     57   22 ch  Saliss

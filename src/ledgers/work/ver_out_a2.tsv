@@ -1,0 +1,65 @@
+type	key	target	verdict	note
+ALIAS	(poison antidote reagent)	sage grass	ok	6.47E: Mavika asks for 'Sage's Grass if it is poison'; same item as 6.36E Sage's Grass (L560-590).
+ALIAS	animalfriend exile (class)	nsiia	ok	Nsiia's current class [Animalfriend Exile], Interlude_Experiments_in_Golems L292, her exile status under Femithain; same referent.
+ALIAS	ashfire bee queen	apista	ok	Apista is the Ashfire Bee; 5.06M L63 calls her 'Ashfire Bee Queen' (also 4.24 L43).
+ALIAS	bard of avalon	william shakespeare	ok	Note b14 L23 explicit: Bard of Avalon = William Shakespeare; Erin recalls the plays.
+ALIAS	bea (masquerade name)	bea masquerade name	ok	Same name normalised; Bea's cover is Elden Veis, 6.59 L474 Az'kerash orders Bea to masquerade as Elden Veis.
+ALIAS	big hob	hobgoblin spirit speaking through numbtongue	reject	'big Hob' is generic (Pyrite, Redscar and others are big Hobs); 5.19G L156 fits Pyrite but phrase fits several Hobs.
+ALIAS	brothers	brotherhood of serendipitous meetings	reject	Bare 'brothers' is ambiguous (siblings, e.g. 5.62 L780); only the full 'Brothers of Serendipitous Meetings' (5.54 L891) is the guild.
+ALIAS	celers	celum	ok	Interlude_1.00_R L43-44 Celers is Magnolia's city; 1.02R L129 Magnolia delivery goes to Celum; early name for one city.
+ALIAS	cirediel anvi'dualln olic	cire	ok	Interlude_Food_and_Growth L235-236: mother says Cirediel Anvi'dualln Olic, he says 'call me Cire'.
+ALIAS	cougher	fierre	ok	6.25 L53-55: Alber calls the thin scarfed girl Cougher, Braggart greets her 'Fierre'.
+ALIAS	delaxi of dellva	domehead	ok	Experiments_in_Golems L1166: Domehead's official title is 'Delaxi of Dellva'.
+ALIAS	dragonslayer of ger	quarass of germina	ok	7.09K L700: 'Quarass, ... The Dragonslayer of Ger lives again!'; title worn by Quarass of Germina.
+ALIAS	dwarfhome	derithal-vel	ok	Strategists_at_Sea_Pt.1 L312-314: Dwarfhome is the colloquial name of Der'thal-Vel, the Mountain Kingdom of the Dwarves.
+ALIAS	emperor laken	laken	ok	3.14 L330-421 villagers hail 'Emperor Laken'; same man as Laken Godart.
+ALIAS	eternal throne (calanfer, stolen)	eternal throne (calanfer, a stolen one)	ok	Spelling variants; note b16 L319 Dragonthrone = Eternal Throne (Calanfer's, stolen), 7.12G L786. Target entity display Dragonthrone.
+ALIAS	firebringer	zalthia werskiv	ok	1.05D L280: 'the Firebringer, Zalthia Werskiv'; L494 'Zalthia, the Firebringer'.
+ALIAS	flooded water tribe	rags tribe, per lady rie	ok	2.00G L25: Rags is Chieftain of the Flooded Waters Tribe; same tribe as Rags's tribe.
+ALIAS	frost faeries of the winter court	frost faeries	ok	3.11E L335 'Frost Faeries of the Winter Court'; same group as Frost Faeries (2.09 L9).
+ALIAS	galewinds strategist	perorn sadiluc	ok	6.22D L116-117: Perorn Sadiluc 'Fleethoof' is the [Galewinds Strategist]; 6.24D L474 same.
+ALIAS	gerry	gerial	ok	1.06R L26: 'That was Gerry-Gerial. The vice-captain.'
+ALIAS	grand hive klbkch-copy prognugators	sword prognugators	ok	7.39A L338-343 Grand Hive Prognugators copied from Klbkch; L411 Anand classifies them 'Sword Prognugators'.
+ALIAS	great witch of terandria	belavierr	ok	6.37E L530 she names herself Great Witch of Terandria; note b12 L530 = Belavierr.
+ALIAS	halassia evergleam	half-drake	reject	Halassia Evergleam is an individual Scorchling (5.57 L270); half-drake is the species/type, so individual merged into species.
+ALIAS	hasty	miss hastel	ok	6.05D L205 Rital: 'Hasty's not able to get around that far... foal on the way', about Miss Hastel (L203-206).
+ALIAS	hob	headscratcher	reject	'Hob' is a generic Hobgoblin word fitting many individuals (Pyrite, Garen, Redscar); Headscratcher is one Redfang Hob.
+ALIAS	hunter with axe	gaile	ok	Note b12 L1567: Gaile = Hunter with axe; 6.43E L1568-1581 and 6.44E the same woman.
+ALIAS	imenet southwing	ijvani (disguise)	ok	4.28 L11,L93: being called Imenet sheds illusion; Imenet Southwing is Ijvani's disguise (note b05 L11,L93).
+ALIAS	jenkil thert	ratwhisperer	ok	6.42E L279: 'Ratwhisperer' as he called himself (his real name was Jenkil Thert).
+ALIAS	kiwi	blake	reject	'Kiwi' is slang for any New Zealander (6.05D L496 'You're a kiwi?'); Blake named only in 6.06D L231; fits several referents.
+ALIAS	lady colfa val lischelle-drakle	colfa	ok	6.01 L35: 'I am Lady Colfa, Mistress of House Lischelle-Drakle'; same vampire lady.
+ALIAS	last light	geneva	ok	1.05D L15-17 Geneva hates the title 'the Last Light'; Last Light of Baleros = Geneva Scala (6.04D L67).
+ALIAS	lord bel	lord belchaus meron (lord bel, the lord of the dance)	ok	Interlude_Dancing_and_Brawling L84: 'Lord Belchaus advanced... Lord Bel's dancing'; Lord of the Dance.
+ALIAS	lord tyrion	tyrion veltras	ok	S02_Antinium_Wars_Pt.5 L67-71: Lord Tyrion = Tyrion Veltras with his son Sammial; Tyron is a variant spelling.
+ALIAS	mage gelia	dullahan on the council	ok	Interlude_Blackmage L126-129: Dullahan councilmember speaks, Feor answers 'Mage Gelia'.
+ALIAS	mares	maresar	ok	4.05K L9 'Mares. His wife' (Venith's wife); 4.02K L361-379 Maresar; nickname.
+ALIAS	minotaur	calruz	reject	'minotaur' is a species word fitting Calruz, Venaz, Beza and others; Calruz is 'the Minotaur' only in one scene (b12 L243).
+ALIAS	miss solstice	erin solstice	ok	5.27 L24-151 'Miss Solstice' addresses Erin; no other Solstice in the series.
+ALIAS	moore (halfseekers)	moore	ok	Moore of the Halfseekers (2.22 L234-243); qualifier only disambiguates, same half-giant [Mage].
+ALIAS	muscle mage	grimalkin	ok	6.31 L519: 'Grimalkin's a Muscle Mage'; L769 and 6.38 L312 'Muscle Mage of Pallass' = Grimalkin.
+ALIAS	nesor	mage at riverfarm relaying laken messages	ok	Note b12 L694 Nesor = [Mage] at Riverfarm relaying Laken's messages; 6.47E Laken calls 'Nesor!' to the young man.
+ALIAS	octavia	stitch girl	ok	Octavia is the Stitch-Girl alchemist of Stitchworks (2.09 L306; note b16 L753 Stitch-Girl = Octavia).
+ALIAS	oresm	olesm swifttail	ok	3.23L L81-83: Olesm's name misspelled Oresm in letters; same Drake.
+ALIAS	pawn of the free antinium	pawn	ok	1.26 L186-267 the Worker takes the name Pawn; Free Antinium Worker, same individual.
+ALIAS	plague locust	embrim thrus	ok	1.05D L280: 'the Plague Locust, Embrim Thrus'; title of one individual.
+ALIAS	prognugator (false claim)	prognugator of the free antinium (false claim to the watch)	ok	Note b11 L38: Ksmvr = Prognugator of the Free Antinium (false claim); target key is Ksmvr's entity (1.38 L150).
+ALIAS	rael veniford	lord rael	ok	5.11E L3-8: 'Lord Rael of Veniford'; Rael Veniford is the same lord.
+ALIAS	redfang	garen redfang tribe; name from his red sword	reject	'Redfang' names the tribe, Garen and his sword (alias_map separates 'redfang (sword)', 'redfang chieftain'); target is a note string, not an entity.
+ALIAS	reiss	goblin with magic	ok	Note b06 L449-451 Reiss = the Goblin Lord; 5.50G L158 'the Goblin with magic' is his tale alias.
+ALIAS	rievan	rievan forstrom	ok	Wistram_Days_Pt.2 L22: senior [Mage] named Rievan Forstrom; 'Rievan' used throughout (L25-53).
+ALIAS	santa claus (relc costume)	gecko of liscor	ok	3.41 L318-319 Relc strides in declaring 'I'm Santa Claus'; qualifier ties it to Relc's costume, not the Earth myth.
+ALIAS	senator jealwind	errif jealwind	ok	5.01 L478 Errif Jealwind introduces himself; L497,L537 addressed as 'Senator Jealwind'.
+ALIAS	silversteel armsmistress	yvlon	ok	Note b14 L736: Silversteel Armsmistress = Yvlon's new class; class held by Yvlon.
+ALIAS	siren of tides	revine zecrew	ok	Note b13 L760: Siren of Tides = Siren of Savere = Revine; 6.53K bandit queen.
+ALIAS	soldier with yellow splatters; sergeant	yellow splatters	ok	4.15L L525-531: 'the soldier with yellow splatters' then named 'Yellow Splatters'; 4.40L Sergeant.
+ALIAS	stitchworks (shop)	stitch girl	reject	Stitchworks is Octavia's shop (2.09), a place; the person is Octavia/Stitch-Girl; shop not same as a person.
+ALIAS	tekshia identifies	heartflame breastplate	reject	'Tekshia identifies' is an event phrase about Tekshia (5.16S L454,L500), not a name for the Heartflame Breastplate item.
+ALIAS	tismel	tismel lischscale	ok	6.49 L140,L243: Tismel Lischscale, head of the Cobbler's Guild; 'Tismel' alone used throughout.
+ALIAS	tremborag goblins	mountain city tribe	ok	3.28G L9, 5.19G L34: Tremborag's tribe is the Mountain City Tribe.
+ALIAS	ullsinoi faction	elusive lot	reject	6.65 L165: 'the Elusive Lot, the leaders of his faction'; Ullsinoi faction has ~100 members (6.59 L828); Elusive Lot is a subset.
+ALIAS	venaz the minotaur	venaz	ok	6.07D Venaz is a Minotaur [Strategist]; 6.20D L776-785 same Venaz.
+ALIAS	watch captain zevara	zevara	ok	5.28 L98 'Watch Captain Zevara'; same Drake Zevara (1.42 Captain of the Watch).
+ALIAS	winter sprite	ivolethe	reject	Winter Sprites are the frost faeries as a species (2.08 L260-284); Ivolethe is one individual among them.
+ALIAS	xol of ingrilt / the juggernaut	xol	ok	6.22D L697-699 'Xol of Ingrilt', [Juggernaut] War Walker; bare Xol same individual.
+ALIAS	young pisces	pisces	ok	'Young Pisces' = Pisces (Book 7 5.08 L676); one Pisces in the series.
