@@ -36,11 +36,11 @@ for r in read_tsv("aliases.tsv"):
     if a and c and a != c and a not in conflicts: amap[a] = c
 for r in read_tsv("coverage_decisions.tsv"):
     if r["kind"] == "alias" and r["target"]: amap[key(r["term"])] = key(r["target"])
-override_targets = set()
+override_targets = set(); protected = set()
 for r in read_tsv("alias_overrides.tsv"):
     a, c = key(r["alias"]), key(r["canonical"])
     if c: amap[a] = c; override_targets.add(c)
-    else: amap.pop(a, None); conflicts.discard(a)
+    else: amap.pop(a, None); protected.add(a)   # never-merge: no later stage may map it
 for c in override_targets:   # a reviewed canonical is terminal: it must not map elsewhere (avoids cycles)
     amap.pop(c, None)
 # reviewed coverage decisions (ledgers/coverage_decisions_gap.tsv, written by merge_gap_decisions.py):
@@ -51,11 +51,11 @@ for r in read_tsv("coverage_decisions.tsv"):      # first-round decisions (speci
         manual.setdefault(key(r["target"]), {"display": r["target"], "etype": "", "note": r.get("note", ""), "cite": r.get("first_cite", "")})
 for r in read_tsv("coverage_decisions_gap.tsv"):
     a, c = key(r["term"]), key(r["target"])
-    if r["kind"] == "alias" and c and a != c and a not in override_targets:
+    if r["kind"] == "alias" and c and a != c and a not in override_targets and a not in protected:
         amap[a] = c
     elif r["kind"] == "entity" and c:
         manual.setdefault(c, {"display": r["target"], "etype": r.get("etype", ""), "note": r.get("note", ""), "cite": r.get("first_cite", "")})
-        if a != c and a not in override_targets: amap[a] = c
+        if a != c and a not in override_targets and a not in protected: amap[a] = c
 
 def canon(k):
     seen = set()
@@ -113,7 +113,7 @@ for path in sorted(glob.glob(os.path.join(SRC, "Chapter_Notes", "b[0-9][0-9].md"
 added_pairs = 0
 for p in pairs:
     a, c = key(p["alias"]), key(p["canonical"])
-    if a and c and a != c and a not in amap and a not in conflicts:
+    if a and c and a != c and a not in amap and a not in conflicts and a not in protected:
         amap[a] = c; added_pairs += 1
 
 def break_cycles():
@@ -161,7 +161,9 @@ spl = {r["key"]: [x for x in r["targets"].split("|") if x] for r in read_tsv("en
 out_facts, split_n = [], 0
 for f in facts:
     if f["key"] in spl and f["sid"] not in fo:
-        ts = spl[f["key"]]; split_n += 1
+        ts = list(dict.fromkeys(canon(t) for t in spl[f["key"]])); split_n += 1   # targets folded together collapse to one
+        if len(ts) == 1:
+            g = dict(f); g["key"] = ts[0]; out_facts.append(g); continue
         for t in ts:
             g = dict(f); g["key"] = t; g["joint_with"] = [x for x in ts if x != t]; g["sid"] = f["sid"] + "-" + str(ts.index(t)); out_facts.append(g)
     else:

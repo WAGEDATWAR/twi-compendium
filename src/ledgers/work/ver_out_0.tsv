@@ -1,0 +1,45 @@
+type	key	target	verdict	note
+FOLD	inn	wandering inn	ok	Ch1.00 L2-6 is the abandoned inn Erin finds; later raw Inn facts (2.11, 6.56) are Erin's Wandering Inn.
+FOLD	squirrel-woman	foliana	ok	Interlude_Foliana L17,L21: "the Squirrel-woman" is Foliana, Three-Color Stalker.
+FOLD	octavia cotton	stitch girl	ok	6.02 L2 Stitch-girl [Alchemist] Octavia Cotton; Octavia is the Stitchworks owner (2.37 L323).
+FOLD	frost fairies	frost faeries	ok	2.08 L183 "Frost Fairies" and 2.09 L9 "Frost Faeries" are the same winter fey.
+FOLD	chat log	chat	ok	2.05 L307,L319: "the chat log, the magical screen" from answering the call; same chat.
+FOLD	welca	welca caveis	ok	5.19G L169,L279: Welca Caveis flees and is knocked out by Pyrite; same Knight of the Petal.
+FOLD	class consolidation	class merging	ok	4.20E L291 "class consolidation" and 2.36 L111,L118 "class merging" describe the same mechanic.
+FOLD	great queen	grand queen of the antinium	reject	Great Queen = Grand Queen (2.20 L277, S02 Pt.1 L107) but target key holds 48 Xrn (Small Queen) facts; fold to grand queen instead.
+FOLD	nelliam	nelliam hailwing	ok	5.01 L285-290: Nelliam Hailwing the Drake guide is the Nelliam speaking in the same scene.
+FOLD	tersk and a companion	tersk	ok	7.00 L630 "Thank you, Tersk"; 7.02-7.03 Prognugators Tersk and Dekass at the inn; same Tersk.
+FOLD	face-eater moth	face-eater moths	ok	Singular and plural of the same monster species in 5.07 (L377-380); no distinct individual.
+FOLD	halrac everam	halrac	ok	4.26M L308 "Halrac Everam" is the Scout in the party; 7.40ER L4 Halrac the Grim.
+FOLD	lord yitton byres	yitton byres	ok	5.15 L16 Yitton Byres head of Byres family; 5.60 "Lord Yitton Byres" same man, father of Yvlon and Ylawes.
+FOLD	fortress beaver colony	fortress beaver	ok	Same colony: 5.06M colony nearly wiped out by Crelers; 5.07 L167-170 beavers found near dead Crelers.
+FOLD	mr. soot	mister soot	ok	Interlude_Gecko L1067,L1113 Mr. Soot the Drake [Mastermind] killed by Nokha; 6.61L L598 Mister Soot the Drake.
+FOLD	author	pirateaba	ok	Book 4 Meta Authors_Note L2: author writing 8.33 R, note signed pirateaba; same author voice.
+FOLD	lancrel folk	lancrel	reject	Lancrel is the city (5.23G); "Lancrel folk" (6.36E L233, 6.40E L9,L49) are its people; place vs people, keep separate.
+FOLD	american group	america group	ok	1.00C L19 Richard Level 26 [Knight] leads the group; 1.02C L21 Keith is in it; Call L63 [America Group].
+FOLD	ferris	ferris seftpaw	ok	7.48K L313-330 Ferris, Manus agent for Rafaema; Meetings_and_Friendships L108-111 Ferris Seftpaw, same role.
+FOLD	high king perric of medain	perric of medain	ok	7.10K L30 "High King Perric of Medain"; same ruler as Perric of Medain in 7.46K.
+FOLD	lord hayvon operland	hayvon operland	ok	6.68 L3-9 Lord Hayvon Operland, fifth-ranked [Lord] of Rhir; same as 7.34C ranking.
+FOLD	wrymvr	wrymvr the deathless	ok	Interlude_A_Night_in_the_Inn L23 "Wrymvr of the Centenium. Wrymvr the Deathless"; S02 Pt.1 also names Wrymvr the Deathless.
+FOLD	ijvani as imenet	ijvani	ok	4.28 L11 "the being that had called itself Imenet shed the illusion"; 4.30 Imenet's voice begs Master (Ijvani).
+FOLD	zalthia	zalthia werskiv	ok	1.05D L280 "the Firebringer, Zalthia Werskiv"; L287 Zalthia shoots flame; same person.
+FOLD	gralton radivaek	gralton	ok	6.34E L832 "Lord Gralton Radivaek"; 6.42E Gralton the Dog Lord of Radivaek; same.
+FOLD	mister helm	helm	ok	5.21E L91 "Mister Helm, the [Blacksmith] of Windrest"; 4.20E L378 Mister Helm of Windrest.
+FOLD	selys grandmother	tekshia shivertail	ok	1.45 L105 Liscor guildmaster is Selys's grandmother; 4.26M L306 same; Tekshia is that guildmaster.
+FOLD	acid fly	acid flies	ok	1.15 L56 "An acid fly" singular of the same insect as the plural acid flies.
+FOLD	door (erin magic door)	magic door	ok	5.00 L303 Erin's door recharge; same door as the magic door entity.
+FOLD	other cities	walled cities	ok	7.04 L815-829 "other Walled Cities" Manus, Fissival, Oteslia, Zeres; context names them Walled Cities.
+FOLD	toren (masked)	toren	ok	5.05 L19-26 the masked swordswoman is Toren's alternate personality in the same skeleton; L369-383 Anith.
+FOLD	esthelm girl	esthelm horror	ok	3.17T L202-214 the Florist eats corpse, becomes Corpse Eater; 3.18T L196-199 "former [Florist]" monster girl.
+FOLD	klbkch queen	free queen	ok	4.07 L143 Xrn says Klbkch's Queen altered him; 5.33B Free Queen built Klbkch's new form.
+FOLD	titan	niers astoragon	ok	1.00D L196-199 Titan is the Fraerling leading the army (Niers); 6.06D L626 led by the Titan.
+FOLD	erin magic door	magic door	ok	7.18M L419 Erin added Sage's Grass field to the door; same Erin's door.
+FOLD	rags officers	rags lieutenants	ok	5.19G L193-198 officers/lieutenants; 4.39G L50 same named leaders. Same group.
+FOLD	adult	adult creler	ok	6.66H L635-636 "The adult" is the giant Creler; L676 Grimalkin finishes the Creler.
+FOLD	knight-commander calirn	calirn	ok	6.42E L466-483 Knight-Commander Calirn is a Winter Knight; same man as Calirn.
+FOLD	sammial	sammial veltras	ok	7.24 L230,L467 Sammial Veltras, Tyrion's ten-year-old son, Hethon's brother.
+SPLIT	marian/feshi	marian|feshi	ok	Foliana L386-406 Feshi (Gnoll) and Marian (Centauress) both in the debate; note target marian key also holds a Human Horns mage.
+SPLIT	liscor city watch and 4th company	liscor watch|liscor 4th company	ok	6.30 L26-27 4th Company helps the Watch's yearly cull of Shield Spider nests; fact concerns both.
+SPLIT	erin and others	klbkch|pawn|belgrade|anand	ok	Interlude_Bird L56 Erin says she, Klbkch, Pawn, Belgrade and Anand all worried; fact names all four targets.
+SPLIT	rose, joseph, galina, troy and imani	rose|joseph|galina|troy|imani	reject	6.68 L691-696,L730 group on stipend fits all five, but fact embeds Joseph/Rose levels (L692-694,L722); split group vs individual.
+SPLIT	merrik group	merrik|peki	ok	6.23D L893-898,L906-910 Xol's Attraction Shield slams Peki and drops Merrik; fact names both.

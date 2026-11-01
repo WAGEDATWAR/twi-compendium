@@ -1,0 +1,45 @@
+type	key	target	verdict	note
+FOLD	naq-alrama	naq-alrama steel	ok	Naq-Alrama is the clan's pure steel/metal (Book 7, Interlude_Flos L310, L335).
+FOLD	blackmage	aaron vanwell	ok	Blackmage is Aaron Vanwell: 'Aaron Vanwell. He's Blackmage' (Book 19, Ch7.55E L708).
+FOLD	ruins by liscor	ruins of liscor	ok	Same Book 1 ruins/dungeon near Liscor; Ruins by Liscor and Ruins of Liscor used interchangeably (Book 1, Ch1.11R L19).
+FOLD	garusa weatherfur	garusa	ok	Same Gnoll general at Trisstal siege, one character (Book 5, Ch4.16).
+FOLD	crossbow stan	stan	ok	Text calls him Crossbow Stan then Stan, same man with Alais as Boltspitters captain (Book 11, Ch6.19H L211-222).
+FOLD	workers	antinium workers	ok	Both are Antinium Workers caste; key facts concern Antinium Workers defending Erin (Book 1, Ch1.45 L30).
+FOLD	dullahan	dullahans	ok	Singular/plural of same species; both facts about Dullahan race (Book 3, Ch1.00D; Book 10, Ch6.04D).
+FOLD	hives	antinium hive	reject	Plural for several different Hives (Armored, Flying, Silent, Grand) vs Liscor's own Hive/Free Queen (Book 3, Ch3.23L L397; Book 4, Ch3.34 L372).
+FOLD	noass and sir relz	sir relz and noass	ok	Same two Drake commentators, name order reversed (Book 16, Ch7.11 L2 'Noass and Sir Relz').
+FOLD	zel relative	zel relatives	ok	Singular/plural of Zel's relatives who contest the will (Book 7, Ch5.16S-5.17S).
+FOLD	floodplains	liscor floodplains	ok	Liscor's valley Floodplains, same place (Book 1, Ch1.23 L119, L149).
+FOLD	hide-and-seek game	daquin game	ok	Daquin's game is the Titan's hide-and-seek game; Wil's win there (Book 11, Ch6.21D L589; Book 12, Ch6.42E L427).
+FOLD	ser raim of the season of summer	ser raim	ok	Full title of Ser Raim, dead Knight (Book 17, Ch7.21KQ L514, L517).
+FOLD	halfseekers (earlier roster)	halfseekers	ok	Same team, earlier roster; Jelaqua, Moore, Seborn core persists (Book 9, Ch5.57 L270-292).
+FOLD	reim army at jecrass border	reim army	ok	Reim's army of sixty thousand marching on Jecrass, same army (Book 15, Ch7.08K L385).
+FOLD	elmmet patterson	elmmet	ok	Elmmet Patterson is the Lancrel Councilman thief tried and executed by Hedag (Book 12, Ch6.40E L56-58).
+FOLD	montressa (mons)	montressa du valeross	ok	Mons is Montressa's nickname; she insists on Montressa (Book 13, Ch6.57 L774-785).
+FOLD	byres family	house byres	ok	Byres family is Yvlon's noble House Byres (Book 2, Ch2.00H L37, L44, L48).
+FOLD	gentleman callers	gentlemen callers	ok	Singular form of the Gentleman/Gentlemen Callers group (Book 16, Interlude_Chess_and_Ships L128).
+FOLD	jecaina of jecrass	jecaina	ok	Name with epithet; Jecrass heir Fencer (Book 15, Ch7.10K L223 'Jecaina of Jecrass').
+FOLD	raekea silversmith	raekea	ok	Full name Raekea Silversmith, Gnoll armorer married to Drake smith (Book 9, Interlude_Krshia L517-518).
+FOLD	zail gemscale	wall lord zail	ok	Wall Lord Zail Gemscale is Ilvriss's father; same person, both facts (Book 15, Ch7.04; Book 13, Ch6.50I).
+FOLD	oldblood	oldblood drake	reject	Key is the Oldblood trait/company; target facts are mostly one arsonist Oldblood Drake individual (Book 12, Ch6.45E L818-840). Keep species and individual apart.
+FOLD	archmage nailihuaile (naili)	archmage nailihuaile	ok	Naili is the nickname of Archmage Nailihuaile (Book 8, Interlude_Blackmage L324; Book 14, Ch6.68 L308).
+FOLD	hollowstone deceiver	rock crabs (hollowstone deceivers)	ok	Hollowstone Deceiver is the Rock Crab; Erin answers 'What, Rock Crabs?' (Book 7, Ch5.03 L352-353).
+FOLD	oldblood drakes	oldblood drake	reject	Plural group/trait (winged Oldbloods on walls) vs target's single Oldblood Drake arsonist (Book 7, Ch5.01 L435; Book 12, Ch6.46E).
+FOLD	spell books	spellbooks	ok	Plural spelling variant, both about spellbooks as items (Book 1, Ch1.40 L114; Book 2, Ch2.39).
+FOLD	alonna	alonna swiftwing	ok	Alonna is the Drake Mage's Guild head on Liscor's council, Alonna Swiftwing (Book 13, Ch6.59 L90-96).
+FOLD	erin door	magic door	ok	Erin's door is the magic door with anchors and limited range (Book 6, Ch4.43 L156-168; Book 4, Ch3.30 L68).
+FOLD	queen yisame	queen yisame of nerrhavia	ok	Queen Yisame with Nerrhavia's horror is Yisame of Nerrhavia (Book 16, Ch7.11 L3, L5).
+FOLD	archmage of izril	valeterisa	ok	Valeterisa's return called 'The Archmage of Izril had returned' (Book 18, Ch7.42M L34-40).
+FOLD	free antinium queen	free queen	ok	Queen of the Free Antinium under Liscor hosts Tersk, Pivr, Xrn (Book 4, Ch3.34 L372-374).
+FOLD	mountain city	tremborag city	ok	Tremborag's mountain stronghold, also Mountain City tribe's home (Book 8, Ch5.32G L487); entity already carries alias.
+FOLD	wall lord of the wall	wall lords	ok	Both generic Wall Lords title/institution; Ilvriss describes lineage and duty (Book 6, Ch4.43 L378).
+FOLD	joseph ortega	joseph	ok	Joseph Ortega named as football inventor with Wistram rules, matching Earther Joseph's football (Book 19, Ch7.44 L107; Book 17, Ch7.26).
+FOLD	therrium	therrium sailwinds	ok	Therrium Sailwinds is the Drowned captain Therrium (Book 17, Interlude_Strategists_at_Sea_Pt._1-2).
+FOLD	eliasor	eliasor melissar	ok	Child head of House Melissar, Eliasor Melissar, nine then ten (Book 5, Ch4.06KM L515; Book 11, Ch6.27M L496).
+FOLD	lady pryde of house ulta	pryde ulta	ok	Lady Pryde of House Ulta is Pryde Ulta, [Pride is Weight] user (Book 11, Ch6.27M L663).
+FOLD	wesle salkis	wesle	ok	Wesle Salkis, lead Actor, former Celum guardsman nicknamed Fuzzylips (Book 14, Ch6.63P L25).
+SPLIT	gemhammer and pride of kelia	gemhammer|pride of kelia	reject	Cuska losing a thumb is among the Pride of Kelia Gnolls only; Gemhammer is Earlia's separate team (Book 8, Ch5.29 L407, L443).
+SPLIT	zel shivertail and lord of the wall ilvriss	zel shivertail|ilvriss	ok	Zel and Ilvriss both argue at the gate (Book 4, Ch3.42 L16-24).
+SPLIT	nokha and the twenty awakened	nokha|awakened raskghar	ok	Ritual makes all awakened Raskghar, Nokha included, led by Nokha (Book 8, Ch5.43 L148-161).
+SPLIT	leon and troy	leon|troy	ok	Both discuss game and both agree to sell info to Grimalkin (Book 18, Ch7.38 L1000-1010).
+SPLIT	sir relz hauscale and watch captain venim	sir relz hauscale|venim	reject	Only Sir Relz escorts Selys to the inn; Venim leaves to lecture Erin (Book 16, Ch7.17S L587-596).

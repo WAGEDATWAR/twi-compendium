@@ -1,0 +1,45 @@
+type	key	target	verdict	note
+FOLD	giant	giants	ok	Race singular; text names half-Giants like Moore as a race (4.19 L301). Target has no facts, so no conflict.
+FOLD	lady magnolia reinhart	magnolia reinhart	ok	Same Magnolia; raw 'Lady Magnolia Reinhart' is her title form, winter travel to Invrisil (2.09 L235).
+FOLD	cave goblin	cave goblins	ok	Same tribe's Cave Goblins; individual facts already filed under cave goblins (5.35H L621-650).
+FOLD	zel body	zel shivertail	ok	Zel's casket delivered by Magnolia's coach, Tekshia calls it her nephew's body (5.16S L425-429); body of the same individual.
+FOLD	pisces jealnet	pisces	ok	Pisces Jealnet named in 6.65 L104 with bounty; one Wistram student Pisces throughout.
+FOLD	bags of holding	bag of holding	ok	Same item class; plural form 'Bags of holding' used generically (6.17S L241).
+FOLD	garia farm	strongheart farm	ok	Ryoka at 'Garia's' parents' farm west of Celum; family is Strongheart, Wailant and Viceria (4.17 L14,L85,L171).
+FOLD	liscor bathhouses	liscor bathhouse	ok	Same Liscor bathhouses; 4.24 L204 'Liscor had a set of very high-quality bathhouses'.
+FOLD	ruins	ruins of liscor	ok	Same pit ten miles from Liscor; its facts already filed under 'The ruins' of Liscor (1.32 L3-5). Not Ruins of Albez.
+FOLD	celum (magnolia city), as written in this chapter	celum	ok	Interlude_1.00_R says 'Celers' for Magnolia's city, 1.02R L129 sends Magnolia's request to Celum; same Runner destination, early variant.
+FOLD	goblin kings	goblin king	ok	Generic plural statement about Goblin Kings; target already holds the same general fact (S02 Pt.3 L21-23).
+FOLD	liscorian law	law of liscor	ok	1.17 L93 'under Liscorian law' is the same law system as Law of Liscor.
+FOLD	beza (bezale)	beza	ok	Beza's full name Bezale: 'Beza' vs 'Bezale of Maweil' Spellscribe (6.61L L266); Burning_Alcohol L230-232 names Beza.
+FOLD	lord erill (house fienst)	lord erill	ok	Lord Erill, newly noble merchant-lord in both (5.30G L25; 5.52 L334); House Fienst only a detail.
+FOLD	yellow rivers infection	yellow rivers disease	ok	Same disease named Yellow Rivers in 6.07D L55; untreatable by healing potion, STD, same as 7.22D.
+FOLD	lady ieka	ieka imarris	ok	Lady Ieka, Wistram-trained [Mage Lady] (5.30G L27,L57); Imarris is her house per 5.52 facts.
+FOLD	tom (alternate personality)	alternate tom	ok	Both 1.05C facts are the same alternate personality of Tom in the same chapter.
+FOLD	dawil ironbreaker	dawil	ok	Only one Dwarf Dawil (Ironbreaker family, 4.45 L93) with the Silver Swords; same hammer-wielding Dwarf in 5.59 L100.
+FOLD	hamburgers	hamburger	ok	Plural of hamburger; 2.11 L325 hamburgers introduced, same dish.
+FOLD	lism rival-like stall	drake shopkeeper who cheated erin	ok	1.31 L21 'Lism the shopkeeper'; 1.19 shopkeeper wagered chess, Lism's nephew lost to Erin (1.31 L74). Same Drake.
+FOLD	unnamed young woman (erin)	erin solstice	ok	1.00 unnamed burned young woman at the inn is Erin per the chapter; entry cites 'came to this world' (1.00 L15).
+FOLD	goblins at the inn	goblins at erin inn	ok	Both are Goblins resident at Erin's inn (4.40L L219; 4.36O L333); same group.
+FOLD	tom (thomas)	tom	ok	Tom the Clown, [Clown] Level 19 (1.00C L24), is the only Tom; Thomas is his full name.
+FOLD	farri slightly	farri sightly	ok	Farri Sightly spelled 'Slightly' in 6.61L L266; same [Merchant] who serves Selys (6.17S L187).
+FOLD	lord belchaus meron	lord belchaus meron (lord bel, the lord of the dance)	ok	Same noble: Interlude_The_Gecko_of_Illusions L69-70 'Lord Belchaus Meron, the Lord of the Dance'.
+FOLD	runner guild celum	runner guild of celum	ok	5.04 L169 'The Runner's Guild in Celum' same guild as 7.25 Celum guild.
+FOLD	unseen owner of the board	niers astoragon	ok	Interlude_Chess_and_Ships L103 shows Niers Astoragon as the board's player; 2.17 L359 he lost to Erin by chess.
+FOLD	cecille	cecille reinhart	ok	Cecille is Magnolia's aunt in both (4.26M L59-68, L72); Cecille Reinhart is the full name.
+FOLD	necromancer (the)	necromancer	ok	Both name the Necromancer: attacked ten years back, never found (1.06R L45-50); same single title-holder.
+FOLD	shriekblade	shriekblade (tessa)	ok	One Named Drake adventurer Shriekblade; 7.37 L376 Assassin's Guild letter on her scales, same person as Tessa.
+FOLD	earthworlders	earthers	ok	Earthworlders/Earthers are the same people; entry cites forgetting families (6.07D L139-148).
+FOLD	healing potion (low-grade)	healing potion	ok	Low-grade qualifier only; same potion, 1.07 L249-261 matches 1.08, 1.17 healing potion uses.
+FOLD	salvia	captain salvia	ok	Captain Salvia of Nonelmar cavalry (4.47 L14-15) leads cavalry in 4.48 L158; same [Captain].
+FOLD	bevia veniford	lady bevia veniford	ok	Lady Bevia Veniford, Rael's aunt (5.11E L6; 5.21E L41); the same woman.
+FOLD	perorn sadiluc	perorn sadiluc (fleethoof)	ok	Perorn Sadiluc, known as Fleethoof (Interlude_Chess_and_Ships L110); hamstrung leg in 6.24D L280.
+FOLD	witch hedag	hedag	ok	Hedag, axe-wielding [Executioner] [Witch] (6.40E); on Laken's council with Eloise (7.55E L19).
+FOLD	guildmistress tekshia	tekshia shivertail	ok	5.28 L131 'Guildmistress Tekshia' of Liscor's guild; Tekshia Shivertail is the same Guildmaster (4.47 L136-139).
+FOLD	reric	reric feltpaw	ok	Reric Feltpaw named as the flower thief arrested by Klbkch's patrol in the same chapter (6.61L L648,L664).
+SPLIT	sir relz and noass	sir relz hauscale|noass	ok	Both Drake commentators, 'Sir Relz and Noass' have their own entities (5.08 L366).
+SPLIT	earlia of gemhammer and nailren pride of kelia	earlia|gemhammer|pride of kelia	ok	7.19 L715-762: Earlia of Gemhammer and Nailren's Pride of Kelia find the ring together.
+SPLIT	byres, veltras and terland families	house byres|house veltras|terland family	ok	6.01 L286: 'the Byres family... So are the Veltras and Terland families' all called vampire slayers.
+SPLIT	dawson, ald (aldenon), kami, tofte	dawson|bushrangers	ok	6.04D L227,L241: Dawson and Ald are Bushrangers; Bushrangers team per 6.20D, fact fits both.
+SPLIT	johanas and seven other americans	johanas|americans	ok	1.04D L262: Johanas and seven other Americans executed; fact fits Johanas and the Americans group entity.
+SPLIT	jeiss, lism and others	jeiss|lism swifttail	ok	6.67 L216: Jeiss and Lism together try to convince Tekshia about the wake speech.

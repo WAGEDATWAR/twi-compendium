@@ -136,6 +136,7 @@ elirr	person	keep		Elirr, Gnoll Councilmember and Beast Trainer; one referent (B
 leader of germina	title	keep		Key mislabel for the Quarass of Germina; old Quarass reborn in a child, treated as one continuing ruler (Book 10, Ch6.12K L159).
 valeterisa	person	keep		Archmage Valeterisa of Izril; one referent (Book 18, Ch7.41 L2).
 rags tribe, per lady rie	org	keep		Key mislabel for the Flooded Waters tribe, Rags's Goblin tribe (Book 2, Ch2.02G L6). Rename key.
+door	item	keep		homonym split: The ordinary inn door in 1.08, not the magic door (followup to verifier note).
 abebi	person	keep		Earther [Manager] of the Queen of Pop Cara's band, who sets up and directs the tour (Book 17, Ch7.21KQ L678-682; Book 19, Ch7.50 L780).
 ancestors	topic	topic		Exclamation and reverence term ("Ancestors, an undead!", "real Drake Ancestors" meaning Dragons) used mostly by Drakes and Gnolls, not a single entity (Book 7, Ch5.18S L149; Book 6, Ch4.36O L107).
 bastam	person	keep		Drake mage of Wistram and an Isolationist on the Council, who fights the pirate ships alongside the Dullahan Jurix (Book 4, Ch Wistram_Days_Pt.5 L472; Ch Wistram_Days_Pt.6 L256).
@@ -307,6 +308,7 @@ jecaina	person	keep		Distinct entity with consistent referent across its facts; 
 jeiss	person	keep		Distinct entity with consistent referent across its facts; no provable fold.
 joseph	person	keep		Earther Joseph, [Kicker] (Book 17, Ch7.26 L1551); no proof it equals the separate Joseph Ortega key.
 keldram	person	keep		Key misspelled; facts are Keldrass, Flamewardens captain (Book 8, Ch5.38 L137). No separate keldrass key.
+king		keep		split not applied (verifier reject): Facts mixed: King_Edition facts are Flos; only Ch1.00C L308 (King summoning Heroes) is the Blighted King; copying all to both is wrong.
 lacel the leaper	person	keep		Distinct entity with consistent referent across its facts; no provable fold.
 lasc	person	keep		Distinct entity with consistent referent across its facts; no provable fold.
 levil team	org	keep		Pithfire Hounds, Silver-rank team led by Levil (Book 12, Ch6.00 L428).
@@ -386,10 +388,10 @@ cetris duiland	person	keep		Mayor of Celum (Book 15, Ch7.07 L807-811).
 chat	other	keep		The magical group chat screen for summoned Earthers (Book 2, ChInterlude_The_Call L7).
 circle of thorns	org	keep		Secret noble society of lesser nobility (Book 17, Ch7.24 L5-8).
 classes	topic	topic		General class-system lore; no owning entity (Book 1, Ch1.27 L17).
+council		keep		split not applied (verifier reject): Facts mix Wistram leaders (Wistram_Days_Pt.2 L342, Pt.5 L516) and Liscor Council (Ch6.31, 6.59); copying all to both corrupts each. Needs per-fact assignment.
 crelers	creature	keep		Creler monsters, egg-laying threat (Book 7, Ch5.06M L277).
 dame truvia	person	keep		Knight of the Petal in pink armour, feud with House Averin (Book 12, Ch6.35 L196-205).
 dekass	person	keep		Prognugator of the Armored Antinium (Book 15, ChStory_2_Tersk_and_Dekass L6).
-door	item	keep		Erin's magic door; same referent as 'magic door' (Book 7, Ch5.00 L289-299). Ch1.08 fact is the inn door.
 dullahans	species	keep		Dullahan species traits (Book 10, Ch6.04D L679).
 earth group	other	keep		Ten Earther students rescued by Magnolia (Book 2, Ch2.30 L183-202); separate from other summoned groups.
 eater of spears	person	keep		Hob chieftain of Rockbreakers Tribe; same Hob across facts (Book 9, Ch5.55G L166-167).
@@ -657,10 +659,12 @@ goblin chieftain memory	topic	topic	goblin king	Goblin King was a Healer (Book 4
 goblin king invasion	topic	topic	goblin king	Goblin King beat a human army (Book 6, Ch4.47 L234)
 goblin names	topic	topic	goblins	Naming customs of Goblins (Book 4, Ch3.28G L147)
 goblin warband	topic	topic	goblins	Unnamed armed warband encounter (Book 2, Ch2.29 L226)
+great queen		keep		fold not applied (verifier reject): Great Queen = Grand Queen (2.20 L277, S02 Pt.1 L107) but target key holds 48 Xrn (Small Queen) facts; fold to grand queen instead.
 guard golems	creature	keep		Four steel golems gilded pink (Book 2, Ch2.30 L70)
 halfseekers' story	topic	topic	halfseekers	Halfseekers' past and the roach cavern (Book 9, Ch5.58 L345)
 head-collector	creature	keep		Headless creature carrying severed heads (Book 7, Ch5.15 L206)
 hexel quithail	person	keep		Lamia Architect for Liscor (Book 17, Ch7.23LM L42)
+hives		keep		fold not applied (verifier reject): Plural for several different Hives (Armored, Flying, Silent, Grand) vs Liscor's own Hive/Free Queen (Book 3, Ch3.23L L397; Book 4, Ch3.34 L372).
 horns of hammerad and other adventurers	topic	topic		Group of adventurers heading to ruins (Book 1, Ch1.12R L413)
 human mages	topic	topic		Generic mages bombarding goblins (Book 9, Ch5.48G L382)
 idevin	person	keep		Human Pyromancer heading Aquais faction (Book 18, Ch7.29B L492)
@@ -794,6 +798,7 @@ flying queen	person	keep		Queen of Flying Antinium (Book 15, Interlude_Queens_an
 four great companies	org	keep		Named group of mercenary companies (Book 3, Ch1.00D L183-199).
 fultoolm	person	keep		Killed by Mars (Book 16, Ch7.13K L360).
 garnish	person	keep		Young Goblin stick-gatherer (Book 16, Ch7.12G L58).
+gemhammer and pride of kelia		keep		split not applied (verifier reject): Cuska losing a thumb is among the Pride of Kelia Gnolls only; Gemhammer is Earlia's separate team (Book 8, Ch5.29 L407, L443).
 geneva camp	place	keep		Camp burned in Book 5 (Ch1.05D L498).
 gnoll culture	topic	topic		Customs heading (Book 2, Ch2.33 L402).
 go	other	keep		The board game Go (Book 4, Ch3.39 L129).
@@ -924,6 +929,7 @@ crag pig	place	keep		Laken's inn in Invrisil named for a skull over the door (Bo
 cultist	person	keep		Unnamed cultist claiming the Fury of Skies has never lost (Book 16, Interlude_Dancing_and_Brawling L408).
 daquin council	org	keep		Daquin's governing council with Felit and Ulli (Book 11, Ch6.22D L120-126); not Liscor council.
 deaths	topic	topic		Tally heading of named deaths in a battle (Book 18, Ch7.36C L600-1288).
+demon soldier		keep		fold not applied (verifier reject): Ch1.01C L170-174 one dying Demon soldier; "demons" is the whole people (raiders, assassins, army separate keys); soldier is a subgroup.
 dinner	topic	topic	ilvriss	Dinner scene whose fact is Ilvriss's Violet Dusker ring (Book 18, Ch7.33I L762-769).
 door result	topic	topic	magic door	Magic door travel specs (Book 5, Ch4.12 L457-459); subject is the magic door.
 drake wills	concept	keep		Drake inheritance-will law, near inviolable (Book 7, Ch5.16S L327-382).
@@ -999,6 +1005,7 @@ paranfer	place	keep		Rhir capital with sky bridges and seven walls (Book 6, Ch1.
 pellmia riders	topic	topic	pellmia	Pellmia's riders' orders (Book 9, Ch5.47G L551-553).
 perorn sadiluc fleethoof	person	keep		51-year-old Centauress Strategist of the Forgotten Wing (Book 11, Ch6.21D L86,L129).
 plan	topic	topic		Antinium plan of improving relations (Book 1, Ch1.24 L25-35); concept heading.
+pomle oasis		keep		fold not applied (verifier reject): Oasis is only the nation's water source (Interlude Sand and Notes L128 'the only body of water in Pomle'); Pomle is the whole nation. Part vs whole.
 pricky	creature	keep		Flynn's Needlehound Pricky, spines when angry (Book 19, Ch7.46K L392-398).
 pxier	place	keep		Starving Lizardfolk town where Luan rescued a Dullahan Merchant (Book 10, Ch6.07D L354-369).
 queravia	person	keep		Gambler of Fates, Flos's Strategist (Book 5, Ch4.04K; Book 13, Interlude_The_Titans_Question).
@@ -1123,6 +1130,7 @@ jerios bazaar	place	keep		Annual oasis gathering (Book 7, Interlude_Flos L136).
 ken findings	topic	topic	kenjiro murata	Ken's research about Baleros (Book 10, Ch6.06D L571-604).
 king of minotaurs	title	keep		Woman ruler of Minotaurs, Khedal's sister (Book 19, Ch7.47K L115-125).
 kraken pass	place	keep		Trench with sleeping Kraken (Book 17, Strategists_at_Sea_Pt._1 L1179).
+lancrel folk		keep		fold not applied (verifier reject): Lancrel is the city (5.23G); "Lancrel folk" (6.36E L233, 6.40E L9,L49) are its people; place vs people, keep separate.
 lawes of pallass	person	keep		Drake spy hosting Ilvriss's door (Book 10, Ch6.11 L534-543).
 lich	creature	keep		Undead skeletal mage (Book 1, Ch1.02R L15-21).
 liscor merchants	topic	topic	liscor	Merchants' knowledge of baking (Book 1, Ch1.23 L2-19).
@@ -1211,6 +1219,7 @@ antinium diet	topic	topic	antinium	Subject heading about Antinium food and glute
 antinium offer	topic	topic		Subject heading: raised construction-share offer to Pallass (Book 11, Ch6.31 L608)
 archmage mansion	place	keep		Archmage's decoy mansion with defences; owner not named in key (Book 18, Interlude_Carriages_and_Conversations L16-27)
 armsmaster dellic	person	keep		[Armsmaster of Steel] of Illivere's army; spars Nsiia (Book 19, Interlude_Experiments_in_Golems L506-519)
+awakened raskghar		keep		fold not applied (verifier reject): Ch5.42 L632-641: awakened Raskghar are a ritual-empowered subset set against 'lesser Raskghar'; folding conflates subgroup with species.
 band	org	keep		Earther band Greg, Thien, Rae, Nicolas with manager Abebi (Book 17, Ch7.21KQ L632-645)
 basement	place	keep		Hidden basement of Erin's inn where the Horns sleep (Book 4, Ch3.33 L182-195)
 bealt	person	keep		Gnoll [Farrier] in Pallass, one-scene character (Book 11, Ch6.31 L300)
@@ -1438,6 +1447,7 @@ navine	person	keep		Ilvriss sister, Wall Lady (Book 18, Ch7.33I).
 neriha	person	keep		Dies grappling Mars (Book 19, Ch7.47K L852).
 niers coded team list	topic	topic	niers astoragon	Heading for coded SPY KILL team list (Book 14, Interlude_Foliana).
 octavia stamina potion	item	keep		Stamina potion at 12 silver per vial (Book 11, Ch6.17S L431).
+oldblood		keep		fold not applied (verifier reject): Key is the Oldblood trait/company; target facts are mostly one arsonist Oldblood Drake individual (Book 12, Ch6.45E L818-840). Keep species and individual apart.
 oteslia secret	topic	topic	oteslia	Heading for Oteslia kept secret (Book 18 Interlude_Food_and_Growth L220).
 pallass archive	place	keep		Archive holding General Ironscales book (Book 7, Ch5.17S L495).
 pallass smiths	org	keep		Smiths who disdain Pelt (Book 15, Ch7.01 L403).
@@ -1584,6 +1594,7 @@ nerrhavia	org	keep		Nerrhavia's Fall, String-people army (Book 13, Ch6.52K L191)
 niers mysterious opponent	person	keep		Unidentified chess opponent (Book 8, Interlude_Niers L55-76); identity not shown there
 northern plains confederation	org	keep		League of city-states (Book 1, Interlude_1.00_R L26)
 octilla hemp	person	keep		Stitchwoman martial artist (Book 18, Interlude_Sand_and_Notes L187)
+oldblood drakes		keep		fold not applied (verifier reject): Plural group/trait (winged Oldbloods on walls) vs target's single Oldblood Drake arsonist (Book 7, Ch5.01 L435; Book 12, Ch6.46E).
 order members	topic	topic	order of seasons	Knights of the Order of Seasons (Book 14, Interlude_Talia L20-26)
 oteslia winged riders	org	keep		Oteslia cavalry (Book 9, Ch5.60 L6)
 pallass command	org	keep		Pallass leadership group (Book 15, Ch7.04 L527)
@@ -1600,6 +1611,7 @@ reinhart gates	place	keep		Stone gates open with gem (Book 5, Ch4.26M L50)
 remaining targets	topic	topic		Zelkyr cargo ship target (Book 17, Interlude_Strategists_at_Sea_Pt._1 L425)
 rhir artifacts	topic	topic	rhir	Three named Rhir artifacts (Book 6, Ch1.04C L87)
 rings	topic	topic		Generic ring types (Book 4, Ch3.36 L417)
+rose, joseph, galina, troy and imani		keep		split not applied (verifier reject): 6.68 L691-696,L730 group on stipend fits all five, but fact embeds Joseph/Rose levels (L692-694,L722); split group vs individual.
 ryoka pouch	item	keep		Ryoka's bag of holding (Book 2, Ch2.39 L389)
 sailt	person	keep		Saltstone Gnoll survivor (Book 15, Ch7.10K L975)
 screamer dust	item	keep		Dust flushing students (Book 11, Ch6.22D L924)
@@ -1715,6 +1727,7 @@ mages	topic	topic		Spell casting concept (Book 2, Ch2.18 L214).
 magical paired books	item	keep		Stands alone; one-scene or distinct entity, see sample fact and cite.
 magnolia kitchen	place	keep		Stands alone; one-scene or distinct entity, see sample fact and cite.
 manimar	place	keep		Stands alone; one-scene or distinct entity, see sample fact and cite.
+maughin, pelt, emessa and the forge smiths		keep		split not applied (verifier reject): Cited lines L608-642 involve Maughin and Pelt only; Emessa appears only at L655 and is not part of the fact.
 merchant guild	org	keep		Stands alone; one-scene or distinct entity, see sample fact and cite.
 mica	person	keep		Stands alone; one-scene or distinct entity, see sample fact and cite.
 mister soot	person	keep		Soot/Mister Soot, Liscor Drake gang mastermind (Book 15, Ch7.07 L1106); mr. soot should fold here.
@@ -1796,6 +1809,7 @@ cake	topic	topic	erin solstice	Erin bakes cake (Book 6, Ch4.43 L468-475); food h
 calruz axe	item	keep		Calruz's artifact axe with jade edge (Book 9, Ch5.49 L17-21).
 captain xenic	person	keep		Naga merchant captain of The Gold of Paxil (Book 17, Interlude_Strategists_at_Sea_Pt._2 L246).
 cecille reinhart	person	keep		Magnolia's aunt, mother of Wernel (Book 5, Ch4.26M L59-68).
+celum gate		keep		fold not applied (verifier uncertain): Gate is a part of Celum, not the city itself; facts are accurate for Celum but referents differ (Book 2, Ch2.37 L85-136).
 ceria great-grandmother	person	keep		Ceria's relative who speaks of Elves and Dragons (Book 3, Ch3.07H L35-46).
 chapter	topic	topic	wandering inn	Lightning strikes the inn during the strike (Book 2, Ch2.07 L118); not an entity.
 chocolate	item	keep		Chocolate supply from the inn's tree (Book 18, Interlude_Food_and_Growth L105-118).
@@ -1990,6 +2004,7 @@ house veltras	org	keep		Noble house appealing to Five Families (7.54 L35).
 hurricane fists	org	keep		Cult's Stitch-Folk martial artists (Interlude_Dancing_and_Brawling L285).
 illphres group	org	keep		Jurix, Bastam, Ophelia, Qum group plotting against Cognita (Wistram_Days_Pt.6 L253).
 infested	species	keep		Infested Drakes guarding city (5.42 L433).
+insill and team		keep		fold not applied (verifier reject): Ch4.08T L426 'prodigy' question is Pekona asking Toren; the masked solo swordswoman rumour (L470-474) is Toren, not Insill.
 italians lorenzo, diana and nicoletta	other	keep		Group of Italian Earthers; Lorenzo and Nicoletta lack entities, so no split (6.05D L514-559).
 jeighya	person	keep		Celestial Trackers Scout (4.22E L103).
 khelt army	org	keep		Undead army of Khelt (6.53K L442).
@@ -2048,6 +2063,7 @@ settlement	topic	topic		Territorial settlement after war (6.54K L231).
 shassa weaverweb	person	keep		Drake Spiderweb Druid of Oteslia (Meeting_of_Druids L454).
 sidel	person	keep		Exposed Wistram spy (7.24 L117).
 silver spears	org	keep		Adventurer team named in list (1.00H L206).
+sir relz hauscale and watch captain venim		keep		split not applied (verifier reject): Only Sir Relz escorts Selys to the inn; Venim leaves to lecture Erin (Book 16, Ch7.17S L587-596).
 skills	topic	topic		General Skills mechanics (1.27 L53; 2.17 L160).
 soldiers and townsfolk	topic	topic		Reaction to Tom (1.01C L197).
 spellbooks	item	keep		Spellbook properties (2.34 L245; 2.39 L265).

@@ -1,0 +1,44 @@
+type	key	target	verdict	note
+FOLD	ser slayer	rabbiteater	ok	Interlude_Talia L509 "Ser Slayer" addresses the Goblin Slayer, named Rabbiteater at L886-891.
+FOLD	magic door	door	ok	Door facts (Ch4.12 L459, Ch5.00) are Erin's magic door; note target also holds the ordinary inn door of 1.08.
+FOLD	erin inn	wandering inn	ok	Erin's inn painted "The Wandering Inn" (Ch1.20 L204-217); alias facts are the same inn.
+FOLD	antinium queen (free antinium)	queen of the free antinium	ok	Ch4.24 L173-175 Queen of the Free Antinium; same single queen as Ch1.24-1.26 Antinium Queen.
+FOLD	pryde	pryde ulta	ok	Same Lady Pryde: [Pride is Unbreakable] in 7.18M and 7.23LM; Pryde Ulta of House Ulta (Interlude_Sand_and_Notes).
+FOLD	captain earlia (gemhammer)	earlia	ok	Ch7.43G L17 "Captain Earlia of Gemhammer"; Ch5.27 L303 Earlia with sledgehammer; same captain.
+FOLD	gold-rank team	gold-rank teams	ok	Both generic rank-class mentions (Ch1.11R L23 Gold-rank team); singular/plural of same category, no named team.
+FOLD	madain (mad madain)	madain	ok	Ch6.25 L34 "Mad Madain, adventurer-turned-innkeeper"; Ch6.00 L22-25 Mad Madain's inn Huntress' Haven.
+FOLD	takhatres, lord of the skies	takhatres	ok	Ch2.00K L76 "Takhatres, Lord of the Skies", bird-like form; same Garuda.
+FOLD	ensoldier shields	walt team ensoldier shields	ok	Ch6.64 L212 "the Ensoldier Shields! Walt and his team"; L633 Walt's team.
+FOLD	goblin warbands	goblin warband	ok	Generic warband term, singular/plural; Ch3.26G L50 defines warband; no named referent.
+FOLD	lord gralton of lycit	gralton	ok	Ch5.30G L12 "Lord Gralton... Dog Lord"; Ch6.60 L357 Gralton Radivaek the Dog Lord.
+FOLD	demon soldier	demons	reject	Ch1.01C L170-174 one dying Demon soldier; "demons" is the whole people (raiders, assassins, army separate keys); soldier is a subgroup.
+FOLD	lord tyron	tyrion veltras	ok	Ch2.41 and S02_Pt.1 L40 "Lord Tyron Veltras"; Interlude_B02_1 L116 Lord Tyron's army; early spelling of Tyrion.
+FOLD	aaron vanwell (blackmage)	aaron vanwell	ok	Ch6.60 L160 "Aaron Vanwell, known to some as Blackmage"; Ch7.10K L95 same.
+FOLD	lady welca caveis	welca caveis	ok	Ch5.48G L162 "Lady Welca Caveis" assigned to Pellmia; Ch5.19G L186 Welca Caveis, Rose Knight; same person.
+FOLD	adventurer teams	adventurers	ok	Generic class mentions; Interlude_Krshia teams delay departure are adventurers. No named referent, plural/singular of one category.
+FOLD	dragonspeaker luciva	luciva skybreath	ok	Ch7.03 L82 "Dragonspeaker Luciva Skybreath", L92 "Dragonspeaker Luciva"; Ch6.33E L33-39 Dragonspeaker Luciva of Manus.
+FOLD	healer	healers	ok	Ch1.04R L221 "[Healers] just use herbs..." is the generic class; singular/plural of the same class entity.
+FOLD	lord bein	lord bein terland	ok	Ch7.18M L115 "Lady Dealia and Lord Bein"; Ch7.15R L17 "Lord Bein Terland" fled Hetessana's room.
+FOLD	warmage thresk of albez	thresk	ok	Interlude_Meetings Druids L850 "Warmage Thresk of Albez" door trap; Ch3.07H L421 Warmage Thresk's sanctuary, quarters looted.
+FOLD	healer demerra	demerra	ok	Ch7.17S L173 "Healer Demerra", Gnoll with clinic; Ch7.32D L88 "Healer Demerra" Gnoll with crystals; same.
+FOLD	wordsmith	krsysl wordsmith	ok	S02 Pt.4 L73 author's text calls Niers a coward; Pt.4 L2 narrator is "Krsysl Wordsmith"; "Wordsmith" used for him L159.
+FOLD	ferris thycarl	ferris seftpaw	ok	Queens_and_Dragons L146 "Ferris Thycarl", Manus Gnoll tasked with Rafaema; Meetings_and_Friendships L108-111 Ferris Seftpaw, Manus agent, cover identity.
+FOLD	mexy	mexisa (mexy)	ok	Ch7.22D L45 "Call me Mexy" (Mexisa the Medusa); L77 Mexy sells the journal, Wistram envoys.
+FOLD	salkis	lady salkis	ok	Ch7.50 L1406-1408 "Lady Salkis of Pallass", then "Salkis"; Ch7.03 L1001 Lady Salkis highborn Drake. Distinct from Wesle Salkis.
+FOLD	xrn (the small queen)	xrn, the small queen	ok	Ch5.60 L387 "Xrn, the Small Queen" leading Prognugators; same as Xrn in Queens_and_Dragons and Ch3.42 L344.
+FOLD	celum city watch	celum watch	ok	Ch6.18H L834 "Celum's City Watch" arrests adventurers; matches Celum Watch facts. Same body.
+FOLD	nerrhavia fallen	nerrhavia	ok	Ch7.47K L1206 "Nerrhavia's Fallen has just declared war"; Ch6.52K L121 country Nerrhavia's Fallen; same nation.
+FOLD	teres atwood	teres	ok	Ch7.21KQ L28 Teres named mare Frecklehooves; Ch7.10K Teresa Atwood; Teres facts include Teresa Atwood.
+FOLD	election results	liscor election	ok	Ch6.49 L138-140 announces the Council members after the Liscor vote; Interlude_Rufelt covers the same election.
+FOLD	illivere federation	illivere	ok	Interlude_Experiments_in_Golems L199 "The Illivere Federation"; Ch6.52K L177,L191 Femithain of Illivere and the Illivere Federation; same polity.
+FOLD	spellbook	spellbooks	ok	Generic item class; Ch5.06M spellbook spell-injection and Ch2.39 spellbooks describe the same thing; singular/plural.
+FOLD	dame talia	talia kallinad	ok	Ch6.45E L93 "Dame Talia", Summer Knight leading survivors; Ch6.42E L422 "Lady-Dame Talia Kallinad... Dame Talia".
+FOLD	queens	antinium queens	ok	Interlude_Queens_and_Dragons L57 "The Queens are not susceptible to wheat" refers to Antinium Queens; same group.
+FOLD	xenic	captain xenic	ok	Strategists_at_Sea_Pt._2 L271 "Captain Xenic"; L302-319 captain of The Gold of Paxil killed by pirates; same Naga.
+FOLD	hetarria	mage-captain hetarria	ok	Ch7.34C L1127 Hetarria, Rhir [Captain]; L1173 "Mage-Captain Hetarria"; Ch7.35C L75 same necromancer leading Bone-Drake.
+FOLD	rock-crab	rock crabs (hollowstone deceivers)	ok	Ch1.23 L107 "Hollowstone Deceivers"; Ch4.36O L26 "Hollowstone Deceivers - the Rock Crabs as Erin termed them"; Ch1.02 L67 crab.
+SPLIT	council	wistram council|liscor council	reject	Facts mix Wistram leaders (Wistram_Days_Pt.2 L342, Pt.5 L516) and Liscor Council (Ch6.31, 6.59); copying all to both corrupts each. Needs per-fact assignment.
+SPLIT	headscratcher, numbtongue and others	headscratcher|numbtongue	ok	Ch5.58 L781-782 names Headscratcher, Shorthilt, Badarrow, Numbtongue, Rabbiteater taking Redfang leadership; fact concerns both targets.
+SPLIT	earthers (joseph, kevin, rose, galina, troy, leon, imani)	joseph|kevin|rose|galina|troy|leon|imani	ok	Ch7.26 L77,L96 "the seven" Joseph, Kevin, Galina, Rose, Leon, Imani (Troy L90); seven staying applies to all; Joseph drink clause is named.
+SPLIT	rags and three goblins	nameless child|goblins	ok	Ch1.25 L165-168 Rags and three Goblins strike the enemy Goblins; key nameless child is Rags (entities display Rags); both targets involved.
+SPLIT	lady magnolia reinhart (young), lord tyron veltras and general sserys	magnolia reinhart|tyrion veltras|sserys	ok	S02_Pt.1 L40 lists Lady Magnolia, Lord Tyron Veltras and General Sserys as the few who knew of the Antinium; each clause named.

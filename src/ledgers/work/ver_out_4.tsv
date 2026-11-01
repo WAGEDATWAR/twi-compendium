@@ -1,0 +1,45 @@
+type	key	target	verdict	note
+FOLD	draugr	draug	ok	Same undead type; text spells both Draugr and Draug (Book 5, Ch4.16 L336-337).
+FOLD	faerie	fae	ok	Ch2.23 faeries and Ch5.11E fae are the same fey folk; fae bite, cold iron (Ch5.11E L471,L513).
+FOLD	aaron	aaron vanwell	ok	Ch7.29B: Aaron Vanwell, known as Blackmage, same person as Ch7.10K Blackmage (7.29B L23; 7.10K L95).
+FOLD	lord pellmia	pellmia	ok	Lord Pellmia, Skills to revitalize, leads cavalry; plain Pellmia same man (Book 9, Ch5.47G).
+FOLD	jecrass princess / queen	jecaina	ok	Jecaina is Jecrass [Princess]; "her [Queen]" refers to her future role (Book 19, Ch7.46K; Ch7.47K).
+FOLD	antinium hives	antinium hive	ok	Plural of generic Antinium Hive entity, which already holds several hives; Silent Hive fact (Book 5, Ch4.07 L59).
+FOLD	face collector	head-collector	ok	Erin dubbed the monster Face Collector; Selys suggests Head Collector (Book 7, Ch5.16S L104,L298).
+FOLD	lady gresaria wellfar	gresaria	ok	Lady Gresaria of House Wellfar is the First Landing Harbormistress; same as Gresaria (Book 18, Interlude Meetings).
+FOLD	reiss' lieutenants	reiss lieutenants	ok	Same group, apostrophe variant; Snapjaw and Eater of Spears are Reiss' remaining lieutenants (Book 9, Ch5.62 L156).
+FOLD	antinium listener	antinium listeners	ok	Singular of Antinium Listeners; same rare hearing subtype (Book 11, Ch6.29 L10).
+FOLD	gershal of vaunt	gershal	ok	Lieutenant Gershal of Vaunt in both Ch4.47 L2 and Ch4.48 L112.
+FOLD	ilvriss ring	ilvriss' ring	ok	Gold ring Ilvriss gave Erin (6.50I L189) is the Wall Lord ring he gave a Human (Book 18, Ch7.33I L592).
+FOLD	tier magic	magic tiers	ok	Same spell tier system; both facts describe tiers (Book 1, Ch1.05R L186; Book 2, Ch2.18).
+FOLD	laken skill blessing of the hearth	blessing of the hearth	ok	Same Laken Skill; sleeping/rest effects (Book 12, Ch6.40E L198; Book 3, Ch3.12E L395).
+FOLD	sostrom reidez	sostrom	ok	Sostrom Reidez introduces himself; same bald Horns mage repairing iPhone (Book 1, Ch1.07R L278-282).
+FOLD	floodplains of liscor	liscor floodplains	ok	Word-order variant of Liscor floodplains; both describe spring flooding (Book 7, Ch5.04 L2).
+FOLD	seborn sailwinds	seborn	ok	Seborn Sailwinds is the Gold-rank former Pirate Rogue Seborn of the Halfseekers (Book 17, Interlude Strategists at Sea Pt.2 L376).
+FOLD	captain of the liscorian watch	zevara	ok	Ch1.26 L88 Captain of the Liscorian watch; Ch1.42 L64 names Captain of the Watch as Zevara.
+FOLD	goblin	goblins	ok	Generic singular noun for an unnamed Goblin; species-level fold is harmless (Book 1, Ch1.23 L42-44).
+FOLD	lady ieka imarris	ieka imarris	ok	Lady Ieka Imarris, Circle of Thorns Mage Lady; honorific variant (Book 17, Ch7.28).
+FOLD	tom (mirror reflection)	alternate tom	ok	Mirror Tom is Tom's other self, speaks through his head; same Tom (Book 6, Ch1.05C L67-76).
+FOLD	fierre the vampire	fierre	ok	Fierre is the inn vampire who works as opener and broker (Book 10, Ch6.00 L112; Book 13, Ch6.51A).
+FOLD	rael	lord rael	ok	Lord Rael of Veniford is the one bitten by the fae woman (Book 7, Ch5.11E L3,L471).
+FOLD	dungeon beneath liscor	liscor dungeon	ok	Same dungeon under Liscor; Hive and adventurers entering it (Book 2, Ch2.36; Book 3, Ch3.05L).
+FOLD	lady magnolia carriage	magnolia reinhart carriage	ok	Same carriage, later painted eye-searing pink over gold-ornamented body (Book 6, Ch4.38B L96; Book 2, Ch2.27 L521).
+FOLD	queen of pop / singer of terandria	cara o'sullivan	ok	Queen of Pop, world first [Popstar], is Cara O'Sullivan (Book 17, Ch7.21KQ L545,L648).
+FOLD	teres (teresa)	teres	ok	Teresa prefers Teres; Trey's twin sister (Book 5, Ch4.00K L95).
+FOLD	az'kerash chosen	chosen	ok	Az'kerash's Chosen are the five champion undead; later gain levelling (Book 6, Ch4.49 L200; Book 18, Interlude Meetings).
+FOLD	lasica feltail	lasica	ok	Lasica Feltail introduced as Rufelt's wife, the Chef of Tails and Scales (Book 10, Ch6.09 L468; Ch7.11 L14).
+FOLD	second war	second antinium war	ok	Second War facts concern the Second Antinium War variants (Book 6, S02 Pt.3 L149).
+FOLD	celum gate	celum	uncertain	Gate is a part of Celum, not the city itself; facts are accurate for Celum but referents differ (Book 2, Ch2.37 L85-136).
+FOLD	goblin stronghold	tremborag city	ok	Rags reaches the lone mountain (3.26G L16-18); 3.28G says the mountain is Tremborag's hollowed city (L7).
+FOLD	rags lieutenants	rags' lieutenants	ok	Rags' lieutenants Poisonbite, Noears, Redscar are the same group (Book 6, Ch4.39G; Book 9, Ch5.47G L57).
+FOLD	witch eloise	eloise	ok	Witch Eloise on Laken's council (7.55E L18-19) is the tea trader Eloise of Riverfarm (6.37E L313).
+FOLD	nali-stick	nali-sticks	ok	Same Baleros sugarcane snack; text uses singular and plural (Book 10, Ch6.05D).
+FOLD	united nations	united nations company	ok	Niers reads The United Nations as a company name (1.06D L494); 6.04D calls it the United Nations company (L51).
+FOLD	general sserys of liscor	sserys	ok	General Sserys of Liscor, diary keeper in Antinium Wars (Book 2, S02 Pt.1 L43-45).
+FOLD	lord tyrion veltras	tyrion veltras	ok	Lord Tyrion Veltras; same title and name form, honorific only (Book 6, Ch4.47; Book 5, Ch4.06KM).
+FOLD	zekyria	lady zekyria	ok	Lady Zekyria wears pink/red, mourns miscarriages in 1.04C L67-69 and 1.05C L75-87; same person.
+SPLIT	yerranola and cameral	yerranola|cameral	ok	Both in the staged 6.23D scene: Yerranola drives the ram wagon, Cameral's head is caught (Book 11, Ch6.23D L781-859).
+SPLIT	gemhammer and the pride of kelia	gemhammer|pride of kelia	ok	Ceria: "Gemhammer and The Pride of Kelia" both claimed two dozen Raskghar (Book 8, Ch5.35H L28-33).
+SPLIT	selys friends and drassi	selys shivertail|drassi	ok	Drassi is among Selys' gossip friends in the scene (Book 7, Ch5.18S L510-516).
+SPLIT	rose, joseph, kevin, imani and other earthers	rose|joseph|kevin|imani	ok	Rose, Kevin, Joseph and Imani all named in the begging scene (Book 17, Ch7.20 L1126-1160).
+SPLIT	brothers of serendipitous meetings and sisters of chell	brotherhood of serendipitous meetings|sisters of chell	ok	Both thieves' guilds appear together stealing the door (Book 9, Ch5.54 L889-934).

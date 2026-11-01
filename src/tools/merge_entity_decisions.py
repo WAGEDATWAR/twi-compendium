@@ -103,11 +103,14 @@ for p in sorted(glob.glob(os.path.join(W, "dec_*.tsv"))):
         else:
             rej.append((src, "unknown decision", k, d, tg))
 
-write(ov_path, ["alias", "canonical", "note"], [(r["alias"], r["canonical"], r["note"]) for r in ov] + [(a, c, n) for a, c, n in folds])
+# older alias pairs rejected or doubted by the independent verifier become never-merge rows (empty canonical)
+arej = [(k[1], "", f"{TAG}: alias rejected by verifier ({v[0]}): {v[1]}") for k, v in sorted(ver.items()) if k[0] == "ALIAS" and v[0] in ("reject", "uncertain")]
+write(ov_path, ["alias", "canonical", "note"], [(r["alias"], r["canonical"], r["note"]) for r in ov] + [(a, c, n) for a, c, n in folds] + arej)
 write(os.path.join(LED, "entity_splits.tsv"), ["key", "targets", "note"], splits)
 write(os.path.join(LED, "entity_meta.tsv"), ["key", "etype", "decision", "home", "note"], meta)
 write(os.path.join(LED, "fact_entity_overrides.tsv"), ["sid", "key", "display"], fov)
 write(os.path.join(LED, "gap_decision_overrides.tsv"), ["term", "kind", "target", "etype", "note"], gov)
 write(os.path.join(W, "dec_rejected.tsv"), ["file", "reason", "key", "decision", "target"], rej)
 c = collections.Counter(decisions.values())
+print(f"alias rows rejected by verifier: {len(arej)}")
 print(f"decisions {len(decisions)} {dict(c)}; folds {len(folds)} splits {len(splits)} meta {len(meta)} homonym facts {len(fov)} gap overrides {len(gov)}; rejected {len(rej)}")

@@ -1,0 +1,45 @@
+type	key	target	verdict	note
+FOLD	elf	elves	ok	Species singular/plural; same race (Book 7 Ch5.08 L83).
+FOLD	healing potions	healing potion	ok	Plural/singular of the same item; facts consistent (Ch1.17 L29).
+FOLD	blood fields	bloodfields	ok	Same red biome south of Liscor, spelling variant (Ch1.23 L98).
+FOLD	venitra, disguised	venitra	ok	Ch4.28 L5,L189: Venitra pretends to be Regrika Blackpaw; Ch4.30 L194 master sent her.
+FOLD	lady rie valerund	rie valerund	ok	Lady Rie of Riverfarm, same noblewoman (Ch5.09E L141 'Lady Rie'; Ch7.18M L901).
+FOLD	armor captain shailt	shailt of tergim	ok	Same Minotaur Armor Captain Shailt, jaw broken by Venaz in duel (Ch6.23D/6.24D).
+FOLD	fierre (serafierre val lischelle-drakle)	fierre	ok	Fierre's full name; same vampire opener (Ch7.24 L895).
+FOLD	leveling lore	levelling	ok	Levelling concept; key facts are the level-distribution lore, same topic (Ch2.34 L399).
+FOLD	riefel	emir riefel	ok	Ch5.02 L109-126: fake Emir Riefel is Riefel; same Stitch-Man assassin.
+FOLD	barracks wall	barracks mural	ok	Same mural of the dead painted on barracks wall (Ch4.13L L451, Ch4.40L L76).
+FOLD	goblin chieftains	goblin chieftain	ok	Plural of the Chieftain title/type; generic entry, not a single named person.
+FOLD	karsaeu-dequoa (karsy)	karsaeu-dequoa	ok	Ch7.44 L354: 'Djinni, Karsaeu-Dequoa, or Karsy'; same driver.
+FOLD	apista (ashfire bee)	apista	ok	Apista the Ashfire Bee pet; label variant (Ch4.41L L236, Ch4.24 L30).
+FOLD	liscorian army	liscor army	ok	Liscorian army is Liscor's army; same force (Ch1.23 L162; Ch5.13 L724).
+FOLD	stitchfolk	stitch-folk	ok	String People/Stitch-folk same cloth race (Ch5.02 L189; Ch2.12 L111).
+FOLD	goldstone chieftain	pyrite	ok	Ch7.55E L474-478: 'Goldstone Chieftain dead' with Pyrite named; Pyrite led Goldstone tribe.
+FOLD	serafierre val lischelle-drakle (fierre)	fierre	ok	Serafierre is Fierre's full name; vampire girl (Ch7.41 L28).
+FOLD	cirediel anvi'dualln olic (cire)	cire	ok	Cire's full name per Interlude_Food_and_Growth L231; same Drake ward of Shaerrha.
+FOLD	guards	liscor guards	ok	Generic Liscor guardspeople gossiping about Erin (Ch4.42L L177); same group as Liscor guards.
+FOLD	lady wuvren	wuvren	ok	Lady Wuvren is Wuvren the Eternal Beauty (Ch6.27M L618; Ch7.20 L1311).
+FOLD	ulseil	ulseil greenscale	ok	Ch5.35H L547: Council Member Ulseil, head of Merchant's Guild; same as Ulseil Greenscale.
+FOLD	goblin lieutenants (former chieftains)	goblin lord lieutenants	ok	Same Hob lieutenants Snapjaw, Eater of Spears (Ch4.48 L262 and Ch4.46).
+FOLD	raim	ser raim	ok	Ser Raim the Summer Knight, same fight vs Belavierr (Ch6.44E L714).
+FOLD	exam	wistram exam	ok	Wistram entrance exam in both key and target (Wistram_Days_Pt.1 L397).
+FOLD	listeners	antinium listeners	ok	Ch2.15 L34: 'The Listeners to the south' are Antinium scouts; same breed (Ch2.34 L268).
+FOLD	rock crabs ('hollowstone deceivers')	rock crabs (hollowstone deceivers)	ok	Same crab species, spelling variant of label (Ch7.23LM L933).
+FOLD	trolls	troll	ok	Species plural/singular; key facts generic Troll nature (Ch3.01E L287).
+FOLD	blighted king othius iv	othius iv	ok	Ch7.34C L73: 'King Othius IV, known as the Blighted King'.
+FOLD	lyonette du marquis	lyonette	ok	Lyonette, princess hiding in inn; full name variant (Ch3.05L L81).
+FOLD	serpents	giant snakes	ok	Ch6.20D L6-9: same dungeon snakes released near Talenqual, 'giant serpents' (Ch6.06D L873).
+FOLD	city watch	liscor watch	ok	Ch1.10 L240 Relc describes the city watch of his own city Liscor; same body as Liscor Watch.
+FOLD	griffon hunt (halrac, typhenous, revi, briganda, rejoined)	griffin hunt (pun on griffons that hunt griffins)	ok	Griffon Hunt team Halrac, Typhenous, Revi (Ch2.01T L177; Ch7.20 L598); spelling/pun variant.
+FOLD	richard davenport	richard	ok	Ch1.02C L10 cowboy Knight Richard; Ch1.00C L19 Mississippi Knight leader Richard.
+FOLD	antinium hive in liscor	antinium hive	ok	Liscor's Antinium Hive, same Hive (Ch2.31 L471; Ch1.44 L150).
+FOLD	palt team	wistram team	ok	Palt's team of Isceil, Beza, Montressa, Ulinde, Palt (Ch6.64 L392; Ch6.58 L544).
+FOLD	wesle salkie	wesle salkis	ok	Wesle Salkie/Salkis same former Celum guardsman Method Actor (Ch7.50 L632; Ch5.04 L84).
+FOLD	gnoll	gnolls	ok	Species plural/singular; generic Gnoll references (Ch1.13 L47).
+FOLD	magnolia reinhart carriage	magnolia carriage	ok	Magnolia's ghostly-horse carriage, same vehicle (Ch4.38B L96; Ch3.10 L244).
+SPLIT	king	flos|blighted king othius iv	reject	Facts mixed: King_Edition facts are Flos; only Ch1.00C L308 (King summoning Heroes) is the Blighted King; copying all to both is wrong.
+SPLIT	flooded waters + cave goblins + redfangs	flooded waters remnant|cave goblins|redfangs	ok	Ch5.61 L785: Flooded Waters, Redfang and Cave Goblins named as parts of the charging alliance.
+SPLIT	niers and foliana at dinner	niers astoragon|foliana	ok	Ch Interlude_Foliana L722-725: Niers asks Foliana about her future; both involved.
+SPLIT	alman sanito and lord ranga	lord alman|lord ranga	ok	Ch7.30 L1176-1186: Lord Alman Sanito and Lord Ranga ride together to demand audience; fact concerns both.
+SPLIT	xrn escort	tersk|pivr	ok	Antinium_Wars_Pt.3 L122: Tersk, Pivr, Prognugator-Guardians form Xrn's escort; both listen to the book.
+SPLIT	gerial/sostrom/ceria	gerial|sostrom|ceria springwalker	ok	Ch1.40 L298-304: Ceria, Gerial and Sostrom run from the Watch together.

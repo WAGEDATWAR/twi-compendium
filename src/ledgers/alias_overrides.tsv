@@ -146,6 +146,9 @@ golem		species word: never fold into one individual (2.2 coverage review)
 golems		species word: never fold into one individual (2.2 coverage review)
 gorgon		species word: never fold into one individual (2.2 coverage review)
 gorgons		species word: never fold into one individual (2.2 coverage review)
+seborn		Seborn Sailwinds is an individual (Halfseekers [Rogue]); must not fold into the Drowned species (followup to verifier note)
+seborn sailwinds	seborn	same individual as Seborn (followup)
+odveig	sacra	Odveig and Sacra are the same person (Book 4, Ch4.22E L375, per verifier)
 inn	wandering inn	2.2 review: Facts about "the inn"/"Inn" describe the Wandering Inn building (Book 1, Ch1.00 L5-6; Book 12 Interlude_Two_Rats L33).
 queen of the free antinium	free queen	2.2 review: Antinium Queen of Liscor's Free Antinium hive is the Free Queen (Book 2, Ch2.20; Book 8, Ch5.33B L2).
 naq-alrama	naq-alrama steel	2.2 review: Naq-Alrama names the pure steel and blades Nawalishifra's clan forges, not a separate thing (Book 7, Ch Interlude_Flos L310, L369; Book 10, Ch6.13K L98).
@@ -202,9 +205,7 @@ face collector	head-collector	2.2 review: Erin's name for the head-collector (Bo
 fierre (serafierre val lischelle-drakle)	fierre	2.2 review: Vampire Fierre, full name (Book 17, Ch7.24 L895)
 garia farm	strongheart farm	2.2 review: Farm near Celum of Garia Strongheart, same chapter Ch4.17 (L14,L171)
 gold-rank team	gold-rank teams	2.2 review: Singular of gold-rank teams
-great queen	grand queen of the antinium	2.2 review: Great Queen rival of Free Antinium, sends armies on Liscor (Book 2, ChS02 L106; Ch2.20 L232)
 heic	general heic	2.2 review: Same man in Ch6.54K supporting Illivere
-hives	antinium hive	2.2 review: Antinium hives Armored, Flying, Silent (Book 3, Ch3.23L L397)
 knights of the petal	rose knights	2.2 review: Rose Knights are the Knights of the Petal (Book 6, Ch4.48 L189)
 lady gresaria wellfar	gresaria	2.2 review: Same Harbormistress in the Interlude, rival of Maviola (Book 18, Interlude_Meetings L328)
 leveling lore	levelling	2.2 review: Level distribution lore (Book 2, Ch2.34 L399)
@@ -249,7 +250,6 @@ stone spears tribe	stone spears	2.2 review: Same Gnoll tribe: Hekra of Stone Spe
 tier magic	magic tiers	2.2 review: Same tier system (Book 1, Ch1.05R L186).
 apista (ashfire bee)	apista	2.2 review: Same Apista; parenthetical species label (Book 5, Ch4.41L).
 beza (bezale)	beza	2.2 review: Minotauress Spellscribe who left Minos for Wistram (Book 16, Interlude_Burning_Alcohol L370) matches Beza scroll-seller.
-demon soldier	demons	2.2 review: Demon soldiers are individuals of the Demons (Book 2, Ch1.01C L173); species-level.
 fortress beaver colony	fortress beaver	2.2 review: Colony of Fortress Beavers (Book 7, Ch5.07 L167-170); same creature.
 general thelican	thelican	2.2 review: Nerrhavian General Thelican (Book 13, Ch6.53K) is the same man as thelican entry.
 halfseekers (earlier roster)	halfseekers	2.2 review: Same adventuring team, earlier roster (Book 9, Ch5.57 L270-292).
@@ -259,7 +259,6 @@ liscorian army	liscor army	2.2 review: Liscorian army is Liscor's army: 2,000 Dr
 lord erill (house fienst)	lord erill	2.2 review: Merchant-lord Erill newly noble, same man as lord erill (Book 8, Ch5.30G; Book 9, Ch5.52 L334).
 lord tyron	tyrion veltras	2.2 review: Lord Tyron Veltras listed beside Magnolia and Sserys (Book 2) is Tyrion Veltras, early spelling.
 mr. soot	mister soot	2.2 review: Same Soot, killed by Raskghar (Book 17, Interlude_The_Gecko_of_Illusions L1113).
-pomle oasis	pomle	2.2 review: Pomle's oasis improvements by Salii (Book 18, Interlude_Sand_and_Notes L128-163); same place.
 reim army at jecrass border	reim army	2.2 review: Reim's army, 60,000 at the Jecrass border (Book 15, Ch7.08K L385); same army.
 seven earthers	earthers	2.2 review: Seven Earthers named group is the Earthers (Book 17, Ch7.23LM L189-244).
 sostrom reidez	sostrom	2.2 review: Horns mage Sostrom casting Repair on Ryoka's iPhone (Book 1, Ch1.07R L269-282).
@@ -274,7 +273,6 @@ floodplains of liscor	liscor floodplains	2.2 review: Same place, word order vari
 goldstone chieftain	pyrite	2.2 review: Pyrite is the Goldstone Chieftain; text: 'Goldstone Chieftain dead' (Book 19, Ch7.55E L474-478).
 lady ieka	ieka imarris	2.2 review: Lady Ieka is Ieka Imarris, Wistram-trained noble (Book 8, Ch5.30G L27,L57; Book 17 Ch7.24).
 lady welca caveis	welca caveis	2.2 review: Titled form of Welca Caveis (Book 9, Ch5.48G L162).
-lancrel folk	lancrel	2.2 review: People of Lancrel town (Book 12, Ch6.36E L233; Ch6.40E L9).
 lord gralton radivaek	gralton radivaek	2.2 review: Titled form of Gralton Radivaek, Dog Lord (Book 14, Ch6.60 L357-391).
 montressa (mons)	montressa du valeross	2.2 review: Mons is Montressa's nickname (Book 4, Wistram_Days_Pt.6 L51-90).
 pielt	captain pielt	2.2 review: Captain Pielt of Embria's officer table (Book 11, Interlude_Embria L85-111).
@@ -283,7 +281,6 @@ serafierre val lischelle-drakle (fierre)	fierre	2.2 review: Serafierre is Fierre
 tom (alternate personality)	alternate tom	2.2 review: Same alternate personality of Tom (Book 6, Ch1.05C L93-156).
 adventurer teams	adventurers	2.2 review: Generic plural for adventurer teams delaying departure (Book 9, Interlude_Krshia L695-699)
 american group	america group	2.2 review: Americans summoned to Karaz, Blighted Continent; same group as Tom/Keith/Cynthia (Book 2, Interlude_The_Call L63)
-awakened raskghar	raskghar	2.2 review: Raskghar who did the ritual; same species (Book 8, Ch5.42 L632-641; Ch5.43 L161-165)
 byres family	house byres	2.2 review: Byres armour specialty belongs to the noble House Byres (Book 2, Ch2.00H L44)
 califor weishart	witch califor	2.2 review: Califor the Witch with quarterstaff and Nanette; Ryoka scene (Book 12, Ch6.46E L501-582)
 captain of the liscorian watch	zevara	2.2 review: Female Drake Watch Captain blames Erin for Klbkch; Zevara has light-blue scales (Book 1, Ch1.26 L84-102; Book 11, Ch6.29 L80)
@@ -324,7 +321,6 @@ goblins at the inn	goblins at erin inn	2.2 review: Same group: Goblins at Erin i
 healer demerra	demerra	2.2 review: Same Gnoll Healer Demerra (Book 16, Ch7.17S L162).
 ijvani as imenet	ijvani	2.2 review: Ijvani teleports Zel and Ilvriss (Book 5, Ch4.29 L574); Imenet alias.
 magical door	magic door	2.2 review: Door linking Octavia shop to the inn (Book 10, Ch6.02 L49) matches Magic door (Book 4, Ch3.30).
-oldblood	oldblood drake	2.2 review: Oldblood trait of Drakes; Oldblood Drake entity covers it (Book 5, Ch4.16 L63).
 order	order of seasons	2.2 review: Order offering 400 gold bounty for Belavierr near Filk is the Order of Seasons (Book 12, Ch6.42E L673-675).
 rael	lord rael	2.2 review: Rael Veniford bitten by fae with Oswalt (Book 7, Ch5.11E L471).
 raim	ser raim	2.2 review: Ser Raim ages in the Belavierr fight (Book 12, Ch6.44E L714).
@@ -348,7 +344,6 @@ lord belchaus meron	lord belchaus meron (lord bel, the lord of the dance)	2.2 re
 mexy	mexisa (mexy)	2.2 review: Nickname form of same seller (Book 17, Ch7.22D L77)
 mister helm	helm	2.2 review: [Blacksmith] of Windrest, same as Helm (Book 8, Ch5.21E L91; Book 5, Ch4.20E L375)
 moths	face-eater moths	2.2 review: Moth horde with brood mothers (Book 7, Ch5.08 L248) matches Face-Eater Moths waves
-oldblood drakes	oldblood drake	2.2 review: Plural of same species/group (Book 7, Ch5.01 L435)
 prost surehand	prost	2.2 review: Prost the villager leader, daughters (Book 5, Ch4.20E L166; Book 12 Ch6.34E L339)
 queen of pop / singer of terandria	cara o'sullivan	2.2 review: Text names her Cara O'Sullivan (Book 17, Ch7.21KQ L544)
 rock crabs ('hollowstone deceivers')	rock crabs (hollowstone deceivers)	2.2 review: Same crab species spelling variant (Book 17, Ch7.23LM L933)
@@ -390,7 +385,6 @@ toren (masked)	toren	2.2 review: Toren's female half wears the mask (Book 7, Ch5
 watch	liscor watch	2.2 review: Barracks held by Zevara, Relc, Klbkch: Liscor Watch (Book 2, Ch2.19 L231).
 archmage of izril	valeterisa	2.2 review: Ch7.42M: Valeterisa out of seclusion, then "The Archmage of Izril had returned" (L30-40).
 bevia	lady bevia veniford	2.2 review: Ch5.11E L6: Lady Bevia Veniford, Rael's aunt, is the noble riding with him; Veniford matriarch.
-celum gate	celum	2.2 review: Gate of Celum with import tax (Book 2, Ch2.37 L136); part of the city.
 city watch	liscor watch	2.2 review: Ch1.10 L240: Relc says "in our city, the city watch" is voted in; Relc is Liscor Watch.
 earthworlders	earthers	2.2 review: Earthworlders realise they forget families (Book 10, Ch6.07D L139-148); same people as Earthers.
 election results	liscor election	2.2 review: Ch6.49 L138-140 announces the Liscor Council election result.
@@ -419,7 +413,6 @@ antinium hive in liscor	antinium hive	2.2 review: Liscor's Antinium Hive populat
 bevia veniford	lady bevia veniford	2.2 review: Rael's aunt Bevia Veniford is Lady Bevia Veniford (5.11E L6).
 dame talia	talia kallinad	2.2 review: Dame Talia leads Spring/Summer Knights home (6.45E L91); Talia Kallinad is Dame and Summer Knight (6.42E L422).
 erin magic door	magic door	2.2 review: Erin's magic door ferrying people (7.18M L418); magic door facts describe Erin's door.
-insill and team	insill	2.2 review: Facts concern Insill, suspected prodigy (4.08T L426).
 joseph ortega	joseph	2.2 review: Joseph captains football team (7.44 L97); joseph facts show football Kicker (7.26).
 lady pryde	pryde ulta	2.2 review: Lady Pryde of House Ulta sends bench-press lists (Sand_and_Notes L356); same Lady of Pride.
 nali-stick	nali-sticks	2.2 review: Same Baleros sugarcane snack, singular form (6.05D L264).

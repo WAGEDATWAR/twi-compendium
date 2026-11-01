@@ -13,27 +13,44 @@ dec_manual_1.tsv	key is a never-merge alias	gorgon	fold	gorgons
 dec_manual_1.tsv	key not an entity	griffins	keep	
 dec_manual_1.tsv	key not an entity	magus-crafter	keep	
 dec_manual_1.tsv	change_alias target missing	The Golem	change_alias	golems
+dec_mid_0.tsv	verifier reject	king	split	flos|blighted king othius iv
 dec_mid_1.tsv	fold would create a cycle	bezale	fold	beza
+dec_mid_1.tsv	verifier reject	council	split	wistram council|liscor council
+dec_mid_1.tsv	duplicate decision for key	door	keep	
 dec_mid_2.tsv	fold would create a cycle	aaron vanwell	fold	blackmage
+dec_small_0.tsv	verifier reject	great queen	fold	grand queen of the antinium
+dec_small_0.tsv	verifier reject	hives	fold	antinium hive
+dec_small_1.tsv	verifier reject	gemhammer and pride of kelia	split	gemhammer|pride of kelia
 dec_small_1.tsv	fold would create a cycle	nelliam hailwing	fold	nelliam
+dec_small_10.tsv	verifier reject	demon soldier	fold	demons
+dec_small_10.tsv	verifier reject	pomle oasis	fold	pomle
 dec_small_2.tsv	fold would create a cycle	antinium listeners	fold	antinium listener
 dec_small_2.tsv	fold would create a cycle	galuc the builder	fold	galuc
 dec_small_2.tsv	fold would create a cycle	ilvriss' ring	fold	ilvriss ring
+dec_small_2.tsv	verifier reject	lancrel folk	fold	lancrel
+dec_small_3.tsv	verifier reject	awakened raskghar	fold	raskghar
 dec_small_3.tsv	fold would create a cycle	courier	fold	couriers
 dec_small_3.tsv	fold would create a cycle	miss ediya	fold	ediya
+dec_small_4.tsv	verifier reject	oldblood	fold	oldblood drake
 dec_small_5.tsv	fold would create a cycle	blessing of the hearth	fold	laken skill blessing of the hearth
 dec_small_5.tsv	fold would create a cycle	demerra	fold	healer demerra
 dec_small_5.tsv	key is a never-merge alias	doombringer	fold	mrsha
+dec_small_5.tsv	verifier reject	oldblood drakes	fold	oldblood drake
+dec_small_5.tsv	verifier reject	rose, joseph, galina, troy and imani	split	rose|joseph|galina|troy|imani
 dec_small_5.tsv	fold would create a cycle	shailt of tergim	fold	armor captain shailt
 dec_small_5.tsv	fold would create a cycle	zalthia werskiv	fold	zalthia
 dec_small_6.tsv	fold would create a cycle	lord belchaus meron (lord bel, the lord of the dance)	fold	lord belchaus meron
+dec_small_6.tsv	verifier reject	maughin, pelt, emessa and the forge smiths	split	maughin|pelt|emessa
 dec_small_6.tsv	fold would create a cycle	rock crabs (hollowstone deceivers)	fold	hollowstone deceiver
+dec_small_7.tsv	verifier uncertain	celum gate	fold	celum
 dec_small_7.tsv	fold would create a cycle	goblin lord lieutenants	fold	goblin lieutenants (former chieftains)
 dec_small_7.tsv	fold would create a cycle	shriekblade (tessa)	fold	shriekblade
 dec_small_7.tsv	fold would create a cycle	xrn, the small queen	fold	xrn (the small queen)
 dec_small_8.tsv	fold would create a cycle	alternate tom	fold	tom (alternate personality)
 dec_small_8.tsv	key is a never-merge alias	general sserys	fold	sserys
 dec_small_8.tsv	fold would create a cycle	geram redfist	fold	geram
+dec_small_8.tsv	verifier reject	insill and team	fold	insill
+dec_small_8.tsv	verifier reject	sir relz hauscale and watch captain venim	split	sir relz hauscale|venim
 dec_small_8.tsv	fold would create a cycle	wall lord zail	fold	zail gemscale
 dec_small_9.tsv	fold would create a cycle	clan tannousin	fold	tannousin clan
 dec_small_9.tsv	fold would create a cycle	emir riefel	fold	riefel

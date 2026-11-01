@@ -1,8 +1,8 @@
 joint-subject facts split across entities: 309
-facts 13158  alias pairs from '=' lines 378 (new mappings 164)  xref-cite facts 2  facts without cite 0
-entities (canonical keys) 2154; needing a file (>=15 facts or 2+ chapters) 727; single-fact entities 1334
-manual fact-less entities (from coverage decisions, needs_file=M): 120
-alias map size 1283; conflicted aliases left unmerged 37
+facts 13138  alias pairs from '=' lines 378 (new mappings 147)  xref-cite facts 2  facts without cite 0
+entities (canonical keys) 2168; needing a file (>=15 facts or 2+ chapters) 728; single-fact entities 1345
+manual fact-less entities (from coverage decisions, needs_file=M): 122
+alias map size 1255; conflicted aliases left unmerged 54
 
 Top 40 entities:
     824  225 ch  Erin
@@ -15,8 +15,8 @@ Top 40 entities:
     172   49 ch  Rags
     155   35 ch  Niers
     154   49 ch  Toren
-    147   35 ch  Flos
     146   76 ch  Lyonette
+    143   34 ch  Flos
     141   71 ch  Mrsha
     138   73 ch  Relc
     134   26 ch  Teriarch

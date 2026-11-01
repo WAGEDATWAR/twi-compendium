@@ -16,7 +16,7 @@ for r in tsv(os.path.join(LED, "alias_overrides.tsv")):
         rows.append(["FOLD", r["alias"], r["canonical"], r["note"][:200], smp(r["alias"]), smp(r["canonical"])])
 for r in tsv(os.path.join(LED, "entity_splits.tsv")):
     rows.append(["SPLIT", r["key"], r["targets"], r["note"][:200], smp(r["key"]), ""])
-N = 4
+N = 8
 for i in range(N):
     with open(os.path.join(W, f"ver_in_{i}.tsv"), "w", encoding="utf-8", newline="\n") as o:
         o.write("type\tkey\ttarget\treviewer_note\tkey_facts\ttarget_facts\n")
