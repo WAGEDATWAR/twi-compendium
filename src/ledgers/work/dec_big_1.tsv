@@ -1,0 +1,71 @@
+key	decision	target	etype	note
+ryoka griffin	keep		person	Single referent (Runner Ryoka); stray batman facts are her own online chat persona (Book 2, Ch2.01).
+klbkch	keep		person	Antinium Revalantor/Senior Guardsman; Slayer and Klbkchhezeim are the same individual (Book 1, Ch1.24 L5-11).
+laken	keep		person	Laken Godart, blind Emperor of Riverfarm; one referent across books (Book 3, Ch3.00E).
+nameless child	keep		person	Key is a mislabel: all 166 facts are Rags, Chieftain of the Flooded Waters tribe (Book 2, Ch2.00G). Rename key to rags.
+niers astoragon	keep		person	Niers Astoragon, Fraerling strategist; one referent (Book 2, Ch2.17 L359).
+flos	keep		person	Flos Reimarch, King of Destruction; one referent (Book 1, Ch1.07R L307).
+sergeant relc	keep		person	Drake Senior Guardsman Relc Grasstongue; single referent (Book 1, Ch1.07).
+pawn	keep		person	All 123 facts are the Antinium Worker/Acolyte/Priest Pawn; no chess-piece facts found (Book 1, Ch1.26 L186).
+zel shivertail	keep		person	General Zel Shivertail; Zel and full name same referent. Selys and Tekshia are separate entities (Book 2, Ch2.24).
+numbtongue	homonym	hobgoblin=544b480412,1eba06fc5e	person	Goblin Bard Numbtongue. Two facts under raw Hobgoblin are species/unnamed Hob (Book 2, Ch2.00G L145; Book 5, Ch4.23E L246).
+olesm swifttail	keep		person	Drake Tactician Olesm; one referent (Book 1, Ch1.19).
+zevara	keep		person	Watch Captain Zevara of Liscor; one referent (Book 1, Ch1.42 L64).
+bird	keep		person	All facts are Bird the Antinium Hunter; bird-hunting facts are his hobby, not birds (Book 5, Ch4.07).
+az'kerash	keep		person	Az'kerash the Necromancer, a.k.a. Perril Chandler, Archmage Chandler (Book 2, Ch2.24 L2-5).
+gazi	keep		person	Gazi Pathseeker the Omniscient; one referent (Book 1, Ch1.29).
+geneva	keep		person	Geneva Scala, Human doctor; oath facts mention Declaration of Geneva only as her oath basis (Book 3, Ch1.00D L129).
+tyrion veltras	keep		person	Lord Tyrion Veltras; one referent (Book 5, Ch4.06KM).
+witch	keep		person	Key mislabel: all 59 facts are Wiskeria, Witch-General of Riverfarm, Belavierr's daughter (Book 12, Ch6.41E). Rename key to wiskeria.
+antinium	keep		species	Species/people facts only; Antinium Wars history included. No homonym found (Book 1, Ch1.07 L300).
+saliss of lights	keep		person	Saliss and Onieva are one person: Onieva is Saliss's alternate form (Book 16, Ch7.17S).
+ceria, yvlon, ksmvr (and pisces)	keep		org	Key is composite mislabel; all 53 facts are the Horns of Hammerad party, original and re-formed, same name (Book 2, Ch2.27). Rename key.
+ivolethe	homonym	frost faeries=02b45a640f,24bd167f82,fba361de7f	person	Ivolethe the Frost Faerie. Three facts are unnamed Frost Faeries in 2.19 and 2.32; Ivolethe unnamed there (Book 2, Ch2.32 L319).
+redfang warriors	homonym	redfang tribe=92220b028f,ce9cd6383b,4b6c0306b2	org	Redfang band of thirteen/five Hobs. Three facts are Garen's mounted tribal warriors (Book 7, Ch5.19G L115; Book 8, Ch5.30G L277).
+grand queen of the antinium	keep		person	Key mislabel: all 49 facts are Xrn, the Small Queen Prognugator, not the Grand Queen (Book 3, Ch3.23L L418). Rename key to xrn.
+fetohep of khelt	keep		person	Fetohep, undead King of Khelt; one referent (Book 13, Ch6.55K).
+halrac	keep		person	Halrac Everam, Griffon Hunt Scout; one referent (Book 2, Ch2.01T).
+embria	keep		person	Wing Commander Embria Grasstongue, Relc's daughter (Book 7, Ch5.13 L444).
+pallass	keep		place	Walled City of Pallass; Wings of Pallass etc. are org names, separate (Book 7, Ch5.01 L2).
+tremborag	keep		person	Goblin Great Chieftain Tremborag; one referent (Book 4, Ch3.26G L167).
+raskghar	keep		species	Raskghar species; facts consistent (Book 6, Ch4.36O L110).
+free queen	keep		person	Queen of the Free Antinium under Liscor; absorbs queen of the free antinium key (Book 8, Ch5.33B L61).
+tom	keep		person	Tom the Clown, ex-Hero; alternate/mirror Tom are his Skill duplicate or inner voice (Book 18, Ch7.35C).
+wandering inn	keep		place	Erin's inn; single place (Book 1, Ch1.20 L204).
+grand strategist chaldion	keep		person	Chaldion, Grand Strategist of Pallass; one referent (Book 15, Ch7.02). Key contains title.
+riverfarm	keep		place	Village of Riverfarm; one place (Book 3, Ch3.00E L172).
+tekshia shivertail	keep		person	Tekshia Shivertail, Liscor Guildmistress, Selys's grandmother (Book 6, Ch4.47 L136).
+flos steward	keep		person	Key mislabel: all 30 facts are Orthenon, Flos's Steward (Book 2, Ch2.00K L21). Rename key to orthenon.
+hawk	keep		person	Hawk the Rabbit Beastkin Courier; no bird facts (Book 2, Ch2.13).
+reynold	keep		person	Reynold Ferusdam, Magnolia's Butler; one referent (Book 4, Ch3.37).
+dungeon	topic	liscor dungeon	topic	Generic heading; most facts are the Liscor dungeon, but 2.09 is a far-north dungeon and others unspecified (Book 2, Ch2.09 L175).
+griffin hunt (pun on griffons that hunt griffins)	keep		org	Key mislabel for Griffon Hunt adventuring team; ryoka griffin is separate (Book 4, Ch3.32). Rename key to griffon hunt.
+montressa du valeross	keep		person	Montressa du Valeross, Wistram mage; one referent (Book 13, Ch6.57).
+wistram	keep		place	Wistram island/academy treated as one entity; no separate referent found (Book 1, Ch1.35 L129).
+belgrade	keep		person	Belgrade, Antinium Tactician Individual; one referent (Book 3, Ch3.21L).
+anand	keep		person	Anand, Antinium Tactician Individual; one referent (Book 3, Ch3.21L).
+osthia blackwing	keep		person	Osthia Blackwing, Drake captain; one referent (Book 5, Ch4.16 L46).
+mars	keep		person	Mars the Illusionist, Flos's Vanguard; no other Mars present (Book 2, Ch2.00K L211).
+prost	keep		person	Prost, Riverfarm farmer then Steward; Prost Surehand is the same man (Book 5, Ch4.20E).
+umina caxical	keep		person	Umina Caxical, Niers's student; one referent (Book 11, Ch6.21D L18).
+wil kallinad	keep		person	Wil Kallinad, Terandrian noble student; one referent (Book 11, Ch6.21D).
+apista	homonym	ashfire bees=6aaab1a382	creature	Apista, Lyonette's Ashfire Bee. One fact (raw Bee, 2.36) is the species in general, before Apista appears (Book 2, Ch2.36 L27).
+ijvani	keep		person	Ijvani, Az'kerash's skeleton Chosen; Imenet is her disguise (Book 5, Ch4.30).
+seborn	keep		person	Seborn Sailwinds, Halfseekers Rogue; one referent (Book 2, Ch2.22 L248).
+headscratcher	keep		person	Redfang Hob Headscratcher; one referent (Book 3, Ch3.20T).
+brunkr	keep		person	Brunkr, Krshia's nephew; one referent (Book 2, Ch2.21 L236).
+badarrow	keep		person	Redfang Hob archer Badarrow; one referent (Book 3, Ch3.19T).
+ressa	keep		person	Ressa, Magnolia's Head Maid; one referent (Book 2, Ch2.30).
+venaz	keep		person	Venaz, Minotaur Strategist student; one referent (Book 10, Ch6.07D).
+celum	keep		place	City of Celum; Players of Celum is a separate org (Book 2, Ch2.37 L83).
+nsiia	keep		person	Empress Nsiia of Chandrar; one referent (Book 13, Ch6.52K).
+pebblesnatch	keep		person	Cave Goblin Pebblesnatch; one referent (Book 8, Ch5.36 L276).
+witch califor	keep		person	Califor, Witch with apprentice Nanette; one referent (Book 12, Ch6.37E L3).
+illphres	keep		person	Illphres, Cryomancer teacher at Wistram; one referent (Book 4, Wistram Days Pt.2).
+tersk	keep		person	Tersk, Prognugator of the Armored Antinium; one referent (Book 5, Ch4.13L L187).
+venith crusland	keep		person	Venith Crusland, Flos's former companion/general; one referent (Book 5, Ch4.01K L631).
+elirr	keep		person	Elirr, Gnoll Councilmember and Beast Trainer; one referent (Book 8, Ch5.42; Book 19, Ch7.51).
+leader of germina	keep		title	Key mislabel for the Quarass of Germina; old Quarass reborn in a child, treated as one continuing ruler (Book 10, Ch6.12K L159).
+queen of the free antinium	fold	free queen		Antinium Queen of Liscor's Free Antinium hive is the Free Queen (Book 2, Ch2.20; Book 8, Ch5.33B L2).
+valeterisa	keep		person	Archmage Valeterisa of Izril; one referent (Book 18, Ch7.41 L2).
+rags tribe, per lady rie	keep		org	Key mislabel for the Flooded Waters tribe, Rags's Goblin tribe (Book 2, Ch2.02G L6). Rename key.

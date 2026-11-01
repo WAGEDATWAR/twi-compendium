@@ -142,3 +142,316 @@ yitton	yitton byres	first-name/short-form fold (2.2, reviewed from fold_suggesti
 ylawes	ylawes byres	first-name/short-form fold (2.2, reviewed from fold_suggestions.tsv)
 your majesty		conflict homonym/shared title: never merge (2.2)
 zel	zel shivertail	conflict union (2.2)
+golem		species word: never fold into one individual (2.2 coverage review)
+golems		species word: never fold into one individual (2.2 coverage review)
+gorgon		species word: never fold into one individual (2.2 coverage review)
+gorgons		species word: never fold into one individual (2.2 coverage review)
+inn	wandering inn	2.2 review: Facts about "the inn"/"Inn" describe the Wandering Inn building (Book 1, Ch1.00 L5-6; Book 12 Interlude_Two_Rats L33).
+queen of the free antinium	free queen	2.2 review: Antinium Queen of Liscor's Free Antinium hive is the Free Queen (Book 2, Ch2.20; Book 8, Ch5.33B L2).
+naq-alrama	naq-alrama steel	2.2 review: Naq-Alrama names the pure steel and blades Nawalishifra's clan forges, not a separate thing (Book 7, Ch Interlude_Flos L310, L369; Book 10, Ch6.13K L98).
+uxel	commander uxel	2.2 review: Uxel the Gorgon and Commander Uxel of the Lizardfolk are one man (Book 18, Ch7.34C L1198, L1209).
+draugr	draug	2.2 review: Same species as Draug, spelled Draugr: higher undead hard to subdue (Book 5, Ch4.16 L336).
+elf	elves	2.2 review: Singular of the Elves species; also used as a shout at a half-Elf (Book 7, Ch5.08 L83).
+giant	giants	2.2 review: Singular of the Giants race (half-Giants like Moore) (Book 5, Ch4.19 L301).
+ser slayer	rabbiteater	2.2 review: Honorific the Knights use for the Goblin Slayer, identified as Rabbiteater in the same chapter (Book 14, ChInterlude_Talia L509, L629, L911).
+squirrel-woman	foliana	2.2 review: Narration epithet for Foliana of the Squirrel Beastkin tribes, also called Three-Color Stalker (Book 14, ChInterlude_Foliana L296, L37).
+archmage amerys	amerys	2.2 review: Same Archmage Amerys of the King of Destruction's Seven (Book 5, Ch4.00K L21; Wistram Days).
+blackmage	aaron vanwell	2.2 review: Blackmage is Aaron Vanwell, nineteen, Wistram Earther (Interlude_Blackmage L5, L12; Book 19, Ch7.55E L708).
+dino birds	razorbeak	2.2 review: Razorbeaks; Erin calls them Dino Birds (Interlude_Bird L138); razorbeak entity is the same pterodactyl-like bird.
+faerie	fae	2.2 review: Faerie in Ch2.23 are the fae; collective of the same species, fae key covers Ch5.11E and later.
+healing potions	healing potion	2.2 review: Plural of healing potion, same item.
+lady magnolia reinhart	magnolia reinhart	2.2 review: Same Magnolia Reinhart with title; Invrisil winter travel and Antinium Wars army (Book 2, Ch2.09 L235).
+magic door	door	2.2 review: Erin's magic door; door entity covers the same door (Book 5, Ch4.12 L459; Book 7, Ch5.01).
+octavia cotton	stitch girl	2.2 review: Octavia Cotton is the Stitch-girl Alchemist of Stitchworks, Celum; stitch girl entity displays Octavia (Book 2, Ch2.09).
+red fang chieftain	garen red fang	2.2 review: Chieftain of Ch2.02G is named Garen Red Fang (Book 2, Ch2.02G L293, L311-322).
+ruins by liscor	ruins of liscor	2.2 review: Book 1 ruins near Liscor raided by adventurer teams (Book 1, Ch1.11R L19); same Book 1 site as ruins of liscor.
+skystrall	falene	2.2 review: Falene Skystrall, half-Elf Wistram Battlemage, fights with Silver Swords, Ylawes and Dawil (Book 6, Ch4.45; Book 10, Ch6.16).
+aaron	aaron vanwell	2.2 review: Aaron in Wistram building magicore batteries, same as Aaron Vanwell/Blackmage (Book 18, Ch7.29B L929-935).
+blood fields	bloodfields	2.2 review: Same red biome south of Liscor; spelling variant (Book 1, Ch1.23 L98).
+cave goblin	cave goblins	2.2 review: Singular form for individual Cave Goblins of the Raskghar-subjugated tribe (Book 8, Ch5.35H L621-650).
+erin inn	wandering inn	2.2 review: Erin's inn is the Wandering Inn (Book 1, Ch1.20 L204-219).
+frost fairies	frost faeries	2.2 review: Same winter fey; spelling variant (Book 2, Ch2.08 L183).
+garen red fang	garren redfang	2.2 review: Chieftain Garen Redfang, Hob who speaks Human (Book 2, Ch2.02G L293).
+garusa weatherfur	garusa	2.2 review: Gnoll General Garusa Weatherfur of Longstride Clan (Book 5, Ch4.16 L5-10).
+lady rie	rie valerund	2.2 review: Lady Rie, last of the Valerund family (Book 7, Ch5.09E L96-97).
+lord pellmia	pellmia	2.2 review: Lord Pellmia, about sixty, leads Tyrion's cavalry (Book 9, Ch5.47G L508).
+venitra, disguised	venitra	2.2 review: Regrika Blackpaw is Venitra in disguise; master sent her to kill Ryoka (Book 5, Ch4.30 L194-199).
+zel body	zel shivertail	2.2 review: Zel's preserved body delivered by Magnolia (Book 7, Ch5.16S L425-439).
+antinium queen (free antinium)	queen of the free antinium	2.2 review: Ch4.24 L173-195 Queen of Free Antinium learning from Klbkch, experiments with own eggs; same queen.
+chat log	chat	2.2 review: Interlude_B02_1 transcript of the Earther phone chat; same chat entity as Interlude_The_Call facts.
+couriers	courier	2.2 review: Plural of Courier, special long-distance Runners (Book 2, Ch2.09; Ch2.17 L139-142).
+crossbow stan	stan	2.2 review: Crossbow Stan leads Boltspitters (Book 11, Ch6.18H L433); Stan is Boltspitters captain (Book 14, Ch6.66H L32-38).
+hive	antinium hive	2.2 review: Liscor Antinium Hive facts: dungeon incursions, new Painted Soldier barracks (Book 5, Ch4.13L L133; Ch5.26L L294).
+jecrass princess / queen	jecaina	2.2 review: Jecaina Leysars, Raelt daughter, Duelist Princess with silver bell (Book 19, Ch7.46K L616-617).
+lady rie valerund	rie valerund	2.2 review: Lady Rie Valerund, last of her line, Riverfarm (Book 4, Ch4.35E L242-251; Book 16, Ch7.18M L901).
+pisces jealnet	pisces	2.2 review: Same Pisces: Wistram necromancer, bounty, Toren, Frostmarrow (Book 14, Ch6.65 L104; Book 16, Ch7.14T).
+pryde	pryde ulta	2.2 review: Same Skills [Pride is Weight]/[Pride is Unbreakable], Lady Pryde of House Ulta (Book 16, Ch7.18M L959; Book 17, Ch7.23LM L634).
+welca	welca caveis	2.2 review: Welca flees captivity with Sir Kerrig after thanking Pyrite, Knights of the Petal (Book 7, Ch5.19G L279; Ch5.20G L644).
+wistram academy	wistram	2.2 review: Academy fees and entry are the institution Wistram (Book 4, ChWistram_Days_Pt.1 L7-9).
+workers	antinium workers	2.2 review: Workers defend Erin, Pawn no longer Worker (Book 1, Ch1.38 L20; Ch1.45 L30).
+albez ruins	ruins of albez	2.2 review: Same site near Celum, Albez ruins (Book 2, Ch2.00H L332)
+antinium hives	antinium hive	2.2 review: Plural of Antinium Hive; Silent Hive infection (Book 5, Ch4.07 L59)
+armor captain shailt	shailt of tergim	2.2 review: Minotaur captain whose jaw Venaz breaks in the duel (Book 11, Ch6.24D L428; 6.23D)
+bags of holding	bag of holding	2.2 review: Plural of bag of holding
+captain earlia (gemhammer)	earlia	2.2 review: Earlia of Gemhammer, same captain asking Numbtongue for mining spots (Book 19, Ch7.43G L17)
+class consolidation	class merging	2.2 review: Same mechanic: classes merging (Book 5, Ch4.20E L291; Book 2, Ch2.36 L111)
+demon soldiers	demon soldier	2.2 review: Plural of demon soldier
+dullahan	dullahans	2.2 review: Singular of dullahans
+ediya	miss ediya	2.2 review: Runecrafter Ediya on Bezoar Street (Book 15, Ch7.00 L101,L128)
+face collector	head-collector	2.2 review: Erin's name for the head-collector (Book 7, Ch5.16S L104)
+fierre (serafierre val lischelle-drakle)	fierre	2.2 review: Vampire Fierre, full name (Book 17, Ch7.24 L895)
+garia farm	strongheart farm	2.2 review: Farm near Celum of Garia Strongheart, same chapter Ch4.17 (L14,L171)
+gold-rank team	gold-rank teams	2.2 review: Singular of gold-rank teams
+great queen	grand queen of the antinium	2.2 review: Great Queen rival of Free Antinium, sends armies on Liscor (Book 2, ChS02 L106; Ch2.20 L232)
+heic	general heic	2.2 review: Same man in Ch6.54K supporting Illivere
+hives	antinium hive	2.2 review: Antinium hives Armored, Flying, Silent (Book 3, Ch3.23L L397)
+knights of the petal	rose knights	2.2 review: Rose Knights are the Knights of the Petal (Book 6, Ch4.48 L189)
+lady gresaria wellfar	gresaria	2.2 review: Same Harbormistress in the Interlude, rival of Maviola (Book 18, Interlude_Meetings L328)
+leveling lore	levelling	2.2 review: Level distribution lore (Book 2, Ch2.34 L399)
+liscor bathhouses	liscor bathhouse	2.2 review: Plural of Liscor bathhouse
+madain (mad madain)	madain	2.2 review: Mad Madain is the innkeeper Madain (Book 10, Ch6.00 L23)
+nelliam	nelliam hailwing	2.2 review: Drake Greeter in Ch5.01, same chapter as rumour (Book 7, Ch5.01 L285)
+new inn	wandering inn	2.2 review: Erin's rebuilt inn (Book 2, Ch2.11 L353)
+noass and sir relz	sir relz and noass	2.2 review: Same Drake commentators, order reversed (Book 16, Interlude_Dancing L4)
+reim army camp	reim army	2.2 review: Camp of Reim's army (Book 15, Ch7.10K L114)
+reiss' lieutenants	reiss lieutenants	2.2 review: Spelling variant of Reiss lieutenants
+riefel	emir riefel	2.2 review: Fake emir Riefel in Ch5.02 (Book 7, Ch5.02 L109,L116)
+ruins	ruins of liscor	2.2 review: Ruins ten miles from Liscor with the crypt pit (Book 1, Ch1.32 L3)
+takhatres, lord of the skies	takhatres	2.2 review: Garuda Takhatres with epithet (Book 2, Ch2.00K L52)
+tersk and a companion	tersk	2.2 review: Antinium Tersk in disguise with a companion (Book 15, Ch7.00 L605)
+yellow-splattered soldier	soldier (yellow splatters)	2.2 review: Soldier with yellow splatters, Pawn's group (Book 5, Ch4.13L L89)
+zel relative	zel relatives	2.2 review: Relatives disputing Zel's will (Book 7, Ch5.17S L120)
+amentus fruit (the blue fruit)	amentus fruit	2.2 review: Same fruit, parenthetical alias (Book 1, Ch1.09 L95).
+antinium listener	antinium listeners	2.2 review: Singular of Antinium Listeners subtype (Book 11, Ch6.29 L10).
+barracks wall	barracks mural	2.2 review: Painted marks of the dead on the barracks wall, same mural (Book 5, Ch4.13L L451; Book 6, Ch4.40L L76).
+celum (magnolia city), as written in this chapter	celum	2.2 review: Text identifies the city as Celum, where Magnolia lives (Book 1, Interlude_1.00_R L43-54).
+ensoldier shields	walt team ensoldier shields	2.2 review: Display name Walt's team; same team (Book 14, Ch6.64 L793).
+face-eater moth	face-eater moths	2.2 review: Singular of same creature (Book 7, Ch5.07 L377).
+fair folk (spring fae)	fair folk	2.2 review: Spring fae are the Fair Folk of the meadow (Book 7, Ch5.10E L588; Ch5.11E L184).
+floodplains	liscor floodplains	2.2 review: Klbkch discusses Liscor's floodplains (Book 1, Ch1.23 L117-131); Erin's hill flooded (Book 7, Ch5.12).
+galuc	galuc the builder	2.2 review: Same Centenium member called the Builder (Book 3, Ch3.06L L572).
+gershal of vaunt	gershal	2.2 review: Same Lieutenant Gershal (Book 6, Ch4.48 L112).
+goblin chieftains	goblin chieftain	2.2 review: Plural of Goblin Chieftain.
+goblin kings	goblin king	2.2 review: Plural of Goblin King (Book 6, Ch4.47 L21).
+goblin warbands	goblin warband	2.2 review: Plural of goblin warband (Book 4, Ch3.26G L50).
+halrac everam	halrac	2.2 review: Full name of Halrac the Grim (Book 18, Ch7.40ER L4).
+headman ram	ram shackl	2.2 review: Mister Ram, Riverfarm farmer (Book 12, Ch6.47E L392-397); Ram Shackl is Riverfarm farmer (Ch6.41E L127).
+hide-and-seek game	daquin game	2.2 review: Game held at Daquin; Wil's victory there (Book 11, Ch6.21D L589; Book 12, Ch6.42E L427).
+hoard	raskghar hoard	2.2 review: Hoard divided after Raskghar fight, same chapter (Book 9, Ch5.49 L648-751).
+ilvriss ring	ilvriss' ring	2.2 review: Same Salazsar ring Ilvriss gave Erin (Book 13, Ch6.50I L189; Book 18, Ch7.33I L592).
+karsaeu-dequoa (karsy)	karsaeu-dequoa	2.2 review: Same Djinni with nickname (Book 19, Ch7.44 L352).
+liscorian law	law of liscor	2.2 review: Same law governing Goblins as monsters (Book 1, Ch1.17 L93) with Liscor law.
+lord gralton of lycit	gralton	2.2 review: Lord Gralton, Dog Lord (Book 8, Ch5.30G L10-23).
+lord yitton byres	yitton byres	2.2 review: Father of Yvlon and Ylawes (Book 9, Ch5.60 L130).
+seagrass	lord admiral seagrass	2.2 review: Short name, thrown into sea (Book 17, Interlude_Strategists_at_Sea_Pt._2 L1288).
+ser raim of the season of summer	ser raim	2.2 review: Full title of Ser Raim (Book 17, Ch7.21KQ L513).
+stone spears tribe	stone spears	2.2 review: Same Gnoll tribe: Hekra of Stone Spears Tribe (Book 2, Ch2.28 L154); mountains near Liscor.
+tier magic	magic tiers	2.2 review: Same tier system (Book 1, Ch1.05R L186).
+apista (ashfire bee)	apista	2.2 review: Same Apista; parenthetical species label (Book 5, Ch4.41L).
+beza (bezale)	beza	2.2 review: Minotauress Spellscribe who left Minos for Wistram (Book 16, Interlude_Burning_Alcohol L370) matches Beza scroll-seller.
+demon soldier	demons	2.2 review: Demon soldiers are individuals of the Demons (Book 2, Ch1.01C L173); species-level.
+fortress beaver colony	fortress beaver	2.2 review: Colony of Fortress Beavers (Book 7, Ch5.07 L167-170); same creature.
+general thelican	thelican	2.2 review: Nerrhavian General Thelican (Book 13, Ch6.53K) is the same man as thelican entry.
+halfseekers (earlier roster)	halfseekers	2.2 review: Same adventuring team, earlier roster (Book 9, Ch5.57 L270-292).
+horns of hammerad (old)	horns	2.2 review: Earlier-roster Horns of Hammerad, same team (Book 3, Ch3.08H).
+laken skill blessing of the hearth	blessing of the hearth	2.2 review: Same skill, Laken's [Blessing of the Hearth] (Book 12, Ch6.40E).
+liscorian army	liscor army	2.2 review: Liscorian army is Liscor's army: 2,000 Drakes plus Gnolls (Book 1, Ch1.23 L162).
+lord erill (house fienst)	lord erill	2.2 review: Merchant-lord Erill newly noble, same man as lord erill (Book 8, Ch5.30G; Book 9, Ch5.52 L334).
+lord tyron	tyrion veltras	2.2 review: Lord Tyron Veltras listed beside Magnolia and Sserys (Book 2) is Tyrion Veltras, early spelling.
+mr. soot	mister soot	2.2 review: Same Soot, killed by Raskghar (Book 17, Interlude_The_Gecko_of_Illusions L1113).
+pomle oasis	pomle	2.2 review: Pomle's oasis improvements by Salii (Book 18, Interlude_Sand_and_Notes L128-163); same place.
+reim army at jecrass border	reim army	2.2 review: Reim's army, 60,000 at the Jecrass border (Book 15, Ch7.08K L385); same army.
+seven earthers	earthers	2.2 review: Seven Earthers named group is the Earthers (Book 17, Ch7.23LM L189-244).
+sostrom reidez	sostrom	2.2 review: Horns mage Sostrom casting Repair on Ryoka's iPhone (Book 1, Ch1.07R L269-282).
+stitchfolk	stitch-folk	2.2 review: String People are Stitch-folk (Book 7, Ch5.02 L189-216).
+yellow rivers infection	yellow rivers disease	2.2 review: Untreatable disease (Book 10, Ch6.07D L67) matches Yellow Rivers disease.
+aaron vanwell (blackmage)	aaron vanwell	2.2 review: Blackmage is Aaron's handle; first Earther at Wistram, same person (Book 14, Ch6.60 L160).
+author	pirateaba	2.2 review: Author = pirateaba per Book 4 author's note (L2).
+califor ghost	witch califor	2.2 review: Ghost summoned is Califor herself, per entity name and Ch6.47E L802-873.
+elmmet patterson	elmmet	2.2 review: Lancrel Councilman Elmmet executed by Hedag at trial (Book 12, Ch6.37E).
+flamewardens of pallass	flamewardens	2.2 review: Keldrass's Pallass Drake team; same team as flamewardens (Book 14, Ch6.65; Book 8 Ch5.40).
+floodplains of liscor	liscor floodplains	2.2 review: Same place, word order variant.
+goldstone chieftain	pyrite	2.2 review: Pyrite is the Goldstone Chieftain; text: 'Goldstone Chieftain dead' (Book 19, Ch7.55E L474-478).
+lady ieka	ieka imarris	2.2 review: Lady Ieka is Ieka Imarris, Wistram-trained noble (Book 8, Ch5.30G L27,L57; Book 17 Ch7.24).
+lady welca caveis	welca caveis	2.2 review: Titled form of Welca Caveis (Book 9, Ch5.48G L162).
+lancrel folk	lancrel	2.2 review: People of Lancrel town (Book 12, Ch6.36E L233; Ch6.40E L9).
+lord gralton radivaek	gralton radivaek	2.2 review: Titled form of Gralton Radivaek, Dog Lord (Book 14, Ch6.60 L357-391).
+montressa (mons)	montressa du valeross	2.2 review: Mons is Montressa's nickname (Book 4, Wistram_Days_Pt.6 L51-90).
+pielt	captain pielt	2.2 review: Captain Pielt of Embria's officer table (Book 11, Interlude_Embria L85-111).
+seborn sailwinds	seborn	2.2 review: Seborn Sailwinds is the Halfseekers' half-Crab Rogue Seborn (Book 17, Interlude_Strategists_at_Sea_Pt._2 L376).
+serafierre val lischelle-drakle (fierre)	fierre	2.2 review: Serafierre is Fierre's full name; vampire girl (Book 18, Ch7.41 L28).
+tom (alternate personality)	alternate tom	2.2 review: Same alternate personality of Tom (Book 6, Ch1.05C L93-156).
+adventurer teams	adventurers	2.2 review: Generic plural for adventurer teams delaying departure (Book 9, Interlude_Krshia L695-699)
+american group	america group	2.2 review: Americans summoned to Karaz, Blighted Continent; same group as Tom/Keith/Cynthia (Book 2, Interlude_The_Call L63)
+awakened raskghar	raskghar	2.2 review: Raskghar who did the ritual; same species (Book 8, Ch5.42 L632-641; Ch5.43 L161-165)
+byres family	house byres	2.2 review: Byres armour specialty belongs to the noble House Byres (Book 2, Ch2.00H L44)
+califor weishart	witch califor	2.2 review: Califor the Witch with quarterstaff and Nanette; Ryoka scene (Book 12, Ch6.46E L501-582)
+captain of the liscorian watch	zevara	2.2 review: Female Drake Watch Captain blames Erin for Klbkch; Zevara has light-blue scales (Book 1, Ch1.26 L84-102; Book 11, Ch6.29 L80)
+cirediel anvi'dualln olic (cire)	cire	2.2 review: Full name of Cire, Shaerrha's ward (Book 18, Interlude_Food_and_Growth L231-233)
+dawil ironbreaker	dawil	2.2 review: Dwarf of Ironbreaker clan; Dawil is the Silver Swords Dwarf (Book 6, Ch4.45 L93; Book 9, Ch5.59 L109)
+dragonspeaker luciva	luciva skybreath	2.2 review: Dragonspeaker of Manus Luciva Skybreath (Book 12, Ch6.33E L29-33)
+ferris	ferris seftpaw	2.2 review: Gnoll [Infiltrator] seeking Erin for Rafaema is Ferris Seftpaw (Book 19, Ch7.48K L316-329; Book 18, Interlude_Meetings_and_Friendships L108)
+first gardener	shaerrha	2.2 review: First Gardener of Oteslia is Shaerrha Brasswing (Book 18, Interlude_Food_and_Growth L207-210)
+gentleman callers	gentlemen callers	2.2 review: Singular spelling of the Brotherhood's Gentlemen Callers (Book 16, Interlude_Chess_and_Ships L127-128)
+gnoll elirr	elirr	2.2 review: Gnoll [Beast Trainer] with the pet shop is Elirr (Book 12, Interlude_Two_Rats L583-616)
+goblin	goblins	2.2 review: Anonymous ragged female Goblin in Book 1; species-level fold (Book 1, Ch1.23 L42-44)
+guards	liscor guards	2.2 review: Guardspeople near the inn gossiping about Erin (Book 6, Ch4.42L L177-183)
+hamburgers	hamburger	2.2 review: Plural of hamburger (Book 2, Ch2.11 L325-346)
+healer	healers	2.2 review: [Healer] class using herbs and spells (Book 1, Ch1.04R L221)
+high king perric of medain	perric of medain	2.2 review: High King of Medain is Perric (Book 16, Ch7.11 L5; Book 15, Ch7.10K L20)
+holders of the wall	wall lords	2.2 review: Wall Lords council opposing Ilvriss (Book 15, Ch7.04 L760-805)
+jecaina of jecrass	jecaina	2.2 review: Jecrass heir [Fencer] with silver bell, duels Mars (Book 15, Ch7.10K L159-227; Ch7.08K L239)
+kenjiro murata (ken)	kenjiro murata	2.2 review: Ken the Japanese student/[Negotiator] (Book 5, Ch1.02D L181; Book 10, Ch6.04D L54)
+lady ieka imarris	ieka imarris	2.2 review: [Mage Lady] of the Circle of Thorns (Book 17, Ch7.28 L395-405)
+lady wuvren	wuvren	2.2 review: Lady Wuvren, [Eternal Beauty] (Book 11, Ch6.27M L618; Book 17, Ch7.20 L1311)
+lism rival-like stall	drake shopkeeper who cheated erin	2.2 review: Shopkeeper who cheated Erin wagers chess; entity is Lism (Book 1, Ch1.19 L63-68)
+lord bein	lord bein terland	2.2 review: Lord Bein of House Terland (Book 16, Ch7.18M L822-843)
+lord hayvon operland	hayvon operland	2.2 review: Lord Hayvon Operland (Book 18, Ch7.34C L196-277)
+montressa du valeross (mons)	montressa du valeross	2.2 review: Montressa nicknamed Mons (Book 4, Wistram_Days_Pt.5 L38-146)
+raekea silversmith	raekea	2.2 review: Gnoll [Armorer] married to Drake Blacksmith (Book 12, Interlude_Two_Rats L152)
+rose knights (knights of the petal)	rose knights	2.2 review: Pink-armoured Rose Knights (Book 6, Ch4.48 L189-191)
+tom (mirror reflection)	alternate tom	2.2 review: Mirror reflection voice is Tom's alternate personality (Book 6, Ch1.04C L170-179)
+ulseil	ulseil greenscale	2.2 review: Councilmember Ulseil Greenscale (Book 8, Ch5.35H L547; Book 11, Ch6.28 L540)
+unnamed young woman (erin)	erin solstice	2.2 review: Burned unnamed girl is Erin in Chapter 1.00 (Book 1, Ch1.00 L4,L15)
+warmage thresk of albez	thresk	2.2 review: Warmage Thresk who made the door trap (Book 18, Interlude_A_Meeting_of_Druids L850; Book 3, Ch3.07H L402)
+wrymvr	wrymvr the deathless	2.2 review: Wrymvr of the Centenium is Wrymvr the Deathless (Book 17, Interlude_A_Night_in_the_Inn L19-23)
+xol of ingrilt	xol	2.2 review: Dullahan War Walker of the Iron Vanguard (Book 11, Ch6.22D L695; Ch6.24D L535)
+zail gemscale	wall lord zail	2.2 review: Ilvriss's father, Wall Lord Zail (Book 15, Ch7.04 L712-753)
+farri	farri sightly	2.2 review: Farri Sightly, Merchant selling to Selys; truth-stone ring (Book 13, Ch6.57 L203).
+fierre the vampire	fierre	2.2 review: Fierre works as information broker/opener (Book 10, Ch6.00 L112); Book 13, Ch6.51A same role.
+goblin lieutenants (former chieftains)	goblin lord lieutenants	2.2 review: Same Snapjaw, Eater of Spears, Eggsnatcher lieutenants (Book 6, Ch4.48 L262).
+goblins at the inn	goblins at erin inn	2.2 review: Same group: Goblins at Erin inn (Book 6, Ch4.40L L219).
+healer demerra	demerra	2.2 review: Same Gnoll Healer Demerra (Book 16, Ch7.17S L162).
+ijvani as imenet	ijvani	2.2 review: Ijvani teleports Zel and Ilvriss (Book 5, Ch4.29 L574); Imenet alias.
+magical door	magic door	2.2 review: Door linking Octavia shop to the inn (Book 10, Ch6.02 L49) matches Magic door (Book 4, Ch3.30).
+oldblood	oldblood drake	2.2 review: Oldblood trait of Drakes; Oldblood Drake entity covers it (Book 5, Ch4.16 L63).
+order	order of seasons	2.2 review: Order offering 400 gold bounty for Belavierr near Filk is the Order of Seasons (Book 12, Ch6.42E L673-675).
+rael	lord rael	2.2 review: Rael Veniford bitten by fae with Oswalt (Book 7, Ch5.11E L471).
+raim	ser raim	2.2 review: Ser Raim ages in the Belavierr fight (Book 12, Ch6.44E L714).
+tom (thomas)	tom	2.2 review: Tom the Clown Level 19 Earther (Book 2, Ch1.00C L24) is the Tom entity.
+wordsmith	krsysl wordsmith	2.2 review: Wordsmith calls Titan a coward (Book 6, S02 Pt.4 L73); Krsysl calls Niers a coward (Book 6, Ch4.47 L73).
+zalthia	zalthia werskiv	2.2 review: Zalthia burned half a forest, Geneva met her (Book 5, Ch1.05D L285).
+adventurers' guild	adventurer guild	2.2 review: Variant of Adventurers' Guild; Goblin-ear bounty (Book 1, Ch1.06R L152)
+archmage nailihuaile (naili)	archmage nailihuaile	2.2 review: Same Archmage, Naili is the nickname (Book 8, Interlude_Blackmage L324)
+bethal aura	bethal walchais	2.2 review: Her [Aura of Thorns] is a trait of Bethal herself (Book 11, Ch6.26 L45-48)
+dungeon beneath liscor	liscor dungeon	2.2 review: Same dungeon below Liscor (Book 3, Ch3.05L L198)
+exam	wistram exam	2.2 review: Wistram entrance exam (Book 4, Wistram_Days_Pt.1 L397; Pt.4 L293)
+farri slightly	farri sightly	2.2 review: Misspelled name; same [Merchant] (Book 14, Ch6.61L L266)
+ferris thycarl	ferris seftpaw	2.2 review: Gnoll minder assigned to Rafaema matches Ferris Seftpaw, Manus agent reporting to Rafaema (Book 15 Interlude_Queens_and_Dragons L143)
+gralton radivaek	gralton	2.2 review: Dog Lord Gralton Radivaek (Book 19, Ch7.55E L719); Gralton facts also name him Radivaek (Book 12, Ch6.42E)
+greybeard / greydath of blades	greydath of blades	2.2 review: Greybeard is already a known alias of Greydath (Book 9, Ch5.53 L238)
+hollowstone deceiver	rock crabs (hollowstone deceivers)	2.2 review: Rock crab creature, not the Drake name (Book 7, Ch5.03 L352)
+krshia message	krshia	2.2 review: Message from Krshia to Ryoka (Book 4, Ch3.37 L489)
+lady magnolia carriage	magnolia reinhart carriage	2.2 review: Same carriage (Book 2, Ch2.27 L521)
+listeners	antinium listeners	2.2 review: Antinium scouts (Book 2, Ch2.15 L36)
+lord belchaus meron	lord belchaus meron (lord bel, the lord of the dance)	2.2 review: Same Lord of the Dance (Book 17, Interlude_The_Gecko_of_Illusions L123)
+mexy	mexisa (mexy)	2.2 review: Nickname form of same seller (Book 17, Ch7.22D L77)
+mister helm	helm	2.2 review: [Blacksmith] of Windrest, same as Helm (Book 8, Ch5.21E L91; Book 5, Ch4.20E L375)
+moths	face-eater moths	2.2 review: Moth horde with brood mothers (Book 7, Ch5.08 L248) matches Face-Eater Moths waves
+oldblood drakes	oldblood drake	2.2 review: Plural of same species/group (Book 7, Ch5.01 L435)
+prost surehand	prost	2.2 review: Prost the villager leader, daughters (Book 5, Ch4.20E L166; Book 12 Ch6.34E L339)
+queen of pop / singer of terandria	cara o'sullivan	2.2 review: Text names her Cara O'Sullivan (Book 17, Ch7.21KQ L544)
+rock crabs ('hollowstone deceivers')	rock crabs (hollowstone deceivers)	2.2 review: Same crab species spelling variant (Book 17, Ch7.23LM L933)
+runner guild celum	runner guild of celum	2.2 review: Celum Runner Guild (Book 7, Ch5.04 L166)
+salkis	lady salkis	2.2 review: Drake [Lady] Salkis (Book 19, Ch7.50 L1408; Book 18, Ch7.38 L938)
+selys grandmother	tekshia shivertail	2.2 review: Leader of Liscor Adventurer's Guild and Selys's grandmother (Book 5, Ch4.26M L306)
+serpent hunters of clais	serpent hunters	2.2 review: Same Jelaim-led String People venom performers (Book 10, Ch6.13K L249; Ch6.14K L105)
+spell books	spellbooks	2.2 review: Plural variant (Book 1, Ch1.40 L114)
+tannousin clan	clan tannousin	2.2 review: Same Tannousin clan (Book 10, Ch6.13K L7)
+teres (teresa)	teres	2.2 review: Trey's twin Teres/Teresa (Book 5, Ch4.00K L95)
+trolls	troll	2.2 review: Plural of Troll (Book 3, Ch3.01E L287)
+unseen owner of the board	niers astoragon	2.2 review: Revealed to be Niers (Book 16, Interlude_Chess_and_Ships L103-110)
+xrn (the small queen)	xrn, the small queen	2.2 review: Same Small Queen Xrn (Book 9, Ch5.60 L386)
+acid fly	acid flies	2.2 review: Singular of acid flies; acid fly burns Erin's palm (Book 1, Ch1.15 L56).
+aiko nonomura	aiko	2.2 review: Japanese Nurse assistant to Geneva; full name of Aiko (Book 5, Ch1.05D L55-69; Book 10, Ch6.06D L57).
+alonna	alonna swiftwing	2.2 review: Alonna is Liscor's Mage's Guild head Alonna Swiftwing (Book 11, Ch6.31 L754); 6.59 explains guild policy.
+antinium grand queen	grand queen	2.2 review: Grand Queen of the Antinium wars; distinct from Small Queen Xrn (Book 2, S02 Pt.2 L115).
+az'kerash chosen	chosen	2.2 review: Az'kerash's Chosen are the Chosen undead group (Book 6, Ch4.49 L158-164).
+blighted king othius iv	othius iv	2.2 review: Blighted King of Rhir is Othius IV; alias already under othius iv (Book 18, Ch7.34C L73).
+cecille	cecille reinhart	2.2 review: Magnolia's aunt Cecille, same as Cecille Reinhart (Book 5, Ch4.26M L59-68).
+celum city watch	celum watch	2.2 review: Celum's watch, same body as celum watch (Book 11, Ch6.18H L833).
+door (erin magic door)	magic door	2.2 review: Erin's magic door, same as magic door (Book 7, Ch5.00).
+drowned man	drowned folk	2.2 review: Drowned person fused with sea creature; singular of Drowned Folk (Book 2, Ch2.22 L415).
+erin door	magic door	2.2 review: Erin's door, same as magic door (Book 6, Ch4.43 L156-168).
+lael	general lael	2.2 review: Lael is the Jecrass General Lael (Book 15, Ch7.08K L135; Book 17, Ch7.27 L59).
+lasica feltail	lasica	2.2 review: Drake Chef Lasica, Rufelt's wife (Book 16, Ch7.11 L82-86).
+lyonette du marquis	lyonette	2.2 review: Full name of Lyonette, princess hiding in the inn (Book 3, Ch3.05L L81).
+necromancer (the)	necromancer	2.2 review: Same title; Ceria on the Necromancer's attack ten years back (Book 1, Ch1.06R L45-50). Not folded into Az'kerash since unproven.
+nerrhavia fallen	nerrhavia	2.2 review: Nerrhavia's Fallen is the nation Nerrhavia (Book 19, Ch7.47K L1206).
+other cities	walled cities	2.2 review: Manus, Fissival, Oteslia, Zeres are Walled Cities (Book 15, Ch7.04 L816-828).
+perorn	perorn sadiluc (fleethoof)	2.2 review: Perorn is the Centauress Strategist Perorn Sadiluc; Tulm hamstrung her (Book 11, Ch6.22D L321).
+queen yisame	queen yisame of nerrhavia	2.2 review: Queen Yisame declaring war is the Nerrhavia queen (Book 16, Ch7.11 L3).
+runner guild of celum	celum runner guild	2.2 review: Same guild (Book 17, Ch7.25 L295; Book 15, Ch7.06 L478).
+second war	second antinium war	2.2 review: Second Antinium War history (Book 6, S02 Pt.3 L149).
+serpents	giant snakes	2.2 review: Dungeon snakes with bolt-stopping scales, same as 6.20D snakes (Book 10, Ch6.06D L873; Book 11, Ch6.20D L18).
+shriekblade	shriekblade (tessa)	2.2 review: Named Adventurer Shriekblade, Tessa (Book 18, Ch7.33I L146).
+teres atwood	teres	2.2 review: Teres/Teresa Atwood, Flos' bodyguard (Book 15, Ch7.10K L111).
+toren (masked)	toren	2.2 review: Toren's female half wears the mask (Book 7, Ch5.05 L19-26).
+watch	liscor watch	2.2 review: Barracks held by Zevara, Relc, Klbkch: Liscor Watch (Book 2, Ch2.19 L231).
+archmage of izril	valeterisa	2.2 review: Ch7.42M: Valeterisa out of seclusion, then "The Archmage of Izril had returned" (L30-40).
+bevia	lady bevia veniford	2.2 review: Ch5.11E L6: Lady Bevia Veniford, Rael's aunt, is the noble riding with him; Veniford matriarch.
+celum gate	celum	2.2 review: Gate of Celum with import tax (Book 2, Ch2.37 L136); part of the city.
+city watch	liscor watch	2.2 review: Ch1.10 L240: Relc says "in our city, the city watch" is voted in; Relc is Liscor Watch.
+earthworlders	earthers	2.2 review: Earthworlders realise they forget families (Book 10, Ch6.07D L139-148); same people as Earthers.
+election results	liscor election	2.2 review: Ch6.49 L138-140 announces the Liscor Council election result.
+esthelm girl	esthelm horror	2.2 review: Florist eats a corpse, becomes Corpse Eater (Book 3, Ch3.17T L202-228); that girl is the Esthelm Horror.
+exploding trees	krakk trees	2.2 review: Ch2.11 exploding bark matches Krakk/boom trees (Book 2, Ch2.00H L229, Ch2.00T L97).
+free antinium queen	free queen	2.2 review: Ch3.34 L373: Queen hosting Tersk, Pivr and Xrn is the Free Queen.
+geram	geram redfist	2.2 review: Rie's Captain of the Guard (Ch4.38B L259) matches Geram Redfist, captain of Rie's guard (Ch4.35E L268).
+goblin stronghold	tremborag city	2.2 review: Ch3.26G L154-156: Rags enters ruined Dwarf-carved mountain city; Tremborag's city is that hollowed mountain (3.28G).
+griffon hunt (halrac, typhenous, revi, briganda, rejoined)	griffin hunt (pun on griffons that hunt griffins)	2.2 review: Halrac, Typhenous, Revi, Briganda are the Griffon Hunt team (Book 17, Ch7.20 L598).
+healing potion (low-grade)	healing potion	2.2 review: Same potion item, low-grade healing (Book 1, Ch1.07 L249-261).
+illivere federation	illivere	2.2 review: Federation of crafter-states led by Magus-Crafter (Book 19, Interlude L198; Book 13, Ch6.52K L197): same polity.
+klbkch queen	free queen	2.2 review: Ch4.07 L141-143: Klbkch's Queen resurrected and altered him, lacks resources; the Free Queen.
+mansion	archmage mansion	2.2 review: Ch7.41 L115-126: false mansion with landmines, real one invisible; matches Archmage's mansion.
+mountain city	tremborag city	2.2 review: Ch5.32G L487: "Tremborag's mountain was lost... Mountain City tribe" fled; the city of Tremborag.
+perorn fleethoof	perorn sadiluc	2.2 review: Centauress Strategist friend of Niers; Perorn Sadiluc is called Fleethoof (Book 11, Ch6.24D L280).
+rags lieutenants	rags' lieutenants	2.2 review: Same group: Rags' lieutenants debate her future (Book 6, Ch4.39G L50-100).
+richard davenport	richard	2.2 review: Knight leader from Mississippi (Book 2, Ch1.00C L19) matches cowboy Knight leader (Book 6, Ch1.02C L10).
+salvia	captain salvia	2.2 review: Nonelmar cavalry captain Salvia (Book 6, Ch4.47 L14) matches Human cavalry leader Captain Salvia (Ch4.48 L157).
+spellbook	spellbooks	2.2 review: Singular of spellbooks (Book 7, Ch5.06M L147-160).
+titan	niers astoragon	2.2 review: The Titan, leader of the Forgotten Wing (Book 3, Ch1.00D L197; Book 10, Ch6.06D L626); title of Niers.
+trebuchets	trebuchet	2.2 review: Plural of trebuchet (Book 6, Ch4.35E L87; Book 8, Ch5.31G L119).
+wall lord of the wall	wall lords	2.2 review: Wall Lords' lineage and duty (Book 6, Ch4.43 L378).
+wistram archmages	archmages	2.2 review: Counts of Archmages by continent (Book 17, Interlude_The_Gecko_of_Illusions L5-9).
+witch eloise	eloise	2.2 review: Tea-Witch on Laken's council (Book 19, Ch7.55E L19).
+antinium hive in liscor	antinium hive	2.2 review: Liscor's Antinium Hive population estimate (2.31 L471); same Hive as antinium hive facts.
+bevia veniford	lady bevia veniford	2.2 review: Rael's aunt Bevia Veniford is Lady Bevia Veniford (5.11E L6).
+dame talia	talia kallinad	2.2 review: Dame Talia leads Spring/Summer Knights home (6.45E L91); Talia Kallinad is Dame and Summer Knight (6.42E L422).
+erin magic door	magic door	2.2 review: Erin's magic door ferrying people (7.18M L418); magic door facts describe Erin's door.
+insill and team	insill	2.2 review: Facts concern Insill, suspected prodigy (4.08T L426).
+joseph ortega	joseph	2.2 review: Joseph captains football team (7.44 L97); joseph facts show football Kicker (7.26).
+lady pryde	pryde ulta	2.2 review: Lady Pryde of House Ulta sends bench-press lists (Sand_and_Notes L356); same Lady of Pride.
+nali-stick	nali-sticks	2.2 review: Same Baleros sugarcane snack, singular form (6.05D L264).
+palt team	wistram team	2.2 review: Palt, Isceil, Beza, Montressa, Ulinde team (6.64 L392; 6.61L).
+perorn sadiluc	perorn sadiluc (fleethoof)	2.2 review: Perorn Sadiluc called Fleethoof (6.24D L280).
+queens	antinium queens	2.2 review: Queens not susceptible to wheat, Antinium prototype note (Queens_and_Dragons L57).
+rags officers	rags lieutenants	2.2 review: Redscar, Noears, Poisonbite, Rockfall Chieftain are Rags's lieutenants (5.19G L194; 4.39G L50).
+teliv	teliv witherscale	2.2 review: Liscor Negotiator Teliv (7.53 L557); Teliv Witherscale is the Negotiator (6.49).
+therrium	therrium sailwinds	2.2 review: Drowned captain Therrium orders Glisal (Strategists_at_Sea_Pt._2 L1375); Sailwinds is Drowned captain.
+three-color stalker	foliana	2.2 review: Three-Color Stalker also called Commander Foliana (4.44M L93-120).
+united nations	united nations company	2.2 review: Founded as a company (1.06D L494).
+wesle salkie	wesle salkis	2.2 review: Method Actor Wesle (7.50 L632); same man as wesle salkis.
+witch hedag	hedag	2.2 review: Axe-wielding Witch Hedag on Laken's council (7.55E L19); hedag is the Executioner Witch.
+xenic	captain xenic	2.2 review: Xenic killed after warning Seagrass (Strategists_at_Sea_Pt._2 L304); same ship story.
+adult	adult creler	2.2 review: Same Creler killed in same chapter as Adult Creler facts (Book 14, Ch6.66H)
+baosar	baosar yeothrix	2.2 review: Baosar stabbed by Trey in A'ctelios; Baosar Yeothrix is its ruler, same chapter (Book 15, Ch7.09K)
+eliasor	eliasor melissar	2.2 review: Child head of House Melissar, same person (Book 5, Ch4.06KM; Book 11, Ch6.27M)
+fluffles the sixth	fluffles	2.2 review: Fluffles the Sixth is the current Fluffles sheep (Book 19, Ch7.45 L85-88)
+general sserys of liscor	sserys	2.2 review: Liscor general in the Antinium Wars; same Sserys (Book 2, S02 Pt.1 L43-46)
+gnoll	gnolls	2.2 review: Singular of the Gnoll species (Book 1, Ch1.13)
+guildmistress tekshia	tekshia shivertail	2.2 review: Guildmistress Tekshia is Tekshia Shivertail (Book 8, Ch5.28)
+hetarria	mage-captain hetarria	2.2 review: Drake Necromancer leading the Bone Behemoth, same person (Book 18, Ch7.34C, 7.35C)
+knight-commander calirn	calirn	2.2 review: Winter Knight commander is Calirn (Book 12, Ch6.42E)
+lady bevia	lady bevia veniford	2.2 review: Charm Skill and lent mage match Bevia Veniford (Book 8, Ch5.21E, 5.32G)
+lady pryde of house ulta	pryde ulta	2.2 review: Lady of Pride of House Ulta who crushes attackers (Book 11, Ch6.27M)
+liscor guards	liscor watch	2.2 review: Guards gossiping in Liscor are the Watch (Book 1, Ch1.14)
+lord tyrion veltras	tyrion veltras	2.2 review: Same Lord Tyrion Veltras (Book 6, Ch4.47)
+magnolia reinhart carriage	magnolia carriage	2.2 review: Magnolia's ghostly-horse carriage (Book 6, Ch4.38B; Book 3, Ch3.10)
+reric	reric feltpaw	2.2 review: Gnoll thief caught by Klbkch's patrol, same chapter (Book 14, Ch6.61L)
+rock-crab	rock crabs (hollowstone deceivers)	2.2 review: Rock-crab is the same Hollowstone Deceiver species (Book 1, Ch1.02)
+sammial	sammial veltras	2.2 review: Tyrion's ten-year-old son (Book 17, Ch7.24)
+united nations company (geneva scala, daly, paige, luan) in baleros	united nations company	2.2 review: Same Earther company; penicillin (Book 18, Ch7.34C)
+wesle salkis	wesle	2.2 review: Fuzzylips, former Celum Guardsman, same Wesle (Book 2, Ch2.37; Book 14, Ch6.63P)
+yellow rivers disease	yellow rivers	2.2 review: Same STD, Geneva wants antibiotics (Book 17, Ch7.22D; Book 18)
+zekyria	lady zekyria	2.2 review: Lady Zekyria, twin of Theras (Book 6, Ch1.04C, 1.05C)

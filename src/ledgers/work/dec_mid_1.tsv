@@ -1,0 +1,133 @@
+key	decision	target	etype	note
+aaron	fold	aaron vanwell		Aaron in Wistram building magicore batteries, same as Aaron Vanwell/Blackmage (Book 18, Ch7.29B L929-935).
+adventurer guild	keep		org	Adventurer's Guild of Liscor; distinct from other city branches (Book 1, Ch1.13 L3).
+agratha	keep		person	Witch and Teacher, school of magic ambition (Book 19, Ch7.55E L73).
+alais	keep		person	Silver-rank captain of Thunder's Solace, Aeromancer (Book 13, Ch6.56 L667).
+alevica	keep		person	City Runner and Witch (Book 12, Ch6.35 L227-234).
+americans	keep		other	Group of summoned Americans in Rhir; distinct from Earthers on Izril (Book 6, Ch1.02C L36).
+antinium hive	keep		place	Liscor's Free Antinium Hive: entrances, treasury, Queen (Book 1, Ch1.44 L150).
+antinium soldiers	keep		species	Antinium Soldier caste: traits, mess hall deaths (Book 3, Ch3.06L L454).
+archmage feor	keep		person	Half-Elf Archmage of Wistram, Centrist (Book 8, ChInterlude_Blackmage L6).
+ashfire bees	keep		creature	Giant bees whose real name is Ashfire Bees (Book 2, Ch2.37 L61).
+bearclaw	keep		person	Plains Gnoll criminal killed by Raskghar (Book 17, ChInterlude_The_Gecko_of_Illusions L1094).
+beilmark	keep		person	Gnoll Senior Guardswoman, partner Jeiss (Book 14, Ch6.61L L684-697).
+bezale	fold	beza		Bezale of Maweil, Minotaur Spellscribe, is Beza of the Wistram team; candidate "beza (bezale)" confirms (Book 14, Ch6.61L L236-237).
+blood fields	fold	bloodfields		Same red biome south of Liscor; spelling variant (Book 1, Ch1.23 L98).
+briganda	keep		person	Shield Maiden of Griffon Hunt (Book 16, Ch7.15R L636-661).
+calac	keep		person	Venith's son (Book 5, Ch4.02K L121-124).
+calvaron	keep		person	Centaur full student at Wistram (Book 4, ChWistram_Days_Pt.1 L277).
+cave goblin	fold	cave goblins		Singular form for individual Cave Goblins of the Raskghar-subjugated tribe (Book 8, Ch5.35H L621-650).
+centaurs	keep		species	Centaur species traits (Book 5, Ch1.03D L346-350).
+cetris duiland	keep		person	Mayor of Celum (Book 15, Ch7.07 L807-811).
+chat	keep		other	The magical group chat screen for summoned Earthers (Book 2, ChInterlude_The_Call L7).
+circle of thorns	keep		org	Secret noble society of lesser nobility (Book 17, Ch7.24 L5-8).
+classes	topic		topic	General class-system lore; no owning entity (Book 1, Ch1.27 L17).
+council	split	wistram council|liscor council		Facts mix Wistram leaders council (Book 4, Wistram_Days_Pt.2 L342) and Liscor city Council (Book 11, Ch6.31 L161).
+crelers	keep		creature	Creler monsters, egg-laying threat (Book 7, Ch5.06M L277).
+dame truvia	keep		person	Knight of the Petal in pink armour, feud with House Averin (Book 12, Ch6.35 L196-205).
+dekass	keep		person	Prognugator of the Armored Antinium (Book 15, ChStory_2_Tersk_and_Dekass L6).
+door	keep		item	Erin's magic door; same referent as 'magic door' (Book 7, Ch5.00 L289-299). Ch1.08 fact is the inn door.
+dullahans	keep		species	Dullahan species traits (Book 10, Ch6.04D L679).
+earth group	keep		other	Ten Earther students rescued by Magnolia (Book 2, Ch2.30 L183-202); separate from other summoned groups.
+eater of spears	keep		person	Hob chieftain of Rockbreakers Tribe; same Hob across facts (Book 9, Ch5.55G L166-167).
+elia arcsinger	keep		person	Half-Elf archer called Kingslayer (Book 9, Ch5.48G L337-338).
+eltistiman verdue	keep		person	Green-haired Magician, Players audition (Book 14, Ch6.63P L772-798).
+empress of sands	keep		person	Stitchfolk Emperor of Sands, body-changing ruler; nation is separate Empire of Sands (Book 7, Ch5.02 L134).
+erin inn	fold	wandering inn		Erin's inn is the Wandering Inn (Book 1, Ch1.20 L204-219).
+esthelm	keep		place	Town south of Liscor, burned (Book 2, Ch2.41 L45).
+face-eater moths	keep		creature	Moth swarm from the dungeon (Book 7, Ch5.07 L375-380).
+faerie flowers	keep		item	Faerie Flowers, shrinking nectar and golden blooms (Book 2, Ch2.20 L30-35).
+female goblins	keep		species	Subgroup of Goblins; not provably one referent with goblins (Book 2, S01_Mating_Rituals L478).
+feshi	keep		person	Weatherfur Gnoll with Shaman class (Book 17, ChInterlude_Strategists_at_Sea_Pt._1 L803-806).
+five families	keep		org	Five noble Families of Izril (Book 12, Ch6.45E L68).
+fool	keep		person	Royal Fool of Rhir, juggler (Book 6, Ch1.03C L84).
+frost fairies	fold	frost faeries		Same winter fey; spelling variant (Book 2, Ch2.08 L183).
+galina	keep		person	Earther actress joining the Players (Book 18, Ch7.30 L524-547).
+garen red fang	fold	garren redfang		Chieftain Garen Redfang, Hob who speaks Human (Book 2, Ch2.02G L293).
+garusa weatherfur	fold	garusa		Gnoll General Garusa Weatherfur of Longstride Clan (Book 5, Ch4.16 L5-10).
+gerald	keep		person	Captain of Kyrial's Pride (Book 1, Ch1.00H L48).
+gnoll tribes	keep		org	Gnoll tribes collectively (Book 2, Ch2.39 L212).
+goblin child	keep		other	Descriptive phrase for unrelated young Goblins; not provably one referent (Book 1, Ch1.15 L67-79).
+goblinhome	keep		place	Goblin fortress in the High Passes (Book 16, Ch7.12G L84).
+gralton	keep		person	Dog Lord Gralton Radivaek (Book 12, Ch6.42E L90-99).
+gresaria	keep		person	Elderly Five Families lady, rival of Maviola (Book 18, ChInterlude_Meetings_and_Friendships L433).
+half-elves	keep		species	Half-Elf species traits (Book 2, Ch2.00H L9).
+heartflame breastplate	keep		item	Drake national treasure armour (Book 7, Ch5.17S L50-52).
+hedault	keep		person	Enchanter of Invrisil (Book 4, Ch3.36 L293-305).
+hethon	keep		person	Son of Tyrion Veltras (Book 17, Ch7.24 L396-417).
+himilt val lischelle-drakle	keep		person	Vampire farmer, Fierre's father (Book 19, Ch7.45 L11-14).
+hollowstone deceiver (drake name)	keep		creature	Rock Crab, Drake name Hollowstone Deceiver (Book 1, Ch1.23 L107).
+humans	keep		species	Humans as species (Book 1, Ch1.28 L225).
+invrisil	keep		place	City of Adventurers; one fact misfiled about Goblin Lord (Book 14, Ch6.63P L395).
+ishkr	keep		person	Gnoll Waiter at the inn (Book 5, Ch4.14L L18).
+jecrass	keep		place	Nation of River Wardens (Book 15, Ch7.08K L117).
+jelov	keep		person	Carver of Windrest (Book 5, Ch4.21E L115-123).
+karsaeu-dequoa	keep		person	Djinni driver of the Unmarked Coach (Book 18, ChInterlude_Carriages_and_Conversations L52).
+kevin	keep		person	Earther from California (Book 18, Ch7.38 L570-575).
+kitchen	keep		place	Kitchen of the inn with rune cupboards (Book 1, Ch1.05 L25-57).
+lady bevia veniford	keep		person	Older Lady sheltered in Riverfarm (Book 8, Ch5.31G L366-370).
+lady rie	fold	rie valerund		Lady Rie, last of the Valerund family (Book 7, Ch5.09E L96-97).
+levelling	topic		topic	Lore of how levelling works (Book 1, Ch1.07 L195-197).
+lir	keep		person	Mage-captain of Kyrial's Pride (Book 1, Ch1.01H L94-102).
+liscor council	keep		org	Council of Liscor (Book 17, Ch7.23LM L366).
+lord pellmia	fold	pellmia		Lord Pellmia, about sixty, leads Tyrion's cavalry (Book 9, Ch5.47G L508).
+luciva skybreath	keep		person	Dragonspeaker of Manus (Book 12, Ch6.33E L29-33).
+mage at riverfarm relaying laken messages	keep		person	Nesor, young Mage relaying Laken's messages (Book 8, Ch5.22G L6).
+manus	keep		place	Walled City of War (Book 12, Ch6.33E L6-18).
+marian	keep		person	Mostly Centauress Marian Felthof (Book 11, Ch6.22D L98); Ch1.00H Elementalist Marian may be a homonym.
+merish	keep		person	Plain's Eye Gnoll Shamanic Warrior (Book 18, Ch7.34C L824-868).
+mihaela godfrey	keep		person	Courier turned Guildmistress of First Landing; lungs damaged by Wrymvr (Book 19, Ch7.44 L812-814).
+nalth	keep		person	Druid Nalthaliarstrelous, Magnolia's gardener (Book 18, ChInterlude_A_Meeting_of_Druids L568).
+nawalishifra tannousin	keep		person	Blacksmith of Clan Tannousin (Book 10, Ch6.12K L737).
+noears	keep		person	Earless Goblin Spellcaster (Book 4, Ch3.28G L229).
+odveig	keep		person	Alias of spy Sacra (Book 5, Ch4.22E L351-376); separate key sacra exists, merge pending.
+order of seasons	keep		org	Knightly Order of four Seasons (Book 12, Ch6.42E L438).
+othius iv	keep		person	Blighted King of Rhir (Book 6, Ch1.03C L13).
+painted soldiers	keep		org	Painted Antinium Soldiers led by Pawn (Book 7, Ch5.12 L15,L32).
+peki	keep		person	Garuda Martial Artist from Pomle (Book 16, ChInterlude_Chess_and_Ships L183).
+periss	keep		person	Ilvriss's second-in-command; Ch4.45 is a dream (Book 6, Ch4.45 L416-423).
+petals of death	keep		org	Noble conspirators voting to kill Magnolia (Book 17, Ch7.24 L52-80).
+pomle	keep		place	Martial-artist oasis nation in Chandrar (Book 16, ChInterlude_Dancing_and_Brawling L172).
+quallet marshhand	keep		person	Captain of Gravetender's Fist (Book 5, Ch1.02D L15).
+quietstab	keep		person	Hob Rogue killed by Tremborag (Book 9, Ch5.50G L517-518).
+rasea zecrew	keep		person	Pirate Captain Rasea the Shining (Book 17, ChInterlude_Strategists_at_Sea_Pt._1).
+raverian fighters	keep		org	Mercenary company Geneva joins (Book 3, Ch1.00D L31-36).
+red fang tribe	keep		org	Goblin Red Fang tribe of Garen; redfang tribe spelling variant exists (Book 2, Ch2.00G L161).
+regis	keep		person	Regis Reinhart, ancestor spying on descendants (Book 5, Ch4.26M L129-138).
+remi canada	keep		person	Wistram Reporter/Journalist (Book 13, Ch6.52K L773-782).
+richard	keep		person	Earther Knight from Mississippi (Book 18, Ch7.34C L196-235).
+ruins of albez	keep		place	Ruined magical kingdom near Celum (Book 1, Ch1.02R L2-6).
+runners	keep		class	Runner profession and Guild (Book 1, Ch1.01R L110-115).
+sadomere	keep		place	Border city taken by Reim, renamed Drevish's Madness (Book 17, Ch7.21KQ L495).
+salii	keep		person	Drake Secretary in Pomle (Book 18, ChInterlude_Sand_and_Notes L84-85).
+seve-alrelious	keep		person	Hundredfriends Courier (Book 19, Ch7.49 L573-582).
+shorthilt	keep		person	Redfang Hob, Weapon Expert (Book 8, Ch5.41 L589-598).
+silver swords	keep		org	Gold-rank team led by Ylawes (Book 7, Ch5.07 L82-83).
+sir vumat	keep		person	Facts are the Antinium Worker Knight (Book 1, Ch1.43 L243), misfiled; real Sir Vumat is a Human Knight (Book 9, Ch5.62 L1167).
+snapjaw	keep		person	Hob with metal teeth leading riders (Book 9, Ch5.62 L156-162).
+soldiers	topic		topic	Generic heading mixing Periss's soldiers, Geneva's soldiers, Antinium Soldiers (Book 2, Ch2.25 L286; Book 3, Ch3.22L L25).
+sserys	keep		person	General Sserys, hero of the First Antinium War (Book 2, S02_The_Antinium_Wars_Pt.2 L5).
+stone spears	keep		org	Gnoll Stone Spears tribe, chief Urksh (Book 2, Ch2.28 L213); stone spears tribe has 1 fact.
+tailless thief	keep		place	Liscor inn run by Peslas (Book 5, Ch4.09 L2,L51).
+talia	keep		person	Talia Kallinad, Summer Knight of the Order (Book 14, ChInterlude_Talia L80-85); talia kallinad key has fewer facts.
+telim	keep		person	Wistram High Mage from Baleros (Book 18, Ch7.29B L700-712).
+termin	keep		person	Wagon Driver Ryoka rescued (Book 19, Ch7.52 L17-19).
+theofore	keep		person	Assassin working for Magnolia (Book 11, Ch6.27M L691-703).
+thrissiam	keep		person	Drake Lineholder General, lover of Garusa (Book 5, Ch4.16 L184); thrissiam blackwing has fewer facts.
+tiqr	keep		place	Empire of Beasts nation in Chandrar (Book 13, Ch6.52K L114-120).
+tulm	keep		person	Dullahan mithril second-in-command of Iron Vanguard (Book 11, Ch6.22D L260).
+ulinde	keep		person	Selphid Spellslinger of Wistram team (Book 14, Ch6.62L L686-694).
+undead	keep		creature	Undead as general type with varied instances (Book 5, Ch4.16 L296).
+urksh	keep		person	Chieftain of Stone Spears Tribe (Book 2, Ch2.23 L21).
+vampires	keep		species	Vampire species traits (Book 10, Ch6.01 L330).
+venitra, disguised	fold	venitra		Regrika Blackpaw is Venitra in disguise; master sent her to kill Ryoka (Book 5, Ch4.30 L194-199).
+viltach	keep		person	Human Archmage of Wistram (Book 15, Ch7.10K L778-786).
+walled cities	keep		org	Drake Walled Cities collectively (Book 6, Ch4.47 L212-216).
+wesle	keep		person	Wesle Salkis, nicknamed Fuzzylips; wesle salkis is variant with fewer facts (Book 14, Ch6.63P L25).
+windrest	keep		place	Halrac's home village, burned (Book 18, Ch7.40ER L9-12).
+wistram team	keep		org	Five Wistram Mages sent to Liscor (Book 14, Ch6.61L L179-210).
+wyvern lord	keep		creature	Greater Wyvern leading weyr (Book 15, Ch7.02 L628-632).
+xif	keep		person	Gnoll Alchemist of Cunning Crafts (Book 12, Ch6.39 L377).
+yerranola	keep		person	Strategist who loses body to Seagrass (Book 17, ChInterlude_Strategists_at_Sea_Pt._2 L1284-1290).
+yitton byres	keep		person	Head of House Byres, father of Ylawes and Yvlon (Book 9, Ch5.52 L324-331).
+zel body	fold	zel shivertail		Zel's preserved body delivered by Magnolia (Book 7, Ch5.16S L425-439).

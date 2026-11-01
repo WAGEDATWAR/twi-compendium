@@ -1,0 +1,129 @@
+type	key_or_term	display_or_kind	target	candidates_or_note
+ENTITY	admiral dakelos	Admiral Dakelos		lord admiral seagrass (1)
+ENTITY	athal	Athal		
+ENTITY	bastion-general	Bastion-General		general duln (2) | general sserys (2) | lady magnolia reinhart (young), lord tyron veltras and general sserys (1) | general lael (1) | general edellein blackwing (1) | general thelican (1)
+ENTITY	bezha	Bezha		beza (13)
+ENTITY	black tide	The Black Tide		black rose senders named by runners (1) | black judgment (1) | antinium-made black alcohol (1) | black roses at magnolia gate (1)
+ENTITY	bloodtear pirates	Bloodtear Pirates		pirates (1)
+ENTITY	caddin	Caddin		
+ENTITY	cameral	Cameral		yerranola and cameral (2)
+ENTITY	celestial trackers	Celestial Trackers		celestial trackers' scout (1)
+ENTITY	chief warrior	Chief Warrior		first of the chosen (undead gnoll; same name as the gnoll warrior-chieftain zel references) (2) | level 12 warrior (1) | chief (1) | chief miner ikrr (1)
+ENTITY	ci	Ci		
+ENTITY	claiven earth	Claiven Earth		earth group (7) | earth students (1)
+ENTITY	crafters	Crafters		crafter se (1)
+ENTITY	dawn concordat	Dawn Concordat		
+ENTITY	demon king	Demon King		goblin king (10) | king (4) | king of minotaurs (2) | last goblin king (1) | goblin king invasion (1) | king raelt of jecrass (1)
+ENTITY	desk sergeant	Desk Sergeant		sergeant relc (138) | sergeant of the painted antinium (28)
+ENTITY	drath	Drath		
+ENTITY	draugr	Draugr		draug (0)
+ENTITY	dwarf	Dwarf		
+ENTITY	elf	Elf		
+ENTITY	facestealer	Facestealer		
+ENTITY	flooded waters tribe	Flooded Waters tribe		flooded waters + cave goblins + redfangs (1) | flooded waters remnant (1) | rags tribe, per lady rie (15) | red fang tribe (7) | redfang tribe (6) | goblin tribe (2)
+ENTITY	giant	Giant		giants (0) | giant snakes (1) | giant bees (1)
+ENTITY	golem	Golem		golems (0) | snow golem (3) | flesh golem (1) | cognizant-overseer golem, sela-ceramic body (1) | frost golem (1) | golem theory (1)
+ENTITY	gorgon	Gorgon		gorgons (0)
+ENTITY	griffins	Griffins		griffin hunt (pun on griffons that hunt griffins) (28)
+ENTITY	hamlet	Hamlet		
+ENTITY	hemp	Hemp		octilla hemp (1)
+ENTITY	house kallinad	House Kallinad		wil kallinad (23) | talia kallinad (3) | wil kallinad group (1) | house byres (2) | house walchais (2) | house veltras (1)
+ENTITY	invek	Invek		
+ENTITY	jelaim	Jelaim		
+ENTITY	jurix	Jurix		illphres, jurix, bastam, ophelia, qum (1) | jurix (dullahan), bastam (drake), ophelia (stitch-woman) (1)
+ENTITY	kissilt	Kissilt		
+ENTITY	lady dealia	Lady Dealia		rags tribe, per lady rie (15) | sir kerrig, knight sworn to lady bethal walchais (13) | lady coloseuvia (9) | lady rie (7) | lady magnolia reinhart (5) | lady bevia veniford (4)
+ENTITY	leafarmor	Leafarmor		
+ENTITY	levrhine	Levrhine		
+ENTITY	lord alman	Lord Alman		alman sanito and lord ranga (1) | goblin lord (36) | wyvern lord (5) | lord pellmia (4) | goblin lord army (4) | crypt lord (3)
+ENTITY	magus-crafter	Magus-Crafter		first crafter inerta of elbe (1) | crafter se (1) | high magus laisa (2) | high magus arneit (1) | high magus laisa and five other high mages (1)
+ENTITY	mendi	Mendi		
+ENTITY	merreid	Merreid		
+ENTITY	miss iglesias	Miss Iglesias		miss hastel (2) | miss ediya (1) | neighbor miss zailky (1)
+ENTITY	named-rank adventurers	Named-rank adventurers		adventurers (mostly gold-rank, two named adventurers) (1) | gold-rank adventurers (4) | silver-rank adventurers (1) | named adventurers (1) | bronze-rank adventurers (0) | adventurers (13)
+ENTITY	noelictus	Noelictus		witch hunters of noelictus (1)
+ENTITY	ossky	Ossky		
+ENTITY	potion of youth	Potion of Youth		healing potion (4) | ryoka potion (1) | healing potion (low-grade) (1) | teriarch orange-pink potion (1) | octavia stamina potion (1)
+ENTITY	quelm	Quelm		
+ENTITY	redit	Redit		
+ENTITY	river wardens	River Wardens		hell wardens / crelerbane (1)
+ENTITY	second antinium war	Second Antinium War		second antinium wars, a history (1) | antinium war band (1) | first antinium war (1) | second war (1) | prognugator of the free antinium (false claim to the watch) (91) | antinium (57)
+ENTITY	ser slayer	Ser Slayer		ser raim (6) | ser raim of the season of summer (1) | ser vorn (0) | ser thornst (0)
+ENTITY	ser vorn	Ser Vorn		ser raim (6) | ser raim of the season of summer (1) | ser slayer (0) | ser thornst (0)
+ENTITY	silent antinium	Silent Antinium		prognugator of the free antinium (false claim to the watch) (91) | antinium (57) | grand queen of the antinium (49) | sergeant of the painted antinium (28) | queen of the free antinium (16) | antinium workers (14)
+ENTITY	sir relz hauscale	Sir Relz Hauscale		sir relz hauscale and watch captain venim (1) | sir relz and noass (4) | noass and sir relz (1) | sir kerrig, knight sworn to lady bethal walchais (13) | sir vumat (7) | sir molte (2)
+ENTITY	squirrel-woman	Squirrel-woman		stitch-woman (19) | plague zombie woman, one of az'kerash chosen (2) | unnamed young woman (erin) (2) | jurix (dullahan), bastam (drake), ophelia (stitch-woman) (1)
+ENTITY	sylind	Sylind		
+ENTITY	thunderfur	Thunderfur		
+ENTITY	tottenval	Tottenval		
+ENTITY	true antinium	True Antinium		prognugator of the free antinium (false claim to the watch) (91) | antinium (57) | grand queen of the antinium (49) | sergeant of the painted antinium (28) | queen of the free antinium (16) | antinium workers (14)
+ENTITY	undersea crews	Undersea Crews		
+ENTITY	viri	Viri		
+ENTITY	warden winta	Warden Winta		
+ENTITY	watchertree	Watchertree		
+ENTITY	wishdrinks	Wishdrinks		
+ENTITY	zalaiss	Zalaiss		
+ENTITY	zeikhal	Zeikhal		
+DECISION	Earth	stop		Real-world Earth, the homeworld of the transported humans.
+DECISION	Majesty	stop		Address form for a king (His Majesty).
+DECISION	Company	stop		Common noun for a mercenary or military company; not a single entity.
+DECISION	Lizardgirl	alias	quexa	Descriptor for Quexa, the Lizardgirl with magic in the zombie-fighting group.
+DECISION	Romeo	alias	romeo and juliet	Character from the Earth play Romeo and Juliet quoted by Erin.
+DECISION	Juliet	alias	romeo and juliet	Character from the Earth play Romeo and Juliet quoted by Erin.
+DECISION	Heaven	stop		Religious reference to Heaven in an Earth prayer.
+DECISION	The Lizardman	stop		Generic descriptor for an unnamed Lizardfolk man.
+DECISION	Lizardwoman	stop		Generic descriptor for an unnamed Lizardfolk woman.
+DECISION	Miss Byres	alias	yvlon	Address form for Yvlon Byres.
+DECISION	Mountain	alias	mountain city	Short form of the Mountain tribe whose Great Chieftain Tremborag rules.
+DECISION	His Majesty’s	stop		Address form for a king.
+DECISION	Earth’s	stop		Possessive of Earth, the real-world homeworld.
+DECISION	King of Jecrass	alias	king raelt of jecrass	The ruling [King] of Jecrass, Raelt.
+DECISION	Assembly	alias	assembly of crafts	The Assembly electing representatives from Guilds, as Pallass's governing body.
+DECISION	Spider	alias	belavierr	Epithet of Belavierr as the Spider.
+DECISION	Aunt	stop		Kinship address form.
+DECISION	Stitch-Man	alias	stitch-folk	Singular of the Stitch-folk, e.g. Hasil.
+DECISION	Players of Liscor	alias	players	Name the Players of Celum branch adopts in Liscor.
+DECISION	Miss	stop		Address form for a woman, not an entity.
+DECISION	Gold-ranks	alias	gold-rank adventurers	Plural for Gold-rank adventurers, here a team demanding others move aside.
+DECISION	Master	stop		Address form used by an apprentice speaking to his master.
+DECISION	Silverfang	alias	silverfang tribe	Short form of the Silverfang Gnoll tribe.
+DECISION	Byres	alias	byres family	Surname of the noble Byres family whose mirror is locked to their hands.
+DECISION	Army	alias	first unified army	In Antinium Wars context the First Unified Army under General Sserys.
+DECISION	Macbeth	stop		Earth play quoted by Erin in a dream.
+DECISION	Shassa	alias	shassa weaverweb	Druid who understands Mrsha.
+DECISION	Peclir	alias	peclir im	Servant of Niers who clears his dishes.
+DECISION	Forgotten Wing Company	alias	forgotten wing	Mercenary company, one of the Four Great Companies of Baleros.
+DECISION	The Golem	alias	snow golem	Context shows a classic three-orb Snow Golem.
+DECISION	My King	stop		Address form.
+DECISION	Red Fang	alias	red fang tribe	Short form of the Red Fang Goblin tribe, strongest tribe near the High Passes with six Hobs.
+DECISION	The Gold-ranks	alias	gold-rank adventurers	Senior Gold-rank teams outlining a raid plan.
+DECISION	Great Company	alias	great companies	One of the major mercenary companies of Baleros.
+DECISION	The Slayer	alias	klbkch	Klbkch the Slayer, Antinium of the Wars.
+DECISION	His Carn Wolf	alias	carn wolf	Goblin warrior's wolf mount.
+DECISION	Season	alias	order of seasons	Knightly Season to which Sir Kelm belongs.
+DECISION	Deilan	alias	deilan el	Likely next leader chosen by an elder.
+DECISION	Your Majesty	stop		address form
+DECISION	Dwarf	alias	dwarves	Generic species singular for Dwarves; first use refers to Dawil.
+DECISION	The Minotauress	alias	minotaurs	Unnamed Minotaur woman who strides toward Pisces in the street; no personal name found, so mapped to the species.
+DECISION	Street Runner	alias	runners	Ryoka's term for a [Runner] working city streets, such as Garia.
+DECISION	Antinium Wars	alias	first antinium war	Wars against the Antinium, remembered by Ceria with dread.
+DECISION	Lizardman	alias	lizardfolk	A male Lizardfolk soldier carried out screaming after Geneva treats him.
+DECISION	Scales	alias	tails and scales	Short form of the Pallass bar Tails and Scales.
+DECISION	King Reimarch	alias	flos	Flos Reimarch, King of Destruction, is greeted as King Reimarch by Germina's envoy.
+DECISION	Liscorian	alias	liscor	Demonym for Liscor, as in Liscorian law on Goblins.
+DECISION	Uncle	stop		address form Osthia uses for Thrissiam
+DECISION	Floor	stop		numbered floor of a building, not an entity
+DECISION	Vaitsha	alias	vaitsha zectiou	Highborn Vaitsha Zectiou of Germina.
+DECISION	Lady Walchaís	alias	bethal walchais	Lady Bethal Walchaís, whose mount is unarmored.
+DECISION	Antinium War	alias	first antinium war	Zel fears an unauthorized Hive would mean another Antinium War.
+DECISION	Seve	alias	seve-alrelious	Seve is guided by the Nelgaunt; his ink friends came from the Empire of Drath.
+DECISION	The Dwarf’s	alias	dawil	Possessive of Dawil, whose breath reeks of alcohol.
+DECISION	Dwarven	alias	dwarves	Adjective for Dwarves, as in a Dwarven crossbow.
+DECISION	Liscor’s Hive	alias	antinium hive in liscor	The Antinium Hive in Liscor, home to Xrn.
+DECISION	Strongest	stop		descriptive noun for the strongest Goblin killed; not an entity
+DECISION	Urele	alias	lady urele	Bandit Lady Urele approaches Femithain and Nsiia.
+DECISION	Lord Byres	alias	lord yitton byres	Lord Yitton Byres is addressed by Lord Tyrion.
+DECISION	Yisame	alias	queen yisame	Queen Yisame, whom all beholders are drawn to.
+DECISION	The Sister of Chell	alias	sisters of chell	A Sister of Chell travels with the Enforcer and Nightstalker.
+DECISION	Nawalishifra of Clan Tannousin	alias	nawalishifra tannousin	Smith who pledged to forge a blade for Flos.
+DECISION	Welsca	alias	welsca crimsonscale	Red-scaled Drake slides across the bathhouse floor before Ryoka.

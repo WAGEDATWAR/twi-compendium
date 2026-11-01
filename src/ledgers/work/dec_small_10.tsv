@@ -1,0 +1,177 @@
+key	decision	target	etype	note
+adult creler	keep		creature	Single adult Creler that gloats at Yvlon and is killed (Book 14, Ch6.66H L2-5,L628-629); more specific than crelers.
+albez map	keep		item	Old Drake-script map found by Olesm (Book 2, Ch2.27 L149-155); distinct item.
+ambush casualties	topic		topic	Casualty tally of Flawless Flight in an ambush (Book 1, Ch1.01H L122-123); no entity.
+antinium attack	topic	antinium	topic	Event heading from Antinium Wars chapter; subject is the Antinium.
+antinium hive vs liscor dungeon	topic	antinium hive	topic	Conflict heading about Antinium Hive pushing into Liscor dungeon (Book 4, Ch4.40L).
+apista (ashfire bee)	fold	apista		Same Apista; parenthetical species label (Book 5, Ch4.41L).
+area	topic		topic	Flood Gates region described in passing (Book 1, Ch1.09 L126-131); generic heading.
+assassins	topic		topic	Generic assassins: unsanctioned ones (Book 3, Ch3.14) and a Guild force at Laiss (Book 14, Ch6.68); different groups.
+bagrhaven hoard	keep		item	Cursed rings found in Bagrhaven hoard, bagged by Halrac (Book 7, Ch5.05 L152-167).
+baosar yeothrix	keep		person	Ruler of A'ctelios attending the Book 15 summit (Book 15, Ch7.09K L699-705).
+battle at invrisil	keep		event	Named battle at Invrisil (Book 5, Ch5.00); event entity.
+belchan	keep		place	Place with a Mage School firing Valmira's Comet artillery (Book 16, Ch7.13K L1100-1106).
+beza (bezale)	fold	beza		Minotauress Spellscribe who left Minos for Wistram (Book 16, Interlude_Burning_Alcohol L370) matches Beza scroll-seller.
+blood slimes	keep		creature	Slime monsters of the Blood Fields (Book 14, Ch6.64); species-level.
+boom bark	keep		item	Bark armour material of boom trees (Book 2, Ch2.00G L168).
+bugear	keep		person	Hobgoblin killed by an Eater Goat, head carried by Headscratcher (Book 6, Ch4.34 L12-14,L111).
+calescent	keep		person	Hobgoblin Chef of the Mountain City tribe, second in cooking contest (Book 16, Ch7.12G L106).
+canrel	keep		person	Eleven-year-old son of Warden Emile of Desta (Book 18, Ch7.37 L630-695).
+casklal	keep		person	Black-furred Gnoll Spellcaster, Sidinel's teacher (Book 18, Ch7.33I L849-905).
+cell prisoner	keep		person	Unnamed young wife imprisoned for killing her husband (Book 11, Ch6.19H L148-159).
+celum innkeepers	topic	celum	topic	Generic group of Celum innkeepers; subject is Celum.
+cessic	keep		person	Rainbow-scaled Lizardman student befriending Ceria (Book 4, Wistram_Days_Pt.2 L330); same one welcoming firsties (Book 8).
+chesacre	keep		person	Antinium Soldier named with Thaina, loses an arm to Klbkch (Book 16, Ch7.16L L755-759).
+chosen	keep		org	Az'kerash's Chosen as a group, gaining ability to level (Book 18, Interlude_Meetings_and_Friendships L522).
+clara	keep		person	Dark-skinned Human soldier saved by Geneva (Book 3, Ch1.00D L147,L214).
+colds	topic		topic	Fact on magic curing colds so often magic no longer works (Book 1, Ch1.39 L115); worldbuilding heading.
+cooperation bounty	keep		concept	Weekly adventurer-guild fee for active teams (Book 8, Ch5.35H L590).
+crag pig	keep		place	Laken's inn in Invrisil named for a skull over the door (Book 4, Ch3.40 L62-78).
+cultist	keep		person	Unnamed cultist claiming the Fury of Skies has never lost (Book 16, Interlude_Dancing_and_Brawling L408).
+daquin council	keep		org	Daquin's governing council with Felit and Ulli (Book 11, Ch6.22D L120-126); not Liscor council.
+deaths	topic		topic	Tally heading of named deaths in a battle (Book 18, Ch7.36C L600-1288).
+demon soldier	fold	demons		Demon soldiers are individuals of the Demons (Book 2, Ch1.01C L173); species-level.
+dinner	topic	ilvriss	topic	Dinner scene whose fact is Ilvriss's Violet Dusker ring (Book 18, Ch7.33I L762-769).
+door result	topic	magic door	topic	Magic door travel specs (Book 5, Ch4.12 L457-459); subject is the magic door.
+drake wills	keep		concept	Drake inheritance-will law, near inviolable (Book 7, Ch5.16S L327-382).
+dulfe	keep		person	River Warden killed by Orthenon after breaking the duel (Book 16, Ch7.13K L993-1000).
+dungeon trap	topic	dungeon	topic	Trap details inside the dungeon (Book 3, Ch3.02H L311-372).
+edict of bloom	keep		spell	Flos's Edict skill; speeds plants and brings rain (Book 13, Ch6.53K L108-119).
+eliasor melissar	keep		person	Ten-year-old Lady, daughter of Patricia Melissar (Book 11, Ch6.27M L496-509); not the mother.
+empire of minos	keep		place	Minotaur realm Minos; distinct from House of Minos army entities (Book 1, Ch1.07R).
+erin opponent	topic		topic	Unnamed opponent in a game with Erin (Interlude_Queens_and_Dragons); scene heading.
+esthelm survivors	topic	esthelm	topic	Survivors of Esthelm; subject is Esthelm.
+fabiel	keep		person	Adventurer killed by a Goblin arrow (Book 5, Ch4.21E L453; Ch4.22E L15).
+faerie king	keep		person	Fae ruler figure of the faerie banquet (Book 5, Ch5.11E); distinct from goblin kings.
+female raskghar (the one krshia met in liscor)	keep		person	Specific female Raskghar who met Krshia in Liscor (Book 8, Ch5.39).
+field of preservation	keep		spell	Preservation field halting fermentation (Book 16, Interlude_Chocolate_Gold L173).
+fire guardian	keep		creature	Thresk's white-flame construct with emerald gem (Book 3, Ch3.07H L421-492); not the headless ruin guardian.
+fish near the city	keep		creature	River fish whose mucus poisons wounds (Book 1, Ch1.07 L241-245).
+flooded waters + cave goblins + redfangs	split	flooded waters remnant|cave goblins|redfangs		Composite Goblin groups at the Book 9 clash (Book 9, Ch5.61); all parts exist.
+fly whisk	keep		item	Goblin reed whisk repelling swamp insects (Book 7, Ch5.19G L244-255).
+fortress beaver colony	fold	fortress beaver		Colony of Fortress Beavers (Book 7, Ch5.07 L167-170); same creature.
+frostfeeder tribe	keep		org	Goblin tribe hunted by a Human army, ambushed by Rags (Book 7, Ch5.20G L513-606).
+gailt	keep		person	Drunk Mage relaying Messages for Fierre (Book 12, Ch6.42E L238-239).
+gargoyles	keep		creature	Stone monsters of the High Passes (Book 1, Ch1.08R L148-180).
+geir defenders	topic	geir	topic	Defenders of Geir leveling in the Antinium War (S02 Pt.2 L27).
+general thelican	fold	thelican		Nerrhavian General Thelican (Book 13, Ch6.53K) is the same man as thelican entry.
+germina	keep		place	Landlocked Shield Kingdom in NE Chandrar, capital Ger (Book 10, Ch6.12K L28-29).
+gnoll and drake teeth	topic		topic	Anatomical remark on Gnoll and Drake teeth (S01 Mating Rituals L192-194).
+gnolls in pallass	topic	gnolls	topic	Gnoll tribes in Pallass, Dustfur chieftain Nelrra (Book 16, Ch7.11 L184).
+goblin caravel	keep		item	Goblin-held ship with a Shaman that drifts past Krakens (Book 17, Interlude_Strategists_at_Sea_Pt._1 L1248).
+goblin horn	keep		item	Horn sounded near Riverfarm at night (Book 5, Ch4.21E L464-467).
+goblin magic	topic		topic	Tribal Goblin mana mechanics (Book 1, Ch1.34 L81-92); general magic topic.
+goblin victory ritual	topic		topic	Rags's warriors raise weapons in triumph (Book 7, Ch5.20G L689); ritual heading.
+gold-rank captains	topic		topic	Generic heading for Gold-rank captains in an assault (Book 8, Ch5.39).
+great companies	keep		org	Great Companies of Baleros inviting via Courier (Book 17, Ch7.22D L1052-1066).
+guard barracks	keep		place	Liscor barracks with Drakes and Antinium (Book 1, Ch1.08 L66-77).
+halfseekers (earlier roster)	fold	halfseekers		Same adventuring team, earlier roster (Book 9, Ch5.57 L270-292).
+hawkers and skilled scammers	topic		topic	Scammers with persuasion Skills (Book 10, Ch6.05D L158); generic.
+hedolac	keep		person	Germinan driver of the Quarass's carriage (Book 13, Ch6.54K L605).
+hevlca	keep		person	Speaker warning of Ailendamus courting the Five Families (Book 17, Ch7.21KQ L601).
+hivelands	keep		place	Dry plateaus altered by war weather spells (Book 18, Ch7.39A L210-245).
+horns of hammerad (old)	fold	horns		Earlier-roster Horns of Hammerad, same team (Book 3, Ch3.08H).
+human dead	topic		topic	Casualty heading of dead humans after a battle (Book 7, Ch5.20G).
+ice wyverns of the high passes	keep		creature	Clutch of over a thousand ice Wyverns with pearl-white Wyvern Lord (Book 15, Ch7.00 L17,L33).
+illumination	keep		spell	[Illumination], advanced Light spell (Book 1, Ch1.37 L41-42).
+inked scale	keep		place	Cinfal tattoo shop run by a Lizardwoman (Book 10, Ch6.07D L299-397).
+invrisil mayor	keep		title	Invrisil's elected [Mayor] Regisand Curle (Book 4, Ch3.37 L139-141).
+ivolethe sisters	keep		org	Fae sisters threatening Ivolethe (Book 3, Ch3.09 L247-249); not Ivolethe herself.
+jekilt	keep		person	Captured by Tulm in the game (Book 11, Ch6.23D L745).
+kaelma	keep		person	Fencer rewarded with patrol lead (Book 11, Ch6.24D L173).
+kids	topic		topic	Children who named Ryoka Wind Runner (Book 10, Ch6.00 L623); generic.
+knights of the clairei field	keep		org	Green-and-blue wheat-emblem Knights killed by Redfangs (Book 9, Ch5.57 L14-26); not Rose Knights.
+lady desinee	keep		person	Maviola's niece of House El (Interlude_Meetings_and_Friendships L313-325).
+lady salkis	keep		person	Jet-black Drake Lady with bodyguards sheltering at the bar (Book 15, Ch7.03; Book 18, Ch7.38).
+laken skill blessing of the hearth	fold	blessing of the hearth		Same skill, Laken's [Blessing of the Hearth] (Book 12, Ch6.40E).
+laughing brigade	keep		org	Nsiia's hyena-rider unit wiped out at Heda's Valley (Book 13, Ch6.52K L431-757).
+level-ups	topic		topic	Generic list of level gains (Book 14, Ch6.67 L449-460).
+liscor bathhouse	keep		place	Liscor bathhouse with purification spells (Book 5, Ch4.24 L204-210).
+liscor justice	topic	liscor	topic	Liscor legal practice (Book 2, Ch2.20 L97-153).
+liscorian army	fold	liscor army		Liscorian army is Liscor's army: 2,000 Drakes plus Gnolls (Book 1, Ch1.23 L162).
+loot	topic		topic	Generic loot lists from fights (Book 2, Ch2.00H L511; Ch2.27 L286).
+lord erill (house fienst)	fold	lord erill		Merchant-lord Erill newly noble, same man as lord erill (Book 8, Ch5.30G; Book 9, Ch5.52 L334).
+lord tyron	fold	tyrion veltras		Lord Tyron Veltras listed beside Magnolia and Sserys (Book 2) is Tyrion Veltras, early spelling.
+madain	keep		person	Retired Gold-rank [Javelineer] 'Mad Madain' runs inn; same man advising on Fierre (Book 10, Ch6.00 L23; Book 14, Ch6.60).
+magic door to the cave	keep		item	Door to Goblin cave unopened after Raskghar attack (Book 9, Ch5.46 L299-301); one of several doors.
+magnolia carriage	keep		item	Magnolia's ghost-horse carriage (Book 3, Ch3.10 L244-333); item.
+magnolia requests	topic	magnolia reinhart	topic	Runner etiquette on Magnolia requests (Book 1, Ch1.02R L131).
+maquit and ilmt	keep		person	Selphid guards Maquit and Ilmt escorting Geneva (Book 10, Ch6.06D L32-63); no separate entities exist.
+medain	keep		place	Kingdom of King Perric (Book 15, Ch7.10K; Book 19, Ch7.49).
+message council	topic		topic	Walled Cities confer by Message (Book 7, Ch5.08 L242-268); event heading.
+minotaur army	keep		org	House of Minos army with ballistae and Sharphorns (Book 19, Ch7.47K L153-207).
+monsters at monarch pass	topic		topic	Monster assault at Monarch's Pass (Book 18, Ch7.34C L1417-1458); event heading.
+mr. soot	fold	mister soot		Same Soot, killed by Raskghar (Book 17, Interlude_The_Gecko_of_Illusions L1113).
+nalthal	keep		person	Magnolia's irritable [Gardener] who is a [Druid] (Book 6, Ch4.44M L323-338).
+nelgaunt	keep		creature	Friendly giant sea creature warning of Kraken's Pass (Book 17, Interlude_Strategists_at_Sea_Pt._1 L1144-1168).
+new council	keep		org	Liscor's new Council voting rent caps (Book 13, Ch6.49 L877-924).
+noass	keep		person	Drake broadcaster covering the run (Book 16, Ch7.18M L668; Book 19, Ch7.49 L469).
+occillium	keep		item	Octavia's penicillin-like mold used in Zeres (Book 19, Ch7.49 L97-131).
+ogre raids	topic		topic	Ogre bounty and raids near Phaust (Interlude_Talia L146-150).
+onieva oliwing	keep		person	Rose-and-cobalt Drake claiming relation to Saliss (Book 16, Ch7.17S L678-700).
+orthenon army	topic		topic	Orthenon's army and fog tactic (Book 5, Ch4.05K L84-333); no Orthenon entity exists.
+palace	topic		topic	Palace remark: Drevish refuses secret tunnels for Flos (Book 5, Ch4.01K L494).
+pallass old smith masters	topic	pallass	topic	Pallass smith-masters' levels (Book 15, Ch7.01 L345,L970).
+paranfer	keep		place	Rhir capital with sky bridges and seven walls (Book 6, Ch1.02C L17-271).
+pellmia riders	topic	pellmia	topic	Pellmia's riders' orders (Book 9, Ch5.47G L551-553).
+perorn sadiluc fleethoof	keep		person	51-year-old Centauress Strategist of the Forgotten Wing (Book 11, Ch6.21D L86,L129).
+plan	topic		topic	Antinium plan of improving relations (Book 1, Ch1.24 L25-35); concept heading.
+pomle oasis	fold	pomle		Pomle's oasis improvements by Salii (Book 18, Interlude_Sand_and_Notes L128-163); same place.
+pricky	keep		creature	Flynn's Needlehound Pricky, spines when angry (Book 19, Ch7.46K L392-398).
+pxier	keep		place	Starving Lizardfolk town where Luan rescued a Dullahan Merchant (Book 10, Ch6.07D L354-369).
+queravia	keep		person	Gambler of Fates, Flos's Strategist (Book 5, Ch4.04K; Book 13, Interlude_The_Titans_Question).
+rags' lieutenants	keep		org	Rags's named lieutenants Quietstab, Poisonbite, Noears, Pyrite, Redscar (Book 9, Ch5.47G L57).
+raskghar camp loot	topic		topic	Artifacts recovered from Raskghar camp (Book 9, Ch5.45 L279).
+redfang loot division	topic		topic	Garen picks first in loot division (Book 9, Ch5.57 L61-71).
+reim army at jecrass border	fold	reim army		Reim's army, 60,000 at the Jecrass border (Book 15, Ch7.08K L385); same army.
+reiss' army	keep		org	Reiss's Goblin and undead army (Book 9, Ch5.61 L88; Ch5.62).
+reric feltpaw	keep		person	Young blonde Gnoll Thief caught by Klbkch (Book 14, Ch6.61L L444-667).
+rie staff	topic	rie valerund	topic	Rie's staff Geram and Nesor (Book 7, Ch5.09E L127,L188).
+rivel	keep		person	Younger vampire brother in farmer clothes (Book 10, Ch6.01 L117).
+rockmites	keep		creature	Wall-eating acid insects (Book 10, Ch6.09 L394-408).
+ruin guardian	keep		creature	Headless armour with glowing helmet (Book 2, Ch2.00T L207-213); not Thresk's fire guardian.
+rustangmarder	keep		org	Flos's soldiers, down to twelve (Book 5, Ch4.02K; Book 19, Ch7.48K L53).
+safe room	keep		place	Bricked hiding cube holding mummy and box of holding (Book 18, Ch7.40ER L421-438).
+salazsar nobles	topic	salazsar	topic	Nobles Menoss and Rizzia call Zel traitor (Book 6, Ch4.47 L269-288).
+sammial veltras	keep		person	Veltras son gravely ill from assassin attack (Book 19, Ch7.44 L894; Ch7.45).
+sea serpent	keep		creature	Sea serpent killed by Amerys' lightning (Book 2, S03_Wistram_Days_Pt._1 L206,L243).
+seer of steel	keep		person	Iron Vanguard leader (Book 10, Ch6.06D L612; Book 11, Ch6.24D L552).
+senator wishill	keep		person	Pallass senator allied with Manus and Zeres (Book 19, Ch7.53 L552-555).
+seven earthers	fold	earthers		Seven Earthers named group is the Earthers (Book 17, Ch7.23LM L189-244).
+shellbazaar and the four winds of teral	keep		org	Two Courier ships reaching Baleros through storm (Book 19, Ch7.49 L870-875).
+sidney	keep		person	Fourteen-year-old Canadian held by Orenaius Light Mages (Book 18, Ch7.29B L302,L374).
+silver-rank adventurers	topic		topic	Generic Silver-rank team dying in the rift (Book 5, Ch4.19 L350).
+sit-about	keep		concept	Goblin tribal truce meal ritual (Book 9, Ch5.50G L8-15).
+skinner warning	topic		topic	Skinner rhyme warning (Book 1, Ch1.02H L124-135); no Skinner entity.
+sostrom reidez	fold	sostrom		Horns mage Sostrom casting Repair on Ryoka's iPhone (Book 1, Ch1.07R L269-282).
+spring	topic		topic	Spring fae arrival at Riverfarm (Book 7, Ch5.10E L586-607); season heading.
+stitchfolk	fold	stitch-folk		String People are Stitch-folk (Book 7, Ch5.02 L189-216).
+strongheart farm	keep		place	Strongheart farm supplying Celum (Book 5, Ch4.17 L171-172).
+tails and scales	keep		place	Rufelt's bar with warded indestructible bar (Book 10, Ch6.10; Book 15, Ch7.03 L901).
+teachers	topic		topic	Wistram teacher assignments after Tshya's death (Book 4, Wistram_Days_Pt.3 L431-438).
+temile	keep		person	Producer of the Players of Celum (Book 13, Ch6.56 L174; Book 19, Ch7.50).
+teriarch orange-pink potion	keep		item	Potion that shines under Detect Magic (Book 2, Ch2.15 L399).
+therrium ship	topic		topic	Therrium ship pursued to Zeres (Book 17, Interlude_Strategists_at_Sea_Pt._2 L1305).
+thunder kiss	keep		org	Bronze-rank team freezing against slime (Book 7, Ch5.05 L238); not Thunder Solace.
+todi elites	keep		org	Gold-rank team under Captain Todi (Book 17, Ch7.25 L417-444).
+trader end	keep		place	Upscale street NE of the Guild (Book 11, Ch6.17S L89-94).
+tremborag forces	topic	tremborag	topic	Tremborag's troops estimate (Book 8, Ch5.31G L55).
+twins	keep		person	Twin boy and girl speaking as one describing Earth (Interlude_King_Edition L2-46).
+ulgrim	keep		person	Vice-captain of Kyrial's Pride (Book 1, Ch1.00H L175).
+umina homework	topic	umina caxical	topic	Umina hired Bronze team against porcupines (Book 11, Ch6.21D L452-475).
+united nations company funds	topic	united nations company	topic	Company's 118 gold low point (Book 10, Ch6.04D L283).
+vakk	keep		person	Young Gnoll prisoner blaming Mrsha (Book 8, Ch5.42 L591-616).
+village of eater goat shepherds near the high passes	keep		place	Eater Goat Village trading with Rags (Book 16, Ch7.12G L637-641).
+walled cities call	topic	walled cities	topic	Walled Cities debate call (Book 17, Ch7.23LM L1300-1322).
+war declarations	topic		topic	Nations declaring war (Book 19, Ch7.48K L12-22); event heading.
+waterbear of cerun	keep		person	Bearkin Courier rescued by Bloodtear Pirates (Book 19, Ch7.49 L593-883).
+whistling bows	keep		org	Kam's mounted team (Book 14, Ch6.64 L171-172).
+windrest villagers	keep		org	Villagers of Windrest arriving at Riverfarm (Book 5, Ch4.21E L83-103).
+wistram delegation	keep		org	Teura-led Wistram mages broadcasting game (Book 11, Ch6.22D L107-162).
+wistram news network	keep		org	Broadcast service with reporter Kerik (Book 19, Ch7.44 L13-97).
+witch hunts	topic	witch	topic	Witches persecuted after Belavierr stories (Book 12, Ch6.40E L353-366).
+world outside	topic		topic	Remark about monsters outside (Book 1, Ch1.00 L16).
+xersia the scorpion	keep		person	Former Named Adventurer, now Marchioness (Book 6, Ch1.04C L89-97).
+yellow rivers infection	fold	yellow rivers disease		Untreatable disease (Book 10, Ch6.07D L67) matches Yellow Rivers disease.
+ytol	keep		person	Rustangmarder Death Commander missing limbs (Book 15, Ch7.10K L479; Ch7.21KQ).
+zel family	topic	zel shivertail	topic	Zel's estranged relatives (Book 7, Ch5.16S L34).

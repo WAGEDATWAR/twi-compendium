@@ -1,0 +1,134 @@
+key	decision	target	etype	note
+a'ctelios salash	keep		place	City inside a dead creature's head, home of fleshchosen (Book 15, Ch7.09K L593).
+acid flies	keep		creature	Distinct entity with consistent referent across its facts; no provable fold.
+agnes	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+ailendamus	keep		place	Distinct entity with consistent referent across its facts; no provable fold.
+alchemy	topic		topic	Craft subject: imbuing potions via reactions (Book 2, Ch2.12 L116); not an entity.
+alrric	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+anith	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+antinium queens	keep		species	Collective of the Hive Queens (Book 9, Ch5.54 L168); individual Queens are separate entities.
+archmage amerys	fold	amerys		Same Archmage Amerys of the King of Destruction's Seven (Book 5, Ch4.00K L21; Wistram Days).
+armored queen	keep		person	Queen of the Armored Antinium, distinct from Prognugator Tersk (Book 18, Ch7.39A L799).
+bamer	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+beatrice	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+beza	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+blackmage	fold	aaron vanwell		Blackmage is Aaron Vanwell, nineteen, Wistram Earther (Interlude_Blackmage L5, L12; Book 19, Ch7.55E L708).
+bloodfields	keep		place	Distinct entity with consistent referent across its facts; no provable fold.
+bushrangers	keep		org	Distinct entity with consistent referent across its facts; no provable fold.
+calirn	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+carn wolf	keep		creature	Distinct entity with consistent referent across its facts; no provable fold.
+celum watch	keep		org	Distinct entity with consistent referent across its facts; no provable fold.
+cervial	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+charles de trevalier	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+chessboard	keep		item	Distinct entity with consistent referent across its facts; no provable fold.
+cirille bitterclaw	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+corusdeer	keep		creature	Distinct entity with consistent referent across its facts; no provable fold.
+coven	keep		org	Witch covens seeking sanctuary with Laken (Book 12, Ch6.40E L401).
+crypt lord	keep		creature	Distinct entity with consistent referent across its facts; no provable fold.
+dead	topic		topic	Casualty lists from unrelated events (Book 2, Ch1.00C L85; Book 14, Ch6.67 L362); no single referent.
+dino birds	fold	razorbeak		Razorbeaks; Erin calls them Dino Birds (Interlude_Bird L138); razorbeak entity is the same pterodactyl-like bird.
+drevish	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+earlia	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+eater goats	keep		creature	Distinct entity with consistent referent across its facts; no provable fold.
+elena	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+eloise	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+emme	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+erille	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+esiela	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+expedition	keep		event	Book 1 five-team expedition into the ruins (Book 1, Ch1.00H L147-151).
+faerie	fold	fae		Faerie in Ch2.23 are the fae; collective of the same species, fae key covers Ch5.11E and later.
+farri sightly	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+feor	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+first unified army	keep		org	Distinct entity with consistent referent across its facts; no provable fold.
+flora	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+frenzied hare	keep		place	Distinct entity with consistent referent across its facts; no provable fold.
+gaile	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+garden of sanctuary	keep		place	Distinct entity with consistent referent across its facts; no provable fold.
+garusa	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+gentlemen callers	keep		org	Name for the Wilovan and Ratici pair hired to guard Erin (Book 19, Ch7.52 L231); members are separate entities.
+geril	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+goblin chieftain	keep		person	Book 1 Chieftain who attacks Erin in the inn and dies (Book 1, Ch1.16 L7-52); not Garen; title only, kept distinct.
+goblin lord army	keep		org	Army of the Goblin Lord, distinct from the Lord himself (Book 6, Ch4.46 L27).
+gold-rank teams	topic		topic	Generic rank grouping of unrelated teams (Book 2, Ch2.22 L22).
+gravetender fist	keep		org	Distinct entity with consistent referent across its facts; no provable fold.
+grunter	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+healing potions	fold	healing potion		Plural of healing potion, same item.
+hedag	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+helm	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+high passes	keep		place	Distinct entity with consistent referent across its facts; no provable fold.
+hob scout	keep		person	Key is a mislabel; all facts are about the Goblin Poisonbite (Book 4, Ch3.31G L76).
+human army	topic		topic	Different armies across wars (Magnolia's, Tyrion's, Book 8 southern march); no single referent.
+imani	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+isceil	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+jecaina	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+jeiss	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+joseph	keep		person	Earther Joseph, [Kicker] (Book 17, Ch7.26 L1551); no proof it equals the separate Joseph Ortega key.
+keldram	keep		person	Key misspelled; facts are Keldrass, Flamewardens captain (Book 8, Ch5.38 L137). No separate keldrass key.
+king	split	flos|blighted king othius iv		Mixed: Interlude_King_Edition is Flos with the twins; Book 2 Ch1.00C L308 King summoning Heroes is the Blighted King.
+lacel the leaper	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+lady magnolia reinhart	fold	magnolia reinhart		Same Magnolia Reinhart with title; Invrisil winter travel and Antinium Wars army (Book 2, Ch2.09 L235).
+lasc	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+levil team	keep		org	Pithfire Hounds, Silver-rank team led by Levil (Book 12, Ch6.00 L428).
+liscor army	keep		org	Distinct entity with consistent referent across its facts; no provable fold.
+liscor watch	keep		org	Distinct entity with consistent referent across its facts; no provable fold.
+lorent	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+lyfelt	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+magic door	fold	door		Erin's magic door; door entity covers the same door (Book 5, Ch4.12 L459; Book 7, Ch5.01).
+maresar	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+maughin	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+message spell	keep		spell	Distinct entity with consistent referent across its facts; no provable fold.
+naili	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+narrator	topic		topic	Authorial narration remarks, not a character (Book 6, Ch4.45 L2).
+nereshal	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+octavia cotton	fold	stitch girl		Octavia Cotton is the Stitch-girl Alchemist of Stitchworks, Celum; stitch girl entity displays Octavia (Book 2, Ch2.09).
+oom	keep		person	Chosen of Az'kerash, an Acid Slime killed by Zel (Book 13, Ch6.51A L142).
+oteslia	keep		place	Distinct entity with consistent referent across its facts; no provable fold.
+paige	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+parasol stroll	keep		org	Distinct entity with consistent referent across its facts; no provable fold.
+pellmia	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+peslas	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+pivr	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+purple smile	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+quexa	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+raekea	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+ratici	keep		person	Drake Thief of the Brothers of Serendipitous Meetings (Book 19, Ch7.52 L231); Wilovan is separate.
+red fang chieftain	fold	garen red fang		Chieftain of Ch2.02G is named Garen Red Fang (Book 2, Ch2.02G L293, L311-322).
+redfang tribe	keep		org	Distinct entity with consistent referent across its facts; no provable fold.
+reim	keep		place	Distinct entity with consistent referent across its facts; no provable fold.
+rhir	keep		place	Distinct entity with consistent referent across its facts; no provable fold.
+ruins by liscor	fold	ruins of liscor		Book 1 ruins near Liscor raided by adventurer teams (Book 1, Ch1.11R L19); same Book 1 site as ruins of liscor.
+runner guild	keep		org	Distinct entity with consistent referent across its facts; no provable fold.
+sacra	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+salamani	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+ser raim	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+shield spiders	keep		creature	Distinct entity with consistent referent across its facts; no provable fold.
+silvenia	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+sir relz and noass	split	sir relz hauscale|noass		Two Pallass Drake commentators, Sir Relz and Noass; facts about both (Book 7, Ch5.08 L366).
+skystrall	fold	falene		Falene Skystrall, half-Elf Wistram Battlemage, fights with Silver Swords, Ylawes and Dawil (Book 6, Ch4.45; Book 10, Ch6.16).
+snow golem	keep		creature	Distinct entity with consistent referent across its facts; no provable fold.
+spiderbite	keep		person	Key misspelled; facts are Spiderslicer, Garen's second (Book 9, Ch5.56G L8). No separate spiderslicer key.
+stitch-folk	keep		species	Cloth-bodied String People race, Octavia's kind (Book 2, Ch2.12 L111); kept as race entity.
+tagil	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+talenqual	keep		place	Distinct entity with consistent referent across its facts; no provable fold.
+tallis the stormbreaker	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+teres	keep		person	Teres Atwood, one of the twins; Trey is a separate entity (Book 15, Ch7.10K L111).
+thelican	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+thriss	keep		person	Book 3 Raverian Fighters Sergeant, dies (Book 3, Ch1.01D L413).
+timbor parithad	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+trebuchet	keep		item	Distinct entity with consistent referent across its facts; no provable fold.
+twisted queen	keep		person	Individual Queen of the Twisted Antinium (Book 18, Ch7.39A L1217).
+ulyse	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+unseen empire	keep		org	Distinct entity with consistent referent across its facts; no provable fold.
+valceif godfrey	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+venim	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+villagers	topic		topic	Generic crowds from different villages (Riverfarm, Reim); no single group.
+vuliel drae	keep		org	Distinct entity with consistent referent across its facts; no provable fold.
+welca caveis	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+wilovan	keep		person	Gnoll Thug of the Brothers of Serendipitous Meetings (Book 19, Ch7.52 L231); Ratici is a separate entity.
+wistram factions	keep		concept	Expansionists, Revivalists, Isolationists, Centrists etc. (Wistram_Days_Pt.1 L343).
+wrymvr the deathless	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+xalandrass	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+yellow rivers	keep		concept	New bacterial/sexually transmitted disease (Book 10, Ch6.06D L793; Book 18, Ch7.32D L88).
+yisht	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+zavarial	keep		person	Distinct entity with consistent referent across its facts; no provable fold.
+zel will	keep		item	Zel Shivertail's will as a document (Book 7, Ch5.16S L524).

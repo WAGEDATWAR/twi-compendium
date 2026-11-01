@@ -7,7 +7,7 @@ Canonicalisation: ledgers/aliases.tsv + alias rows of coverage_decisions.tsv, mi
 minus ledgers/alias_overrides.tsv (manual resolutions: alias<TAB>canonical, wins over everything, empty canonical = never merge).
 Outputs: ledgers/facts.jsonl, ledgers/entities.tsv, ledgers/entity_report.txt.
 Run: python -I src/tools/extract_facts.py"""
-import collections, csv, glob, json, os, re, unicodedata
+import collections, csv, glob, hashlib, json, os, re, unicodedata
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "..")
 LED = os.path.join(SRC, "ledgers")
@@ -19,6 +19,7 @@ def key(s):
     s = re.sub(r"[\[\]\"]", "", s)
     s = re.sub(r"'s(?![a-z])", "", s)
     s = re.sub(r"\s+", " ", s).strip()
+    s = s.strip(" '\"`")
     return re.sub(r"^(the|a|an) ", "", s)
 
 def read_tsv(name):
@@ -45,6 +46,9 @@ for c in override_targets:   # a reviewed canonical is terminal: it must not map
 # reviewed coverage decisions (ledgers/coverage_decisions_gap.tsv, written by merge_gap_decisions.py):
 # alias rows fold the term into an existing entity; entity rows create a fact-less manual entity (filled in Phase 3).
 manual = {}
+for r in read_tsv("coverage_decisions.tsv"):      # first-round decisions (species, ranks...): entity rows also create entities
+    if r["kind"] == "entity" and key(r["target"]):
+        manual.setdefault(key(r["target"]), {"display": r["target"], "etype": "", "note": r.get("note", ""), "cite": r.get("first_cite", "")})
 for r in read_tsv("coverage_decisions_gap.tsv"):
     a, c = key(r["term"]), key(r["target"])
     if r["kind"] == "alias" and c and a != c and a not in override_targets:
@@ -112,6 +116,22 @@ for p in pairs:
     if a and c and a != c and a not in amap and a not in conflicts:
         amap[a] = c; added_pairs += 1
 
+def break_cycles():
+    "Remove self-maps and break alias cycles: in each cycle the member with the most facts becomes terminal (keeps its own key)."
+    cnt = collections.Counter(f["k0"] for f in facts)
+    broken = 0
+    for a in [a for a, c in amap.items() if a == c]: del amap[a]
+    for a in sorted(amap):
+        path, k = [], a
+        while k in amap and k not in path:
+            path.append(k); k = amap[k]
+        if k in amap and k in path:                    # k is on a cycle
+            cyc = path[path.index(k):]
+            top = max(cyc, key=lambda x: (cnt[x], -len(x), x))
+            amap.pop(top, None); broken += 1
+    return broken
+cycles_broken = break_cycles()
+
 known = {canon(f["k0"]) for f in facts if not re.search(r" and | & ", f["k0"]) and "," not in f["k0"]}
 SPLIT = re.compile(r"\s+and\s+|\s*&\s*|\s*,\s*")
 expanded, joint = [], 0
@@ -120,15 +140,35 @@ for f in facts:
     ck = [canon(key(p)) for p in parts]
     if len(parts) >= 2 and all(c in known for c in ck) and len(set(ck)) == len(ck):
         for c in ck:
-            g = dict(f); g["k0"] = c; g["joint_with"] = [x for x in ck if x != c]; expanded.append(g)
+            g = dict(f); g["part"] = c; g["k0"] = c; g["joint_with"] = [x for x in ck if x != c]; expanded.append(g)
         joint += 1
     else:
         expanded.append(f)
 facts = expanded
+for f in facts:   # stable fact id: independent of alias decisions (joint parts hash their raw part key)
+    f["sid"] = hashlib.sha1(("%s|%s|%s|%s" % (f["seq"], f["entity_raw"], f["text"], f.get("part", ""))).encode("utf-8")).hexdigest()[:10]
+    f.pop("part", None)
+for f in facts:
+    f["key"] = canon(f["k0"])
+# reviewed per-fact reassignment (homonym splits): ledgers/fact_entity_overrides.tsv  sid -> key, display
+fo = {r["sid"]: r for r in read_tsv("fact_entity_overrides.tsv")}
 ent_display = collections.defaultdict(collections.Counter)
 for f in facts:
-    k = canon(f["k0"]); f["key"] = k
-    ent_display[k][f["entity_raw"] if "joint_with" not in f else f["k0"].title()] += 1
+    if f["sid"] in fo:
+        f["key"] = fo[f["sid"]]["key"]; f["entity_raw"] = fo[f["sid"]].get("display") or f["entity_raw"]
+# reviewed composite splits: ledgers/entity_splits.tsv  key -> target|target ; the fact is copied to every target
+spl = {r["key"]: [x for x in r["targets"].split("|") if x] for r in read_tsv("entity_splits.tsv")}
+out_facts, split_n = [], 0
+for f in facts:
+    if f["key"] in spl and f["sid"] not in fo:
+        ts = spl[f["key"]]; split_n += 1
+        for t in ts:
+            g = dict(f); g["key"] = t; g["joint_with"] = [x for x in ts if x != t]; g["sid"] = f["sid"] + "-" + str(ts.index(t)); out_facts.append(g)
+    else:
+        out_facts.append(f)
+facts = out_facts
+for f in facts:
+    ent_display[f["key"]][f["entity_raw"] if "joint_with" not in f else f["key"].title()] += 1
 for f in facts:
     f["entity"] = ent_display[f["key"]].most_common(1)[0][0]
 for i, f in enumerate(facts, 1):
@@ -141,6 +181,8 @@ with open(os.path.join(LED, "alias_map.tsv"), "w", encoding="utf-8", newline="\n
     o.write("alias_key\tcanonical_key\n")
     for a in sorted(amap): o.write(f"{a}\t{canon(a)}\n")
 
+meta = {r["key"]: r for r in read_tsv("entity_meta.tsv")}   # reviewed etype / keep|topic decisions
+
 # ---- entities --------------------------------------------------------------
 E = collections.defaultdict(lambda: {"n": 0, "chs": set(), "first": 10**9, "books": set(), "raw": collections.Counter(), "kinds": collections.Counter()})
 for f in facts:
@@ -151,16 +193,21 @@ rev = collections.defaultdict(set)
 for a, c in amap.items(): rev[canon(c)].add(a)
 rows = sorted(E.items(), key=lambda kv: (-kv[1]["n"], kv[0]))
 with open(os.path.join(LED, "entities.tsv"), "w", encoding="utf-8", newline="\n") as o:
-    o.write("key\tdisplay\tfacts\tchapters\tfirst_seq\tbooks\tforms\taliases_known\tneeds_file\n")
+    o.write("key\tdisplay\tfacts\tchapters\tfirst_seq\tbooks\tforms\taliases_known\tneeds_file\tetype\treview\n")
     for k, d in rows:
         nf = d["n"] >= 15 or len(d["chs"]) >= 2
         o.write("\t".join([k, ent_display[k].most_common(1)[0][0], str(d["n"]), str(len(d["chs"])), str(d["first"]),
                            ",".join(map(str, sorted(d["books"]))), "|".join(x for x, _ in d["raw"].most_common(6)),
-                           "|".join(sorted(rev.get(k, ()))[:8]), "Y" if nf else "n"]) + "\n")
-    for k, m in sorted(manual.items()):   # fact-less manual entities from coverage decisions (to be filled in Phase 3)
-        if k in E: continue
-        o.write("\t".join([k, m["display"], "0", "0", "", "", m["display"], "|".join(sorted(rev.get(k, ()))[:8]), "M"]) + "\n")
-nmanual = sum(1 for k in manual if k not in E)
+                           "|".join(sorted(rev.get(k, ()))[:8]), "Y" if nf else "n",
+                           meta.get(k, {}).get("etype", ""), meta.get(k, {}).get("decision", "")]) + "\n")
+    written_manual = set()
+    for k0, m in sorted(manual.items()):   # fact-less manual entities from coverage decisions (to be filled in Phase 3)
+        k = canon(k0)                      # a manual entity folded into another entity by review is not created
+        if k in E or k in written_manual: continue
+        written_manual.add(k)
+        o.write("\t".join([k, m["display"], "0", "0", "", "", m["display"], "|".join(sorted(rev.get(k, ()))[:8]), "M",
+                           meta.get(k, {}).get("etype") or m.get("etype", ""), meta.get(k, {}).get("decision", "")]) + "\n")
+nmanual = len(written_manual)
 ne = len(rows); nfile = sum(1 for k, d in rows if d["n"] >= 15 or len(d["chs"]) >= 2)
 single = sum(1 for k, d in rows if d["n"] == 1)
 rep = [f"joint-subject facts split across entities: {joint}", f"facts {len(facts)}  alias pairs from '=' lines {len(pairs)} (new mappings {added_pairs})  xref-cite facts {sum(f['xref'] for f in facts)}  facts without cite {sum(1 for f in facts if not f['cite'])}",

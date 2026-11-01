@@ -1,0 +1,129 @@
+type	key_or_term	display_or_kind	target	candidates_or_note
+ENTITY	abebi	Abebi		
+ENTITY	ancestors	Ancestors		
+ENTITY	bastam	Bastam		illphres, jurix, bastam, ophelia, qum (1) | jurix (dullahan), bastam (drake), ophelia (stitch-woman) (1)
+ENTITY	beycalt	Beycalt		
+ENTITY	bishop	Bishop		
+ENTITY	blighted kingdom	Blighted Kingdom		blighted kingdom royal family (1) | blighted queen (2) | kingdom (1) | blighted lands (1) | blighted king othius iv (1) | kingdom of pheislant (0)
+ENTITY	bronze-rank adventurers	Bronze-rank adventurers		silver and bronze adventurers (1) | gold-rank adventurers (4) | adventurers (mostly gold-rank, two named adventurers) (1) | silver-rank adventurers (1) | bronze-rank team of three (1) | named-rank adventurers (0)
+ENTITY	cade	Cade		
+ENTITY	carven city	Carven City		mountain city (1) | tremborag city (1) | city in the dungeon (1) | city watch (1) | fish near the city (1) | city runner vs street runner (1)
+ENTITY	centrists	Centrists		
+ENTITY	chole	Chole		
+ENTITY	city gnolls	City Gnolls		gnolls (35) | gnolls of liscor (1) | gnolls in pallass (1) | undead gnolls (1) | gnolls (nailren team) (1) | secret group of four gnolls with codenames (1)
+ENTITY	commander uxel	Commander Uxel		centaur commander (2) | knight-commander calirn (1) | palace commander (1) | commander grishka (1) | mars and death commander ytol (1) | goblin commander (1)
+ENTITY	cynthia	Cynthia		
+ENTITY	delivan	Delivan		
+ENTITY	depth captain	Depth Captain		captain earlia (gemhammer) (1) | captain salvia (1) | captain shieldscale (1) | celum watch captain and watch members (1) | captain xenic (1) | centaur captain (1)
+ENTITY	dragonspeaker	Dragonspeaker		dragonspeaker luciva (1)
+ENTITY	draug	Draug		draugr (0)
+ENTITY	drowned folk	Drowned Folk		drowned ship (2) | drowned man (1) | stitch-folk (3) | lancrel folk (2) | fair folk (1) | fair folk (spring fae) (1)
+ENTITY	elbe	Elbe		elbe school (1) | elbe palace (1) | first crafter inerta of elbe (1)
+ENTITY	elves	Elves		half-elves (4)
+ENTITY	firebreath whiskey	Firebreath Whiskey		
+ENTITY	ger	Ger		geir (2)
+ENTITY	giants	Giants		giant (0)
+ENTITY	golems	Golems		golem (0) | war golems (2) | guard golems (1) | reinhart golems (1) | snow golems (1) | guardian golems (1)
+ENTITY	gorgons	Gorgons		gorgon (0)
+ENTITY	halassia	Halassia		
+ENTITY	hammera	Hammera		hammers (1)
+ENTITY	hesseif	Hesseif		
+ENTITY	house reinhart	House Reinhart		magnolia reinhart (187) | lady magnolia reinhart (5) | reinhart manor (2) | reinhart gates (1) | lady magnolia reinhart (young), lord tyron veltras and general sserys (1) | magnolia reinhart carriage (1)
+ENTITY	izril	Izril		antinium on izril (1) | archmage of izril (1) | waverider wake and izril splendid stars (1) | tritel; silver mare of izril (1)
+ENTITY	jerci	Jerci		
+ENTITY	kingdom of pheislant	Kingdom of Pheislant		blighted kingdom royal family (1) | kingdom (1) | blighted kingdom (0)
+ENTITY	knight-commander	Knight-Commander		knight-commander calirn (1) | sir kerrig, knight sworn to lady bethal walchais (13) | centaur commander (2) | knight orders named (1) | palace commander (1) | commander grishka (1)
+ENTITY	lamia	Lamia		
+ENTITY	levil	Levil		levil team (3)
+ENTITY	libertarians	Libertarians		
+ENTITY	lord pattin of vaunt	Lord Pattin of Vaunt		goblin lord (36) | wyvern lord (5) | lord pellmia (4) | goblin lord army (4) | crypt lord (3) | lord tourant (3)
+ENTITY	manticores	Manticores		
+ENTITY	merec	Merec		
+ENTITY	mirin	Mirin		mirn (2)
+ENTITY	mothbear	Mothbear		
+ENTITY	naq-alrama	Naq-Alrama		naq-alrama steel (1)
+ENTITY	north	The North		liscor north gate (1) | pallass north wall (1) | runners in the north (1)
+ENTITY	plains gnolls	Plains Gnolls		gnolls (35) | gnolls of liscor (1) | gnolls in pallass (1) | undead gnolls (1) | gnolls (nailren team) (1) | secret group of four gnolls with codenames (1)
+ENTITY	pride of kelia	Pride of Kelia		gemhammer and the pride of kelia (1) | earlia of gemhammer and nailren pride of kelia (1) | gemhammer and pride of kelia (1) | itorin pride (1)
+ENTITY	razorshard armor	Razorshard Armor		armor fight (1) | armor captain shailt (1) | offers for the armor (1)
+ENTITY	rima	Rima		
+ENTITY	savere	Savere		
+ENTITY	senior guardsman	Senior Guardsman		
+ENTITY	ser thornst	Ser Thornst		ser raim (6) | ser raim of the season of summer (1) | ser slayer (0) | ser vorn (0)
+ENTITY	sharphorns	Sharphorns		
+ENTITY	sir nil moxae	Sir Nil Moxae		sir kerrig, knight sworn to lady bethal walchais (13) | sir vumat (7) | sir relz and noass (4) | sir molte (2) | sir evimore (1) | sir nathald (1)
+ENTITY	siren	Siren		
+ENTITY	strongheart family	Strongheart family		strongheart farm (1) | garia strongheart (31) | wailant strongheart (23) | viceria strongheart (6) | lischelle family (1) | byres family (1)
+ENTITY	terland family	Terland family		lord bein terland (2) | byres, veltras and terland families (1) | lischelle family (1) | byres family (1) | reinhart family motto (1) | blighted kingdom royal family (1)
+ENTITY	tommie	Tommie		
+ENTITY	troy	Troy		leon and troy (2) | rose, joseph, galina, troy and imani (1) | earthers (joseph, kevin, rose, galina, troy, leon, imani) (1)
+ENTITY	ullsinoi	Ullsinoi		
+ENTITY	uxel	Uxel		commander uxel (0)
+ENTITY	walls (defensive lines)	Walls (defensive lines)		four walls (1) | liscor walls and watch (1)
+ENTITY	watch house	Watch House		prognugator of the free antinium (false claim to the watch) (91) | liscor watch (4) | celum watch (3) | house byres (2) | house walchais (2) | watch (2)
+ENTITY	wellfar family	Wellfar family		lady gresaria wellfar (1) | lady hetessana wellfar (1) | lischelle family (1) | byres family (1) | reinhart family motto (1) | blighted kingdom royal family (1)
+ENTITY	yellats	Yellats		
+ENTITY	zassil	Zassil		
+DECISION	Gold-rank	alias	gold-rank adventurers	Adjective form of the Gold-rank adventurer tier (e.g. Gold-rank threat, team).
+DECISION	Walled City	alias	walled cities	Singular of the Drake Walled Cities of Izril.
+DECISION	The Centauress	stop		Generic descriptor for an unnamed Centaur woman, varying by scene.
+DECISION	The Lizardgirl	alias	quexa	Descriptor for Quexa, the Lizardgirl [Sorcerer] who befriends Paige.
+DECISION	Shivertail	alias	zel shivertail	Surname form of General Zel Shivertail, the Tidebreaker and General of the Line.
+DECISION	My Queen	stop		Address form used by an Antinium for their Queen.
+DECISION	Golem’s	stop		Possessive of the generic common noun golem.
+DECISION	Balerosian	alias	baleros	Demonym for Baleros in a remark on fashion.
+DECISION	General Shivertail’s	alias	zel shivertail	Possessive of General Zel Shivertail, a hero in Liscor.
+DECISION	Witch of Webs	alias	belavierr	Epithet of Belavierr.
+DECISION	Prime Minister	stop		Government office noted for Belchan, not a single entity.
+DECISION	Sky	stop		Part of a ritual phrase (Lord of Sea and Sky), not an entity.
+DECISION	City of Adventurers	alias	invrisil	Epithet of Invrisil, where Erin first met Magnolia.
+DECISION	Nerrhavian	alias	nerrhavia	Demonym for Nerrhavia.
+DECISION	Summer	stop		The season.
+DECISION	Erill	alias	lord erill	Lord Erill, one of four nobles at Tyrion's desk.
+DECISION	Wales	stop		Real-world Earth location, Ryoka's home region.
+DECISION	King of Reim	alias	flos	Title of Flos, who is challenged to a duel.
+DECISION	Fleethoof	alias	perorn sadiluc	Nickname of Perorn Sadiluc.
+DECISION	The King of Duels	alias	raelt leysars	Epithet of Raelt, the Duelist King.
+DECISION	Tier	alias	tier magic	Spell power level, as in a friend able to cast 4th Tier spells.
+DECISION	The Gold-rank	alias	gold-rank adventurers	Refers to Gold-rank adventurers as the rich and famous tier of the adventuring world.
+DECISION	General Shivertail	alias	zel shivertail	Military title form of Zel Shivertail.
+DECISION	Christmas	stop		Earth holiday referenced by an abducted human.
+DECISION	Petal	alias	knights of the petal	Short form of the Knights of the Petal, Bethal's order.
+DECISION	Gnollish	alias	gnoll	Adjective for Gnoll culture and traditions.
+DECISION	Dellic	alias	armsmaster dellic	Illivere Federation leader, an educated soldier.
+DECISION	City Hall	stop		Common noun for a city administration building.
+DECISION	Griffin	alias	ryoka griffin	Surname of Ryoka used by Pisces as Miss Griffin.
+DECISION	Slayer	stop		Ambiguous epithet (Klbkch the Slayer and others); decide per use in Phase 3.
+DECISION	Raelt of Jecrass	alias	raelt leysars	King of Jecrass leading River Wardens.
+DECISION	The King of Jecrass	alias	raelt leysars	Title of Raelt, whom the passage names in the next line.
+DECISION	Minos	alias	house of minos	Southern Minotaur power whose war drums sound.
+DECISION	Kam	alias	captain kam	Captain of the Whistling Bows, a Bow Rider.
+DECISION	Mrsha the Great	alias	mrsha	Imagined legendary form of Mrsha as a Gnoll mage.
+DECISION	Gilam	alias	lord gilam	Noble who rides a horse and slays a Hob.
+DECISION	Terrible	stop		Epithet fragment of Mrsha the Great and Terrible.
+DECISION	Bird the Hunter	alias	bird	Name used for Bird the Antinium hunter.
+DECISION	Lady Hetessana	alias	lady hetessana wellfar	Widow of a Ship Lord with inherited wealth.
+DECISION	The Dwarf	alias	dawil	Dawil, the Dwarf of the Halfseekers party, is the Dwarf with the adventurers at the Goblin army's rear.
+DECISION	His Majesty	stop		address form
+DECISION	Centauress	alias	centaurs	Female Centaur pulling a wagon with Daly.
+DECISION	Minotauress	alias	minotaurs	Female Minotaur whom Pisces avoids in the street.
+DECISION	Councilmembers	alias	council	Members of the city Council addressed by a speaker.
+DECISION	Daughter	stop		address form used by Raelt to Jecaina
+DECISION	The Lamia	alias	archmage nailihuaile	Archmage Nailihuaile is the half-snake Lamia who intercepts Feor.
+DECISION	The Magus-Crafter	alias	femithain	Magus-Crafter Femithain leads Illivere's army on foot through Tiqr.
+DECISION	Tails	alias	tails and scales	Short form of the tavern name Tails and Scales.
+DECISION	Grimalkin of Pallass	alias	grimalkin	Grimalkin announces himself as of Pallass beside the Gecko of Liscor.
+DECISION	Dance	stop		common noun; Lord of the Dance is a separate title
+DECISION	The Lizardwoman	alias	lizardfolk	A female Lizardfolk soldiers hold back from Geneva.
+DECISION	America	stop		Earth real-world reference
+DECISION	Mister	stop		address form
+DECISION	Skies	alias	takhatres	Takhatres is called Lord of the Skies.
+DECISION	Mr	stop		honorific abbreviation
+DECISION	King of Duels	alias	raelt leysars	Title echoing after Jecrass and Belchan face Reim under King Raelt.
+DECISION	Flynn	alias	flynn patel	Flynn Patel introduces himself.
+DECISION	Keith	stop		Earth acquaintance in narrator's memory
+DECISION	City Gnolls	alias	gnolls of liscor	Gnolls living in Liscor who watch the Raskghar approach.
+DECISION	Nicoletta	alias	italians lorenzo, diana and nicoletta	Nicoletta is one of the Italian arrivals.
+DECISION	Halrac the Grim	alias	halrac	Halrac is greeted by this epithet.
+DECISION	In Izril	stop		prepositional phrase referring to Izril
+DECISION	Thirsting Veil	alias	order of the thirsting veil	Knighthood order that quested thirty years for the Scepter of Krakens.

@@ -1,0 +1,25 @@
+term	kind	target	etype	note
+The Lizardgirl	stop			2.2 review: Not Quexa alone: the descriptor also names Umina the Lizardgirl and an unnamed one-legged Lizardfolk girl (Book 5, Ch4.25N L157; Book 10, Ch6.04D L404).
+Shivertail	stop			2.2 review: Family name shared by Zel, Selys and Tekshia (Book 7, Ch5.04 L282; Ch5.18S L269) and the Shivertail family (Ch5.17S L24), so the bare surname cannot be folded into Zel.
+Griffin	stop			2.2 review: Ambiguous: Ryoka's surname (Miss Griffin) but also the monster griffin (Book 8, Ch5.40 L485), Griffin Hunt and the pronunciation joke (Book 4, Ch3.32 L395).
+The Dwarf	stop			2.2 review: Not Dawil alone: used for several Dwarves (Dawil of the Silver Swords, Pelt the smith, Merrik) (Book 9, Ch5.59 L100; Book 17, Ch7.19 L260; Ch Strategists_at_Sea_Pt._1 L101); Dawil belongs to the Silver Swords, not the Halfseekers.
+Councilmembers	stop			2.2 review: Title for members of different councils (Liscor, Pallass, Daquin: Book 11, Ch6.22D L120-127), so not a single Council.
+The Lamia	stop			2.2 review: Not only Archmage Nailihuaile: also a male Lamia (Book 17, Ch7.23LM L52; Ch Interlude_A_Night_in_the_Inn L979); Nailihuaile is the Lamia Archmage (Book 14, Ch6.60 L172).
+Skies	stop			2.2 review: Fragment shared by Lord of the Skies (Takhatres, Book 2, Ch2.00K L76), Fury of Skies (Orjin's opponent, Book 16, Ch Interlude_Dancing_and_Brawling L255) and Skills like [Tranquil Skies] (Book 6, Ch4.39G L188).
+Keith	entity	Keith	person	2.2 review: Not a mere memory: Keith is a [Blacksmith] in Richard's group of abducted Earthers (Book 6, Ch1.02C L75) who also appears in Book 18, Ch7.34C L294.
+City Gnolls	entity	City Gnolls	species	2.2 review: Broader than Gnolls of Liscor: Gnolls living in cities such as Liscor and Pallass, contrasted with Plains Gnolls (Book 9, Ch Interlude_Krshia L2, L510; Book 10, Ch6.09 L455).
+Nicoletta	entity	Nicoletta	person	2.2 review: Named Italian Earther who introduces herself (Book 10, Ch6.05D L519); an individual, not the group entity.
+Earth	entity	Earth	place	2.2 review: Homeworld of the transported humans, referenced throughout (Book 2, Ch2.01 L129; Book 19, Ch7.48K L483), so it needs its own entity.
+Lizardgirl	stop			2.2 review: Generic descriptor for many different Lizardfolk girls such as Umina (Book 11, Ch6.21D L655; Book 5, Ch1.02D L141); not one person.
+Earth’s	entity	Earth	place	2.2 review: Possessive of Earth, the homeworld; should merge into the Earth entity.
+Spider	stop			2.2 review: Bare Spider mostly names Shield Spiders and other spider creatures (Book 2, Ch2.20 L107; Book 7, Ch5.06M L286); Belavierr epithet use is rare (Book 12, Ch6.46E L390).
+Silverfang	stop			2.2 review: Bare Silverfang is the tribe name but is also Krshia's surname used in address (Book 13, Ch6.49 L664; Book 17, ChInterlude_A_Night_in_the_Inn L958), so it cannot be folded into the tribe.
+Byres	stop			2.2 review: Surname of several people (Yvlon, Lord Yitton, House Byres) and used as address to Yvlon (Book 7, Ch5.07 L93; Book 18, Ch7.37 L1076).
+Army	stop			2.2 review: Generic noun for many armies: Liscorian Army, 4th Army, Seven Nation Army (Book 1, Ch1.11 L132; Book 12, Ch6.42E L106); not First Unified Army.
+Macbeth	entity	Macbeth	other	2.2 review: Earth play staged repeatedly by the Players, about 65 mentions (Book 14, Ch6.63P L308; Book 11, Ch6.28 L144).
+Season	stop			2.2 review: Generic word: a knightly Season, the TV season (Book 4, Ch3.42 L156), Season Theatre (Book 16, Ch7.15R L1087); not only the Order of Seasons.
+The Minotauress	stop			2.2 review: Descriptor for different Minotaur women, mostly Beza (Book 14, Ch6.65 L657) and Neriha elsewhere (Book 19, Ch7.47K L169).
+Antinium Wars	entity	Antinium Wars	event	2.2 review: Collective for both the First and Second Antinium Wars (Book 2, ChS02_The_Antinium_Wars_Pt.2 L2, L81), so not the First war alone.
+Scales	stop			2.2 review: Bare Scales is the common noun (Book 1, Ch1.35 L269; Book 5, Ch4.12 L508); the bar is Tails and Scales (Book 10, Ch6.10 L281).
+Antinium War	entity	Antinium Wars	event	2.2 review: Generic singular covering either war or a hypothetical new one; merge with the collective Antinium Wars entity (Book 5, Ch4.31 L320).
+The Dwarf’s	alias	dwarves		2.2 review: Possessive of the generic The Dwarf, which refers to several Dwarves (Book 6, Ch4.45 L41; Book 13, ChInterlude_The_Titans_Question L49), not only Dawil.

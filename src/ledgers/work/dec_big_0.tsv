@@ -1,0 +1,71 @@
+key	decision	target	etype	note
+erin solstice	keep		person	Single referent; form variants are pair headings only; no rival Erin found in raw forms or facts.
+pisces	keep		person	Pisces Jealnet, Wistram necromancer; no rival referent in 267 facts (Book 1, Ch1.09 L5-23).
+ceria springwalker	keep		person	Single half-Elf mage; facts on her great-grandmother belong to others but are not a separate key here.
+magnolia reinhart	keep		person	Magnolia, Lady Magnolia are one referent; no homonym found.
+toren	keep		person	Skeleton, Toren and the masked swordswoman persona are one referent (Book 13, Ch6.48T L107-108).
+lyonette	keep		person	Lyonette du Marquin; "Princess" raw forms are her and the Book 1 thief princess (Book 2, Ch2.18 L482).
+mrsha	keep		person	Single Gnoll cub; no rival referent.
+teriarch	keep		person	Dragon and Grand Magus Eldavin are his persona (Book 17, Ch7.26 L44-46); one referent.
+selys shivertail	keep		person	Selys the Drake receptionist/heiress; Zel and Tekshia are separate entities (Book 15, Ch7.00 L270).
+ilvriss	keep		person	Wall Lord Ilvriss Gemscale; one referent.
+calruz	keep		person	Calruz of Hammerad, the Minotaur; one referent.
+krshia	keep		person	Krshia Silverfang, Gnoll shopkeeper; one referent.
+yvlon	keep		person	Yvlon Byres; one referent; Ylawes is separate.
+prognugator of the free antinium (false claim to the watch)	keep		person	Key is misnamed: facts are Ksmvr (85 of 91 raw forms). Needs rename to ksmvr; no ksmvr entity exists.
+garren redfang	keep		person	Garen Redfang, Redfang chieftain; key is misspelt variant of Garen. One referent.
+stitch girl	keep		person	Facts are Octavia the alchemist and her shop Stitchworks (Book 3, Ch3.15 L14); key misnamed, not Revi.
+pyrite	keep		person	Pyrite the Goldstone Chieftain Hob; no homonym (Book 9, Ch5.60 L576-590).
+goblin with magic	keep		person	Facts are Reiss the Goblin Lord, Az'kerash's apprentice (Book 6, Ch4.49 L452); key misnamed.
+jelaqua ivirith	keep		person	Selphid captain of the Halfseekers; raw "Selphid" facts here are about her species but within her scenes.
+fierre	keep		person	Vampire Fierre; one referent.
+goblins	keep		species	Species/people heading; keep as species, many tribe variants.
+grimalkin	keep		person	Magus Grimalkin of Pallass; one referent.
+belavierr	keep		person	Belavierr the Stitch Witch; one referent.
+durene	keep		person	Durene of Riverfarm; one referent.
+liscor	keep		place	City of Liscor; facts about its council/watch/army are city-level, one referent.
+frost faeries	keep		species	Frost Faeries/Winter Sprites/Faeries are the same Winter Court fae (Book 3, Ch3.11E L335).
+bethal walchais	keep		person	Lady Bethal Walchais; one referent.
+maviola el	keep		person	Maviola El (Imarris); one referent.
+pirateaba	keep		person	The author; facts are all author-note meta (Meta_B03 L3).
+trey atwood	keep		person	Trey Atwood; Teres/Teresa Atwood separate small keys, not folded here.
+goblin lord	fold	goblin with magic		All facts are Reiss: army, Necromancer link, named Reiss by Zel (Book 6, Ch4.49 L449-451). Title key for one referent.
+gnolls	keep		species	Gnoll species heading; keep.
+greydath of blades	keep		person	Greybeard is Greydath (Book 6, Ch4.39G L272-276); Old Goblin is the same rusty-sword Hob.
+ylawes byres	keep		person	Ylawes Byres; one referent.
+rabbiteater	keep		person	Goblin Slayer and Ser Solstice are Rabbiteater (Book 14, Ch Interlude_Talia L886-891); one referent.
+garia strongheart	keep		person	Garia the Runner; Wailant and Viceria are separate entities.
+drake shopkeeper who cheated erin	keep		person	Key misnamed: facts are Lism Swifttail, Olesm's uncle and Council candidate (Book 12, Interlude_Two_Rats L212).
+raelt leysars	keep		person	King Raelt of Jecrass; one referent.
+palt	keep		person	Palt, Wistram illusionist of Montressa's team; one referent.
+drassi	keep		person	Drassi, Drake receptionist; one referent.
+foliana	keep		person	Foliana, Forgotten Wing leader; one referent (Book 8, Interlude_Niers L6).
+luan khumalo	keep		person	Luan Khumalo the rower; Luan Evercut is an arrowhead, not a person.
+sergeant of the painted antinium	keep		person	Key misnamed: facts are Yellow Splatters, Painted Sergeant and later Prognugator (Book 17, Interlude_Gecko L992).
+moore	keep		person	Moore the half-Giant of the Halfseekers; one referent.
+venitra	keep		person	Venitra, Az'kerash's bone-undead Chosen; one referent.
+halfseekers	keep		org	Adventurer team; keep as org.
+fals	keep		person	Fals, senior Celum Runner; one referent (Book 1, Ch1.01R L61).
+pelt	keep		person	Pelt the Dwarf smith; one referent (Book 15, Ch7.01).
+redscar	keep		person	Redscar, Redfang leader; one referent.
+wailant strongheart	keep		person	Wailant Strongheart, Garia's brother; separate from Garia.
+actors rehearsing macbeth	keep		org	Key misnamed: facts are the Players of Celum troupe (Jasi, Wesle, Grev); org.
+cognita	keep		person	Cognita Truestone, Wistram golem; one referent.
+plague mage	keep		person	Key misnamed: facts are Typhenous of Griffon Hunt; one referent.
+daly sullivan	keep		person	Daly Sullivan, Bushrangers captain; one referent.
+kenjiro murata	keep		person	Ken; mentions of Luan Evercut are an arrowhead, not a second Luan.
+rufelt	keep		person	Rufelt; pair facts with Lasica stay with this key and the lasica key.
+jasi	keep		person	Jasi the Drake actress; Wesle/Grev only appear as pair headings.
+stitch-woman	keep		person	Key misnamed: facts are Revi, Stitch-girl Summoner of Griffon Hunt (Book 5, Ch4.19 L16); not Octavia.
+bevussa slenderscale	keep		person	Bevussa Slenderscale of the Wings of Pallass; one referent.
+mavika	keep		person	Witch Mavika; one referent.
+okasha	keep		person	Okasha, Selphid sharing Geneva's body (Book 5, Ch1.04D L139); one referent.
+rie valerund	keep		person	Lady Rie Valerund; one referent.
+creature led crypt undead attack	keep		creature	Key misnamed: facts are the Skinner of the Ruins of Liscor (Book 1, Ch1.42 L39-41); one referent.
+inn	fold	wandering inn		Facts about "the inn"/"Inn" describe the Wandering Inn building (Book 1, Ch1.00 L5-6; Book 12 Interlude_Two_Rats L33).
+ulvama	keep		person	Ulvama, Hob Shaman; one referent.
+beniar	keep		person	Beniar, Windfrozen/Darksky Riders captain; one referent.
+lasica	keep		person	Lasica Feltail; pair facts with Rufelt remain.
+persua	keep		person	Persua, City Runner; one referent.
+thomast veniral	keep		person	Thomast Veniral, Chevalier; one referent.
+hayvon operland	keep		person	Lord Hayvon Operland of Rhir; one referent.

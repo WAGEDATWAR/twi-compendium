@@ -1,47 +1,47 @@
 joint-subject facts split across entities: 309
-facts 13079  alias pairs from '=' lines 378 (new mappings 163)  xref-cite facts 2  facts without cite 0
-entities (canonical keys) 2483; needing a file (>=15 facts or 2+ chapters) 701; single-fact entities 1678
-manual fact-less entities (from coverage decisions, needs_file=M): 130
-alias map size 1078; conflicted aliases left unmerged 37
+facts 13158  alias pairs from '=' lines 378 (new mappings 164)  xref-cite facts 2  facts without cite 0
+entities (canonical keys) 2154; needing a file (>=15 facts or 2+ chapters) 727; single-fact entities 1334
+manual fact-less entities (from coverage decisions, needs_file=M): 120
+alias map size 1283; conflicted aliases left unmerged 37
 
 Top 40 entities:
-    821  224 ch  Erin
+    824  225 ch  Erin
     528  118 ch  Ryoka
-    267  104 ch  Pisces
-    228   86 ch  Klbkch
-    205   88 ch  Ceria Springwalker
+    270  105 ch  Pisces
+    229   87 ch  Klbkch
+    206   88 ch  Ceria Springwalker
     204   44 ch  Laken
-    187   60 ch  Magnolia Reinhart
-    171   49 ch  Rags
-    153   49 ch  Toren
-    150   33 ch  Niers
-    145   76 ch  Lyonette
-    143   34 ch  Flos
+    193   63 ch  Magnolia Reinhart
+    172   49 ch  Rags
+    155   35 ch  Niers
+    154   49 ch  Toren
+    147   35 ch  Flos
+    146   76 ch  Lyonette
     141   71 ch  Mrsha
     138   73 ch  Relc
     134   26 ch  Teriarch
-    123   54 ch  Pawn
-    116   55 ch  Selys
-    115   38 ch  Zel Shivertail
-    114   46 ch  Ilvriss
-    114   57 ch  Numbtongue
+    124   55 ch  Pawn
+    119   38 ch  Zel Shivertail
+    117   55 ch  Selys
+    115   47 ch  Ilvriss
+    113   55 ch  Numbtongue
     103   37 ch  Calruz
+    101   55 ch  Krshia
     101   63 ch  Olesm
-    100   54 ch  Krshia
-     98   60 ch  Zevara
+     99   61 ch  Zevara
      93   49 ch  Yvlon
      92   54 ch  Bird
      91   48 ch  Ksmvr
      83   32 ch  Az'kerash
      83   25 ch  Garen Redfang
      81   27 ch  Gazi
-     68   46 ch  Octavia
+     75   48 ch  Octavia
+     70   29 ch  Tyrion Veltras
+     68   28 ch  Pyrite
      67   19 ch  Geneva
-     67   28 ch  Pyrite
-     66   25 ch  Tyrion Veltras
      61   15 ch  Reiss
+     59   20 ch  Fierre
      59   25 ch  Wiskeria
      58   40 ch  Jelaqua
+     58   49 ch  The Wandering Inn
      57   42 ch  Antinium
-     56   18 ch  Fierre
-     56   22 ch  Saliss

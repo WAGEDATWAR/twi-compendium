@@ -11,7 +11,7 @@ Street Runner	alias	runners		Ryoka's term for a [Runner] working city streets, s
 Bronze-rank	entity	Bronze-rank adventurers	concept	Adventurer guild rank below Silver-rank.	(Book 1, Ch1.10R L286)
 Minotauress	alias	minotaurs		Female Minotaur whom Pisces avoids in the street.	(Book 13, Ch6.57 L255)
 Antinium Wars	alias	first antinium war		Wars against the Antinium, remembered by Ceria with dread.	(Book 2, Ch2.00H L366)
-Councilmembers	alias	council		Members of the city Council addressed by a speaker.	(Book 11, Ch6.22D L127)
+Councilmembers	ambiguous	wistram council|liscor council		Members of the Liscor Council or the Wistram council; resolve per use.	(Book 11, Ch6.22D L127)
 Lizardman	alias	lizardfolk		A male Lizardfolk soldier carried out screaming after Geneva treats him.	(Book 3, Ch1.01D L82)
 Blighted Kingdom	entity	Blighted Kingdom	place	The Blighted Kingdom in Rhir was first hit by Antinium attacks matching later sightings.	(Book 2, ChS02_The_Antinium_Wars_Pt.1 L54)
 River Wardens	entity	River Wardens	title	Jecrass nobility title for heirs of land holding water; Raelt privately calls them River Robbers.	(Book 10, Ch6.15K L50)
@@ -59,7 +59,7 @@ Ossky	entity	Ossky	person	Oldblood Drake with wings and a breath ability serving
 Undersea Crews	entity	Undersea Crews	org	Seagoing crew groupings referenced when asking Seborn Sailwinds about his crew.	(Book 16, Ch7.11 L823)
 Hamlet	entity	Hamlet	item	The play the Players perform to an Antinium audience.	(Book 3, Ch3.24 L216)
 Liscor’s Hive	alias	antinium hive in liscor		The Antinium Hive in Liscor, home to Xrn.	(Book 5, Ch4.07 L13)
-The Gorgon	entity	Commander Uxel	person	The Gorgon is Commander Uxel, who plays cards with Cirille.	(Book 18, Ch7.34C L1286)
+The Gorgon	entity	Gorgon	species	Species; one Gorgon in 7.34C is Commander Uxel (resolve in Phase 3).	(Book 18, Ch7.34C L1286)
 Mirin	entity	Mirin	person	Smith asked by Ulyse about the poor metal quality for enchanting in Flos's forges.	(Book 10, Ch6.13K L272)
 Senior Guardsmen	entity	Senior Guardsman	title	Watch rank held by Klbkch.	(Book 1, Ch1.07 L126)
 Flynn	alias	flynn patel		Flynn Patel introduces himself.	(Book 19, Ch7.46K L336)
@@ -89,3 +89,6 @@ Nawalishifra of Clan Tannousin	alias	nawalishifra tannousin		Smith who pledged t
 The Black Tide	entity	The Black Tide	event	Antinium march sweeping east, south and north during the Antinium Wars.	(Book 2, ChS02_The_Antinium_Wars_Pt.1 L77)
 Thirsting Veil	alias	order of the thirsting veil		Knighthood order that quested thirty years for the Scepter of Krakens.	(Book 14, Ch6.60 L92)
 Welsca	alias	welsca crimsonscale		Red-scaled Drake slides across the bathhouse floor before Ryoka.	(Book 5, Ch4.24 L261)
+Council	ambiguous	wistram council|liscor council		Generic word for the Liscor city Council or the Wistram leaders council; resolve per use in Phase 3.	
+The Council	ambiguous	wistram council|liscor council		Generic word for the Liscor city Council or the Wistram leaders council; resolve per use in Phase 3.	
+Council’s	ambiguous	wistram council|liscor council		Generic word for the Liscor city Council or the Wistram leaders council; resolve per use in Phase 3.	

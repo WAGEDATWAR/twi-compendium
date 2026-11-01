@@ -1,0 +1,45 @@
+file	reason	key	decision	target
+dec_big_0.tsv	key is a never-merge alias	goblin lord	fold	goblin with magic
+dec_manual_0.tsv	key not an entity	carven city	fold	a'ctelios salash
+dec_manual_0.tsv	key not an entity	city gnolls	keep	
+dec_manual_0.tsv	key not an entity	golems	keep	
+dec_manual_0.tsv	key not an entity	lamia	keep	
+dec_manual_1.tsv	key not an entity	celestial trackers	keep	
+dec_manual_1.tsv	key not an entity	ci	keep	
+dec_manual_1.tsv	key not an entity	dwarf	fold	dwarves
+dec_manual_1.tsv	key not an entity	flooded waters tribe	fold	rags tribe, per lady rie
+dec_manual_1.tsv	key not an entity	golem	fold	golems
+dec_manual_1.tsv	key is a never-merge alias	gorgon	fold	gorgons
+dec_manual_1.tsv	key not an entity	griffins	keep	
+dec_manual_1.tsv	key not an entity	magus-crafter	keep	
+dec_manual_1.tsv	change_alias target missing	The Golem	change_alias	golems
+dec_mid_1.tsv	fold would create a cycle	bezale	fold	beza
+dec_mid_2.tsv	fold would create a cycle	aaron vanwell	fold	blackmage
+dec_small_1.tsv	fold would create a cycle	nelliam hailwing	fold	nelliam
+dec_small_2.tsv	fold would create a cycle	antinium listeners	fold	antinium listener
+dec_small_2.tsv	fold would create a cycle	galuc the builder	fold	galuc
+dec_small_2.tsv	fold would create a cycle	ilvriss' ring	fold	ilvriss ring
+dec_small_3.tsv	fold would create a cycle	courier	fold	couriers
+dec_small_3.tsv	fold would create a cycle	miss ediya	fold	ediya
+dec_small_5.tsv	fold would create a cycle	blessing of the hearth	fold	laken skill blessing of the hearth
+dec_small_5.tsv	fold would create a cycle	demerra	fold	healer demerra
+dec_small_5.tsv	key is a never-merge alias	doombringer	fold	mrsha
+dec_small_5.tsv	fold would create a cycle	shailt of tergim	fold	armor captain shailt
+dec_small_5.tsv	fold would create a cycle	zalthia werskiv	fold	zalthia
+dec_small_6.tsv	fold would create a cycle	lord belchaus meron (lord bel, the lord of the dance)	fold	lord belchaus meron
+dec_small_6.tsv	fold would create a cycle	rock crabs (hollowstone deceivers)	fold	hollowstone deceiver
+dec_small_7.tsv	fold would create a cycle	goblin lord lieutenants	fold	goblin lieutenants (former chieftains)
+dec_small_7.tsv	fold would create a cycle	shriekblade (tessa)	fold	shriekblade
+dec_small_7.tsv	fold would create a cycle	xrn, the small queen	fold	xrn (the small queen)
+dec_small_8.tsv	fold would create a cycle	alternate tom	fold	tom (alternate personality)
+dec_small_8.tsv	key is a never-merge alias	general sserys	fold	sserys
+dec_small_8.tsv	fold would create a cycle	geram redfist	fold	geram
+dec_small_8.tsv	fold would create a cycle	wall lord zail	fold	zail gemscale
+dec_small_9.tsv	fold would create a cycle	clan tannousin	fold	tannousin clan
+dec_small_9.tsv	fold would create a cycle	emir riefel	fold	riefel
+dec_small_9.tsv	fold would create a cycle	lord erill	fold	lord erill (house fienst)
+dec_small_9.tsv	fold would create a cycle	nali-sticks	fold	nali-stick
+dec_small_9.tsv	fold would create a cycle	perorn sadiluc (fleethoof)	fold	perorn sadiluc
+dec_small_9.tsv	fold would create a cycle	reiss lieutenants	fold	reiss' lieutenants
+dec_small_9.tsv	fold would create a cycle	therrium sailwinds	fold	therrium
+dec_small_9.tsv	fold would create a cycle	thresk	fold	warmage thresk of albez

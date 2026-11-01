@@ -17,6 +17,7 @@ def key(s):
     s = re.sub(r"[\[\]\"]", "", s)
     s = re.sub(r"'s(?![a-z])", "", s)
     s = re.sub(r"\s+", " ", s).strip()
+    s = s.strip(" '\"`")
     return re.sub(r"^(the|a|an) ", "", s)
 
 def tsv(name):
@@ -60,6 +61,7 @@ def covered(term):
     d = dec.get(k0) or dec.get(k)
     if d:
         if d["kind"] == "stop": return True
+        if d["kind"] == "ambiguous": return all(resolves(key(x)) for x in d["target"].split("|") if x.strip())
         if d["kind"] == "bracket": return key(d["target"]) in brackets or k in brackets
         t = key(d["target"])
         return resolves(t)          # alias and entity rows both require the target to exist in the ledger
