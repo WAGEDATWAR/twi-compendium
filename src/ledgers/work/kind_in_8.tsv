@@ -1,0 +1,621 @@
+entity	sid	chapter	marker	heuristic_kind	text
+az'kerash	60a078bae7	1.09R	+	fact	a necromancer with white hair, white skin and violet eyes, lord of an undead army
+az'kerash	cfe54d3bd5	2.24	+	fact	also called Perril Chandler; nickname "Peril" forgotten; people call him the Necromancer; emotionally numb; creating something new and unnamed overhead
+az'kerash	8e5cc0e35c	2.24	+	fact	tells Venitra to observe armies and kill any who enter
+az'kerash	37b5af9607	2.25	+	fact	appears as an old man with white hair and albino skin, black shadow robes, a silver ring; casts [Sticky Webbing] and [Silent Sickle]
+az'kerash	1971193852	2.25	+	fact	reads Teriarch's letter and ring as a gift for his two hundredth year of existence; their relationship is strained
+az'kerash	5f6a1962a2	2.41	+	fact	alias Perril Chandler; new huge flesh-and-bone undead; needs corpses, sends Bea
+az'kerash	ef56d296bd	2.41	+	fact	Teriarch's gift was a ring for his 200th year; sends Venitra and one of the Chosen (Ijvani or Oom) after Ryoka
+az'kerash	977180cb61	4.26M	+	fact	orders the Goblin Lord, his apprentice, to go past Liscor, claim the Goblins in the mountain, burn weak cities and kill Osthia; says he has servants in Liscor
+az'kerash	336a262d76	4.26M	!	event	appears to the Goblin Lord, who knowingly informs him of his servants' failure
+az'kerash	c6c0122d6d	4.28	~	belief	claims Ryoka's guarantee of safety lasts "for now" and that his creations were sent only to learn whether she told anyone
+az'kerash	1b2697a21d	4.28	!	state	speaks through Venitra to Ryoka, heals her pinkie bones by magic without contact, and puts a [Word of Death] on her: saying his name or mentioning necromancy kills her
+az'kerash	35a9039941	4.28	!	event	orders Venitra and Ijvani to observe, hide their identities, not harm Ryoka, and investigate the Antinium, the Drakes, the inn's magic door and Erin
+az'kerash	e9821c7fb7	4.29	~	belief	believes Winter Sprites are harmless elementals that use no force unless threatened
+az'kerash	cf138677a9	4.29	!	reveal	orders Venitra and Ijvani to bring back Ryoka's head undamaged and plans for Oom to be revealed as her murderer
+az'kerash	d486d40775	4.30	+	fact	scrying in his castle with Ijvani, Bea, Oom and Kerash; Kerash is an undead Gnoll as tall as Venitra with an axe; he spends scrolls of [Greater Teleportation] to send four servants to Liscor to kill Zel
+az'kerash	bedc03469c	4.30	!	event	sends Bea, Kerash, Oom and Ijvani with teleport scrolls to Liscor to kill Zel
+az'kerash	ef7c77f2d3	4.31	+	fact	agrees to leave Ryoka and her associates alone and send someone to collect Venitra's remains; Teriarch addresses him as Chandler and says Ryoka delivered a gift for him
+az'kerash	8b31bced6a	4.31	+	fact	demotes Venitra and Ijvani, gives Kerash his authority, plans to add to his servants and says Goblins are "a different sort of plague"
+az'kerash	09041c8f89	4.31	~	belief	hopes Ryoka survives because Teriarch cares for her and she is far less protected than Magnolia Reinhart
+az'kerash	4bfa26664d	4.31	!	state	Teriarch's attack forces a truce in which he leaves Ryoka and her associates alone
+az'kerash	85a1229b86	4.47	+	fact	shaken by news of Zel's alliance; calls it an opportunity; has Ijvani as a black skeleton servant; speaks to his apprentice by spell
+az'kerash	032ced1d09	4.47	!	event	orders the Goblin Lord to attack Invrisil
+az'kerash	d76fb3fbce	4.47	+	fact	Necromancer, outcast of Wistram, fallen Archmage, plagued Terandria for over a century; appeared at port-Kingdom of Desonis, seized a port and vanished
+az'kerash	c1ddea96e3	4.47	+	fact	killed Chieftain Kerash of the Gnolls a century earlier, giving the name Az'kerash; sieged Liscor with Draugr, Crypt Lords, wights, Bone Giants; killed Drake [Generals] Hekiss, Vusso and Misa; Gnoll tribes accused of cowardice by 
+az'kerash	faab8d330a	4.47	+	fact	killed General Hekiss, Vusso and Misa; unable to kill Zel Shivertail, who held Liscor's lines and fought for three months; reinforcements never came
+az'kerash	161247ea8f	S02_The_Antinium_Wars_Pt.3	+	fact	army of Draugr, wraiths, Crypt Lords, wights and Bone Giants marching south toward Liscor
+az'kerash	7901b89ca8	S02_The_Antinium_Wars_Pt.3	+	fact	slew the Gnoll Chieftain Kerash over a century ago, hence "Slayer of Kerash"
+az'kerash	b24ac886d1	S02_The_Antinium_Wars_Pt.3	+	fact	clashed once with the Goblin King (stalemate), then besieged Liscor, cutting the continent in two; Liscor held four weeks before relief
+az'kerash	4580cb86ed	S02_The_Antinium_Wars_Pt.4	+	fact	killed Generals Hekiss, Vusso and Misa; destroyed every army met except the Goblin King's, including an Antinium army sent north
+az'kerash	8301a65f78	S02_The_Antinium_Wars_Pt.5	!	state	killed by Zel at Liscor (L30); Zel later says he cannot believe he survived
+az'kerash	552bb6c96b	4.49	+	fact	raised a dome of bone around Zel and the Goblin Lord; five undead Chosen arrived by artifact or teleport
+az'kerash	f70976901d	4.49	+	fact	speaks through the Chosen; says his apprentice was the crux of the trap without knowing it; calls the Chosen his children, first of his Chosen being Kerash; says Zel gave him the idea for them
+az'kerash	c3435cb262	4.49	+	fact	asked whether Magnolia or someone else told Zel he lived; truth-spell pressure made Zel think of Ryoka
+az'kerash	0b069ca110	4.49	+	fact	appeared by Greater Teleport (he has four scrolls left, had eleven); cast [Diamondshard Spray], [Accelerate Spell] [Stone Lance], then [Deathblast] four times; Zel lost his left eye and part of his head
+az'kerash	25e6eed849	4.49	~	belief	claims the living are his enemy and Zel was no match, intending to turn Zel into his finest servant
+az'kerash	ad0a24af00	4.49	!	reveal	revealed to be alive and to have Chosen, and his apprentice is the Goblin Lord
+az'kerash	d51383ba4a	5.50G	+	fact	has informants across the continent, a Human conspiracy he secretly aids and Drakes in power as allies
+az'kerash	383fc164a3	5.51G	+	fact	speaks through Reiss, remembers ordering Osthia slain, says Rags is "nothing like the previous Goblin King"
+az'kerash	e05d34a6fc	5.54	+	fact	possesses Reiss to teach him study of Tome of Greir Rot and orders him to cooperate with the Humans; promises to raise every dead soul at Liscor and lend Bea and Venitra
+az'kerash	099762af82	5.61	~	belief	tells Reiss to take the walls in thirty minutes so his force can teleport in and trap Tyrion's cavalry
+az'kerash	e983ad2674	5.62	+	fact	has Chosen Venitra, Kerash and Bea waiting to be teleported and rages at the "Goblin [Bard]"
+az'kerash	83517313b1	5.62	+	fact	takes Reiss' body, raises a [Bone Rapier] with [Bloodcaller's Curse] so wounds will not heal, uses [Flash Step], [Mass Stone Lances] and [Sightless Winds], and kills Headscratcher with a thrust below the heart
+az'kerash	f8122f8e9d	5.62	+	fact	kills Yellow Splatters and many Painted Soldiers with [Mass Stone Lances]; Yellow Splatters shields Pawn
+az'kerash	66d27f15be	5.62	!	state	loses his link to Reiss when Garen cuts the arm
+az'kerash	d97b3c95e0	Interlude_B09_1	+	fact	calms after half a day of fury, dismisses Reiss' death, and orders Drake scales, chitin and mana potions for new work
+az'kerash	cac85d76e9	6.11	+	fact	merchant alias whose city visits overlap eight Drake persons of interest; Ilvriss knows six names, two personally
+az'kerash	e1b04604b8	6.11	+	fact	thought dead in the Second Antinium War; secretly alive; can field about four hundred thousand undead; killed Zel Shivertail and Periss; Reiss thought him over Level 70 or 80
+az'kerash	1b31472901	6.51A	+	fact	calls himself an old name, Perril Chandler, once Human, Archmage Chandler; the rat voice forbids Pisces to call him Chandler
+az'kerash	1efe7504ac	6.51A	+	fact	lives in a black-stone castle west of the Bloodfields in a forest by the High Passes, with three used rooms and an undead army
+az'kerash	aaba0a6001	6.51A	+	fact	remodels a whale as undead for two months, controls puppets in Chandrar auction houses (Sir Salin, Hexilt, Mister Veldamnt), and plans Hexilt's "accident"
+az'kerash	1f66095cce	6.51A	+	fact	cannot keep hundreds of puppets; wants to send Kerash as a Gnoll wanderer for the Meeting of Tribes; Venitra is in disgrace; Bea "kills too easily"
+az'kerash	16018f5284	6.51A	+	fact	taught Pisces after Venitra, as Regrika Blackpaw, failed to catch Ryoka; Pisces is bound by magic to silence in return for instruction
+az'kerash	0ec254c852	6.51A	+	fact	gave Pisces the book Perfecting Facets of Undeath by Credeth; Pisces's chest-crossbow skeleton fires a bone bolt
+az'kerash	45360c226d	6.51A	+	fact	casts [Absorb Recollections] on the rat and sees three months of Pisces's life with Erin, Ceria, Yvlon and the inn
+az'kerash	c654735e5d	6.51A	+	fact	makes a deep-dish pizza in his dusty kitchen with Bea, Venitra and Kerash; the Chosen cannot tell flour or eggs apart
+az'kerash	f7010acb80	6.51A	+	fact	laughs for the first time when Pisces and the Horns slide across the floor, then skates in his ballroom and conjures an illusion of a Terandrian court that turns on him
+az'kerash	641508979b	6.51A	+	fact	tells Bea he is still trying to create life, which he and Zelkyr never finished, and he promises he will keep trying
+az'kerash	52891afd41	6.51A	+	fact	animates a Bone Behemoth folded into Pisces's room and carves a spell on its skull
+az'kerash	6b9d99760d	6.51A	~	belief	believes Ijvani walks home without a scroll and has not thought of her until the end
+az'kerash	64de8b6171	6.51A	!	event	realizes he is irritated by Pisces and spares him, treating the Behemoth as homework
+az'kerash	95723eb17a	6.59	+	fact	intercepts Wistram's bounty with [Scribe Thoughts], has Bea ask as "Elden Veis", wants Nekhret's bones, and burns the poster in black flame
+az'kerash	bb5368d8c7	6.59	+	fact	reads Pisces's old speech to the Council and laughs; says Illphres was a peer of the Siren of Savere; will not help Pisces; his Chosen include Kerash, Bea and Venitra
+az'kerash	014032b1ee	6.65	+	fact	uses his black-boned skeleton Ijvani to watch Montressa and the Horns, and scribes a spell scroll; he knows Montressa's mission will be rescinded and Pisces' bounty reduced, not erased
+az'kerash	c9e750d17b	6.66H	+	fact	watches through Ijvani, tells her to wait until the adventurers break and to cover Pisces' retreat, and says everyone betrays each other in the end
+az'kerash	8c471a84c0	6.66H	~	belief	predicts the Horns will abandon Pisces and betray each other; the Horns disprove it
+az'kerash	63e5261354	6.68	+	fact	reviews the Creler battle with Ijvani, calls it an amusing distraction, and spares Pisces
+az'kerash	c302ba1ea3	6.68	+	fact	recalls standing alone on Calanfer's borders as Perril Chandler and earning the title Undying Shield of Calanfer
+az'kerash	5eeb24b910	7.03	~	belief	calls Bird a new Centenium
+az'kerash	3d9a054d19	Mating_Rituals_Pt.2	+	fact	tells Bea sex is biological and entertainment; he lost a woman he loved a century ago; Zelkyr made creations to love him
+az'kerash	60c3e4edb2	7.14T	+	fact	lives in a hidden castle at the foot of the High Passes, south Izril, in an ensorcelled forest, believed dead after the Second Antinium Wars
+az'kerash	e9c2a3bfd4	7.14T	+	fact	formerly Perril Chandler, Archmage of Wistram and "Undying Shield of Calanfer"; his kingdom is ash by his hand
+az'kerash	915d28c09c	7.14T	+	fact	considers pausing his plans for a century; mentions Magnolia Reinhart, the Dragon (Teriarch) and possibly Ryoka Griffin as aware of him
+az'kerash	00eb95f4cc	7.14T	+	fact	casts hundreds of spells, blasting the castle, burning the forest and nearly hitting Venitra; then rains out the fire
+az'kerash	0dad6f72bf	7.14T	+	fact	reconstructs Toren a new magical skeleton body; Toren's sneak kick is stopped by Ijvani, who webs him to a wall; Toren then is held in a power cage
+az'kerash	fe3048b318	7.14T	+	fact	has the walls sing an old Silvaria hymn; says he will add five more Chosen for ten and give the four leveling ability; Ijvani will be the second leveling undead
+az'kerash	f0bdfffe30	7.14T	~	belief	says the Wailing Pit and unique Flesh Worms hamper his control of undead, no evidence beyond his guess
+az'kerash	c2b8d54494	7.14T	~	belief	believes Zelkyr may be alive; says only one being still holds the knowledge
+az'kerash	ee782522e6	7.14T	!	event	discovers Toren holds the unwritten key to creating true leveling life
+az'kerash	71ceb82743	7.28	+	fact	has Chosen Venitra, Kerash (Level 8 [Warrior]), Ijvani and Bea (a plague zombie training to be a [Lady]); he removed Ijvani's spells
+az'kerash	51a3af186b	Interlude_Meetings_and_Friendships	+	fact	trains four Chosen (Venitra, Ijvani, Bea, Kerash), all below Level 10, with Belavierr as opponent; they have been given the ability to level
+az'kerash	40aa364e97	Interlude_Meetings_and_Friendships	+	fact	promised Belavierr one of his new undead for her help
+az'kerash	bc2af64714	7.41	+	fact	alive unknown to the world; can sustain about fourteen simultaneous thoughts
+az'kerash	4b45422e2b	7.41	+	fact	former Wistram Archmage who used the same Skill
+garren redfang	645fca89c0	2.02G	+	fact	says he came to unite the tribes against a Goblin Lord in the south
+garren redfang	6cbd23d58c	2.03G	+	fact	says the tests were needed, he is stronger but "cannot lead" like her
+garren redfang	503a583186	2.03G	+	fact	has no levels in [Chieftain] or [Leader]; his tribe formed by Goblins wandering to him
+garren redfang	068bcf3224	2.03G	+	fact	born in the Old Fire Tribe, named by its Shaman; left as a young Goblin; levelled as a [Warrior]; became a Hob
+garren redfang	3733792d33	2.03G	+	fact	a Silver-rank team nearly killed him but spared him; he later disguised himself, learned Human speech, and joined them; first Goblin to adventure; Gold-rank
+garren redfang	243953b170	2.03G	!	event	betrayed his adventurer team and then went north of Liscor, tamed a Carn Wolf, and challenged the biggest local tribe, whose Hob Chieftain fled
+garren redfang	3085a6196f	2.03G	~	belief	says the Goblin Lord is wrong
+garren redfang	bd8e04f3e0	2.03G	+	fact	kicks Rags across camp with one blow, heals her with a potion
+garren redfang	0767d04c08	2.03G	+	fact	Rags can level by training; "level up cannot be without pain"
+garren redfang	e438c816dd	2.03G	+	fact	a [Dragoon] (unique [Warrior]/[Rider] combination) and [Beast Tamer]
+garren redfang	4a785505f0	2.03G	+	fact	owns rings against arrows and poison, and a crimson sword that glows white-hot at a command word
+garren redfang	320124eea3	2.03G	+	fact	says Rags should choose a single class path
+garren redfang	6c2b87298f	2.03G	+	fact	raids covered wagons, not Runners, and avoids killing adventurers; singles out a thin City Runner as an easy target and a big slow one as too dangerous
+garren redfang	96b10b6aa5	2.03G	+	fact	Rags kills a red-haired Human [Mage] with a bolt and thinks of Erin
+garren redfang	d66430709a	2.03G	+	fact	half-Humans or part-Humans (the adventurers who spared him) were "different, like me"
+garren redfang	b2e0bfc3a1	2.03G	+	fact	carries a black onyx-like key, "the key the last Goblin King wanted", taken from a dungeon bottom; killed many of his party for it
+garren redfang	ff28bb03b5	2.03G	~	belief	says the key's hiding place is "death beyond death"
+garren redfang	c5cd5e1bee	2.03G	+	fact	offers Rags an albino wolf pup; she refuses because white marks a target
+garren redfang	1c76556a64	2.03G	!	reveal	disguise themselves as travellers and walk to The Wandering Inn
+garren redfang	4af15ff3ba	2.36	+	fact	Hobgoblin watches the sledge head north and plans for Rags to lead the tribes
+garren redfang	6ffeca97e4	2.41	+	fact	Hobgoblin with Gold-rank strength; wanted to burn the city
+garren redfang	1c08fdaf6d	3.17T	+	fact	ordered the warriors not to tell Rags; would kill himself rather than join the new Goblin Lord
+garren redfang	259cddfbd2	3.26G	+	fact	lost to Rags on purpose; still commands his Redfang tribe, rides a rust-red Carn Wolf
+garren redfang	94141b6372	3.26G	+	fact	speaks common fluently; carries a small key hidden behind his armor
+garren redfang	e4e0f0ef48	3.26G	+	fact	agree to fight together against the Goblin Lord after Garen shows the key
+garren redfang	32c2081b7a	3.26G	~	belief	Goblin King's name was Velan the Kind, last King of the Goblins, per Tremborag
+garren redfang	24076e85d2	3.28G	+	fact	killed a Hob of Tremborag in a quick duel; Redfang tribe guards the mountain and is upset by the captive women, Garen answered "Deal with it"
+garren redfang	0b2de7e00d	3.29G	+	fact	stays in the mountain; has a sword called his "fang"; hopes Rags escapes because she could still be useful
+garren redfang	48d5a71d9a	4.19	+	fact	the Hobgoblin traitor, a [Rider] and [Warrior] with magical artifacts, now leads the Redfang tribe near the High Passes; no bounty is on him
+garren redfang	0fa9c8fbc0	4.32G	+	fact	stalks Tremborag's mountain, sword in hand; hates Tremborag, who eats alone roaring for females and wine; Garen will never kneel to the Goblin Lord
+garren redfang	e5f90e497b	4.32G	+	fact	his rank in the mountain was established by several fatal duels; part of the Redfang tribe stayed behind with him
+garren redfang	f39de5a306	4.34	+	fact	legend among Redfang: once walked through Human cities masked, traded with Humans, was a Gold-rank adventurer for a time
+garren redfang	43d6343ead	4.39G	+	fact	his faction in the mountain; storms at Tremborag over the failed mansion raid (20+ Hobs and a [Shaman] dead); has [Raider] skills to appraise targets
+garren redfang	5958e02ad1	4.39G	+	fact	finds the Valerund mansion deserted and burns it; razes a northern town for gold from a mine
+garren redfang	4bb7fb23b6	5.07	+	fact	Hobgoblin who betrayed the Halfseekers, taught by them exercises the Redfangs now repeat
+garren redfang	f020be9c7e	5.19G	+	fact	hob chieftain, once the only Gold-rank Goblin adventurer, who built a tribe in the High Passes and now shelters in Tremborag's mountain
+garren redfang	9dd41431ad	5.19G	+	fact	his sword is red and enchanted, which gave him "Redfang"; he is fourteen years old
+garren redfang	a08fc9e325	5.19G	+	fact	Rags took over two thirds of his warriors and the tribes he had gathered when she left the mountain, calling him no true Goblin
+garren redfang	308a7f6a4b	5.19G	+	fact	carries a tiny key that lets him remember that Velan hid a secret, in two places with two keys
+garren redfang	dfa2bb637d	5.19G	~	belief	sensed the Goblin Lord approaching like a bonfire growing brighter, and Tremborag too
+garren redfang	105524eb5d	5.19G	!	event	agree to bar the gates and wait for the Goblin Lord
+garren redfang	f0710b1d23	5.30G	+	fact	Chieftain of Redfang tribe, rides a Carn Wolf twice normal size, wields the enchanted red blade Redfang, uses [Deeper Cut]
+garren redfang	8146b750c0	5.30G	!	event	attacks Reiss's mount, the ambush fails, and Tremborag takes three [Deathbolts]
+garren redfang	49330f4c7b	5.31G	+	fact	leads Redfang Warriors in two to three raids down the slopes, no Skills needed, then retreats into the mountain
+garren redfang	74754d1380	5.37G	+	fact	a former Gold-rank adventurer, carries an enchanted amulet and the red sword Redfang; uses [Blur Dodge] and [Frenzy Cuts]
+garren redfang	9c3ac6009c	5.37G	+	fact	his sword turns transparent to pass through unenchanted armour and non-living material but fails on Greydath
+garren redfang	eec4ff2885	5.37G	+	fact	his Redfang Warriors flee with him, looting the Gold-rank bodies; he suspects the attack is a trap inside a trap
+garren redfang	42fbc61ea8	5.37G	~	belief	Greydath died earlier ("Greydath? But he was d—")
+garren redfang	36de4a26b1	5.48G	+	fact	arrives on a Carn Wolf with a famous red blade; Redscar and Redfangs in Rags' tribe face their old Chieftain
+garren redfang	7cc5e994eb	5.48G	+	fact	says Reiss is a slave who betrayed Goblinkind
+garren redfang	42ac897bb8	5.48G	+	fact	clutches something at his belt, the key to Velan the Kind's legacy hidden in the High Passes
+garren redfang	8bc18a91cc	5.48G	~	belief	insists Reiss is not a Goblin; denies having the key with a poor lie
+garren redfang	bcbc122c3a	5.48G	!	event	publicly outed as holding Velan's key; refuses to admit it
+garren redfang	59f76d0480	5.50G	+	fact	leads barely more than eight hundred Redfangs wearing red stripes
+garren redfang	e6bc1d78ea	5.50G	+	fact	refused Reiss's necromancy, hates undead, and vowed to oppose him; betrayed the Halfseekers, slaughtered half of them, then fled to the High Passes and founded the Redfang Tribe
+garren redfang	d8b60aa6b0	5.56G	+	fact	watches the fight, refuses to join either side, loses his bid to take Rags's scattered Goblins, and leaves with his Redfangs south
+garren redfang	987aa0e21a	5.56G	+	fact	kills three Human commanders (Geim, Helica, Sir Meilmen) with his tribe and escapes on Carn Wolves with horses
+garren redfang	6ca9792801	5.56G	+	fact	realizes Tyrion Veltras is stronger than himself by a bit
+garren redfang	421b275b9b	5.56G	~	belief	thinks Rags's tribe should have gone to him after Tremborag's death
+garren redfang	ae1082020a	5.56G	!	state	leaves for the south with his tribe
+garren redfang	12fe87194b	5.57	+	fact	after the split made the tribe fully mounted; Carn Wolves must be earned by respect; he is called brother of the Goblin Lord and a former Gold-rank adventurer
+garren redfang	6e5b97e575	5.57	+	fact	keeps a small key at his side, "Other one missing"
+garren redfang	5411be80ef	5.57	+	fact	memories of the Halfseekers grow stronger, he recalls Jelaqua asking where to go and a map; later recalls killing four Halfseekers, Keilam, Thornst, Ukrina, Halassia, in a private room over loot and a key
+garren redfang	410b8bf18f	5.57	~	belief	tells Spiderslicer the plan is to loop past Liscor and back to the High Passes
+garren redfang	f1d315dd79	5.57	~	belief	claims the Halfseekers' deaths "wasn't his fault"
+garren redfang	09ef748f8d	5.57	!	event	reunited with the Halfseekers
+garren redfang	e54c975436	5.57	!	event	flashbacks show the massacre of the original Halfseekers
+garren redfang	e89014fd51	5.58	+	fact	wields a rust-red sword Redfang that glows white and turns transparent to cut through lesser enchantments; uses [Frenzy Cuts]
+garren redfang	ce0aaee9ae	5.58	+	fact	first met Jelaqua when he killed an Eater Goat disguised as an adventurer; she invited him into the Halfseekers
+garren redfang	8f1c171bfa	5.58	+	fact	says "I was betrayed" and kills Halassia first; Seborn says he struck first
+garren redfang	e353abac10	5.58	+	fact	orders the Halfseekers killed; the five Hobs refuse, then challenge him for Chieftain
+garren redfang	430cfbd640	5.58	+	fact	leaves north with fewer than a hundred followers, looking back
+garren redfang	53bccdaf11	5.58	+	fact	beheads Jelaqua's Drake body but she survives; the Halfseekers survive and Moore carries Seborn through the door
+garren redfang	fae969d21b	5.58	~	belief	insists his team betrayed him
+garren redfang	c834cf9695	5.58	!	state	loses his tribe's loyalty and leaves
+garren redfang	d590fc1e10	5.59	+	fact	was Silver-rank earlier, trapped in a forest with Halassia during a bounty, attacked a prison with her and illusion spells
+garren redfang	5279780158	5.61	+	fact	has no name for his Carn Wolf of two years, having buried four earlier wolves; eight of fewer than a hundred followers remain
+garren redfang	1964286d93	5.61	+	fact	tells his warriors "I was wrong", apologises to Rags and offers her a ride; Pyrite agrees
+garren redfang	448c373be0	5.61	+	fact	believes the Goblin King went to the High Passes to hide a great treasure
+garren redfang	17b51f4a9b	5.61	!	event	rejoins the Redfangs and apologises
+garren redfang	d12d08afa6	5.62	+	fact	leads the Redfangs to Az'kerash, cuts off Reiss' arm at the elbow breaking the link, and is stabbed through the chest by the rapier
+garren redfang	e41effbc0b	5.62	+	fact	kills three Drake [Captains], wounds Embria and fights Relc before dying
+garren redfang	45a1974e1d	5.62	!	state	dies after freeing Reiss
+gazi	f3f7c8bad2	1.29	+	fact	adventurer with dreadlocks, dark orange-brown armor, large sword, part Gazer; one huge eye and four smaller eyes, four fingers
+gazi	b93dfbe947	1.29	+	fact	can see a person's class and level
+gazi	7e20881966	1.29	+	fact	reads Erin as an [Innkeeper] who has a talent for fighting; says exterminating monsters is not murder
+gazi	41d678ed14	1.30	+	fact	Gazi of Everst, called Gazi the Omniscient, Adventurer Pathseeker, rumored over Level 40
+gazi	d6092521e2	1.30	+	fact	counted among the top 100 adventurers in the world; lent Erin money for the wagon
+gazi	874337eac4	1.30	+	fact	says her help in the street fight would only cause death; was once a soldier and left war
+gazi	3309ddd596	1.30	!	event	Selys recognizes her as a half-Gazer and goes pale
+gazi	d085e1ba80	1.30	~	belief	"I foresee it" when she says she will meet Erin again
+gazi	1093169c93	1.31	+	fact	calls herself more infamous than famous
+gazi	1979768224	1.33	+	fact	murmurs "A Level 1 [Skeleton Warrior]" and watches Pisces
+gazi	0b4e68a238	1.33	+	fact	terrifies the adventurers with her eye and orders them to leave
+gazi	24ce1e5aa5	1.33	+	fact	Gazi POV says she has long sought individuals worthy of waking her lord and liege, whom she says still sleeps
+gazi	efc66fe3d5	1.33	+	fact	sees names and natures; finds Erin and Pisces worthy but reads the thief as a [Princess]
+gazi	93f37a9e42	1.33	+	fact	notes Erin's [Immortal Moment] is unique
+gazi	8b5f79f6b5	1.11R	+	fact	Named adventurer, "the Omnisicent", is in the city now; she has not gone into the ruins
+gazi	af4d7f1e81	1.38	+	fact	Gazer, crouches on a far hill, watches Relc and Ksmvr
+gazi	ab5b787edf	1.39	+	fact	shadows Ceria and Gerial in Liscor; the "[Princess]" crouches near under [Invisibility]; Relc heads for Calruz
+gazi	4c9a7b435c	1.40	+	fact	Named, half-Gazer with one large eye, brown and rust-red armor, curved sword, no rank armband
+gazi	2fc615b641	1.40	+	fact	looking for Ryoka Griffin, "a levelless girl who braved the High Passes"
+gazi	8ed72ab787	1.40	+	rel	serves a "lord" and a "mad king" insult makes her draw on Ceria
+gazi	535d99f221	1.40	+	fact	[Charm] by eye hits anyone who meets her gaze
+gazi	e3a81055ae	1.40	+	fact	tells Erin she will be travelling and hopes Erin stays put
+gazi	66e877ce1c	1.40	!	state	Gazi leaves Liscor
+gazi	f5e0f87060	2.03	+	fact	calls herself Gazi the Omniscient; tracks the party from a slope
+gazi	216a4e8b00	2.03	+	fact	assesses Ksmvr Level 16 [Warrior], Pisces Level 22 [Necromancer], Rags Level 8 [Warrior] / Level 6 [Mage] / Level 10 [Tactician], Toren Level 11 [Skeleton Warrior] carrying a ruby enchanted with [Terror], Erin Level 18 [Innkeeper]
+gazi	720695b273	2.03	+	fact	has a sealed scroll with a glowing rune; says it is "finally time to go home"
+gazi	f2c6785768	2.05	!	event	half-Gazer adventurer with curved sword stabs Zevara through the stomach and addresses Ryoka and Erin with a gold-lettered scroll
+gazi	cf1e1cc7ef	2.06	+	fact	named Gazi of Reim and Gazi the Omniscient; five eyes, one large central eye and four small
+gazi	2683748151	2.06	+	fact	wears rust-coloured armor given by "my Lord", which arrows and blades cannot pierce
+gazi	803e603bac	2.06	+	fact	reads the Watch's classes aloud: fifteen Drakes, five Gnolls, one [Spearmaster] Drake, one [Swordslayer] Antinium, a human [Assassin]
+gazi	7598c74dcc	2.06	+	fact	claims "I see the truth in your souls" and sees lies
+gazi	ccd55fcc30	2.06	+	fact	fights defensively, cutting arteries without killing
+gazi	f75557e4b9	2.06	+	fact	scroll is a teleportation scroll that she activates with the word "Exus"
+gazi	a5ce34f804	2.06	+	fact	portal shows drier, shorter grass at the far side with runestones
+gazi	9a956af71e	2.06	+	fact	has Ceria at sword point, saying killing her would "hurt most of all"
+gazi	a96ab70fa7	2.06	+	fact	blood is orange-yellow
+gazi	57c3f44e89	2.06	+	fact	leaves through the portal vowing Erin and she will meet again
+gazi	9128df5560	2.15	+	fact	called the Omniscient; she killed the previous Silverfang group
+gazi	ef5a46bebb	2.00K	+	fact	half-Gazer, four peripheral eyes plus a closed main eye crusted yellow; orange-brown skin, no nose, dreadlocks, four-fingered hands, segmented armor, sword on her back
+gazi	ea47fd0f34	2.00K	+	fact	her main eye sees through objects; blindness makes her wary of Erin's blow
+gazi	90675218e7	2.00K	+	fact	dislikes the twins for being favoured by Flos
+gazi	dc44fa0600	2.00K	+	fact	reports Erin has the skill [Immortal Moment], befriends Antinium, owns a skeleton, forbids killing Goblins and taught one chess
+gazi	7a643b0971	2.00K	+	fact	says Erin struck the blow that injured her eye and that Ryoka told her Flos lived
+gazi	5959a9b1b6	2.34	+	fact	killed the first party of Gnolls sent to carry the books out
+gazi	cfcd8708ee	4.00K	+	fact	half-Gazer [Scout]; in the dream she has a central eye and sees the enemy camp from miles away
+gazi	2f1f0b01b4	4.00K	+	fact	said "To victory, children" when the others rushed out after Flos's declaration
+gazi	99a73654ee	4.00K	+	fact	also called the Omniscient and Lady Pathseeker; her central eye was poked out by a girl from the twins' world
+gazi	98ce191066	4.00K	+	fact	says she does not know why Flos has not marched and has waited a long time for him to wake
+gazi	5d6358a01d	4.02K	+	fact	in the flashback was a young frightened half-Gazer with sword who scouted 1,000-1,500 armoured Black Judgment and six mages
+gazi	628c4b66b5	4.03K	+	fact	also has no scars; Trey and Teres call her "Gazi the Omniscient"
+gazi	5cd046ecbd	4.03K	~	belief	followed Flos for moments like this; "we seven, his subjects"
+gazi	eec89ef1a0	4.04K	+	fact	kills a child [Assassin] with a poisoned dagger among refugees; Orthenon had expected assassins; Flos says "I ask much of you"
+gazi	9d60076f2b	4.04K	+	fact	scouts the coalition for two days and reports sixty-two thousand, few mages, siege weapons including two trebuchets
+gazi	033ad001b9	4.04K	~	belief	smile is a mask, not real emotion, in Trey's view
+gazi	76989fb50f	4.05K	+	fact	walks out of the fog humming, sword red, her central eye closed and four smaller eyes open; she is wounded by a [Flare Orb]
+gazi	ff7eddfce9	4.05K	+	fact	pinpoints mages, the enemy [General] and elite groups from the tower, calling down lightning; the strikes end the battle
+gazi	a9dfd74b39	4.06KM	+	fact	sits on the balcony railing; she is the weakest and lowest level of the Seven, a [Scout], with weapons and armor Flos had forged to compensate
+gazi	c1c9d3671a	4.06KM	+	fact	was born a slave, bought and freed by Flos within a year when she was a child; says she believes in slavery but does not like it
+gazi	9b49270f41	4.06KM	+	fact	Flos removed her class [Slave], Orthenon's [Traitor], Takhatres's [Cursed Outcast]; only a [King] or [Ruler] can remove a needless class from those who pledge to him
+gazi	105114dd2f	4.06KM	+	fact	the Traders of Roshal are a nation with their own army and artifacts, their rules enforced by assassins on pain of death; Roshal knows secrets of classes Flos does not
+gazi	a950676028	4.06KM	+	fact	there are classes gained only through terrible deeds, "born of despair and filth"
+gazi	e7aed50356	4.06KM	+	fact	Gazers are highly magical; she offers to teach Trey spells; Trey has a [Mage]'s staff in his room
+gazi	b08e8dfb14	4.06KM	+	fact	the title Gazi the Omniscient was given from hatred and fear; her smile is an act, her real laugh sounds like bells; she smells of cinnamon
+gazi	48055904f8	4.06KM	+	fact	Flos will go to war within days against Hellios and Germina's Quarass
+gazi	0e0db5dbcd	4.06KM	~	belief	believes slaves in Flos's kingdom are treated well and can be freed when he orders it
+gazi	d8fa282788	4.06KM	!	event	confides her slave past to Trey
+gazi	4f817b8fec	Interlude_Flos	+	fact	half-Gazer, Named Adventurer called Gazi the Omniscient, wears unenchanted masterwork brown scale armor and carries a greatsword; blinded in her central eye by an encounter with Erin
+gazi	3b3e458861	Interlude_Flos	+	fact	four small eyes move independently; was a slave once; trains Trey in magic
+gazi	8827b81358	Interlude_Flos	+	fact	without her main eye she rates as a high Gold-rank adventurer; Flos hopes for a potion to regrow it
+gazi	5bbd9f09cc	Interlude_Flos	+	fact	threatens the [Slaver] and merchant with her greatsword in disguise
+gazi	a45f2a253b	Interlude_Flos	+	fact	estimates Nawal is Level 30 or higher
+gazi	3478899606	Interlude_Flos	~	belief	a slave trader's contract can be voided by renouncing the signer
+gazi	e0c5ea4b4a	6.12K	+	fact	half-Gazer with four eyes and a shut main eye, teaches Trey [Farsight]; throws him from the tower and casts [Featherfall]
+gazi	77ae283fbb	6.13K	+	fact	Orthenon and Gazi were once a couple; her main eye is closed and healing; she says they do not always agree
+gazi	2ca136bf32	6.53K	+	fact	half-Gazer, four smaller eyes, four fingers, rust-colored armor; jumps from Trey's fourth-floor window; sees screen pixels and refresh flicker
+gazi	cb527f39fc	6.53K	+	fact	teaches Trey magic; her main eye was damaged in a fight before she returned to Reim, by someone from Earth
+gazi	7084ae300d	7.03	+	fact	says Wyverns native to Izril can be ridden; Orthenon would know more of Fissival's Wyvern Riders
+gazi	1f2fb6e4b5	7.09K	+	fact	half-Gazer of the Seven, Named Adventurer; Level 45 [War Scout], Level 12 [Mage], Level 18 [Silent Commander]; her central eye was injured by Erin Solstice poking it
+gazi	3fe00193db	7.09K	+	fact	armor and silver claymore from the Dwarves, who later said an error occurred; the Quarass says it is made by a true master, blocks Gazi's spellcasting and is a crutch
+gazi	b19dca11bf	7.09K	!	event	whole eye restored and used in battle
+gazi	cb8e2720a4	7.21KQ	+	fact	returned to the battlefield from A'ctelios a few days before; her eye is still closed; may soon leave the front
+geneva	27daced053	1.00D	+	fact	Human, 24 going on 25, from Wisconsin, Italian heritage; third-year medical student who never graduated
+geneva	8820093ce9	1.00D	+	fact	arrived in this world after leaving a lecture for the bathroom; walked from a school hallway into foliage
+geneva	427857ceb7	1.00D	+	fact	wrote her own oath based on the Declaration of Geneva
+geneva	401bd8acf1	1.00D	+	fact	gains [Doctor] Level 1 and [Skill - Lesser Resistance: Disease]
+geneva	8b4fbfc3e0	1.00D	+	fact	reaches [Doctor] Level 4, gains [Skill - Hygienic Hands] and [Skill - Lesser Resistance: Infection] after the arrow surgery
+geneva	631d6cdb4c	1.00D	+	fact	wants penicillin, antibiotics, forceps, disinfectant; used boiled water, salt saline and healing potion
+geneva	f43c0da002	1.00D	~	belief	suspects the dislocation test was staged by Thriss
+geneva	649c108845	1.00D	!	event	Thriss trusts her with the iron key to the healing potion chest
+geneva	7acc6a2b10	1.00D	!	state	early scene shows a patient dying under her hands, her fifth death witnessed
+geneva	631f53ed99	1.01D	+	fact	tells Thriss the gods are dead in this world; Thriss says he believes in souls
+geneva	05a94d3fb8	1.01D	+	fact	first day treats over thirty patients and almost all with serious wounds die; later survival rate is over two thirds of 130+ patients treated
+geneva	456799d107	1.01D	+	fact	reaches [Doctor] Level 11, gains [Skill - Injury Sense] and [Skill - Sterile Equipment]
+geneva	3bd0d621e3	1.01D	+	fact	next level-up gives six levels and [Numbing Touch], [Flawless Cut], [Speed Stitching], [Enhanced Thread]; later [Lesser Stamina]
+geneva	354171b50a	1.01D	+	fact	invents triage with white armbands for priority and charcoal marks for lower priority
+geneva	495f0c558e	1.01D	+	fact	flies a red cross flag on white cloth over her tent; soldiers copy it
+geneva	05e8143839	1.01D	+	fact	stops an enemy [Mage] flying over the camp by holding the flag
+geneva	2baef210c5	1.01D	~	belief	says if she breaks her oath she would no longer be a [Doctor]
+geneva	6ffa5e3e57	1.01D	!	event	relations with Lim, Clara, Fortum cool because she triages others first
+geneva	cccd2b5e51	1.01D	!	event	spine broken; Okasha enters Geneva's body, forbidden for Selphids, and moves it
+geneva	1314c7d0be	1.01D	!	state	states she is dying; supply wagons with potions arrive afterward
+geneva	afe153b49b	1.03D	+	fact	Level 26 [Doctor], the only true doctor in Baleros; this is her third battlefield since coming to this world and she cannot remember how to smile
+geneva	20f329b34d	1.03D	+	fact	operates on a Dullahan with a mace-shattered chest, using healing potion sparingly; she has no needle and pump to make transfusions
+geneva	6a125f1ac1	1.03D	+	fact	runs a field hospital until a night convoy takes patients back to their armies
+geneva	f185402bc2	1.04D	+	fact	triages with colored stones, green for least wounded, yellow moderate, red near death, black dead or untreated; Luan is yellow
+geneva	184858b72a	1.04D	+	fact	removes the arrowhead from Luan's stomach lining with forceps, then heals with potion; her Skill [Sterile Field] upgrades [Sterile Equipment]
+geneva	5aa5125555	1.04D	+	fact	of the first six red-stone patients, one loses an arm and four die in the tent
+geneva	8490015a04	1.04D	+	fact	struck by Thriss' mace on the back of the neck; without Okasha she would be paralyzed from the neck down
+geneva	8ffdbdd456	1.04D	+	fact	carries an azurite voice-recorder rune stone and secretly records Okasha and Calectus; she thinks they should have asked her
+geneva	2d8cb37e7d	1.04D	+	fact	American, a medical student who never graduated from medical school
+geneva	fdd1c29b92	1.04D	!	event	learns of three people from her own world
+geneva	3150ddd45b	1.05D	+	fact	was once a new recruit in the Raverian Fighters; hates the title Last Light and says she is a [Doctor], not fully trained
+geneva	bfb4f9dd1c	1.05D	+	fact	saves a War Walker riddled with nineteen Evercut arrows and a nearly severed arm, using [Flash Hands], [Flawless Cut], [Hemostatic Pause] (six minutes forty seconds) and [Detect Injury]; the work takes over an hour
+geneva	516992e4ee	1.05D	+	fact	accepts the donation but not the gold, saying it will not change how she works
+geneva	31fe38f451	1.05D	+	fact	cannot treat the gas victims (similar to mustard gas) and tells Ken and Luan to stop bringing them
+geneva	07bf471207	1.05D	!	event	stabbed three times and her throat cut by a Dullahan assassin
+geneva	b21599a86e	1.06D	+	fact	throat cut and stomach stabbed, survives; her mind is unconscious while Okasha keeps her alive
+geneva	cff9a40314	1.06D	+	fact	argues against fighting, cites Doctors Without Borders and Témoignage, and says neutrality needs witnesses
+geneva	4bf903c006	1.06D	+	fact	admits she was wrong to stay neutral on every battlefield and says there is no Geneva Convention here
+geneva	50c2278fff	1.06D	!	reveal	survives her stabbing; Okasha's presence is revealed to Ken, Luan and Aiko, who swear secrecy
+geneva	f8bda5669b	6.04D	+	fact	Italian [Doctor], the Last Light of Baleros; refuses to fight; diagnosed two-thirds of the Earthworlders with PTSD symptoms
+geneva	68d83e855f	6.06D	+	fact	Italian; once studied to be a general surgeon; carries a wooden stethoscope, tongue depressors and gauze plus a surgical kit
+geneva	39f6f9b0df	6.06D	+	fact	oath not to harm people; her sterile field Skill keeps her hands sterile and can be disabled; she hopes for penicillin
+geneva	4182581f95	6.06D	+	fact	sketches a condom made of waterproofed linen with disinfectant
+geneva	546753e0f0	6.06D	~	belief	thinks the world may be flat
+geneva	a3b57bb3ec	6.06D	!	event	performs first Caesarian section
+geneva	39d5a57ab7	6.06D	!	event	finds purpose as a [Doctor] when needed
+geneva	2fd41242ee	6.07D	+	fact	proposes a clinic with a surgical room for Caesarian sections and charging by ability to pay
+geneva	21d664c01a	6.07D	+	fact	asks Daly to use condoms and ask partners about infection symptoms, and plans a second checkup of everyone
+geneva	b714be2097	6.20D	+	fact	runs a clinic, has performed eight Caesareans, and treated two patients with Yellow Rivers; a mother travelled fifty miles for her
+geneva	35ac8438aa	6.24D	+	fact	[Doctor] in Luan's company, called the Last Light of Baleros; Luan says she reattached a War Walker's arm shot with Evercut Arrows
+geneva	57524e5a3a	6.24D	+	fact	can perform a Caesarian Section, splice tendons, deliver babies; Luan says it is medicine
+geneva	96fc1035ab	6.68	+	fact	holds a wax-sealed invitation to demonstrate medical techniques at the Titan of Baleros' academy at Elvallian, signed by Peclir Im with a travel fund at the Merchant's Guild
+geneva	d7b09dc901	Mating_Rituals_Pt.2	+	fact	paralyzed by a mace blow months ago; Okasha lives in her body; she is treating the Yellow Rivers disease, a sexually transmitted infection with over a hundred patients, and has made condoms in all sizes
+geneva	0f588ed440	Mating_Rituals_Pt.2	+	fact	visits the Slippery Tail brothel in Talenqual run by Dullahan Miss Dushal; Talenqual's company is the Feathered Brigade
+geneva	7e3e0f2103	Mating_Rituals_Pt.2	!	state	has sex with Xeppal with Okasha controlling her; plans to return
+geneva	e6c2fe2ae0	Interlude_Strategists_at_Sea_Pt._1	+	fact	United Nations company [Doctor] in Talenqual, reported treating two children with Yellow Rivers disease
+geneva	52c0d71923	7.22D	+	fact	cultured the strain on blood, tissue and sugar jello; tests Dev's ointment (coagulant) and spear venom; works in an airtight room beside Paige's lab; wears resin-leather protective gear with a red cross
+geneva	9b4eb7b537	7.22D	+	fact	levels to Doctor Level 34 and gains Skill [Disease Detector]; has Skill [Malady's Cessation] giving patients an hour of relief; has [Lesser Endurance] and a disease resistance Skill
+geneva	43303b1c89	7.22D	+	fact	shows Fezimet, leader of the Featherfolk Brigade (a Quexal), that a drop of healing potion makes the bacteria cover a dish; he refuses lockdown but orders his [Healers] to follow her; she gives a public announcement
+geneva	07a8ab801d	7.22D	!	state	gains Level 34 and [Disease Detector]
+geneva	c897e2623b	7.32D	+	fact	Italian [Doctor], 25, from Madison, Wisconsin; works in Talenqual clinic; wears resin-like armour; has no antibiotic
+geneva	0cb3ac6371	7.32D	!	event	Selphid Idis, a [Blademaster] and [Barbarian], replaced Okasha and shares her body; Calectus enforces the arrangement
+geneva	3d54de62e4	Interlude_Meetings_and_Friendships	+	fact	gets word from a Zeres [Healer] that the mould-based penicillin substitute works on nearly two dozen trial patients; the Occillium name is working only
+geneva	40984d29cf	7.49	+	fact	runs two clinics in Talenqual; Umina uses fake names such as Urrexa; Yellow Rivers is mutating and over 70% of Dullahans die because they refuse armor removal
+geneva	9d88b677ed	7.51	+	fact	used Occillium only on the gravest cases before dosage tests; Seql improves and she keeps patients indoors in Talenqual
+geneva	98178c2a5e	7.51	+	fact	explores and packs a month-old abscess on the guard Ceriche, says it needs surgery without healing potions, and argues potions speed up small ailments
+geneva	59faf8c8d1	7.51	!	event	names Joseph of Liscor to Seve after Idis relents, against Selphid rules
+goblin with magic	5a6267e5ab	4.49	+	rel	apprentice of Az'kerash, the Goblin Lord, promised to avenge Zel and kill the Necromancer, ordered his Goblins not to touch the body and withdrew
+goblin with magic	370e25c645	4.49	~	belief	believes the battle was a cowardly death for Zel; Humans believe Reiss killed him
+goblin with magic	90dc681e86	5.02	+	fact	the Goblin Lord has a name; a Drake-sounding one, which stung after Zel's death
+goblin with magic	a19d8dd21a	5.02	+	fact	killed Zel, beat Magnolia's army, and destroyed a pair of War Golems; is both [Necromancer] and Goblin Lord
+goblin with magic	91860aafc4	5.02	+	fact	healed within minutes of the duel with Zel; rides a smaller Shield Spider since Zel killed his mount
+goblin with magic	7d6b9efba5	5.02	+	fact	orders "Left" and the army skirts Invrisil without attacking, heading toward a distant mountain
+goblin with magic	1910b75a49	5.02	~	belief	Goblins spared Invrisil, said later to be due to Zel's damage or Human resilience
+goblin with magic	54a394858b	5.30G	+	fact	Goblin Lord with black eyes and white pupils, educated direct voice, rides a reanimated Shield Spider; uses [Deathbolt]; summons Draug from the ground
+goblin with magic	8069250f1a	5.30G	+	fact	says he defeated the Tidebreaker and destroyed Drake and Human armies
+goblin with magic	a85593173b	5.30G	+	fact	had earlier extracted a promise from Garen to follow him if he had a vision
+goblin with magic	9b5e1236e1	5.30G	~	belief	says Velan's fall is known to him and that he will keep it from happening again
+goblin with magic	c6b069cd63	5.31G	+	fact	says his master's magic grows harder to cast the further they are from him, so he will not help
+goblin with magic	2c3dfc9007	5.31G	+	fact	wants the Mountain City tribe largely intact; if Tremborag and Garen fall, he says the tribe will join
+goblin with magic	72979b86db	5.37G	+	fact	Goblin Lord who commands the fleeing army and orders Snapjaw and Eater of Spears to lead others and reform south
+goblin with magic	37c71b6702	5.37G	+	fact	his undead, tens of thousands, turn north to face the approaching Human army and buy time
+goblin with magic	fe3b908ffb	5.48G	+	fact	Goblin Lord, thinner Hob with black eyes with white pupils, rides a headless undead Shield Spider; speaks the common tongue fluently
+goblin with magic	ee6a5c1a4e	5.48G	+	fact	is a [Necromancer]; raises the dead Goblins so living ones need not die; says he has a master but is no slave
+goblin with magic	e3f7a6f13a	5.48G	+	fact	met Garen ten years ago as a small Goblin; they were like brothers and shared a dream; met again seven years later when Garen was a Gold-rank adventurer
+goblin with magic	fff48122eb	5.48G	+	fact	says Garen found "it" after searching the continent and betrayed the Halfseekers for it
+goblin with magic	bd9fa93617	5.48G	~	belief	claims his master could not find the treasure because he was not a Goblin; never told him the memory
+goblin with magic	0c947a27d5	5.50G	+	fact	telekinetically flies a log into the fire; shows magical command beyond Goblin [Shamans]
+goblin with magic	52bd58b9fd	5.50G	+	fact	says he came north seeking allies, Tremborag attacked him at a peace meeting, and Goblin raiding parties attacked his armies earlier
+goblin with magic	176b331637	5.50G	+	fact	says he would kill Tremborag for one Goblin and will make him suffer for the thousands who died
+goblin with magic	c8ccf7248b	5.50G	+	fact	tells the story of two Goblins, a wanderer Hob and a small magical Goblin, who killed a wyvern, challenged their Chieftain, failed, and parted for seven years
+goblin with magic	13637dc2d6	5.50G	+	fact	studied magic in smaller Drake cities for nearly two years using an illusion spell before meeting Az'kerash
+goblin with magic	9a25538a6f	5.50G	+	fact	Az'kerash, the Necromancer, attacked a Drake village with undead, defeated him and offered service in life or death; Reiss chose life
+goblin with magic	5c7cda76f8	5.50G	+	fact	studied five years as Az'kerash's only student; Az'kerash fought in the Second Antinium War and clashed with the Goblin King
+goblin with magic	fe619e2b45	5.50G	+	fact	alias "the Goblin with magic" in his tale; Garen was "Garen Redfang of the Halfseekers", a Gold-rank adventurer
+goblin with magic	4b5b593f3c	5.50G	+	fact	shows a Bone Horror made from a cow to show necromancy saves Goblin lives; children cringe and it collapses
+goblin with magic	2c88d05aa5	5.50G	+	fact	dreams of a Goblin kingdom with a city and plans to take a place that can be held and make peace with Humans
+goblin with magic	8f1593d1b4	5.50G	+	fact	Az'kerash has contacted him less since Zel Shivertail's death; he thinks Az'kerash is making unique thinking undead
+goblin with magic	14ea9ef694	5.50G	~	belief	says the Humans have a plan; guesses toward Liscor and the High Passes
+goblin with magic	08a339c6ee	5.50G	~	belief	says Az'kerash cannot control the real him; he can disobey
+goblin with magic	360888280e	5.50G	!	event	witnesses the murder and says nothing, vowing to lead Rags' tribe to safety
+goblin with magic	acd93d8ef8	5.51G	+	fact	saw Quietstab die while invisible and chose not to intervene; he tells Osthia he did it to ally Rags' tribe
+goblin with magic	1be025cd79	5.51G	+	fact	uses [Quiet Air] to create a bubble of silence
+goblin with magic	860b73727f	5.51G	+	fact	gave Osthia a white wooden ring
+goblin with magic	7ceaba8fca	5.51G	+	fact	tries to reach his master by spell and gets no answer
+goblin with magic	33865786fd	5.51G	+	fact	offers Eater of Spears, Hobs and his remaining Draug to help Rags kill Tremborag that night
+goblin with magic	1d08145391	5.51G	!	event	possessed by Az'kerash, walks with him toward the Goblin ranks
+goblin with magic	fe4195deb5	5.54	+	fact	privately has a name given by a dying Drake and keeps it from Az'kerash
+goblin with magic	3e085c60bf	5.55G	+	fact	wants Rags and Garen as allies, not subjects, and is afraid he may have to kill Garen
+goblin with magic	b2fa72f638	5.55G	+	fact	announces Az'kerash's plan to take Liscor, with raised dead, bone walls and the Chosen
+goblin with magic	95f8a5ead3	5.55G	+	fact	reveals his dream has Goblins with no faces, says he would sacrifice anyone, and casts [Deathbolt] at Rags
+goblin with magic	1d83646dda	5.55G	+	fact	loses his hand and the two armies break into fighting
+goblin with magic	869869632f	5.55G	!	event	hand severed by Pyrite
+goblin with magic	3bba3467ea	5.56G	+	fact	reattaches his severed hand with bone fusion and a healing potion; uses [Bone Wall], [Bloodbat Swarm], [Bone Claws], [Fortified Body], [Draug Strength]
+goblin with magic	9954d9ecb1	5.56G	+	fact	mimics Zel Shivertail's fighting, defeating Pyrite in melee, then fires many [Deathbolt]s at him
+goblin with magic	6d133669cc	5.56G	+	fact	believes Rags alive and orders Snapjaw to find and kill her
+goblin with magic	fd23ca8c87	5.56G	~	belief	believes Pyrite is dead
+goblin with magic	1bc277e032	5.56G	!	event	absorbs most of Rags' tribe and Tremborag's Goblins
+goblin with magic	adf975e3d4	5.60	+	fact	told by Az'kerash that his Chosen will be teleported in to fight Antinium (Bea) and ambush Tyrion (Venitra); Ijvani has not responded
+goblin with magic	7c9bb68bcb	5.60	+	fact	is asked by Snapjaw "Is it you?" and doubts whether Az'kerash controls him
+goblin with magic	2a0a3f4b91	5.60	~	belief	"Master" tells him a promising student in Liscor should be kept alive
+goblin with magic	4b189de4a5	5.61	+	fact	feels Erin as an instinct of safety and friend, with all his Goblins, and starts to ride toward her before the trebuchets fire
+goblin with magic	0d03ac76ed	5.61	!	event	cannot disobey Az'kerash's command, orders the charge, and the Solstice Goblins charge his army
+goblin with magic	c5e6bf4fcb	5.62	+	fact	stabbed by Tyrion's lance while looking back at Garen, saying "Brother"
+goblin with magic	3bb572af78	5.62	+	fact	dies in Erin's inn, saying "Someday, Goblins will know peace"
+goblin with magic	c7ab1245e0	5.62	~	belief	says "From the start, we were made like this. Enemies"
+goblin with magic	c7c7cfbaa9	5.62	!	state	killed by Tyrion's lance
+goblin with magic	6e736cd68e	7.43G	+	fact	advises Numbtongue during cards and spots Ratici's stealing
+healing potion	84d3a47b1a	1.07	+	fact	emerald-green shimmering liquid; heals a cut instantly and painlessly; Klbkch gives half a bottle and calls it of no great worth, though Relc implies its true value is higher
+healing potion	36e7b8ef03	1.08	+	fact	leaves Erin's right palm unscarred
+healing potion	df11023a7d	1.17	+	fact	bitter drink that heals a wound at once and leaves the patient weak for about a day
+healing potion	e1d0a1dbf8	1.21	+	fact	expensive; the Watch carries them and Senior Guardsmen carry stronger ones that heal almost anything short of lost limbs
+healing potion	39f5b58478	1.02R	+	fact	a thick, syrupy green liquid
+healing potion	3e96aef28e	1.04R	+	fact	accelerate natural healing; can fuse bones wrongly
+healing potion	ee5b424f94	1.05R	+	fact	a stronger potion would grow bone fragments out of the skin and ruin the leg
+healing potion	ed522220bf	1.12R	+	fact	fixes both fighters' injuries
+healing potion	d013f8f9c0	1.00D	+	fact	close wounds by accelerating natural tissue repair; cheap ones do not cure poison or infection; do not heal a shoulder or severed limbs well
+healing potion	8e63ed3050	1.04C	+	fact	heal wounds in seconds but agony and shock can kill; the Fool's torn innards had to be pushed back and healed
+healing potion	084d4a0a54	6.06D	+	fact	do not cure disease and make infections worse; plagues are deadlier in this world
+ksmvr	4dfdbd1863	1.30	+	fact	Antinium envoy with twin swords whom the Queen calls Prognugator
+ksmvr	6c914ce50f	1.30	!	event	sent to the surface to deal with the Council and the aberration
+ksmvr	8cf85ec9ab	1.36	+	fact	new Prognugator, looks exactly like Klbkch, four arms, two swords and two daggers
+ksmvr	c46ffdb33a	1.36	+	fact	takes Pawn to the Hive, cuts off Pawn's antenna, beheads Toren, hits Erin
+ksmvr	ec0ccb5200	1.38	+	fact	waits on a hill outside Liscor's bounds with four Soldiers; the Soldiers may not go above ground inside Liscor except in emergency or war
+ksmvr	b6458c798a	1.38	+	fact	believes his Queen was wrong to appraise Erin as worthless
+ksmvr	044e2aa549	1.38	+	fact	calls himself Prognugator of the Free Antinium of Liscor; became Prognugator before training was done
+ksmvr	5efd89d0aa	1.38	!	event	decides not to capture Erin because Gazi and Relc make the cost too high
+ksmvr	007fcfca23	1.42	+	fact	Prognugator, brings fifteen Soldiers and cites the Council limit of fifty Soldiers and a hundred Workers in a declared crisis
+ksmvr	e54321461e	1.42	+	fact	his Prognugator position will end in a few hours and another will take it
+ksmvr	0c0799d900	1.44	+	fact	pulls Soldiers back to guard the Hive; says Liscor may fall but the Hive will not
+ksmvr	a5d7b6fbb6	1.44	+	fact	believes the Queen's safety outranks the agreement with Liscor
+ksmvr	988c425548	1.44	!	event	struck down by a figure he recognises as his predecessor
+ksmvr	e7cd7f0136	1.45	+	fact	kneels before the angry Queen
+ksmvr	b2e80e7fb5	2.03	+	fact	still called Prognugator here
+ksmvr	2a732a3f13	2.06	+	fact	four weapons fail against her armor
+ksmvr	d07baeb61c	2.15	+	fact	the new Prognugator, struggling; Klbkch has rectified his thinking
+ksmvr	1206c3e10e	2.20	+	fact	new Prognugator of the Antinium, in disgrace, filling Klbkch's old post; Klbkch is now Revalantor
+ksmvr	3a7fca02bc	2.00H	!	state	arrives wounded, missing a lower right arm, bleeding green
+ksmvr	8c34b9efd2	2.00H	+	fact	says he is relieved of his duties as Prognugator; Revalantor Klbkch will fill in; he failed to hold the line
+ksmvr	3f32f2651e	2.00H	+	fact	his two swords and daggers are missing
+ksmvr	7f16ce1513	2.00H	+	fact	says his Queen will negotiate excavating the dungeon ruins, whose entrance is guarded by many monsters
+ksmvr	d3ebaae909	2.00H	+	fact	claims to be equal to a Silver-rank adventurer; competent with all common bows; has no Skills
+ksmvr	7e7698ff69	2.00H	!	state	joins Ceria, Yvlon and Pisces after Erin's suggestion; Erin lends him a knife
+ksmvr	53a481b4b2	2.00H	+	fact	fights with two swords and a shield in three hands
+ksmvr	a280fff212	2.27	+	fact	described by Klbkch as young, untested and experimental; the Queen's pet project; a plan involving him is to start
+ksmvr	3debc6e542	2.27	+	fact	takes the short sword and the claw necklace, which blocks food poisoning, so he may eat dairy
+ksmvr	1b1b45b85e	3.02H	+	fact	eats cheese sandwiches since a charm cured his gluten allergy; uses a shortbow and Erin's kitchen knife
+ksmvr	3dbc0facb3	3.07H	+	fact	Antinium resist mental tricks by design; true insanity would have made him an Aberration
+ksmvr	136c5664d7	3.07H	+	fact	tore chitin from his own side while mad; cut a strip from Ceria's pants for a blindfold
+ksmvr	5d816c270d	3.07H	+	fact	recalls losing the Prognugator rank; Klbkch is superior; the Queen exiled him
+ksmvr	370d583571	3.08H	+	fact	asks to observe the chastisement to learn command; asks permission to throw things
+ksmvr	347efb0146	3.08H	+	fact	wounded by arrows in shoulder, leg, back; Yvlon shields him with her pack and armor
+ksmvr	f88a38d186	3.08H	!	event	each moved by the cheering crowd; Ceria imagines her old teammates beside her
+ksmvr	5401fa5a24	3.10	+	fact	threatens to kill Ressa if Ceria orders
+ksmvr	9ed10dc1fd	3.25	+	fact	discover with the door that the anchor can be triggered independently of the detection trap; the door recovers mana from the environment
+ksmvr	d536b6b4b0	3.25	+	fact	first to teleport to the stone-holder from the door
+ksmvr	1b624194a7	3.32	+	fact	removed from his post for incompetence; his true place is Liscor and his Queen; wears a charm-enchanted item
+ksmvr	8ae98d2378	3.33	+	fact	addresses Ceria as "Captain"; asks about a stable; Erin has no stable
+ksmvr	7102f107c7	4.10	+	fact	has three arms, was perhaps expelled from his Hive; stands in line for the Horns
+ksmvr	c274b4f932	4.10	+	fact	gives Yvlon the buckler; Ceria gives Ksmvr the [Barkskin] ring and Ring of Jumping; Pisces takes the spell-shooting ring
+ksmvr	ecb652eced	4.27H	+	fact	objects to the ban, saying animating a fallen teammate's corpse is sound tactics and he would welcome it
+ksmvr	d60d82c642	4.27H	+	fact	Level 16 [Warrior], Level 12 when first met; Antinium do not level except Individuals; he begs not to be ejected
+ksmvr	77ad1af016	4.41L	+	fact	former Prognugator of the Hive; stops the fight with a shortsword and shortbow
+ksmvr	e795cbf5ad	4.43	+	fact	has a Ring of Jumping; spars with Yvlon; says "I have died again"
+ksmvr	61368cb4f9	4.45	+	fact	eats a half-eaten Ashfire Bee, befriends Dawil; Apista avoids Ksmvr and the Antinium
+ksmvr	8c3506f9f1	5.07	+	fact	Antinium policy is to eat foes or dead on the march; Pisces hid snacks in his bag of holding
+ksmvr	595c507215	5.12	+	fact	terrified of the flooded landscape because Antinium cannot swim
+ksmvr	ae78b57fe3	5.12	+	fact	all levelled in the battle
+ksmvr	badf8ebdf3	5.24L	+	fact	afraid of water; trains by being lowered into it; cannot swim
+ksmvr	a829814e44	5.25L	+	fact	described as once-Prognugator of Liscor's Hive; intends to cross the bridge to prove he is unafraid of water
+ksmvr	4335d8c48d	5.29	+	fact	throws an enchanted shrieking ball Ryoka brought from Invrisil, luring spiders away
+ksmvr	dae4fa6669	5.29	!	event	planned the leak with Pisces and Yvlon; Ksmvr says it does not harm his Hive
+ksmvr	5cd5aa9f26	5.36	+	fact	panics at the sight of water, wears a Ring of Waterbreathing and a blindfold, and is pushed in by Ceria
+ksmvr	66a112a0ef	5.39	+	fact	leaves the inn, enters the Hive, and challenges Klbkch for the Revalantor position; Klbkch beats him in two cuts using his sword, but Ksmvr's Flamecoat Dagger set Klbkch's blade afire
+ksmvr	6df020e63c	5.39	+	fact	has the Skill [Quick Slash] gained after the Face-Eater Moth attack
+ksmvr	7d9cec9646	5.39	!	state	is told by Klbkch he is not Free Antinium and loses the challenge
+ksmvr	09d02e0b07	5.40	+	fact	wrote a resignation letter after failing twice, then agrees to rejoin Yvlon; says he was dumped outside the Hive and recovered from blood loss
+ksmvr	ffc1920043	5.40	!	event	rejoins the Horns of Hammerad after resolving to quit
+ksmvr	64fcd192f0	5.45	+	fact	holds the Ring of Barkskin; offers to lend it to Ceria
+ksmvr	1dc0a0ba87	5.46	+	fact	uses the Ring of Jumping to catch a fly ball
+ksmvr	76e79c4e1c	6.10	+	fact	carries rotting rations from the last Griffon Hunt expedition nine days ago; a bag is thrown out and strikes Olesm
+ksmvr	ab64d2bfc3	6.18H	+	fact	about three years old, created secretly by his Queen as a replacement Prognugator; three arms (fourth missing); lowest level, under 20
+ksmvr	60f5a61d1f	6.18H	+	fact	Antinium Workers' two-year lifespan is from high mortality, not ageing
+ksmvr	ebaa96a94d	6.18H	!	event	threatens to kill the Watch Captain "yet"
+ksmvr	ff54f1a2c1	6.19H	+	fact	told the Watch Captain he is a Prognugator of the Free Antinium and that arresting or killing him would mean war with all five Hives
+ksmvr	6c0e39b698	6.19H	+	fact	was outcast from his Hive; Klbkch cast him out and took his place as Prognugator, so the claim is a lie that Klbkch would punish with execution
+ksmvr	3d754f1ade	6.19H	+	fact	benched his Ring of Waterbreathing and necklace against food poisoning to stay under the dissonance limit
+ksmvr	3270775071	6.19H	+	fact	rents a horse after the stable-hand refuses, by asking "Is it war, then?"
+ksmvr	6018993e18	6.19H	+	fact	was made in secret by the Free Queen to be a Prognugator if Klbkch fell, in a Worker body, without the Grand Queen's authority
+ksmvr	08a72f4e3a	6.19H	+	fact	kills the leader by biting out his throat, kills the plate-armoured woman with [Shatterbolt], and uses the Flamecoat Dagger word "Terith" four times in combat
+ksmvr	809c7f88f4	6.19H	+	fact	Forceshield buckler is a hand-sized buckler that projects a large weightless shield; his cloak stops arrows and his Ring of Barkskin kept a magic longsword from cutting deep
+ksmvr	3a7ecf8836	6.19H	+	fact	Ring of Jumping lets him leap about ten feet and land safely; he uses it to defeat the mounted bandits
+ksmvr	c5ff359eb0	6.19H	+	fact	wins at nightfall using the dark and the cave, leaving none alive, and delivers 29 heads besides the leader's
+ksmvr	8ce9384a8a	6.19H	+	fact	collects the 100 gold bounty at the Celum guild, signs as Horns of Hammerad, and falls asleep against the wall
+ksmvr	2e6df1a1c4	6.19H	!	state	reaches Level 20, gains the [Skirmisher] class, the [Quick Movement] Skill and an evasion Skill
+ksmvr	aa18829f49	6.19H	!	state	was previously Level 18 [Warrior], up from Level 12 on joining the Horns
+ksmvr	bbf507fc18	Interlude_Embria	+	fact	three-armed Antinium on Yvlon's team, exiled from Liscor's Hive
+ksmvr	945cd5e641	6.39	+	fact	newly leveled [Skirmisher], Level 20, Skills [Quick Movement] and [Quick Slash]; owns a Forceshield and Ring of Jumping
+ksmvr	8c4901bbcb	6.56	+	fact	Antinium [Skirmisher], three arms, nearly four years old, Skill [Quick Movement], gear includes Forceshield Buckler and Flamecoat Dagger
+ksmvr	df990441c0	6.56	+	fact	only one who knows of her infection; calls her Yvlon where Pisces says Comrade and Ceria says Captain
+ksmvr	029cb92a02	6.57	+	fact	hid behind the bar with Crossbow Stan's bag of holding, shoots Ulinde in the head, Beza and Isceil, and is stopped by Ulinde's [Shock Veil]
+ksmvr	8d615d2298	6.57	!	state	taken by the Wistram party; Ceria sealed in the box, Alais wakes later to find them gone
+ksmvr	97ba2d3351	6.64	+	fact	has studied Kilavian warfare, including mountain goats of Kilav used for siege riding
+ksmvr	32576fea8f	6.66H	+	fact	drops onto the wound, takes her sword and drives it into the Adult's brain
+ksmvr	34d1a151b7	6.67	+	fact	buys Stan's bag of holding and crossbows at market price through Selys
+ksmvr	9ddc1dbc13	6.67	+	fact	gains [Surefoot] and [Evasive Flip], letting him do acrobatic flips
+ksmvr	8b64cadbc7	7.13K	~	belief	predict Raelt will die within five minutes; Yvlon agrees
+ksmvr	42c59f2d65	7.28	+	fact	tells the wagon Ceria is engaged to Hedault because he heard Jelaqua congratulate her
+ksmvr	30f15fbf3d	7.37	+	fact	asks for a tree from Lord Byres
+ksmvr	e006c76e81	7.45	+	fact	owns a tree with a deed signed by Yvlon Byres, trades eggs and returns the nest's remaining eggs
+stitch girl	85a7f5fb1c	2.09	+	fact	young dark-skinned [Alchemist] at Stitchworks; braids; muscular; a "String Person" of fabric whose arm unravels
+stitch girl	57ae08dc41	2.09	+	fact	pushes a stamina potion that tastes awful; one gold and eight silver each, twelve for fourteen gold
+stitch girl	4eea07638d	2.12	+	fact	String Person; feels sensations, burns easily, dies if cut apart unless her head is spared; cannot detach limbs like a Dullahan
+stitch girl	4d5a93bc92	2.12	+	fact	can make stamina potions, which boost energy then cause a crash and do not heal; cannot brew invisibility or regeneration
+stitch girl	8612ef4fed	2.12	!	event	brews a stench potion that drives off every monster; Ryoka wears nose plugs
+stitch girl	bdd5dca4da	2.14	+	fact	charges eight gold for testing and delivery of Ryoka's custom potions
+stitch girl	4d4a1e7137	2.14	+	fact	her cotton eyes pop out when she tests a pepper-spray potion on herself
+stitch girl	3852fe58f7	2.14	+	fact	finishes the pepper potion; delivers two bags and two enchanted-glass bottles that weaken when uncorked
+stitch girl	ef25d0f00c	2.14	+	fact	gives Garia a yellow healing potion free and promises discounts to Runners
+stitch girl	9b78afddf6	2.24	+	fact	[Alchemist] who made Ryoka's Earth-style potions, including pepper spray, smoke, and more
+stitch girl	31026b7ca6	2.37	+	fact	dark-skinned [Alchemist] with a braided ponytail and stitch scars on her shoulders and neck, owner of Stitchworks
+stitch girl	3139d38f14	2.37	+	fact	sells stamina, pepper and blur potions and was banned from using a stink potion in the city
+stitch girl	266f75ffd3	2.37	!	event	stops mid-sales when Erin says she is an [Innkeeper]
+stitch girl	e5202e433b	2.40	+	fact	can detach her arm; effect still worked after reattaching
+stitch girl	5b4b1665bb	3.03	+	fact	paid 20 gold by Ryoka to keep hosting Erin
+stitch girl	1ed55db692	3.09	+	fact	experiment with cooking and potions in Octavia's kitchen; Erin has made mana soup, which Octavia says is a mana potion that is more edible
+stitch girl	e42ba9f989	3.15	+	fact	Stitch Girl made of cloth held by string, [Alchemist], has Skills protecting against poison, burns and acid; shop called Stitchworks; wants to sell recipes
+stitch girl	c86982beeb	3.25	+	fact	farewell without tears; says Erin owes extra; hugs Erin
+stitch girl	ffd7ba6cb7	3.30	+	fact	one of three [Alchemists] in Celum; known for cheap potions, thrifty with ingredients; charges loiterers in her shop
+stitch girl	7368b0b341	3.33	+	fact	pitches potions and a "Smoke Sack" to the Gold-rank adventurers after Erin invites her
+stitch girl	341f205115	3.39	+	fact	angry that Celum's convoy knocked down her shop's front wall, now patched with plywood; refuses more research until Erin pays 36 gold coins
+stitch girl	b71dfaa74e	3.39	~	belief	Erin calls her a good friend; Octavia notes her price
+stitch girl	bbb1f614f7	3.39	!	event	agrees to research matches and penicillin for Erin and let Krshia sell her potions
+stitch girl	1540264e97	3.41	+	fact	creates workable matches using Corusdeer horn and sulfur after an all-night effort; Erin's cut is not settled
+stitch girl	b7774edc29	3.41	!	event	invents the match
+stitch girl	0abf06f86d	4.10	+	fact	walks through the magical door from her Celum shop to the inn; Garia and Fals follow
+stitch girl	9bfff9bf59	4.11	+	fact	enters through the door, sleep-deprived
+stitch girl	c51a1bdb16	4.18	+	fact	sells matches to merchants and has leveled up three times from them; also levelled from the penicillin mold
+stitch girl	c1d21df6aa	4.29	+	fact	matches selling well; shows Erin more penicillin-type mold
+stitch girl	6ca2e753b6	5.04	+	fact	Stitch-Girl [Alchemist]; makes matches from a red liquid dipped onto sticks; fifty boxes a day, hopes for three hundred
+stitch girl	6ec9323961	5.04	+	fact	match formula uses powdered Corusdeer Horn and Fire Beetle shells, not phosphorus
+stitch girl	1c4c16af7b	5.04	+	fact	sells potions and matches in Liscor through Krshia, who gets a cut; Liscor imports most potions from Pallass
+stitch girl	2e9de1ce3a	5.04	+	fact	has installed Erin's door in her shop; front wall still unrepaired
+stitch girl	58d4e0def2	5.04	+	fact	deal for two coppers per gold coin of Octavia's matches plus free matches for Erin; matches were Erin's and Ryoka's idea
+stitch girl	67c2baa6cc	5.04	+	fact	cannot make anti-gravity potion; penicillin molds hard
+stitch girl	44f3758f4d	5.06M	+	fact	undercuts Pallass potions by manufacturing locally; delivers to Krshia via Erin's inn
+stitch girl	cbd94df91b	5.08	+	fact	supplies crates of potions through the door; Celum's Watch (over thirty) later holds the inn's windows
+stitch girl	fe0f6dec8c	5.12	+	fact	her stock of potions was used up: 41 healing potions, 35 mana potions, all tripvine bags, combat supplies, over six crates of stamina potions
+stitch girl	28f62aa07d	5.14	+	fact	plans to buy up supplies and undercut Pallass in a trade war
+stitch girl	354c76ac75	5.35H	+	fact	her shop is reached by a door in the inn; Lyonette brings Tripvine Bags, Pepper Potion, Stink Potion and healing, mana and stamina potions, but no exploding potions
+stitch girl	fea04aa365	5.45	+	fact	panics when the door is carried off; follows the procession to the meadow
+stitch girl	65f7bc551e	5.52	+	fact	eats moldy bread; Erin wanted her to cultivate penicillin mold
+stitch girl	76781da7c3	6.02	+	fact	Stitch-girl [Alchemist], Level 21, owner of Stitch Works in Celum; one of four Celum [Alchemists]; four years in the city
+stitch girl	44d5b5969a	6.02	+	fact	Quelm copied her match formula and improved it with a spark-dust igniter; she retaliated with a burning brick; rivals Mabel the Magnificent and Jeffil
+stitch girl	4d42ecf2b1	6.02	+	fact	holds a sample of a high-grade haste potion, yellow streaked with pink, shown by Ryoka
+stitch girl	5d29bcdb14	6.08	+	fact	pesters Lyonette; her shop front is boarded and slightly charred
+stitch girl	44ace5d55b	6.16	+	fact	asks Erin and adventurers for guards for her shop; all refuse
+stitch girl	0945584f9d	6.17S	+	fact	asks Krshia for bulky Gnolls for a "not underhanded, probably" job; Krshia refuses
+stitch girl	ce99486673	6.19H	+	fact	her shop front is smashed by hooded thugs sent by a rival [Alchemist] named Quelm; Ksmvr buys three healing potions and one stamina potion and refuses to help
+stitch girl	48e22d8e8e	Interlude_Numbtongue_Pt.2	+	fact	pays Quelm twelve silver daily; a [Thug] seizes her potions and demands her stock sell through Quelm for a one-third cut; Jeffil, a rival [Alchemist], had his arms broken and Mabel the Magnificent now works for Quelm
+stitch girl	7450866bdf	Interlude_Numbtongue_Pt.2	!	event	Quelm's gang is exposed and Celum's Watch is shown to be bought
+stitch girl	57dc19adb8	6.38	~	belief	looks subdued, says she has learned her lesson
+stitch girl	7e6d979c95	6.39	+	fact	[Alchemist] with [Magic-Water Solvent] and [Mineral Distillation]; can remove her stitched hand and eyes; called Miss Cotton by Xif; Celum's other alchemists are Mabel the Magnificent, Jeffil (broken arms) and Quelm (likely jailed
+stitch girl	492c1a563e	6.39	~	belief	says she is a fraud and her potions are third-rate
+stitch girl	5ee0d319c2	6.39	!	event	receives a pink-red mana stone and several gems from Numbtongue
+stitch girl	55751364f5	7.06	+	fact	sells baking soda at eight silver per packet; Celum's [Bakers] object that it replaces yeast Skills; she also sells matches
+stitch girl	2d7febd0d3	7.07	!	event	agrees to move her shop to Liscor, later the door is renegotiated and stays open
+stitch girl	3e6176b0ad	Interlude_Chocolate_Gold	+	fact	go mining for gems and opals ("Pyrite thinks") with picks, potions, guitar and sword
+stitch girl	3aa685e4fc	Interlude_Chess_and_Ships	+	fact	wants a shop with bigger display shelves, barricades, quarantine areas and sign "Octavia's Stitchworks", attached to the inn
+stitch girl	8fef56a73c	Interlude_Chocolate_Alchemy	+	fact	from Nerrhavia Fallen, tries to apprentice with Saliss; he refuses because past apprentices died and nakedness is not a bargaining chip
+stitch girl	7a8ce686e5	Interlude_Chocolate_Alchemy	+	fact	owns a Potion of Haste from Ryoka; trades it with Saliss for his invisibility recipe notes using ruby dust
+stitch girl	08bf3ef614	Interlude_Chocolate_Alchemy	!	event	begins instruction with Saliss, leaving with him to trade recipes
+stitch girl	53eda333ea	Interlude_Lifting_Ants	+	fact	has not returned to Nerrhavia in nearly five years but receives [Messages]; a Cotton-caste Stitch-Girl
+stitch girl	61f1d6ce40	Mating_Rituals_Pt.2	+	fact	apprenticed to Saliss; regulars joke she is sleeping with him, Lyonette doubts it
+stitch girl	7fab3fc9cc	7.28	+	fact	made penicillin, which Ryoka tells her to sell cheaply without revealing how she found it
+stitch girl	356b55a00b	Interlude_A_Meeting_of_Druids	+	fact	sells a penicillin-like paste and has a shop inside the inn
+stitch girl	04db2fc93e	7.32D	+	fact	penicillin; Erin offers to cover shipping and give it to Geneva free
+stitch girl	184153e7dc	7.32D	!	event	agrees to free penicillin and puts her logo on every jar; Grimalkin promises Pallass will pay
+stitch girl	84eeca34d8	Interlude_Meetings_and_Friendships	+	fact	Stitch-girl [Alchemist] who isolated the mould; apprenticed to Saliss; considers naming it Octavia's Mold or Octalius
+stitch girl	a941e13326	Interlude_Meetings_and_Friendships	+	fact	got [Fungoid Harvester] and [Lesser Wisdom] from the boon, begs to keep them; Lyonette has not told her she is a [Princess]
+stitch girl	da0aea0c4c	7.49	+	fact	offered the Alchemium Scholaris place by Wispel of the Assembly of Crafts (lab and home in Pallass, 3,200 gold per year grant, mage-contract); she declines for now
+stitch girl	053d47244b	7.49	+	fact	was working for Saliss of Lights, who is isolating ingredients from little yellow flowers and wears a glass-lensed helmet with a Jar of Air
+stitch girl	adf17b440b	7.53	+	fact	made the Yellow Rivers cure; Erin hired Tritel to carry it from the inn
+tyrion veltras	546430367c	Interlude_B02_1	+	fact	his spies realised the northern Goblin tribes are moving; his army recently routed two others and is well equipped
+tyrion veltras	8911bd7603-1	S02_The_Antinium_Wars_Pt.1	+	fact	knew of the Antinium early; Tyron wanted both sides to weaken; Magnolia took it seriously
+tyrion veltras	b185a5b2f5	4.06KM	+	fact	scion of one of the Five Families of Izril, dressed in black; Magnolia mentions his wife died; he bends a metal cup in anger, wears many artifacts
+tyrion veltras	8797a662f2	4.06KM	+	fact	argues to let the Drakes fight the Goblin Lord and says Izril will take Liscor after beating the Drakes at the Blood Fields
+tyrion veltras	87a35eea86	4.06KM	+	fact	swats a thrown dagger away from Magnolia and checks the severed head with a ring
+tyrion veltras	61e7b4a0c2	4.26M	+	fact	levied twice Magnolia's number from Leadenfurt before she did; Wullst gets Magnolia to take 200 cavalry with free mages
+tyrion veltras	4b215cdf3d	4.47	+	fact	assembling a larger army; summoned six thousand horse from the Terland family, a quarter [Knights]
+tyrion veltras	7837c75c8b	S02_The_Antinium_Wars_Pt.5	+	fact	sons Sammial (nine or ten, sickly, wants to be called Sammy) and Hethon (about fourteen, nervous); late wife; [Majordomo] Ullim reads to them
+tyrion veltras	a4f000bdee	S02_The_Antinium_Wars_Pt.5	+	fact	allied of necessity with Magnolia Reinhart, his hated nemesis; says he could probably not beat the Goblin King without ancestral relics; plan was to bleed the Goblin King by killing his Lords
+tyrion veltras	c6f4d48ceb	S02_The_Antinium_Wars_Pt.5	~	belief	claims the war was won by his plan of bleeding the Goblin King's limbs and says Wordsmith's account of disunity is wrong
+tyrion veltras	a591b45688	5.09E	+	fact	has a conventional army, assembled as large as Magnolia's, but lacks siege weapons
+tyrion veltras	2f18f319e8	5.15	+	fact	Lord and war hawk who commands one of Izril's strongest private armies, pro-Human, merciless, does not use [Assassins], keeps his word
+tyrion veltras	70d9af1bce	5.15	+	fact	has sons Sammial (8) and Hethon (turning 13); his [Majordomo] is Ullim
+tyrion veltras	21d8d69265	5.15	+	fact	wears rings that repel rain and arrows; dislikes rain as too nostalgic
+tyrion veltras	f15a4320a9	5.15	+	fact	planning to move part of his horse and some [Mages] ahead within a week; waits for a single precise moment and rain
+tyrion veltras	3795d72b3a	5.15	+	fact	had hoped Zel Shivertail would lose and have to defend Invrisil; calls his death an unexpected boon
+tyrion veltras	f3918562f4	5.15	+	fact	has heard a new province with an [Emperor] exists southwest of Invrisil and suspects Magnolia plans to use him
+tyrion veltras	cae653a246	5.15	~	belief	believes patience will let the rain stop and then his move
+tyrion veltras	36f9369a46	5.30G	+	fact	plots a route south through forest and marsh past the city of Filk; orders the camp struck within the hour and fifty miles covered on day one, taking thousands of mounted [Knights] and [Lancers] including some of Yitton's horse
+tyrion veltras	0625b009ae	5.30G	+	fact	waits for a specialised reinforcement group that is travelling south down Almest Road after a sea voyage
+tyrion veltras	ffb2a2f72e	5.32G	+	fact	rides in with a lance faster than an arrow; tall, black hair, goatee, dark blue eyes; offers Laken his hand
+tyrion veltras	b33e259ab5	5.32G	+	fact	sends a passphrase [Message] to aide Telmia naming "Benivald Veltras", the 52nd second-son of House Veltras, then orders "Mark"
+tyrion veltras	0b9e75f8ff	5.32G	+	fact	says Goblins "do not matter" and offers an alliance in the name of humanity
+tyrion veltras	b03df53b3d	5.32G	~	belief	claims he waited because he needed to understand the truth about Goblins
+tyrion veltras	0405e4f4f0	5.32G	!	state	arrives with Pellmia's cavalry; the Goblins retreat into the city
+tyrion veltras	7f1cdc26db	5.37G	+	fact	stands in Riverfarm while his knights chase Rags's Redfang Warriors; a mage reports four casualties
+tyrion veltras	f8961f918d	5.37G	+	fact	swears on his house's honour that he did not take part, offers truth-spell mages, and admits receiving [Messages] from Lady Bevia and others about the Goblins
+tyrion veltras	71137eaaea	5.37G	+	fact	rides at double speed, orders reinforcements for Lord Byres, who is fighting thousands of zombies, ghouls and advanced undead
+tyrion veltras	3cb4cee42c	5.37G	+	fact	blocks Redscar's [Flurry Strikes] while riding; notes Rags's fire arrow; his aide Jericha, a grey-haired [Mage], turns it aside
+tyrion veltras	692156289d	5.37G	+	fact	has about five thousand cavalry; twenty mages and Jericha link and cast a [Siege Fireball] that breaks the city's walls and gates
+tyrion veltras	901aefcaa9	5.37G	+	fact	duels Redscar, leaving four ribs cut open; Rags blocks with fire and a sword; Tyrion tells her to run for an hour
+tyrion veltras	1eb65fc513	5.37G	+	fact	bets Pellmia two thousand gold and a warhorse that he can corner the Goblins within two hours; schedule is fourteen days
+tyrion veltras	911f737bb7	5.37G	~	belief	Goblins are predictable and expendable tools
+tyrion veltras	64695396af	5.47G	+	fact	wants live Goblins driven south; offered Pellmia three casks of personal stock
+tyrion veltras	b1a93e8d95	5.48G	+	fact	tells Pellmia he won their second bet and will honor it with his stores; relies on Arcsinger's Skills and mages
+tyrion veltras	bd940da164	5.48G	+	fact	messages Emperor Godart to check whether he can fulfil his side of the bargain on time
+tyrion veltras	5415f66a7f	5.48G	+	fact	only needs the Goblin Lord; chieftains' tribes are no longer needed
+tyrion veltras	2d29270398	5.51G	+	fact	refuses to separate the Goblin tribes; learned of the conflict and decides to "send a message"
+tyrion veltras	9611253f76	5.51G	+	fact	kills Tremborag in single combat with a lance using [Repel Point] and [Lightning Hooves] after Tremborag taunts him about his dead wife
+tyrion veltras	fff4eff254	5.52	+	fact	reveals Liscor has been his target since mustering; trebuchets will "misfire" and breach walls so the Goblins sack the city, then Humans retake and occupy it
+tyrion veltras	daa1970c01	5.52	+	fact	says Magnolia Reinhart warned the Drakes and he has already moved against the magic door
+tyrion veltras	d18d171688	5.52	~	belief	calls the plan an "unfortunate accident" not an act of war
+tyrion veltras	6a44837a02	5.52	!	event	formally declares the plan to the nobles; "In four days, Liscor falls"
+tyrion veltras	d0d4a4945f	5.56G	+	fact	pursues Garen but turns back when tens of thousands of Eater Goats come from the High Passes
+tyrion veltras	055bf6400d	5.60	+	fact	learns Liscor now holds the portal door and that Magnolia has warned she will "take steps" against him; his sons Hethon and Sammial are lonely at home with Ullim and his wife is dead
+tyrion veltras	cd87b06f30	5.61	+	fact	sends a false apology to Liscor and says he will engage the Goblins at distance with new weapons, claiming incidental fire could not be avoided
+tyrion veltras	00bcfdd022	5.61	+	fact	has Laken oversee the Riverfarm engineers and trebuchets, with enchantments by Lady Ieka and ranged units under Lords Pellmia and Gralton
+tyrion veltras	06dcb5a841	5.61	+	fact	orders "Fire"; the first stones miss, then enchanted stones explode and dent the eastern gates
+tyrion veltras	94c08d4827	5.61	~	belief	claims it is an accident when his troops fire on Liscor
+tyrion veltras	ab4b85866d	5.61	!	event	fires on Liscor with enchanted ammunition, starting the assault
+tyrion veltras	b9b081a18c	5.62	+	fact	challenges the Drakes to meet at the Blood Fields in six days, leaving the trebuchets and half the foot
+tyrion veltras	5f989e2ef4	6.00	+	fact	a [Crier] reports a northern victory over the Drakes at the Blood Fields
+tyrion veltras	67f385abc2	6.45E	+	fact	returned from the failed Liscor siege, ordered a [Weatherchange] scroll costing at least 2,000 gold, and finds rats in the cellars
+tyrion veltras	f610890631	6.46E	+	fact	keep is struck by lightning from Drakes in the clouds; he uses the Banner of House Veltras as lightning protection; sons Sammial and Hethon are moved to safe rooms
+tyrion veltras	7f1ccc1278	7.24	+	fact	[Lord] at Veltras Keep next to the Vail Forest; rides a tilting course with enchanted dummies and war horse Gelden; has Skills [Barrier of Pride] and [Peilspear Formation]; is among the top martial [Lords] with Lord Hayvon, Lord B
+tyrion veltras	8a6e85e4ea	7.24	+	fact	tells Hethon he rode on Liscor from duty after the Drakes (Manus) killed Salva, admits Liscor's civilians did nothing, and says a [Lord] is seldom kind
+tyrion veltras	89918c36dd	7.24	+	fact	orders gelato for his sons via Moonlight Rider Tritel despite Magnolia's trade war, and leaves that night to hunt a Mothbear clan sixty miles south
+tyrion veltras	b69620a632	7.24	~	belief	believes the Walled Cities' Manus plotted Salva's murder
+tyrion veltras	babf292072	7.42M	+	fact	Lord of House Veltras, irked over the Ailendamus war on the Dawn Concordat (three kingdoms including Calanfer and Kaliv); King Itorin II rules Ailendamus
+tyrion veltras	8f072f2737	7.42M	+	rel	wife is Salva; does not tell his sons; consults Jericha, Ullim and others
+tyrion veltras	e3c0f5f0ab	7.42M	+	fact	kills the Circle's messenger in his study, rides to the road and saves Magnolia, breaks the Faces' attack, wounds Mire and the [Blademaster]
+tyrion veltras	f7287df1d5	7.42M	+	fact	declares he is not Magnolia's ally but will not let a Five Families lord be slain by cowardice; the Circle's voices then spare him
+tyrion veltras	f5084ac10d	7.42M	+	fact	tells Jericha he acted for Hethon and Sammial's integrity
+tyrion veltras	570935ed6f	7.42M	!	event	refuses the Circle's offer and is marked as a feral hound by them
+tyrion veltras	865c6e6117	7.44	+	fact	kills the horse Gelden's remains for dogs and buries the bones; Sammial has a cold
+tyrion veltras	cfe19d03c8	7.45	+	fact	a Circle of Thorns [Assassin] in a green rose mask says Hethon and Sammial are poisoned, offers a Blood Oath Contract for his obedience, and leaves it behind
+tyrion veltras	df95c0e19d	7.49	+	fact	his sons are sick and he has received 26 [Alchemist] and [Healer] heads from the Circle of Thorns while others stayed silent
+tyrion veltras	377a253d8e	7.49	!	state	left without a cure for his sons
+tyrion veltras	4aaccd5ba8	7.54	+	fact	summons Jericha and Ullim to guard Sammial and Hethon, then rides with 200 of the fastest riders toward the highest-level Alchemist at the port city Keriwrel, but turns back after sixteen miles when the keep is attacked
+tyrion veltras	6b55fc8c89	7.55E	+	fact	receives the Witch's recipe, a five-poison neutralizing brew needing mithril dust and rare ingredients; First Landing accepts delivery and Couriers go out

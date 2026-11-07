@@ -1,0 +1,621 @@
+entity	sid	chapter	marker	heuristic_kind	text
+brunkr	75e285cbc9	2.21	+	fact	Krshia's nephew, tall Silverfang Tribe warrior with longsword and shield; speaks with "yes?" and "no?" tags; arrived with brethren to guard Krshia
+brunkr	f96685e992	2.22	+	fact	shield and sword warrior; can resist the Power Strike; wants to beat Erin, but his aunt wants her alive
+brunkr	958e67e775	2.22	+	fact	threatens Silverfang war; Krshia, with Yvlon and Selys, drags him off by the ear
+brunkr	3f82a2f213	2.33	+	fact	Krshia's nephew and a warrior of the Silverfang tribe
+brunkr	2cabe81bd9	2.33	+	fact	tells Mrsha her tribe is gone because she is cursed
+brunkr	572764c6fd	3.27M	+	fact	Krshia's cousin or nephew (called both), Silverfang warrior, hand bitten and badly infected, calls Mrsha Doombringer
+brunkr	52948e8b58	3.38	+	fact	right forearm swollen with yellow pus after Mrsha's bite; healing potions and fire have failed; he wants to cut it off
+brunkr	8e773d0b48	3.38	~	belief	believes Mrsha's curse caused his hand's rot
+brunkr	71cafc4ea6	3.38	!	event	agrees to try Erin's treatment
+brunkr	a52b6c1822	4.09	+	fact	Krshia's nephew, arm wrapped in honey bandage, later holds a sword in his good hand
+brunkr	db5c24a402	4.18	+	fact	arm gash is healing with Octavia's mold poultice, honey and cleaning; aspires to be a [Knight] but is a [Warrior]
+brunkr	d2f424e23a	4.18	+	fact	agrees to consider training Lyonette and possibly Bird with the sword; Erin hopes he will make up with Mrsha
+brunkr	c9636c0ce9	4.24	+	fact	teaches Lyonette sword basics; Gnoll [Warrior] who wants to be a [Knight], which needs a [Lord] or nobility
+brunkr	5564b68e09	4.27H	+	fact	is now a [Knight], his right arm fully healed and unbandaged
+brunkr	25100b9292	4.28	+	fact	Gnolls celebrate Brunkr's new class [Knight] at the inn; Erin bakes a pink-frosted cake with [Knight] written on it
+brunkr	bb7ef26a26	4.28	+	fact	tells Erin he now regrets how he misjudged her and is grateful she saved his arm; hints he may join adventurers later but not the dungeon
+brunkr	5fc9a6a03b	4.28	+	fact	killed by Venitra in a side street, neck snapped and chest pierced; his body is staged in the dungeon crevasse with a Silver-rank team and Bronze Gnolls, with monster-attack wounds
+brunkr	924328ff66	4.28	!	state	dies
+brunkr	ed1643ece0	4.29	+	fact	his body and eight others are found at the bottom of the dungeon crevasse; Mrsha smells him and howls
+brunkr	3c1a2da5b8	4.29	!	state	confirmed dead; Krshia tells Erin
+pisces	6db3bb14ca	1.09	+	fact	pale young man with unkempt brown hair in dirty grey robes, thin and unwashed; his skeletal horror was an illusion and he can turn invisible
+pisces	b9336e7503	1.09	+	fact	tries to pay for the scare with bronze, then silver, then a gold coin; Erin takes the silver and bronze only
+pisces	f61084ab06	1.09	+	fact	"student of Wistram Academy", specialised in the Elementalist and Illusionary schools plus other competencies; his hobby is Necromancy
+pisces	dc1e47d0c0	1.10	+	fact	sneers at titles; says "mage" is the general term, wizards are arcane researchers of mainstream branches, sorcerers educate themselves and have little formal education, warlocks draw power from other sources like summoning, witche
+pisces	b9db4a2e7d	1.10	+	fact	a month of terrorising and stealing from travellers and lone households with illusions; there is a bounty on him
+pisces	ca2ee06090	1.10	+	fact	slips away by an illusion double while the guards talk
+pisces	8f668659f1	1.11	+	fact	levels [Elementalist] 15, [Alchemist] 8, [Enchanter] 6, [Mage] 10; says necromancers (anyone with a single level in the class) are killed on sight in this region
+pisces	871369dbbb	1.11	+	fact	spells shown include shadow cloak, wind blast, small lightning, setting leather cord on fire, a wind wall
+pisces	c622b92c6b	1.11	+	fact	Wistram Academy would pay thirty gold coins ransom for his return
+pisces	6eff16e780	1.18	+	fact	runs in sparking, wanting to kill or curse Goblins; Erin gives him a dried sausage and says she will kill him if he kills a Goblin
+pisces	a81d9712da	1.21	+	fact	eats soup and never pays, citing a "tab"
+pisces	f713fc64cf	1.22	+	fact	says the flies have few predators and are nearly limitless in number; males gather nutrition for females, who are larger
+pisces	aec47ad1c9	1.22	+	fact	calls himself among the best chess players of his fellow students in Wistram; loses to Erin and has the wager added to his tab
+pisces	c1afe041ed	1.22	+	fact	robs graves, then reburies the dead; Relc threatened to stab him if he kept stealing from locals
+pisces	661eff52b6	1.22	+	fact	says no one so far is worthy of his help since they judge him in fear and ignorance (L168); Erin tells him he is a better person than they are
+pisces	2dfe6e208b	1.22	+	fact	casts [Gust] and [Frozen Wind] to destroy the escaped acid-fly swarm; calls [Frozen Wind] a beginner's spell disliked by instructors, and says he specialises in Wind Elementalist magic
+pisces	dc46d9172d	1.27	+	fact	explains classes follow what a person pursues, so Erin does not level as a [Tactician] because she sees chess as a game
+pisces	d4e2eab517	1.28	+	fact	owes Erin a large tab, no coins, robes stained but odorless via magic
+pisces	7dfc685f94	1.28	+	fact	banned from Liscor for magic and for stealing by pretending to be a monster
+pisces	0a138ad07a	1.28	+	fact	knows [Invisibility], a 3rd Tier spell
+pisces	cc3a4d4e22	1.28	+	fact	says [Farsight] and [Scrying] are used to watch people; upper-class buildings ward against them
+pisces	52fb6e623f	1.28	+	fact	starts a "Mage's Test" lesson for Erin in exchange for forgiven tab and bought alcohol
+pisces	934f238178	1.06R	+	fact	greedy, arrogant, rude; hiding near Liscor; meeting at an inn a few miles southeast of Liscor
+pisces	6a701d5f56	1.06R	+	fact	was Level 22 as a student; has levels in several mage classes, with more total levels than Ceria; about twenty years old
+pisces	bd2a05e4de	1.06R	+	fact	expelled from Wistram Academy over what he wanted to do with necromancy; wanted by several cities for extortion and troublemaking, not murder
+pisces	6c6c0693e1	1.06R	+	fact	stands before the inn on a hill, robes white but dirty; says the owner is elsewhere
+pisces	20df55b35f	1.06R	+	fact	can control bones; says necromancy is a misnomer
+pisces	e3b4b0557a	1.06R	+	fact	negotiates his fee from sixty to forty gold coins, noting a [Cleric] charges two hundred for [Restoration]
+pisces	86f782e3e6	1.06R	+	fact	repairs the bone in seconds with no written spell; does not know healing spells
+pisces	1d10ed3630	1.31	+	fact	eats Erin's food in her inn and recognizes Gazi as soon as she greets him "Necromancer"
+pisces	d141a25352	1.31	+	fact	proposes alternate payment for his tab
+pisces	b00297257d	1.31	~	belief	says his gold came from a complex bit of magic
+pisces	679b43c7bb	1.32	+	fact	creates the skeleton, attuned to Erin alone and limited in thought, to pay off her tab
+pisces	44838ee421	1.33	+	fact	can raise a stronger undead but not a higher-level one
+pisces	16488ec247	1.34	+	fact	agrees to teach Rags every other day for free food
+pisces	969f1c7e62	1.34	~	belief	says Goblins lack the potential for true magic
+pisces	1b97f16686	1.36	+	fact	necromancer the Horns came to meet earlier
+pisces	77b1f6bdcc	1.37	+	fact	[Necromancer]; claims to be an accredited [Mage]
+pisces	f43d58b79f	1.39	+	fact	casts [Invisibility], Tier-4 magic, a year to master
+pisces	feff3433ad	1.39	+	fact	had a bounty until a week ago
+pisces	f692b1123d	1.40	+	fact	dropped out of Wistram, expelled for experiments; top of his class when he attended; mainly [Necromancer] with [Elementalist] spells
+pisces	17f4f84771	1.41	+	fact	told Erin she cannot use magic
+pisces	0e881fc2f2	1.42	+	fact	[Necromancer] who snaps zombie spines at range; says he did not raise this horde
+pisces	58e8a2f5e1	1.42	+	fact	Zevara believes him because witnesses saw the dead leave the Ruins and he could not raise this many
+pisces	f634584f99	1.43	+	fact	has killed about half of the fallen dead in the street, Relc the other half
+pisces	b606d6cefa	1.43	+	fact	theorises Skinner takes skin to sustain himself and Crypt Lords are a by-product of many dead gathered long
+pisces	ee9ea564cd	1.43	+	fact	raises six zombies, three skeletons and four ghouls and sends them to guard Erin
+pisces	96ea7b8401	1.43	+	fact	can sense how many dead are in and around the city and withheld this
+pisces	e66da226b7	1.43	~	belief	tells Zevara Erin "probably doesn't matter" to the creature
+pisces	cbfa5684fa	1.45	+	fact	hiding in a cave, stockpiling saved corpses and a dead Crypt Lord
+pisces	0d8b5b9e33	2.02	+	fact	taught Rags (Ryoka learns this) and fixed Ryoka's leg
+pisces	d199785784	2.02	+	fact	Ryoka recognises him as a [Necromancer]
+pisces	2fdad0f739	2.02	!	event	breaks the door with lightning, a spell message hovering by him, says "They're alive."
+pisces	689380bbbf	2.03	+	fact	received a message-spell saying Ceria is alive somewhere deep in the Ruins
+pisces	bbdc0655d4	2.03	+	fact	each cast [Light]
+pisces	5cffebdbeb	2.04	+	fact	snaps spines with a word, "Decease", and can sense nearby undead
+pisces	323b6bd74e	2.04	+	fact	Crypt Lords resist his magic
+pisces	5cd8de6d8b	2.04	+	fact	a Lich is an undead caster, not immortal
+pisces	78e6a03d73	2.04	+	fact	says necromancy needs bones to anchor spells; learned only standardised humanoid spells at Wistram
+pisces	2773ad2e65	2.04	+	fact	message said only "Ruins. Second floor. Inside."
+pisces	8e9ab778a8	2.05	+	fact	Ceria and he were Wistram students and once friends
+pisces	931ae79ff2	2.05	+	fact	sees magic on the iPhone and restores the chat log; says it costs a [Message] spell per user per message, a thousand spells in all
+pisces	5e7b2fdb68	2.05	~	belief	believes Wistram cast the chat spell and mages will spread word
+pisces	ca36daebfa	2.05	+	fact	names the Krythien Sect, Magnus Corpsus, Az'kerash and The Putrid One as necromancers who could command a horde
+pisces	aca08f881b	2.06	+	fact	knocked unconscious by one punch
+pisces	daab24b39a	2.08	+	fact	calls them Winter Sprites and Cold Folk
+pisces	95e4ef94ee	2.13	+	fact	cannot control a living body part
+pisces	ab995b743e	2.15	!	state	has animated a spider, the first [Necromancer] in years to animate a boneless species, and gained a Skill and a level
+pisces	59d8bf75d2	2.15	+	fact	calls Ceria "Springwalker"
+pisces	107352f239	2.15	+	fact	cannot sense Toren's aura but would know if he were uncreated
+pisces	cdb053cf62	2.15	~	belief	insists Toren will return and that he needs food to cast
+pisces	9b8341aaba	2.15	!	event	[Detect Magic] shows Ryoka enchanted with something powerful; Pisces guesses Tier 6 or 7 magic
+pisces	cc73883b96	2.16	!	event	casts [Repair] on the iPhone and restores its battery to 100 percent
+pisces	2fe6899545	2.16	!	event	casts [Amplify Sound] on the iPhone; Ceria says she could learn it in a day
+pisces	5d8bdaa204	2.18	+	fact	knows [Invisibility], Tier 4, learned at Level 18 and leveled twice from it
+pisces	d99b027ef2	2.20	+	fact	has a criminal record as a village thief but repaid three times what he took; wants to join the Adventurer's Guild for coin and corpses
+pisces	f7f3a631c0	2.20	+	fact	learned it from Ryoka's phone call, having copied the [Message] spell
+pisces	f187077a24	2.22	+	fact	flicks an orb of fire around Brunkr's shield; wounded by Gnolls
+pisces	15899f6813	2.00H	+	fact	lives in a former bear's cave den, reinforced and warded
+pisces	72c2b146a2	2.00H	+	fact	knows [Flame Rapier] and [Flashstep]
+pisces	45876b4ee9	2.00H	+	fact	Toren absorbed some of the magic of the gemstone in his head
+pisces	d8b44575ce	2.00H	+	fact	attended a Wistram class on adventuring trends
+pisces	90c9a3d1cd	2.00H	+	fact	Liscor forbids him raising Drake or Gnoll bones while he lives there
+pisces	2ec18494d6	2.00H	+	fact	killed at least a hundred undead in the battle for Liscor; per Olesm, downed a Crypt Lord alone
+pisces	9037ec6296	2.00H	+	fact	knows a Tier 4 spell, [Invisibility]; was an excellent duelist at Wistram
+pisces	58d10ebf61	2.00H	+	fact	obeys only people he likes and refuses orders he thinks are stupid
+pisces	67a61f3a2a	2.00H	+	fact	raises eight dead Goblins with blue-glowing eyes (L435); casts [Frozen Wind], [Shock Volt] (Tier 3) and [Animate Dead] on a Hob
+pisces	a15ec44e85	2.27	+	fact	explains an aura controls the area; powerful opponents resist it
+pisces	8d2c176303	2.27	+	fact	layered the reanimation spell on each bone, so Toren's spell cannot be replicated
+pisces	5882aa2f20	2.27	+	fact	says he gave Toren to Erin because he owed her meals
+pisces	6df16d17d3	2.27	+	fact	takes the ring that deflects one arrow and recharges, worth ten to forty gold
+pisces	b48fb3db30	S03_Wistram_Days_Pt._1	+	fact	young Human with a rapier, a duelist's silver bell, Level 14 [Mage] and [Fencer] levels, cannot swim
+pisces	4cd524a727	3.02H	+	fact	[Necromancer]; casts [Raise Skeleton]; summoning the dead is a crime in the north without city agreement
+pisces	6c5358a602	3.07H	+	fact	under [Insanity] believes he is his father and addresses the others as "boy"; uses [Flash Step]
+pisces	61353cce3c	3.07H	+	fact	raises skeletons to build a bone staircase in the pit and dig upward
+pisces	c54f17a892	3.07H	!	reveal	reveals as [Necromancer] to Yvlon in her delirium; uses skeleton fighters
+pisces	32151c37e8	3.08H	+	fact	says he is a better [Necromancer] than [Mage]; raised over thirty skeletons in ten minutes
+pisces	4bbb14edfa	3.08H	!	event	each moved by the cheering crowd; Ceria imagines her old teammates beside her
+pisces	5f4b1a9b3c	3.10	+	fact	casts [Frozen Wind] to clear a crowd; his sloppiness may have been a bluff
+pisces	7a058b3eb8	3.24	+	fact	in a 3.24 discussion admits he built Toren to level from a theoretical formula learned from Cognita, a Truestone Construct
+pisces	88b7f215ba	3.24	+	fact	Toren powered by Erin's natural mana; if the link is cut he will die; Pisces cannot give a conscience
+pisces	df7fb7c102	3.24	~	belief	speculates Toren outgrew Erin's commands and developed thought
+pisces	d74aef08d5	3.24	~	belief	says Cognita has no moral compass, which Ceria calls a monster that has killed many mages
+pisces	93b2577dd3	3.24	!	reveal	reveals he deliberately made an undead that could level, taught by Cognita, which he calls an experimental prototype; Ceria attacks him
+pisces	01ddd8b9e2	3.24	!	event	cuts the thread of mana from Erin to Toren
+pisces	54e5bfe3ba	3.25	+	fact	says making another Toren is theoretically possible but used exceedingly rare, near-unique materials; the product would not be Toren or would be mindless
+pisces	e0dc0af45a	3.25	+	fact	wants to retrieve the door from Albez; uses [Invisibility], a yellow smoke spell and bone staircase to clear the pit
+pisces	79d0c44ab6	3.25	+	fact	the door is indestructible, carries a teleportation spell, and its anchor stone is a palm-sized black stone embedded in the pit floor
+pisces	f5ed2c6fee	3.25	+	fact	discover with the door that the anchor can be triggered independently of the detection trap; the door recovers mana from the environment
+pisces	c5ec57e769	3.25	~	belief	believes Toren's mana link cut was correct
+pisces	1f14df2f2e	3.25	!	event	Yvlon's grudge against Pisces persists
+pisces	50e9b6a224	3.30	+	fact	says more than four anchor points risk entanglement; suggests two more cities and one anchor for the Horns
+pisces	51eb2fccd5	3.30	!	event	admit they were expelled from Wistram but still claim the name
+pisces	7fcb2edbf5	Wistram_Days_Pt.1	+	fact	nervous polite boy with brown hair and a rapier, has [Fencer] levels, a duelist's silver bell, can't swim, a Level 14 [Mage] focused on elemental and reinforcement magic
+pisces	7b8a139fcc	Wistram_Days_Pt.2	+	fact	has no Tier 2 combat spells yet; comes from a village with a local [Hedge Mage] who taught him
+pisces	ce6c765606	Wistram_Days_Pt.2	+	fact	overhears the older students with an undisclosed method; knows where the warded spellbook is and how to enter the secret library section
+pisces	73fb142511	Wistram_Days_Pt.2	!	state	a dead mouse climbs his dresser and he pockets it, showing he animates the dead; he asks Ceria to steal the spellbook tonight
+pisces	74d9139e77	Wistram_Days_Pt.2	!	event	decide to steal a trapped Tier 4 spellbook from a secret library section
+pisces	c97b49ba52	Wistram_Days_Pt.3	+	fact	sends Cognita a note by an undisclosed method, then talks her into breaking the book's wards; says restrictions are tests, "we can break the rules if not caught"
+pisces	b25f5c7cdb	Wistram_Days_Pt.3	~	belief	"overheard" the older students and found the library, apparently with magic he will not describe
+pisces	d5a7131ac3	Wistram_Days_Pt.3	!	event	obtain the spellbook and agree to share it
+pisces	c69bd409a8	Wistram_Days_Pt.4	+	fact	learns [Flash Step] in under three weeks and uses it with the rapier in a dance-like pattern
+pisces	ded13d7d2a	Wistram_Days_Pt.4	+	fact	wears the dueling silver bell; in the exam kills the illusory Troll while carrying Ceria; mages debate taking him on as a [Swordmage]
+pisces	fa6c201643	Wistram_Days_Pt.4	!	state	both pass the exam; Ceria's name appears last and Illphres promises class at her quarters the next day
+pisces	ac5a15793b	Wistram_Days_Pt.5	+	fact	first-year hero in the story: killed a Troll in the exam, kept a scholarship, one of six who passed Illphres's class ("Ice Demon"), duels for money, learns [Invisibility] (partly, transparency)
+pisces	9b314cec38	Wistram_Days_Pt.5	+	fact	devised a messaging spell using a firefly of light, which Mons masters
+pisces	2ca72b807e	Wistram_Days_Pt.5	+	fact	raises the dead on the pirate ship, killing the tattooed pirate with zombies; is outed as a [Necromancer] and argues at the Council for studying necromancy, citing Az'kerash as a former student slain on Izril
+pisces	d5f69e283c	Wistram_Days_Pt.5	!	reveal	revealed as a [Necromancer]; Beatrice shuns him, Ceria is horrified
+pisces	4141992369	Wistram_Days_Pt.5	!	event	sells his rapier and bell to Calvaron
+pisces	9efe38c88c	Wistram_Days_Pt.6	+	fact	shunned by nearly everyone for being a necromancer; Beatrice nearly attacked him; he loses debates; lives in his old room with mouse bones; has lost his rapier and bell to Timor du Havrington
+pisces	7e806ea015	Wistram_Days_Pt.6	+	fact	argues that Archmage Nekhret, buried in the catacombs over a thousand years ago, was a necromancer-tainted true [Archmage]; mentions the executed killer Calico
+pisces	fd85295ed6	Wistram_Days_Pt.6	+	fact	learns [Flame Rapier] and builds a clay Golem under Cognita's tutoring
+pisces	efc61e3905	Wistram_Days_Pt.6	+	fact	needs a master or must leave; asked every mage he knew, even offering to forswear necromancy, and was refused
+pisces	cccb00cfac	Wistram_Days_Pt.6	!	event	speak again after a year; Ceria says they are not friends, then reconciles when she visits him to "hear everything"
+pisces	092ac503b1	Wistram_Days_Pt.7	+	fact	proposes to the Council creating a leveling, intelligent undead using Golem-style construction and top-grade body parts; Ceria calls it insane
+pisces	9da4c9b753	Wistram_Days_Pt.7	+	fact	invisible watcher, sees the five lesser Golems carry the dead; reanimates six corpses (five mages plus a Selphid-vacated body) as strong undead, escapes via [Flash Step], and robs Archmage Nekhret's tomb in the catacombs
+pisces	e79566d478	Wistram_Days_Pt.7	!	event	leave Wistram exiled and expelled but named full mages
+pisces	67872f6f08	3.32	+	fact	confirms he used four of Archmage Nekhret's bones in Toren, carved with a spell that restores Toren's form; they drain mana
+pisces	ccd037771d	3.32	+	fact	practises [Flash Step] with a rapier lunge to keep pace with the wagon
+pisces	4de41a9891	3.33	+	fact	tell Griffon Hunt they are Wistram graduates
+pisces	01cdcf0a3b	3.41	+	fact	wins the cherry-stem test with a knotted stem and uses mint leaves for fresh breath
+pisces	b2098831d7	3.41	~	belief	Ceria says he got practice kissing at Wistram
+pisces	33d5c5f8fd	3.42	+	fact	eavesdropped on Typhenous using [Invisibility] and passes Ceria a coded note in their light-fly code
+pisces	d1fd56621b	4.10	+	fact	reads lips as a learned art, not a Skill; is a [Mage] who studied every field of magic as well as a [Necromancer]
+pisces	cd277a7f0b	4.10	+	fact	lip-reads Ilvriss telling Zel "Ask her"; a Drake hands Zel something small
+pisces	411e41e373	4.10	+	fact	sends a reanimated Shield Spiderling to eavesdrop on Zel and Ryoka, and Mrsha smashes it; Ceria notices and advises he enchant it next time
+pisces	44215c3a01	4.10	~	belief	believes he has no side and expects friendships to end in betrayal
+pisces	0968884fac	4.12	+	fact	uses [Lightning Jolt] to measure the door's remaining mana, about twelve and two-thirds feet at full, falling two to three inches per two jumps
+pisces	708ab599df	4.27H	+	fact	banned by the Guild from animating the corpses of people of any species, though Lizardfolk are omitted from the list
+pisces	3408583dcb	4.27H	+	fact	raises two bears as skeletons with a rhyming chant and uses a ring to fire a magic bolt that splinters inside the juvenile
+pisces	7b3006ff86	4.27H	+	fact	Level 29 [Necromancer] and Level 18 [Mage]; says a [Mage] who takes a unique class must restart as a [Mage] at Level 1 for other schools
+pisces	2d4c97cb60	4.27H	~	belief	says he wishes to be accepted despite the disdain for necromancy
+pisces	f05aba3411	4.29	+	fact	apologizes to Erin and tells her Regrika and Imenet frighten him though he senses nothing magical about them
+pisces	508b7d00ad	4.29	+	fact	says no mage but the Archmages of Wistram could practically fool a truth spell; simpler versions can be deceived
+pisces	55ca874436	4.30	+	fact	stabs Venitra with a flaming rapier, resists the madness because he has had delusions before, and breaks her arm with [Bone Fracture]; says "You are no Gnoll" and is spoken to by Az'kerash mentally
+pisces	f1b207aabe	4.36O	+	fact	[Necromancer]; says Horns of Hammerad are resting after clearing a cockroach cave; is disliked in Liscor
+pisces	d039e20e5a	4.36O	!	event	argue over rejection by Ceria; share one moment of joy
+pisces	2c3ae8f1e8	4.37O	+	fact	[Necromancer]; built a Bone Horror prototype called Scythe Crawler: headless torso, one burning green eye, four spider legs, long scythe arms
+pisces	b9bdefc9a8	4.37O	+	fact	Level 30; his Level 30 Skill is bone shaping; he mentions Draugr as an alternative; says the "bears" earlier were really his bone constructs
+pisces	0d2d034ceb	4.37O	+	fact	believes in quality over quantity of undead, custom designs stored in a bag of holding
+pisces	e1c3abc996	4.37O	+	fact	offered to place an undead in Liscor's sewers to kill giant rats; Selys refused; Olesm authorizes a permit with ten gold and a bounty of one copper per ten rats
+pisces	121fd6c727	4.37O	+	fact	both young and rational, bond over politics and resentment of seniority; Pisces knows Germina-Reim incident and Hellios conflict
+pisces	d53542fc3f	4.37O	+	fact	claims "she learned the truth, who I am, before I could explain" about Ceria; had something with Ceria that "never came to be"
+pisces	643ea5d8ad	4.37O	+	fact	tells Ceria "Calruz is alive. Probably. Possibly."; the Horns react with shouting
+pisces	db48341cd2	4.37O	+	fact	thinks of secrets: ran from home, [Fencer] class does not exist, apprenticed to an ancient monster, knows Erin and Ryoka are from another world, reached Level 30
+pisces	342e81a174	4.37O	~	belief	argues people are predictable; only Niers, Erin and Olesm stand out to him
+pisces	3c95b5d646	4.37O	+	fact	[Flashstepped] out of the roach cave before the swarm reached him
+pisces	b5b356d49e	4.37O	!	event	reconcile after snowballs and agree to cooperate
+pisces	dfe665df6e	4.47	+	fact	tells the history by illusion at the inn and claims Walled Cities hide Dragon bones
+pisces	3b04c6b059	4.47	~	belief	says the Necromancer marched south to use Walled City Dragon bones
+pisces	b016308ee4	4.47	+	fact	Selys says he saved her and Erin in the undead attack on Liscor
+pisces	a6843dc6f7	S02_The_Antinium_Wars_Pt.3	+	fact	tells his story with shadow illusions; present are Horns of Hammerad, Halfseekers, Mrsha, Lyonette, Drassi and five Redfang Warriors, Erin being away
+pisces	97a6f14bb9	S02_The_Antinium_Wars_Pt.3	~	belief	asserts the Walled Cities are built with Dragon bones and that the Necromancer marched south to take them; he admits he cannot verify it
+pisces	43d7a9493c	5.02	+	fact	made the door switchable by tapping a mana stone; Erin hid the Pallass stone away from Mrsha
+pisces	cee67c1df8	5.08	+	fact	his Bone Horrors and undead bears help hold the second floor
+pisces	c1ed91d858	5.08	+	fact	devises a rain spell through a linked cast with Falene and Moore using the inn's mana
+pisces	70e313ec7f	5.08	!	event	credited with saving the city with a weather spell
+pisces	d949b61f04	5.13	+	fact	Olesm reported having him clean Liscor's sewers with an undead
+pisces	7908396e7e	5.14	+	fact	animates dead Face-Eater Moth bodies as live moths for the play and plays himself in a Deus ex machina finish
+pisces	61c20e844d	5.14	+	fact	urges forgiveness, citing Ceria's forgiving one who unleashed wrath on the innocent
+pisces	bd26f54a51	5.17S	+	fact	offers Selys a delay to the sewer work and shows tact; uses a wind spell to remove the stench
+pisces	37700d82fb	5.17S	+	fact	his sewer Bone Horror hunts rat nests and dismantles clogs (moth corpses, rats); Selys kicks it into the water
+pisces	3a0ce3249e	5.17S	+	fact	advises Selys not to sell yet; Pallass and Salazsar are at odds and armor offers will become factional, and he knows General Ironscales of Oteslia lost it in a Reinhart-El clash north of Liscor
+pisces	c34dc25d18	5.17S	+	fact	[Invisibility] spell lets him and Selys slip through the door to Pallass; physical contact breaks it
+pisces	3c5254e5c1	5.18S	+	fact	follows Selys invisibly into the kidnappers' room, kills five thugs with rapier, [Stone Spray], [Flame Jet], a ring bolt and a Bone Horror, and threatens the last in a darkened voice
+pisces	0612967d5a	5.18S	+	fact	sneaks into Selys's apartment, brings dinner from Erin (spaghetti and meatballs, salad, wine), and asks her if she truly wants the armor
+pisces	b993bcfabf	5.18S	+	fact	says he and Selys are both outcasts and that Selys is "cursed with a conscience" and affection for her uncle
+pisces	b0257c8380	5.18S	+	fact	spend about two hours trying mage-sounds and phrases ("Drakes do not run", "Ia curim law", "Drakes rule") on the armor without effect
+pisces	625b82511b	5.18S	+	fact	arranges bids by [Message]; Pallass offers a sum for Selys not to lend or lease the armor to Ilvriss
+pisces	ad24a8693b	5.18S	~	belief	says the armor's flame ward must have protected the user's back, assuming it came from the armor
+pisces	a6292b4ede	5.26L	+	fact	has a charred spellbook from the Ruins of Albez; sends an undead Shield Spider to follow Lyonette; has rat-hunter Bone Horrors in Liscor's sewers
+pisces	79f74f7aa6	5.27	+	fact	declares the necklace cursed
+pisces	2dd141946c	5.28	+	fact	found a third entrance, a shaft from the crypt to a Raskghar burial chamber
+pisces	5719791926	5.28	+	fact	scouted with a Shield Spider, plans to raise at least eight skeletons and a Bone Horror
+pisces	fbf21f4be1	5.29	~	belief	tells Ilvriss, Zevara and Embria the Antinium secretly use the dungeon for treasure
+pisces	eb259cf1bd	5.29	!	event	sells the Antinium-entrance secret to Walled Cities and select northern nobles
+pisces	f08b694657	5.35H	+	fact	prefers unarmed casting because fingers aim faster than a wand; Mrsha holds his wand
+pisces	915ffc7c60	5.35H	+	fact	theorises the cloak takes on base liquids and is meant as a portable well of blood for a [Bloodmage]; distinguishes necromancy from blood magic, which needs sacrifice
+pisces	f223e74b11	5.35H	+	fact	can reshape dead bone and cannot fix living bone at his level; says a Level 40 or above Level 50 [Necromancer] could restore Yvlon's arms
+pisces	9ec478c226	5.35H	+	fact	has an older prototype Bone Horror with whip arms, which Shivertail told him was inefficient; three undead bears' bones were used for it and he has one bear's worth intact
+pisces	cffb14a872	5.35H	+	fact	met other [Necromancers] after leaving Wistram, including the Krythien Sect, a year before Liscor; found them amateurs
+pisces	cb9f8e51ba	5.35H	+	fact	can also consider a [Hardening] spell on the metal in her arms
+pisces	845ecdf8d4	5.35H	+	fact	taught himself a little Goblin by listening to Rags's retinue; makes out that the Cave Goblin is insulting the Hobs by saying they are "not Goblin"
+pisces	a468e5f2ee	5.35H	~	belief	possibly one or both moons are full
+pisces	b9f85b3a90	5.36	+	fact	pours bones from his bag of holding to raise three skeletal Raskghar
+pisces	b2dced8946	5.38	+	fact	transforms by illusion into a rotting monster while questioning the Goblin
+pisces	da2e244a79	5.39	+	fact	receives Ceria's butterfly messages: she and Mrsha and the Gnolls are alive, Calruz is the enemy and Chieftain
+pisces	a6460e1bc1	5.40	+	fact	stayed awake all night designing new Bone Horror forms, says Ceria contacted him twice; Ceria described a large domed room and said Calruz killed a Gnoll
+pisces	d9222a1c47	5.40	+	fact	does not know [Dispel Magic]
+pisces	3eede4fdda	5.40	+	fact	raises an eight-foot armored bear Bone Horror, a barbed spider Bone Horror, and rat-hunting Bone Horrors from the sewers; controls them with mana potions
+pisces	c067ad2151	5.40	!	event	collapses from mana exhaustion after Revi's punch
+pisces	d5de5e2469	5.43	+	fact	shatters the white mana stone after returning
+pisces	07a8d41c9f	5.43	+	fact	tells everyone the ritual makes Raskghar stronger; then reveals Ceria's message that the Gnolls escaped, Calruz suspects treachery, and twenty more Gnolls will be sacrificed
+pisces	2f0953de6d	5.43	+	fact	admits he appealed to his "new master" and was rejected, and that his Bone Horrors cannot yet use the bones of an Archmage
+pisces	8837c61f54	5.46	+	fact	assembling a Bone Horror from yellowed bones; uses [Flash Step] in the game
+pisces	ef88097bce	Interlude_Krshia	+	fact	scorns the spell as crude emotional magic
+pisces	22f57dd685	Interlude_Krshia	~	belief	calls shamanic magic crude
+pisces	3ff6faa584	5.59	+	fact	notes the inn's ambient mana is charged because the door is not drawing as much
+pisces	d5c3f513e1	5.59	+	fact	recites a poem about the night
+pisces	904fdb13f9	6.02	+	fact	made a Bone Horror that guards the inn; cannot keep many undead long due to mana
+pisces	2fd88d8bc1	6.08	+	fact	previous record-holder for Liscor fines
+pisces	f31eeba1d6	6.10	+	fact	suggests taking stones to Octavia; Falene dismisses alchemists
+pisces	a4065c379f	6.16	+	fact	his Bone Horror (two-headed bear, over 200 pounds) is burnt to ash by the bees; bees melt Ceria's [Ice Wall] and break Falene's [Force Barrier]
+pisces	d0580fbae6	6.18H	+	fact	over Level 30; uses [Flash Step], [Shock Volt], [Lightning Jolt], [Barrier of Air], [Flying Bone Club]; needs new bones, has parts for one Bone Horror
+pisces	39fbffcb3a	6.18H	~	belief	tells Caddin the crypt deaths were a tragic dungeon accident
+pisces	fbe3725b29	6.18H	!	event	exposed as a [Necromancer] by Stan in front of the guild
+pisces	018d2b223f	6.19H	+	fact	gave Ksmvr his Shatterbolt ring and his bag of holding with all his bones, including a skeleton that must not be lost
+pisces	3aa24b9afe	6.19H	+	fact	told Ksmvr that executions for menial crimes are common; Yvlon says that is only true in Drake cities and not for a brawl
+pisces	ac2ab3cb8c	6.19H	+	fact	remotely animated zombies from fallen bandits and a dead Face-Eater Moth to help Ksmvr
+pisces	c847dadd92	6.28	+	fact	is "rich now" (Ceria), admits the sweetness of blue fruit drink, and defends Olesm's right to free speech
+pisces	1eeade46e5	6.28	~	belief	says blue fruit cores can kill even with a healing potion
+pisces	4c322e813f	6.39	+	fact	Level 30 plus [Necromancer] with fast incantationless casting, [Flash Step] and a fire rapier; Grimalkin offers him a Tier 3 scroll of [Fireball], [Lightning Bolt], [Acid Orb] or [Stone Spear]
+pisces	76724994ec	6.39	+	fact	expelled by Wistram's Council of Mages but declared graduates by Cognita; Illphres, Calvaron and others died in the Zelkyr test; Montressa and Beatrice were friends
+pisces	686de9e356	Interlude_Rufelt	+	fact	Necromancer; says he surveyed Liscor streets invisibly and predicts Elirr and Raekea win their Gnoll-heavy districts
+pisces	18613715e8	Interlude_Rufelt	+	fact	his Bone Horror rats have killed a number of nests (Acid Fly nests caused damage); Warbear form is the most effective
+pisces	3ceb8962c5	Interlude_Rufelt	+	fact	Ksmvr acquired Bandit bodies; Pisces experiments with a skeleton soldier build with spike-ribs but Selys says it is lazy
+pisces	3947dda887	Interlude_Rufelt	+	fact	states he is content alone and chose Necromancer over being understood
+pisces	60ecb82afe	6.51A	+	fact	seals his room with [Muffle] and [Sealed Space], keeps a bag of holding of bones, and works from two identical spellbooks, one on loan; he studies a Bone Behemoth and is learning [Acid Orb]
+pisces	d3cdac8750	6.51A	+	fact	last name unknown to everyone; Grimalkin told him his team lacked a hammer and gave him scrolls
+pisces	a1906f7f39	6.52K	+	fact	woke the inn by screaming that morning, bought a nine-copper Mage's Guild digest on the Tiqr conflict, and has the Bone Behemoth filling his room
+pisces	c9aa9e9936	6.52K	~	belief	believes the war ends within a day or two and that the King of Destruction will not intervene
+pisces	ee33ca7932	6.56	+	fact	studying alone for days, muttering about "puzzles", possibly a Tier 4 spell; since waking the team screaming
+pisces	6a7d1fe63e	6.57	+	fact	wears two magical rings, one a true Arrowguard ring that deflects multiple arrows and recharges in a day; advises Selys to buy single-use potions, a Scroll of Lesser Teleport, a Wand of [Forcewalls] or [Lightning Bolts], a trackin
+pisces	ea598b2518	6.57	+	fact	wants Selys to carry Erin's acid jars in her bag of holding, citing Skinner
+pisces	249940581b	6.57	+	fact	fights with [Bone Shiv], [Flash Step], a bone rapier, [Stone Dart], [Barrier of Air], lightning, and a ring that casts [Shatterbolt] which destroys Isceil's buckler; he is beaten after his second [Shatterbolt] fails to recharge
+pisces	f4db6b93bb	6.57	!	state	captured and sealed in a Silent Box by Montressa
+pisces	0320ed9791	6.58	+	fact	unconscious, face swollen and bloody, bones broken; Grimalkin and a [Healer] stabilise him
+pisces	26b01a795c	6.59	+	fact	bounty is 2,000 gold, which Jeiss says is high for a Silver-rank; Wistram alleges extortion, burglary, blackmail, grave robbing, and over sixty dead [Mages]
+pisces	c20d48cd8b	6.59	+	fact	challenges Isceil, then Beza, to a legal duel to the death; Seborn and Ceria offer to fight; Zevara says duels are old but traditional
+pisces	fa1ef1f1f3	6.59	+	fact	casts an undead illusion on Montressa that Zevara allows as legal; Montressa breaks down, casts a pyramid barrier (her personal emergency spell) and weeps
+pisces	4aa5003a2c	6.59	+	fact	tells the Horns he wishes the curse had killed all of Wistram, and Ceria punches him
+pisces	4183a32f89	6.59	+	fact	tells the team he was born in Ailendamus raised in House Dultel, his father Padurn Jealnet a [Fencer], mother Enica; he stole his father's silver bell; he met a [Necromancer] at fourteen
+pisces	ddf43022a2	6.59	+	fact	tells Montressa he made a terrible mistake, will not surrender, and apologizes without asking forgiveness
+pisces	d9858c0296	6.59	~	belief	says Wistram never murdered Montressa's friends and that his own mistake was an accident; Ceria swore under truth spell it was an accident
+pisces	484706252a	6.59	!	event	tells his real name, background and crimes to the Horns
+pisces	712f9b8f19	6.59	!	event	reconcile, pledging to stay together
+pisces	874380cea5	6.62L	+	fact	can animate a hundred undead given mana, more realistically two dozen; says Montressa's [Five-Fold Arcane Barrier] and linked magic show Wistram's advanced spellcraft
+pisces	bc1bdd17c3	6.65	+	fact	carries a bounty of two thousand coins; Ceria says parts of it are false, including the necrophilia charge
+pisces	49c55ef9ac	6.65	+	fact	at Yvlon's urging shows adventurers a skeleton, then six, then ten, hauling and breaking stone for the road; Reikhle accepts and Pisces offers undead horses too
+pisces	f5a2c53bcc	6.65	+	fact	gives an impassioned speech about being judged for his class, then challenges Montressa to a duel; Montressa accepts and the teams pair off
+pisces	15f7aed7cf	6.65	!	event	bounty reduced from two thousand to two hundred and pursuit rescinded
+pisces	323692f139	6.66H	+	fact	flees with Montressa toward the foothills, then returns, saying he would rather die than leave his friends; he drinks mana potions and builds a Bone Behemoth that bleeds him from the eyes
+pisces	ec5728067b	6.66H	+	fact	merge their magic by thought, turning the Behemoth's broken bones into a Frostmarrow Behemoth with ice over bone; Perril Chandler names it
+pisces	d8932e7009	6.66H	!	event	create a Frostmarrow Behemoth by merged magic
+pisces	f4f82374fe	6.67	+	fact	suffer mental fog after the linked magic; Palt says they cannot uncombine disciplines
+pisces	ded62dccc4	6.67	+	fact	gains two [Necromancer] levels, his [Mage] class reaches Level 20 a second time, and he gets the Skill [Mana Well] (Ashen) which stores death-grade ambient mana
+pisces	831f2f54bf	7.13K	~	belief	predict Raelt will die within five minutes; Yvlon agrees
+pisces	c84427c194	7.14T	+	fact	Az'kerash's new "student"; made Toren by hand-carving spells with a sewing needle on Archmage Nekhret's bones, taught by Cognita; he made a Frostmarrow Behemoth with Ceria and fought an Adult Creler
+pisces	7f67623b2c	7.20	+	fact	cooks cheesy potatoes; his [Invisibility] does not work on Maviola; his bounty is still known
+pisces	65f11d845c	7.45	+	fact	tells the Horns he once belonged to a necromancy cabal that ran a commune farm with undead, failing due to wild dogs and wandering undead
+ryoka griffin	ca41106b02	Interlude_1.00_R	+	fact	runs barefoot as a Runner, born in New York ("the greatest city in the world"), hates her name and talking to people
+ryoka griffin	03a3d6fea7	Interlude_1.00_R	+	fact	knows she is in another world and has no way back
+ryoka griffin	4c82cdbcbd	1.01R	+	fact	runs barefoot because she is slower in shoes; Garia asks if she has a [Barefoot Runner] class
+ryoka griffin	fd8c867b21	1.01R	+	fact	her left earlobe is torn away and healed jagged
+ryoka griffin	5366224c56	1.01R	+	fact	a girl from Wisconsin, a college freshman, on a track-and-field scholarship; arrived on a run with her iPhone, wallet and watch; she looks Asian
+ryoka griffin	a68b1fbb63	1.01R	+	fact	earned over thirty silver in a day; an inn costs three silver; plans to buy a healing potion
+ryoka griffin	42e3593a25	1.01R	+	fact	blocks the nightly system messages about [Barefoot Runner] class and a skill each night
+ryoka griffin	854c1723fd	1.01R	!	event	has been in the world about a week and a half
+ryoka griffin	df48d0e736	1.02R	+	fact	reaches the Horns and delivers fifteen healing potions and five mana potions; their seal is silver and copper with a hammer on a mountain
+ryoka griffin	117fdaeaec	1.02R	+	fact	is the fastest City Runner; even Fals cannot beat her time
+ryoka griffin	6f6793f162	1.02R	+	fact	her guild city is Wales, named like the country on Earth
+ryoka griffin	acf6592f53	1.02R	!	event	tells Magnolia she knows how to make ice cream
+ryoka griffin	cc54c83daf	1.03R	+	fact	makes ice cream from custard with milk, salt, sugar and a vanilla stalk; it needs slow freezing, which a Mage's Guild [Elementalist] provides with basic ice magic
+ryoka griffin	16c7079f3a	1.03R	+	fact	has Japanese-American heritage with Japanese grandparents
+ryoka griffin	dcb920509e	1.03R	~	belief	concludes Magnolia is the scariest person she has met
+ryoka griffin	bd73461a06	1.03R	+	fact	has agreed to run a delivery with Garia the next day
+ryoka griffin	bef080080b	1.04R	+	fact	injured leg, a week since the "accident"; swears vengeance on the Street Runners
+ryoka griffin	7057f16137	1.04R	+	fact	hates this world and wants a way to heal her leg
+ryoka griffin	f79d0a3a34	1.04R	+	fact	bought the history book in the market; books can cost several gold coins, some only silver; no library in Celum
+ryoka griffin	0cb6f71760	1.04R	+	fact	dragged herself to the nearest guardhouse after the injury
+ryoka griffin	e6e5518619	1.05R	+	fact	leg bone is shattered into splinters in the flesh; healers advised amputation
+ryoka griffin	5fff800182	1.05R	+	fact	uses magic bandages (about ten gold coins) plus a healing potion every few hours to keep the leg alive
+ryoka griffin	732a942d49	1.05R	+	fact	has three healing potions left; has used forty or fifty
+ryoka griffin	7f4b3afa30	1.05R	+	fact	owns one item from Earth, a device with earbuds, dead without electricity
+ryoka griffin	b82a9ccac7	1.05R	+	fact	bargains for twenty then forty questions and refuses Magnolia's unlimited terms
+ryoka griffin	c7d42df562	1.05R	~	belief	believes Magnolia can read minds or sense untruths
+ryoka griffin	501fb28fbd	1.05R	~	belief	fears telling Magnolia about Earth technology (gunpowder, firearms, nuclear weapons)
+ryoka griffin	0a17020c24	1.06R	+	fact	half Japanese; vows she would do a dogeza
+ryoka griffin	01c51f60fd	1.06R	+	fact	was to start at Columbia University on a Track and Field scholarship, 400-meter run, 3.89 GPA
+ryoka griffin	6a0359a932	1.06R	+	fact	4th Dan in Muay Thai, likes parkour, refused Mensa, kicked out of two high schools
+ryoka griffin	0aa8d0d164	1.06R	!	event	bone repaired and shifts from anger to gratitude; thanks the Horns and offers aid
+ryoka griffin	922f78aebe	1.29	+	fact	performs flips, kicks and cartwheels; denies having the [Performer] class
+ryoka griffin	4fd2446d56	1.29	+	fact	runs back toward Celum, over a hundred miles away, and leaves Calruz behind after ten steps
+ryoka griffin	6470c38635	1.07R	+	fact	ran about thirty miles flat out after the cure; the Horns found her by locating spell and carried her back
+ryoka griffin	4c7e280b02	1.07R	+	fact	rested two days under Ceria's advice; broke and living on loans from Garia and the Horns
+ryoka griffin	b644f15b88	1.07R	+	fact	barefoot runner with bright green eyes
+ryoka griffin	10fe294b31	1.07R	+	fact	owns an iPhone 4, black, 32 GB, mostly music; the screen lights and shows 100 percent battery after the spell
+ryoka griffin	ab35a6004f	1.07R	+	fact	runs to "Sweet Home Alabama" and then "I Will Not Bow"
+ryoka griffin	a252fc9e56	1.07R	~	belief	believes the era is peaceful compared to past ages
+ryoka griffin	4262bd975f	1.07R	!	state	accepts the High Passes request and leaves Celum
+ryoka griffin	fdb8e6a6db	1.07R	!	event	iPhone repaired by magic
+ryoka griffin	12cf0f2006	1.08R	+	fact	listens to "Heathens" while running; Suicide Squad came out a month before she came to this world
+ryoka griffin	c1d62983c6	1.08R	+	fact	kills a Goblin with a roundhouse kick, her first kill
+ryoka griffin	c3444ad446	1.08R	+	fact	drinks two potions that are mana potions and gets mana poisoning
+ryoka griffin	555d6a3246	1.08R	!	event	delivers with "Delivery." then collapses
+ryoka griffin	9eb14eb1ff	1.08R	~	belief	believes she could beat most non-Gold adventurers in a fight
+ryoka griffin	0515007ce8	1.09R	+	fact	stopped herself from leveling and can cancel level-ups; dislikes being controlled by classes
+ryoka griffin	a3b844bd2e	1.09R	+	fact	stands six foot one
+ryoka griffin	e1764c2937	1.09R	+	fact	born in Oakland, California, America; her Japanese name is 涼香
+ryoka griffin	57aa58ab2b	1.09R	+	fact	three Runners died trying to reach the cave
+ryoka griffin	bc8d5e91b9	1.09R	+	fact	gets a speed potion, a bag of gold and a warning not to wear the ring or open the letter
+ryoka griffin	bba346b385	1.09R	!	state	arrives in Celum too high and falls
+ryoka griffin	3e587d6795	1.09R	~	belief	guesses the potion and ring are magical and dangerous
+ryoka griffin	cb75274453	1.10R	+	fact	believed to be the only Runner to survive the High Passes in years
+ryoka griffin	47c38049d2	1.10R	+	fact	fights Arnel with Muay Thai, calls it learned not a Skill
+ryoka griffin	4602c25077	1.10R	+	fact	kicks Theofore's leg and escapes over rooftops by parkour
+ryoka griffin	7d0cbaa5ce	1.10R	!	reveal	leaves Celum secretly for Esthelm
+ryoka griffin	80881c1dbc	1.34	+	fact	runs to Esthelm overnight and asks Ceria to teach her magic
+ryoka griffin	9f8b212850	1.34	+	fact	sees a three-dimensional rune, understands it as [Light], and casts a color-shifting orb
+ryoka griffin	520b5dcff9	1.34	+	fact	runs out of mana and tires
+ryoka griffin	aee5e721e3	1.11R	+	fact	ate cheese, bread, meat and butter after her first spell; Ceria says new casters are ravenous
+ryoka griffin	4e7f8466cf	1.11R	+	fact	barefoot, tall, looks Asian; the Esthelm crowd looks Anglo-Saxon to her
+ryoka griffin	1068a133aa	1.11R	+	fact	lied to the adventurers that her High Passes contact was "no one special" (L174); delivery is confidential, citing Runner confidentiality
+ryoka griffin	eee25803d5	1.11R	+	fact	ran over sixty miles the night before
+ryoka griffin	b5f1554abf	1.11R	+	fact	hates group conversation but is fine one-on-one
+ryoka griffin	34acfb2784	1.11R	+	fact	calls Teriarch a "mystery possibly-elf archmage" (L173); a spell still tugs her to deliver the ring and letter, left in her pack in Ceria's room
+ryoka griffin	a4cbf243f5	1.11R	!	event	casts her first spell, was taught [Light] earlier, now accepts Yvlon's spar
+ryoka griffin	aa7666551b	1.12R	+	fact	practises Muay Thai and "MMA"; has never fought in the ring
+ryoka griffin	a53627fcf6	1.12R	+	fact	warms up for five minutes with stretches before fighting, to the crowd's amusement
+ryoka griffin	2a6438982e	1.12R	+	fact	twice throws Yvlon (trip and an elbow throw), pins her arm, lands three punches; Yvlon calls the fight
+ryoka griffin	af175734bd	1.12R	+	fact	lands a spinning back kick and a roundhouse on Calruz; he punches her out
+ryoka griffin	59bcd2347e	1.12R	+	fact	states she survived the High Passes without a single level
+ryoka griffin	cf6dd951d2	1.12R	+	fact	strikes Ceria's chin, drops her
+ryoka griffin	6f969d8808	1.12R	+	fact	knocked out by Yvlon's punch
+ryoka griffin	30159e7fb3	1.12R	+	fact	was kicked out of schools over fights; this feels the same
+ryoka griffin	fe3e6442ba	1.12R	+	fact	leaves at dusk for Liscor and the Blood Plains, ignoring a carriage and its [Maids] and [Assassins]
+ryoka griffin	30fed2a6b1	1.12R	!	state	no levels is now public among the adventurers
+ryoka griffin	456d09e2b1	1.12R	!	event	sets out for the Blood Plains
+ryoka griffin	569f573680	1.13R	+	fact	kicks the small Goblin's shield, escapes with ring, letter, money, potions
+ryoka griffin	259b17cacf	1.13R	+	fact	pack holds three healing potions, a ruby ring, a letter, dry rations, two water flasks, iPhone with headphones, a blanket, gold
+ryoka griffin	541b1c4edb	1.13R	+	fact	sings or hears Centuries, Counting Stars, Apologize on her iPhone
+ryoka griffin	009a4254a7	1.13R	+	fact	believes herself a blank slate, flawed by privilege, outsider since birth
+ryoka griffin	8efd1c6b8d	1.13R	+	fact	dream is climbing mountains and sailing storms; wants "a place to die"
+ryoka griffin	92bbe3f7f4	1.13R	+	fact	realizes she lacks a friend and prays for the first time
+ryoka griffin	d2c916feb5	1.13R	~	belief	believes bullies are a pattern and the world is wrong
+ryoka griffin	973e094322	1.13R	!	event	breaks free of Teriarch's geas by walking north through the pain
+ryoka griffin	c59f538948	1.41	+	fact	[Skill – Indomitable Will Learned.]; she cancels it and runs toward Liscor
+ryoka griffin	7efae94bee	1.41	!	state	gains and dismisses [Indomitable Will]
+ryoka griffin	4e244b1dd0	1.01H	+	fact	on her second day finds six Gnoll warriors stripped and stabbed; senses a watcher
+ryoka griffin	e2cbd9d450	1.45	+	fact	finds eight Gnoll warriors, each beheaded
+ryoka griffin	8b06385aa5	1.45	+	fact	meets a smiling woman with a large eye and curved sword who knows her name
+ryoka griffin	02e8d0a3c6	1.45	!	state	learns Ceria, Calruz, Gerial and Sostrom are dead
+ryoka griffin	162ed13682	1.45	+	fact	sees the Ruins entrance blockaded by twenty Soldiers
+ryoka griffin	9a4a9c0e71	1.45	+	fact	arrives at the inn and leaves without entering
+ryoka griffin	08b53e45d2	1.45	!	event	her phone rings and she answers it
+ryoka griffin	2db594a338	Interlude_The_Call	+	fact	troll persona
+ryoka griffin	5d0b1d0ba6	2.01	+	fact	returns to the inn after fifteen minutes away
+ryoka griffin	12a75815ba	2.01	+	fact	has a single spell, [Light]
+ryoka griffin	68027c3a24	2.01	+	fact	iPhone with red earbuds
+ryoka griffin	2c538f640a	2.01	+	fact	still has several gold coins in her Runner's pack
+ryoka griffin	3c45bcfe80	2.01	+	fact	first-person narrator in alternating sections
+ryoka griffin	6d55fe05cc	2.01	+	fact	wrote or played as [batman] in the chat and impersonated a thirteen-year-old
+ryoka griffin	a09eae3c88	2.01	~	belief	Teriarch taught her about the [Scrying] spell
+ryoka griffin	9d07bcffd3	2.01	+	fact	ate dry rations and water for about eight days
+ryoka griffin	63ce34df63	2.01	+	fact	had her leg shattered by something moving; scars healed by magic
+ryoka griffin	48e6da525b	2.01	+	fact	has been to the High Passes, the other gateway to the southern part of the continent
+ryoka griffin	c222294c1f	2.01	+	fact	dodged spells from a Lich while delivering healing potions to the Horns
+ryoka griffin	dd989f55c2	2.01	+	fact	gave her job as City Runner, distinct from a Street Runner
+ryoka griffin	b754cb13ab	2.01	+	fact	ate ice cream with Magnolia Reinhart
+ryoka griffin	324ed5e5e5	2.01	+	fact	Calruz was around Level 22
+ryoka griffin	a9dc9bf27a	2.01	!	state	learns the Horns stayed at the inn the night before they died
+ryoka griffin	56fc002166	2.01	+	fact	decides to run back north to Celum to see someone
+ryoka griffin	d3ee050c3b	2.02	+	fact	from Ohio, came to this world in October 2016
+ryoka griffin	31bc6ef8ec	2.02	+	fact	imagines Earth technology and colonialism overrunning Celum
+ryoka griffin	76872b8f51	2.02	+	fact	realises there are many more Earth people than the sixteen on the call
+ryoka griffin	d3c5f8da63	2.02	~	belief	recognises the spell as the type from the call
+ryoka griffin	e695a26210	2.03	+	rel	father taught her to speak confidently and lie when needed
+ryoka griffin	94aefbb504	2.03	+	fact	read in a book that Antinium do not have names except Prognugator and Queens
+ryoka griffin	fbf1d3a34c	2.03	+	fact	says she met a woman with a large eye named Gazi shortly afterwards
+ryoka griffin	c2c3e7763f	2.03	+	fact	each cast [Light]
+ryoka griffin	2fa667764e	2.04	!	event	freezes and cannot fight a zombie; Erin saves her; Ryoka vomits
+ryoka griffin	1c9e9a3595	2.04	+	fact	took martial arts lessons since age eight
+ryoka griffin	9f29570e3a	2.04	+	fact	once killed a Goblin by kicking him
+ryoka griffin	cafc423255	2.04	+	rel	parents rich, about to start college when she vanished, took several gap years
+ryoka griffin	4982a3baae	2.04	+	fact	refused a class because the system felt like a game
+ryoka griffin	127b09a3e5	2.04	+	fact	suggests undead bears, spiders, mice or birds to Pisces
+ryoka griffin	a855588dea	2.05	+	fact	iPhone at 24 percent; Sostrom's [Repair] restored the battery
+ryoka griffin	0cb3b150a0	2.05	+	fact	once blew up a chemistry classroom
+ryoka griffin	6a0b18b663	2.06	!	event	threatens to bite her tongue off, then says Flos, King of Destruction, has awakened
+ryoka griffin	f404cfc72b	2.07	~	belief	speak as if aware of being characters, mention "the author", chapters, crossovers, and picket signs; not story facts
+ryoka griffin	a0a3a57b3a	2.07	+	fact	says it has been six months of "chapters"
+ryoka griffin	c31e7ce4fb	2.08	+	fact	lists continents: Baleros (jungles, Gazers), Blighted Kingdoms of Rhir, Terandria, Chandrar (Flos's home, desert), and Izril (Drakes call it Issrysil)
+ryoka griffin	fb7c55843f	2.08	+	fact	no [Priests] exist; healing mages might cast a restoration spell for Ceria
+ryoka griffin	9a31e502d2	2.08	+	fact	someone she knows thought they could fix her leg and knows a famous healer
+ryoka griffin	d6e1cd8a35	2.08	+	fact	estimates a thousand gold, at least a few hundred; she has two ways to earn money
+ryoka griffin	cbb822fb36	2.08	+	fact	still has money from a delivery for Teriarch she never made
+ryoka griffin	97ec451019	2.08	+	fact	warns recipes will be copied, no copyright; advises branding and quality
+ryoka griffin	6abd5a1550	2.08	+	fact	advises well, wall repairs, window coverings, enchanting kitchen, improving Toren
+ryoka griffin	f339f0eaea	2.08	+	fact	has a trick memory and AP scores of 5
+ryoka griffin	6e15fa08da	2.08	+	fact	wears boots from Krshia and winter clothing is short
+ryoka griffin	1043866083	2.08	!	state	leaves for Celum to work, due back in about a week
+ryoka griffin	566e37da28	2.09	+	fact	reaches Celum with eight blisters after nearly two days in ill-fitting boots
+ryoka griffin	a77671d8e4	2.09	+	fact	buys the Guild's rulebook for fifteen silver with a gold coin Teriarch gave her
+ryoka griffin	330fc4f55d	2.09	+	fact	threatens Octavia to get it back
+ryoka griffin	ea8c0037a0	2.09	~	belief	Teriarch gave her the potion as payment for the delivery
+ryoka griffin	b98cb39f56	2.00T	+	fact	has four times the magic Erin has; Pisces and Ceria could sustain ten Torens
+ryoka griffin	eec098a62d	2.12	+	fact	pays Octavia five teaspoons of her potion for information
+ryoka griffin	75cc46cd14	2.12	+	fact	has eighty gold pieces
+ryoka griffin	6184425dc2	2.12	+	fact	her father is a big hitter in politics and business
+ryoka griffin	86610a8ccd	2.12	!	state	tells Garia the Horns of Hammerad are dead; Garia breaks down crying
+ryoka griffin	799381a40d	2.12	+	fact	wears new shoes in place of the Gnoll boots
+ryoka griffin	769aa9ebc1	2.12	+	fact	resists Teriarch's compulsion by willpower and has no class
+ryoka griffin	415dbc6ac2	2.12	+	fact	says she checked the Blood Fields and found nothing
+ryoka griffin	271f5d688b	2.12	+	fact	leaves for Liscor and runs nearly two miles before slowing
+ryoka griffin	36b50fbeee	2.14	+	fact	delivers a huge sprouting potato to Rikku, a blue-haired [Alchemist]
+ryoka griffin	30df4bea6a	2.14	+	fact	stays in the north a day after Teriarch's bargain, making deliveries and waiting on gear
+ryoka griffin	524572ba22	2.14	+	fact	regards Teriarch's potion as a last resort
+ryoka griffin	3c65d55c3a	2.14	+	fact	decides to become a Courier for status, access and pay
+ryoka griffin	c8ae74eb84	2.14	+	fact	turned off her iPhone's GPS the day she got it; battery about 30 percent
+ryoka griffin	67c18da1d9	2.14	+	fact	travels with snow shoes and a change of clothes
+ryoka griffin	e22bb68d95	2.14	~	belief	begins to suspect Teriarch is a dragon
+ryoka griffin	7a8e2e28e4	2.14	+	fact	runs as fast as she can and cannot keep up with Valceif
+ryoka griffin	18b81687dc	2.15	!	event	finds a giant battered steel armor with holes, no helmet and no blood, a broken greatsword, a two-mile muddy swath and a narrow mountain crack; buries the armor in snow
+ryoka griffin	5d205cfa13	2.15	+	fact	runs through the night on a stamina potion
+ryoka griffin	563991ea4d	2.16	+	fact	iPhone holds over ten thousand songs on a 32 GB model with most apps removed
+ryoka griffin	1707efadd7	2.16	~	belief	fears giving away secrets could be dangerous for Erin if the sender came looking
+ryoka griffin	b112416706	2.17	+	fact	throws her bedside dresser downstairs to stop the singing
+ryoka griffin	17d99494c3	2.17	+	fact	was a loner on her high school track team
+ryoka griffin	784d8a5d0b	2.17	!	event	tells Val about the eight hundred gold request
+ryoka griffin	7a38d07787	2.17	+	fact	carries four healing potions and three stamina potions
+ryoka griffin	a11df11bbb	2.18	~	belief	concludes the levelling system was not designed by someone from Earth and has a loophole for casual gamers
+ryoka griffin	3939cdfca5	2.18	~	belief	wonders whether the board's sender is using chess to level on purpose
+ryoka griffin	8e60a1e086	2.18	!	event	brightens her [Light] orb and learns to absorb and release it
+ryoka griffin	37b382c218	2.18	+	fact	lists faerie lore: avoid mounds, never thank them, never eat their food, never tell them of your child; they fear cold iron and cannot enter uninvited
+ryoka griffin	1e4a80ec15	2.18	!	event	punches a Frost Faerie out of the air; the faerie says she will regret it, grins, and chases her outside
+ryoka griffin	3704f373ee	2.19	+	fact	are afraid of the faeries; Pisces dug Erin out of an earlier avalanche and has avoided the inn when faeries are near
+ryoka griffin	d42156d9c7	2.23	+	fact	stung by wasps awakened by faeries, bruised by snowballs, cut by ice shards
+ryoka griffin	8dd6ed345a	2.23	+	fact	says she hit a faerie in Erin's inn to defend Ceria
+ryoka griffin	8f458c3eac	2.23	+	fact	Teriarch gave her a stone pointing south and west of the Blood Fields
+ryoka griffin	07d21dd854	2.23	+	fact	wore out her healing potions; her clothes were hung up a tree by faeries
+ryoka griffin	dbaf368a7c	2.23	!	event	realises Erin earned the favour of the fey
+ryoka griffin	e177b63e0a	2.23	+	fact	tells Superman, Batman and other stories to the faeries and Gnolls for a day
+ryoka griffin	c015df6d08	2.23	+	fact	narration describes lifelong emptiness and despair; says she rejects the class system and cannot learn spells
+ryoka griffin	47dd053795	2.23	!	state	leaves after three days with a refilled pack
+ryoka griffin	e772b6ec83	2.24	+	fact	runs without movement skills; Venitra thinks she is a Runner or Courier
+ryoka griffin	898fcc6469	2.24	+	fact	spell [Noise] (Tier 0) from Ceria; also [Light]
+ryoka griffin	24e91dc1af	2.24	+	fact	sees her first corpse (a murdered Drake) and discovers the snow hides many more bodies
+ryoka griffin	1c95ae03a7	2.24	+	fact	sees a battle between organised soldiers in purple livery and a rag-tag Drake and Gnoll force; the livery side wins
+ryoka griffin	3680a6e805	2.24	+	fact	hides in the snow but is caught; the officer's bluff worked
+ryoka griffin	1479104a00	2.24	+	fact	carries a City Runner Seal that breaks if away from her more than five minutes
+ryoka griffin	e72fc6e13d	2.24	+	fact	lies that she is delivering to the Stone Spears Chieftain Urksh
+ryoka griffin	86494eac52	2.24	!	event	uncorks Octavia's stink potion and sprays the pepper-spray potion into Ilvriss's eyes, kicks Periss unconscious, escapes with a smoke bomb bag
+ryoka griffin	bf07739d52	2.25	+	fact	has one bag, one potion and Teriarch's Haste potion left; potion pours of healing mostly used
+ryoka griffin	8c4d46d674	2.25	!	event	casts [Flashlight] by renaming her [Light] spell, creating a narrow beam of light from her finger
+ryoka griffin	afe92d2367	2.25	+	fact	removes an arrow splinter from her leg with a knife
+ryoka griffin	5d7abcb996	2.25	+	fact	blinds the Drakes with [Flashlight] on high beam; mages cancel it
+ryoka griffin	aa45a3ec08	2.25	!	state	reaches Az'kerash's castle; Periss and her soldiers follow and discover where they are
+ryoka griffin	ebc5992eff	2.25	+	fact	the delivery was worth eight hundred gold
+ryoka griffin	f718eb2a2f	2.25	!	event	punches Venitra, drinks the entire Haste potion, and runs out of control across the battlefield
+ryoka griffin	9391067707	2.00H	+	fact	rejected as a fourth member because she has no levels and cannot kill monsters
+ryoka griffin	ecf6684ca2	2.28	+	fact	the Haste potion ran about twenty minutes and she covered over fifty miles
+ryoka griffin	1caa484f9c	2.28	+	fact	spent two days in a cave recovering torn muscles; all her healing potions are used
+ryoka griffin	b2ed5fe3ba	2.28	+	fact	spells [Light], [Noise], [Flashlight] and [Flashbang] (combined [Light] and [Noise]); one use makes her sick
+ryoka griffin	ca89b54a60	2.28	+	fact	says she has no classes and no skills, never levelled, and chose not to
+ryoka griffin	2d44a516eb	2.28	+	fact	Griffin, first name written in kanji; has an unmentioned middle name
+ryoka griffin	b19ef8171d	2.28	+	fact	strips to shirt and fur-wrapped feet to run faster; gets frostbite
+ryoka griffin	966b164c44	2.28	!	event	promises to pay the price; the faeries say only she may follow
+ryoka griffin	fae9449973	2.29	+	fact	has no Skills or classes; relies on a few spells that she shaped herself ([Light], [Flashlight], [Flashbang])
+ryoka griffin	6951d1bc93	2.29	+	fact	[Light] can be brightened, reshaped and thrown as an orb that she cannot steer afterwards
+ryoka griffin	def88b7436	2.29	+	fact	casting a single spell tires her
+ryoka griffin	48aee4780f	2.29	+	fact	thinks the fae love fragments of immortality, eternal stories and children
+ryoka griffin	37df80ad03	2.29	+	fact	made a rope harness for Mrsha, climbed the rope unaided and pulled her up
+ryoka griffin	edfb914743	2.29	+	fact	casts [Flashbang] with thumbs in her ears; carries Mrsha in a fireman's carry down the slope; two Goblins fall in the crevasse
+ryoka griffin	a1802b32f9	2.29	+	fact	mentions Erin's words "you're not a killer" and thinks of Rags
+ryoka griffin	6f9794cb68	2.29	+	fact	kicks a Goblin, blinds the others with [Flashlight], and fires a red flare spell into the sky twice
+ryoka griffin	5e4a294b71	2.29	!	event	bitten by a Goblin who swallows her right pinkie and ring fingers
+ryoka griffin	08e0d99552	2.29	!	event	begs the faeries; offers everything in the name "Ryoka Dawning Griffen"
+ryoka griffin	1d2db2d712	2.29	!	event	runs through the Goblin ranks with the faeries, moving ten times faster and filled with magic, carrying Mrsha
+ryoka griffin	37861a1afd	2.29	+	fact	swears "Next time I will save them all. Or die trying" and collapses
+ryoka griffin	3d98611b19	2.29	!	state	the System announces [Barefoot Runner Class Obtained!], Level 8, and several Skills, then the faeries cancel it ("[Level Ups Cancelled]")
+ryoka griffin	19a7c2388e	2.29	+	fact	her phone rings for five minutes; another phone rings on another continent as mages change targets
+ryoka griffin	e4f37d1c6c	Interlude_B02_1	+	fact	injured, two fingers missing, travelling slowly with a Gnoll cub
+ryoka griffin	9bdd8d8ea8	S02_The_Antinium_Wars_Pt.2	+	fact	stopped reading here and left for the High Passes
+ryoka griffin	ff635a452a	2.32	+	fact	lost two fingers on her right hand; the stumps ache
+ryoka griffin	3514991a73	2.32	+	fact	her system notifications have stopped since the night of the faerie bargain
+ryoka griffin	b5c3a85da0	2.32	+	fact	levels noted were [Barefoot Runner Level 1!] and [Disciple Level 3!] after Calruz
+ryoka griffin	3016268cdf	2.32	+	fact	bargained with the faeries to save herself and Mrsha, leaving the Stone Spears to the Goblins
+ryoka griffin	0c8a414fd5	2.32	+	fact	told Erin the whole story but kept the faerie camp stories private
+ryoka griffin	a227a8de9f	2.32	+	fact	Magnolia's healer friend cannot regrow lost limbs, only repair damage
+ryoka griffin	c960ebc32e	2.32	!	state	returns to the inn with Mrsha
+ryoka griffin	5eaf75f285	2.32	!	event	breaks down crying in Erin's arms
+ryoka griffin	97865851ce	2.33	+	fact	deduces Lyonette is a runaway Terandrian noble, possibly a princess
+ryoka griffin	dad19618d6	2.33	+	fact	plans to collect her reward from Teriarch, then deal with Magnolia
+ryoka griffin	9135174235	2.33	+	fact	has not told Erin that Teriarch is a Dragon
+ryoka griffin	5f84bc1e40	2.33	+	fact	tells Krshia that the Stone Spears tribe is gone
+ryoka griffin	b5e6d86d2d	2.33	+	fact	takes on Erin's debt; she has nothing close to it
+ryoka griffin	900c1465f4	2.33	+	fact	eight hundred gold would be 1.6 percent of the debt
+ryoka griffin	837c4d84a4	2.33	+	fact	decides Mrsha stays with Erin instead of Krshia
+ryoka griffin	39afc51416	2.33	+	fact	the drink shows her the Stone Spears camp and Urksh
+ryoka griffin	f0d79182aa	2.33	!	event	takes on Lyonette's debt
+ryoka griffin	8e5e80a868	2.34	+	fact	lied to Selys that she never paid attention to levels
+ryoka griffin	3b0ae0aa2e	2.34	~	belief	cumulative total levels, not age, slow leveling, so extra classes cap growth
+ryoka griffin	fc10a3f184	2.34	~	belief	speculates a level cap near 100 and a softcap
+ryoka griffin	5ddf59db63	2.35	+	fact	calls Erin's vehicle a sledge from their own world
+ryoka griffin	9305226e0c	2.36	+	fact	gives Selys and Krshia most of her gold and runs north
+ryoka griffin	ed9141597e	2.38	+	fact	runs north without boots or coat and shreds her feet
+ryoka griffin	8c80a3e0ca	2.38	+	fact	delivered the ring and letter to Perril Chandler, who called the gift appropriate
+ryoka griffin	9318cd2bec	2.38	+	fact	broke Teriarch's memory spell with a Courier's charm and punches him with her left hand
+ryoka griffin	6e24c64353	2.38	+	fact	challenges Teriarch to a riddle game, wagering the secret of her name
+ryoka griffin	04c0e798fa	2.38	!	reveal	reveals she knows Teriarch is a Dragon
+ryoka griffin	c4b9ad2e96	2.39	+	fact	learns a fire spell instantly from the tome; fire needs fuel unlike [Light]
+ryoka griffin	f58abe2d1e	2.39	+	fact	iPhone 4 with 32 GB; plays "Beethoven's 5 Secrets" which Teriarch has never heard
+ryoka griffin	6bf8b48729	2.39	!	state	arrives in Octavia's shop two feet above floor, bangs head; advises cooling carrots and flour
+ryoka griffin	df74c26d17	2.40	+	fact	sends Krshia "I have what you want, wait for my return"
+ryoka griffin	24e8cd7582	2.40	!	event	still hides her missing fingers
+ryoka griffin	da47cd0fe7	3.03	+	fact	lost two fingers to a Goblin a week earlier; right hand has three fingers
+ryoka griffin	16f6bf1829	3.03	+	fact	runs barefoot using Erin's warming soup; carries a City Runner Seal
+ryoka griffin	38bb0e9311	3.03	+	fact	holds 800 gold from Teriarch in a bag of holding that also holds a massive book, bed covers and two chairs
+ryoka griffin	d15d7bcd6b	3.03	+	fact	cannot cast [Water Spray] (Tier 0); learned a telekinesis cantrip and a wind trick; cannot believe magic becomes matter ("Education ruined magic")
+ryoka griffin	ed52a58f6e	3.03	!	event	banned from Celum's Adventurer's Guild after Erin's "table flip attack"
+ryoka griffin	1005f825ea	3.03	!	state	becomes friends with Ivolethe, who gives that name
+ryoka griffin	2b9822056b	3.09	+	fact	stands barefoot in snow in shirt and leggings thanks to a Corusdeer soup that keeps her warm; it wears off
+ryoka griffin	4de9ea17cc	3.09	+	fact	right hand has two missing fingers
+ryoka griffin	ff649f4094	3.09	+	fact	banned from Celum Adventurer's Guild; not charged for the Runner's Guild destruction due to witnesses
+ryoka griffin	61558ab582	3.09	!	event	runs to Ocre from Celum by nightfall on hearing of the Horns
+ryoka griffin	bc8e9b11ca	3.09	!	event	toast the old Horns of Hammerad
+ryoka griffin	fba1e64122	3.09	!	event	plans to ask Pisces about Toren, a skeleton that thinks
+ryoka griffin	17cd77f991	3.10	+	fact	carries a bag of holding given by Teriarch; stores the artifacts and several hundred gold coins; pack and small bag go in the carriage trunk
+ryoka griffin	05437b96ae	3.10	+	fact	takes every Invrisil multi-part delivery at the Runner's Guild, bullying the [Receptionist]
+ryoka griffin	5baf574b3c	3.10	+	fact	raised in a wealthy family with servants and gardeners; ran from Magnolia long ago; Magnolia first figured out where she came from
+ryoka griffin	7cdeb194da	3.10	~	belief	suspects the wine could be a truth serum
+ryoka griffin	c0ca7407b1	3.10	~	belief	believes the tall Hobgoblin was the one from the inn
+ryoka griffin	ca81f7db88	3.10	!	event	sees a faint ripple trail of wind from the carriage; first step toward faerie magic
+ryoka griffin	e31c713e0a	3.10	!	event	agrees to leave with Ressa after fifteen minutes
+ryoka griffin	5ba5373a7e	3.10	!	event	carriage crosses a Goblin army column and escapes Carn Wolf riders
+ryoka griffin	b550d452a6	3.13E	+	fact	estimates a prototype gun within a month with a kingdom's resources, a proper gun and army would take years; cannon easier
+ryoka griffin	67d4e40b35	3.13E	+	fact	names sulfur as a gunpowder component; Magnolia finds it troubling and reacts
+ryoka griffin	28863d1cf9	3.13E	+	fact	believes the Antinium fled Rhir fighting something they believed was a god
+ryoka griffin	8a0c5102d8	3.13E	+	fact	has smoke bag made by Octavia
+ryoka griffin	8553e3f8c2	3.13E	!	event	resists Magnolia's compulsion by recalling Teriarch's geas, lunges at her and is knocked back by Ressa
+ryoka griffin	15b335368d	3.13E	!	event	tells Magnolia the Antinium are not her enemy and fear a god; Magnolia believes her and releases her
+ryoka griffin	3e71b3591e	3.13E	!	event	injured with a stone fragment deep in her thigh
+ryoka griffin	e6a155a249	3.14	+	fact	helps with wounds using cloth and potions; sleeps at the manor
+ryoka griffin	225a89b70f	3.14	!	state	becomes Magnolia's ally, released to attend to artifacts
+ryoka griffin	69380f5e5b	3.24	+	fact	holds the Horns' artifacts and coin in the north; Ceria says she is like a female Calruz
+ryoka griffin	d9042bf197	3.35	+	fact	stayed over a week in Magnolia's mansion after the attack; Magnolia and Ressa went north to her estates, leaving the servants, a pledge of help and a guide named Reynold
+ryoka griffin	0f37861e17	3.35	+	fact	wears magical glasses that translate languages in books, but not bad handwriting
+ryoka griffin	85e9a5bc70	3.35	~	belief	suspects Magnolia is keeping the other Earth people from her
+ryoka griffin	3563cf9f7c	3.35	!	event	meets Laken Godart in Invrisil, the first fellow Earth native she has found in the north
+ryoka griffin	ce6ef6373a	3.35	!	state	leaves Magnolia's mansion for Invrisil with Reynold
+ryoka griffin	460c1001e9	3.36	+	fact	speaks halting German to Laken, learns he is from San Francisco, tells him an iPhone can be recharged by a [Repair] spell, warns of tracking by people who know humans come from another world
+ryoka griffin	018841e5bb	3.36	+	fact	promises to meet Laken in an hour; tells Ivolethe she wants to hide Laken from Magnolia
+ryoka griffin	93053a3a25	3.36	~	belief	bag from Teriarch must be of top quality since a Dragon gave it
+ryoka griffin	95efb28172	3.36	!	event	first contact between Earth natives; Laken realizes he is "not alone"
+ryoka griffin	eec908bbed	3.36	!	reveal	learns the value of the Albez items; Reynold secretly records everything Hedault says and Ryoka's bag
+ryoka griffin	e681aa37cd	3.37	+	fact	warns Laken in German that Reynold is "friend and spy"; Laken answers "Ja"
+ryoka griffin	e4bdb66414	3.37	+	fact	tells Laken Magnolia knows of "five or six kids around our age" from Earth and of Erin Solstice, an [Innkeeper] in Liscor
+ryoka griffin	c5c986e84b	3.37	+	fact	compares Magnolia to Daenerys, Cersei and Catelyn Stark; Laken listened to Game of Thrones with audio description
+ryoka griffin	d0c2a450bd	3.37	+	fact	sends open messages to Erin, Krshia, Ceria and Mrsha, saying she is sorry and will return soon; includes her appraisal summary
+ryoka griffin	66b6a60249	3.37	!	event	realises Magnolia's spies are watching Laken now
+ryoka griffin	3076f77059	3.40	+	fact	stares at it and plays the Pokemon theme on her iPhone; compares it to Articuno; says she was teleported days after downloading Pokemon Go
+ryoka griffin	b2466ee116	3.40	+	fact	gives Durene a pepper potion when Durene blocks her; Durene wants to protect Laken from her
+ryoka griffin	7f2f36510a	3.40	+	fact	uses German to say "Ein Gott...lebt", then "Schlafen. Aufwachen": a sleeping God exists; says the Antinium are terrified of "one person"
+ryoka griffin	60d32e51da	3.40	+	fact	speak of a summoning spell in Rhir behind their arrival
+ryoka griffin	b5194cefca	3.40	!	event	sells the iron wood wand to Hedault in exchange for gear and a debt owed to the Horns
+ryoka griffin	ef80a8865b	3.40	!	event	speak with BlackMage, learning Wistram is hunting Earthlings
+ryoka griffin	b0163311b4	3.41	+	fact	runs about eight hours in the blizzard with stamina potions and a healing potion from the Runner's Guild; the faeries mislead her until a Frost Golem wakes up with a hat on its head and she thanks "Frosty"
+ryoka griffin	e41c85cab3	3.41	+	fact	tells the children she is delivering for Santa Claus; gives Anabelle, whose brother died in the avalanche, a blonde adventurer doll
+ryoka griffin	70be7f4c65	3.41	~	belief	admits Laken's [Emperor] class is a false leadership to villagers but cannot hide her emotion
+ryoka griffin	d0d185a687	3.42	+	fact	sent a message from the Mage's Guild that she is on an emergency delivery and may miss Christmas
+ryoka griffin	cb9f90c5e3	Interlude_B04_1	+	fact	leaves Riverfarm the day after Christmas; Prost's wife Yesel gives her a grey-and-blue wave-pattern scarf originally meant for someone else
+ryoka griffin	f791436ca0	Interlude_B04_1	+	fact	cannot cast [Light] or feel magic near the dead figures; escapes by running with a torch made from burning wood
+ryoka griffin	06af0baa77	Interlude_B04_1	!	state	escapes the three dead things but loses the severed fingers to the fire
+ryoka griffin	bff30ad270	4.07	+	fact	runs toward Liscor with a Frost Faerie, one day away; Reynold broke an axle after running over bandits
+ryoka griffin	8872bcf6bb	4.09	+	fact	runs toward the inn with Ivolethe, after a driver ran over brigands, and Reynold says Magnolia ordered every [Bandit] turned to road kill
+ryoka griffin	09e7e752bb	4.09	+	fact	plans to leave Ivolethe a stack of gold coins so Erin feeds her; Ivolethe promises not to bother Erin's friends
+ryoka griffin	2548a286e2	4.09	+	fact	worries about telling Erin of Magnolia, the [Assassins], Laken the [Emperor], Blackmage in Wistram and the night with three strangers at the campfire
+ryoka griffin	414bfcc056	4.09	+	fact	presents the huge, feather-light spellbook Teriarch gave her, from a Dragon's hoard; calls it a first-edition tome of Rihal covering Tier 1 to about Tier 4 spells, equal to fifty or a hundred spellbooks
+ryoka griffin	60abbd1d70	4.09	+	fact	names the donor as Teriarch, "an [Archmage]-equivalent", who will be patron of the tribe; she gave him something of equal value she cannot explain
+ryoka griffin	6ed93369b5	4.09	+	fact	asks only for friendship in payment; Krshia accepts, vows Gnolls will remember her name and Teriarch's
+ryoka griffin	a8312ed0fc	4.09	+	fact	memory of the battle where Az'kerash's servants, a Gnoll in front with a battleaxe (Kerash) and a rotting woman called Bea, approached; Periss and sixteen elite warriors stayed to fight while Ryoka fled
+ryoka griffin	6cd8c32801	4.09	~	belief	lies by half-truth about Teriarch and the trade, swearing it was fair
+ryoka griffin	1067f854c5	4.09	!	event	pays Krshia's debt, becoming a friend of Krshia's clan
+ryoka griffin	5999f56631	4.09	!	event	reunite
+ryoka griffin	b556e9ea00	4.10	+	fact	tells Klbkch "I told Magnolia"; he leaves quickly; she says Magnolia knows of his intentions
+ryoka griffin	fee4a610ef	4.10	+	fact	has two missing fingers on her right hand
+ryoka griffin	6538b04fe7	4.10	+	fact	heard Zel helped save Mrsha once; she thanks him
+ryoka griffin	13d6ad12d4	4.10	+	fact	Ivolethe is free to enter The Wandering Inn because it is built with copper nails
+ryoka griffin	349a7d36f6	4.10	+	fact	sold one item from the bag to Hedault, an [Enchanter], in exchange for a matched set of gear; he owes the Horns a favor to call in any time
+ryoka griffin	32f99420ed	4.10	+	fact	cannot talk during the party; Ryoka sleeps in a room with Mrsha and Lyonette, who tells her about Christmas

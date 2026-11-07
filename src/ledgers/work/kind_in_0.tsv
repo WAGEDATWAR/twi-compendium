@@ -1,0 +1,621 @@
+entity	sid	chapter	marker	heuristic_kind	text
+erin solstice	f452cad5a5	1.00	+	fact	burned clothes, bloody cuts on arms and legs, fled to the inn by chance after running from danger
+erin solstice	a2aebecde6	1.00	+	fact	says "ever since I came to this world everything's been going wrong"
+erin solstice	abe46be08a	1.01	+	fact	has two first names that could belong to a girl or a boy
+erin solstice	5602bca848	1.01	+	fact	no phone, empty pockets, no preparation
+erin solstice	41aa20d163	1.01	+	fact	arrived in the world while trying to go to the bathroom at home, then found herself facing the snout of a dragon
+erin solstice	0f74f25b4d	1.01	+	fact	remembers a dragon in a cave that burned her arm, and goblins that chased her
+erin solstice	199e9dcc2d	1.01	+	fact	uses a grey mildewed curtain as a dustrag, cleans tables, chairs, bar and shelf but not the floor; her mother would be happy
+erin solstice	f1ddb4cb56	1.01	!	state	gains [Innkeeper] class, Level 1, and skills Basic Cleaning and Basic Cooking
+erin solstice	90951e1735	1.02	+	fact	concludes the world works like a game (levels, skills announced in her head)
+erin solstice	6832ef6665	1.02	+	fact	age 20, from Michigan, likes strategy games (chess, shogi, go), snowboarding, Youtube; dreams of being a strategy game commentator
+erin solstice	d3795e6191	1.03	+	fact	kicks the lead goblin in the groin, clubs and throws chairs, slaps one, takes a goblin's knife, and routs them by shouting "Boo!"
+erin solstice	289fade200	1.03	!	state	sleeps and reaches [Innkeeper Level 4] (skipping 2 and 3 on screen)
+erin solstice	af67582f41	1.04	+	fact	guesses "when you level in dreams, you level in real life"
+erin solstice	217a276d3f	1.04	+	fact	carries two blue-fruit seed cores as crab/monster repellent
+erin solstice	659a7d91f5	1.04	+	fact	dehydrated, drinks too much cold stream water and nearly vomits; bathes in the stream
+erin solstice	f20c1b9d34	1.04	+	fact	has "four levels in innkeeping"
+erin solstice	1dce042361	1.04	+	fact	cuts her right palm diagonally while skinning the fish; no pain at first, then severe pain; bandages it with a strip of upstairs curtain
+erin solstice	a6a2f0e68a	1.04	+	fact	does not eat the fish; recites a King's Gambit chess game aloud to distract herself from the pain
+erin solstice	f76639dd33	1.05	!	event	scrapes a splinter off the glowing runes, breaking the line and ending the enchantment on the preserving cupboard
+erin solstice	3530770c71	1.05	+	fact	wonders why the previous occupants would leave good food and sharp knives behind
+erin solstice	94f0fff2e3	1.05	!	event	knocks the goblin scout out and throws him through the door onto the waiting goblins, who flee with him
+erin solstice	716f2d3ec0	1.06	!	event	reads the faded "Closed" sign on the inn though the writing is not English (magic-translated); flips it to "Open"
+erin solstice	42a41badca	1.06	+	fact	dough and noodles with eggs, butter, salt; one cracked egg contains a developing chick, which sickens her
+erin solstice	01c2bce7d8	1.06	+	fact	invents blue-fruit juice by pulping peeled fruit with water
+erin solstice	5701fd1618	1.07	+	fact	tells them she is from "Michigan", which they do not know; she suggests a teleportation spell
+erin solstice	be20c0d593	1.07	!	state	reaches [Innkeeper Level 5] and gains [Skill - Basic Crafting]
+erin solstice	d10fead066	1.08	+	fact	vomits violently after returning to the inn; a fish that eats her vomit dies, so something she ate was poisonous (cause not stated here)
+erin solstice	99ab6ecfb1	1.08	+	fact	waits for them in the common room; falls asleep at the bar
+erin solstice	50a3b45e4e	1.09	+	fact	tells Pisces her name; says she became an [Innkeeper] by cleaning the abandoned inn
+erin solstice	a55e0edb66	1.11	+	fact	the inn is out of flour and butter; salt and sugar are running low; she is paid coins she keeps on the kitchen counter
+erin solstice	7853f4e3e0	1.11	!	event	withdraws her testimony so Relc and Klbkch must release Pisces; she threatens Relc and Klbkch and forbids killing in her inn; Pisces then gets thrown out too
+erin solstice	3fbdb91631	Interlude_B01_1	+	fact	sleeps alone at her inn; the narrator notes she is "lonely, but no longer alone"
+erin solstice	d4279aebf7	1.12	+	fact	breakfast is three shriveled, rubbery blue fruits; she reasons no food means no guests, no money and starvation
+erin solstice	c738d903ab	1.12	+	fact	has dealt with Goblins, a Necromancer, rock-crabs and a biting giant fish in the stream
+erin solstice	e587702dd1	1.12	+	fact	wonders whether the [Innkeeper] class is changing her; she washes at a stream
+erin solstice	56fa1447d2	1.12	+	fact	her t-shirt is stained blue, ripped at the sleeves and burned on one side; she has not bathed or brushed her teeth since arriving
+erin solstice	7f07a308ca	1.12	+	fact	carries her coins in one pocket; plans to buy clothes, food, soap, toothbrush and a lamp
+erin solstice	19b1983fea	1.12	~	belief	guesses magic lets her speak with Relc and Klbkch; she notes they speak English
+erin solstice	c95ef824e8	1.12	!	event	enters Liscor for the first time, the only human there
+erin solstice	1c9d897de1	1.13	+	fact	speaks the same language as Relc and Klbkch but cannot read any writing
+erin solstice	39e9f54dc8	1.13	+	fact	shows him silver, bronze and three gold coins; he gives back a few dented copper coins in change and she buys a cloth bag
+erin solstice	8dbb6f22d8	1.14	+	fact	has four silver coins left after the bag and food; knows she was ripped off
+erin solstice	28fd20500b	1.14	!	state	reaches [Innkeeper] Level 6 after her return and sleeps on the floor of the common room
+erin solstice	902cad3820	1.15	+	fact	breakfast is a dried, salty, gristly sausage from her purchases
+erin solstice	df38e70581	1.15	!	event	vomits and screams, throws Relc out, then carries the heads to find the bodies
+erin solstice	0cfd83380e	1.15	+	fact	digs a grave with a wooden spoon and her hands and buries all three Goblins
+erin solstice	7d10bbfb34	1.15	~	belief	reasons the Chieftain hunts her for "blood for blood" even though she did not kill the Goblins
+erin solstice	de6770491d	1.15	+	fact	tells herself "checkmate" and plays chess moves in her head while waiting
+erin solstice	e122af9ec1	1.15	+	fact	prepares a cast-iron pot of something from her shopping bag over a kitchen fire as a trap
+erin solstice	c3ebf71981	1.16	+	fact	hits him with a chair and later a rolling pin, breaking his nose
+erin solstice	cb8811e3de	1.16	+	fact	lifts the burning pot of oil with bare hands, blistering them, and throws it over the Chieftain's face
+erin solstice	aacc82c22d	1.16	+	fact	bandages her stomach with strips cut from the cloth bag
+erin solstice	af2747e37a	1.16	!	state	reaches [Innkeeper] Level 9 and gains [Tavern Brawling] and [Unerring Throw]
+erin solstice	280c24dcf6	1.17	!	event	forbids the killing of Goblins; Klbkch agrees except in self-defence
+erin solstice	4bb2e9f7bc	1.17	+	fact	cannot sleep, hears the dying Chieftain breathing
+erin solstice	d3064fba2b	1.18	+	fact	throws a kitchen knife past Relc's head with [Unerring Throw] when he shouts about killing Goblins, and tells him to leave them alone: "This is my inn. I make the rules here"
+erin solstice	37ceb47ed1	1.18	+	fact	eats blue fruit in the orchard and judges the seed core's pulp to be poison
+erin solstice	00b7ac1bf1	1.18	!	event	serves buttered pasta with sausage and onions to four Goblins, says "the first meal is on the house", and teaches one to use a fork
+erin solstice	0ecb771e9c	1.18	!	event	laughs for the first time since the killing
+erin solstice	076943d186	1.19	+	fact	remembers the whole list of items she was sold; keeps the shopkeeper's own price paper
+erin solstice	4362bac0a9	1.19	+	fact	plays chess quickly, in White, and gives repeated checks; her chess pieces are Drake knights with bucklers and scimitars
+erin solstice	c5dd6f3bcd	1.20	!	event	checkmates Olesm; she says she has played chess for twelve years
+erin solstice	5013147eb9	1.20	+	fact	played a female Grandmaster once and has won chess tournaments; also knows shogi, go and card games
+erin solstice	3b78c0a992	1.20	+	fact	realises she cannot explain Japan or Earth games to Klbkch and Olesm
+erin solstice	20719100a6	1.20	+	fact	buys a money pouch, soap and goods, and bathes at a Liscor bathhouse
+erin solstice	b82af24b4f	1.20	!	event	flips the chess board over, rejects chess's one-winner logic ("the best game for both players is a draw"), and decides to make her own rules
+erin solstice	476e51ed8f	1.21	+	fact	has had no paying customers other than Relc, Klbkch and Pisces for two days
+erin solstice	b0edd1aa9e	1.21	+	fact	wears trousers and a shirt custom-made by a Gnoll tailor introduced by Krshia; Drakes dress in togas, robes or sarongs, Gnolls minimally
+erin solstice	440cd6bd0f	1.21	+	fact	has only worked as a part-time library assistant and chess-tournament helper
+erin solstice	4922b05103	1.22	+	fact	uses [Basic Crafting] to rebuild floorboards eaten by acid, with Klbkch's earlier help
+erin solstice	4b183e3f72	1.22	+	fact	anchors her fly jars in the stream on Pisces's advice
+erin solstice	dc052d0078	1.22	+	fact	writes a chalkboard menu: pasta with sausage and onions 3 cp; blue juice 2 cp; acid flies 1 s per plate
+erin solstice	cbfb30865c	1.22	!	state	reaches [Innkeeper] Level 10 and gains [Alcohol Brewer] and [Dangersense]
+erin solstice	4d480911d2	1.24	+	fact	has eaten about half the orchard's blue fruit; her fly jars sit in the stream, where the flat fish bump them; she buys pasta from Krshia
+erin solstice	f5bb17ef02	1.24	+	fact	uses chess notation, opens with King's Pawn, plays the Sicilian Defense against Olesm, and beats two opponents at once by relaying their moves between boards
+erin solstice	58ad5e6ad7	1.24	+	fact	draws paper chess boards and teaches Antinium Workers and Goblins to play; eight boards run at once
+erin solstice	0475e35bf7	1.24	+	fact	stops Rags from stealing a chess pawn and invites the Goblins back
+erin solstice	43ec517648	1.25	+	fact	spends two days failing to make ice cream, producing sugary butter
+erin solstice	0dc4ac1c37	1.25	+	fact	knocks Goblins out in a fight using a chair and fists with skill from [Tavern Brawling], then is stabbed repeatedly and collapses
+erin solstice	0a94067e6d	1.26	+	fact	tells the Queen Klbkch "died free"
+erin solstice	5c96ba5919	1.26	+	fact	keeps the broken chess knight base in her pocket and plays chess on the grass with Pawn using the broken piece
+erin solstice	b7ae1453c8	1.27	+	fact	has gained about ten levels in a month; says she is Level 10
+erin solstice	88b7e2a0a8	1.27	+	fact	reached a chess rating a little over 2000 as a child, learned to play blindfolded before riding a bike, and quit because the pressure consumed her life
+erin solstice	ec8c35acd6	1.27	+	fact	teaches the Immortal Game to Pawn, then beats him once in an emotional final game
+erin solstice	8cc121440f	1.27	!	state	reaches [Innkeeper] Level 11 and gains [Lesser Strength] and [Immortal Moment]
+erin solstice	232d8a3bee	1.28	+	fact	has three customer types: Antinium, Goblins, and Pisces
+erin solstice	641a504456	1.28	+	fact	makes Goblins wash before entering the inn
+erin solstice	3e76334462	1.28	+	fact	has [Bar Fighting] by her description, [Immortal Moment] (unknown effect) and [Alcohol Brewer]
+erin solstice	5e1b27f23f	1.28	+	fact	is 20 years old
+erin solstice	027afdad5e	1.29	+	fact	lost in the grasslands; uses [Dangersense] and avoids red and white flowers
+erin solstice	29531a5d6a	1.29	+	fact	promised Selys to stay near the Watch-patrolled area
+erin solstice	7dbe33734e	1.29	+	fact	rucksack held flint, tinder, a long knife from the Adventurer's Guild, a nearly one-gold healing potion and a hand mirror
+erin solstice	c47d29320f	1.29	+	fact	Krshia offered to hunt with her; Krshia thinks she wants to avenge Klbkch
+erin solstice	defbfd9828	1.29	+	fact	has [Unerring Throw], hurls rocks with fastball speed
+erin solstice	3b6bb22141	1.29	+	fact	kills a Shield Spider with thrown acid and bare hands, [Lesser Strength]
+erin solstice	754a023cc3	1.29	+	fact	[Innkeeper] Level 11
+erin solstice	73a18d2ae8	1.29	!	event	realizes she is good at killing; jumps into the pit to save a baby spider and then drops it
+erin solstice	f2031c37db	1.29	~	belief	wakes screaming each night since Klbkch died
+erin solstice	4004d65454	1.30	+	fact	known to Drakes as the girl who beat Olesm at chess and who rumor says met the Antinium Queen
+erin solstice	d8f4d4d110	1.31	+	fact	solves the five-move puzzle at a glance
+erin solstice	cee9b5ffaa	1.31	+	fact	sends back a mirror-play challenge and a harder problem, "checkmate in four moves", paying Olesm two silver
+erin solstice	a2150df71e	1.31	+	fact	offers Gazi a bodyguard job for food and rooms; Gazi declines
+erin solstice	705c53cafd	1.31	!	event	has a skill that makes her stronger when Relc notes it
+erin solstice	6359a4d364	1.32	+	fact	earns just over eleven gold for the Shield Spider bounty and carcasses
+erin solstice	68dc590e59	1.32	+	fact	inn ransacked; a toothbrush, food, one gold and three silver are taken
+erin solstice	2a1f1540f0	1.32	+	fact	buys a short sword and buckler for four gold, as an offering to Rags
+erin solstice	8740e3d236	1.32	+	fact	sells Rags acid jars for several bronze coins each
+erin solstice	883007d2b8	1.32	+	fact	has [Basic Cleaning]
+erin solstice	502aaf13b0	1.32	!	event	punches Pisces when he drops his invisibility spell
+erin solstice	221a0f1c4e	1.33	+	fact	[Innkeeper] Level 12 on waking, Level 13 and [Loud Voice] by the end
+erin solstice	ee222ad7a6	1.33	+	fact	has just under ten gold, wants preservation runes, sleeps in the kitchen
+erin solstice	f8caa225be	1.33	+	fact	buys cow's milk; eats cereal with blue fruit
+erin solstice	8a985ae02d	1.33	+	fact	pours acid into the outhouse to cut smell
+erin solstice	f34dc7db72	1.33	+	fact	stuns the big adventurer with a thrown frying pan using [Unerring Throw]
+erin solstice	1324e3b20e	1.33	!	event	decides to keep the skeleton and tries to name it, ending with "Mike?"
+erin solstice	5b537bc0a1	1.34	+	fact	fails the test and cannot cast
+erin solstice	cabe41e4f5	1.34	+	fact	from Michigan; arrived by turning a corner and meeting a dragon
+erin solstice	460d4efbcb	1.34	+	fact	says her world has about eight billion humans and no other sapient species
+erin solstice	3761fead2b	1.35	+	fact	did not attend college, worked as a chess tutor and tournament player
+erin solstice	3f21674b09	1.35	+	fact	wants to go home to Michigan and her family
+erin solstice	38580b246f	1.35	+	fact	has [Basic Cooking]
+erin solstice	87a9ed1497	1.35	!	event	breaks down crying over having no magic
+erin solstice	0246d27543	1.36	+	fact	has upstairs beds usable, mattresses rotted
+erin solstice	995f177e70	1.36	+	fact	[Unerring Throw] Skill
+erin solstice	05a9b5f26d	1.37	+	fact	dreams of Klbkch bleeding and saying "I obey my Queen", and of a chess King on a hill
+erin solstice	c4928eb58b	1.37	+	fact	sleeps in a nest of blankets in the kitchen corner
+erin solstice	0be558029b	1.37	+	fact	once attended a Lord of the Rings chess tournament; greeted Ceria in Elvish
+erin solstice	3d12821001	1.37	+	fact	solved the same puzzle in nearly a week while in middle school
+erin solstice	6056323ac9	1.37	!	event	now has paying adventurer guests, runs out of food and ale
+erin solstice	bd556cc19a	1.38	+	fact	plays Pawn repeatedly through the night with no emotion (Queen's Gambit, French Defense lines) and wins
+erin solstice	0191f3b0a5	1.38	+	fact	hugs Pawn, says "I'm sorry", leaves the inn
+erin solstice	cae9fae488	1.38	+	fact	hid on the roof of her inn crying for about an hour
+erin solstice	661c6c05b3	1.38	+	fact	refuses to murder, says "I don't murder people. Ever."
+erin solstice	1942c0a4d1	1.38	+	fact	sings Lady Gaga, "Somewhere Over the Rainbow", "Hallelujah", "A Thousand Years" lines
+erin solstice	7d158bd0b2	1.38	+	fact	teaches the room "Here I Am, Lord"
+erin solstice	3ba0d61129	1.38	+	fact	[Innkeeper Level 15!]
+erin solstice	fd6c3aeb4a	1.38	!	state	[Innkeeper] Level 13 to Level 15
+erin solstice	f5f359e7cc	1.39	+	fact	has a cold after sitting out in the rain
+erin solstice	55e9d2b923	1.40	+	fact	used DGT electronic chess boards in tournaments and prefers stone pieces
+erin solstice	b39ce1d30b	1.40	+	fact	was a chess child prodigy
+erin solstice	6f7314a4fe	1.40	+	fact	childhood rhyme "The king is smart and uses his head. For if he moves, he'll soon be dead."
+erin solstice	8177fbddd7	1.40	+	fact	has [Bar Fighting] and [Lesser Strength]
+erin solstice	b9089afcc8	1.41	+	fact	learns punches, kicks and blocks, then beats Toren, knocking his head fifty feet
+erin solstice	15c92feb06	1.41	+	fact	flashbacks to the Goblin Chieftain's death and Klbkch in her arms
+erin solstice	48604a7963	1.41	+	fact	kicks Calruz in the groin
+erin solstice	b83c4ef733	1.41	+	fact	sells Gerial an acid jar
+erin solstice	6b39bb15e1	1.41	+	fact	[Skill – Power Strike Learned.]
+erin solstice	e87a1405c2	1.41	!	event	learns [Power Strike]
+erin solstice	31ad9496db	1.00H	+	fact	says she has seen a dragon; Horns laugh that there are none on this side of the world
+erin solstice	6098f8392d	1.42	+	fact	feels a siren-like danger sense in her head before the attack
+erin solstice	12cc6d6a64	1.42	!	event	recognises the named Workers as her chess club
+erin solstice	86c29e4399	1.43	+	fact	has [Unerring Throw], [Loud Voice] and [Lesser Strength]
+erin solstice	a262eecf83	1.43	+	fact	plays chess against herself under fear, then rejects the "king" role and calls herself a queen
+erin solstice	3e9f355a01	1.43	!	event	breaks free of Skinner's fear by playing chess; her skill is the time-slowing chess skill
+erin solstice	2a1e037685	1.43	+	fact	throws a large jar of acid that drenches Skinner; he survives and screams
+erin solstice	12e0aade54	1.44	+	fact	first guest back at her inn is Klbkch, who asks to come in
+erin solstice	cbdd6abb1c	1.45	+	fact	[Innkeeper] Level 18, gains Immunity: Alcohol and Quick Recovery
+erin solstice	475ad1860c	1.45	~	belief	believes the Workers' bodies were taken by the Soldiers and Bird tells her not to ask where
+erin solstice	ec58dd9c19	2.01	+	fact	hazel eyes, fair skin, light brown hair with slight orange tint, shorter than Ryoka
+erin solstice	e6ccc5233d	2.01	+	fact	sleeps on a bedroll in the kitchen
+erin solstice	7ca9132078	2.01	+	fact	worked as a waitress for two weeks and a chess referee
+erin solstice	43c6335403	2.01	+	fact	sent Toren to harvest blue fruits and water
+erin solstice	b7de7071cd	2.01	+	fact	has [Basic Cooking]; "random soup"
+erin solstice	7eb1f3783a	2.01	+	fact	menu has pasta with sausage and onions 3 cp, blue juice 2 cp, acid flies 1 s
+erin solstice	8ed223a833	2.01	+	fact	says she can say "check" and "checkmate" in many languages
+erin solstice	7ae64c677b	2.01	+	fact	uses an Android phone and plays chess on it
+erin solstice	b351cba7ae	2.01	+	fact	first non-European, non-furred, non-scaled face she has seen in this world is Ryoka's
+erin solstice	4e3fb8066c	2.01	+	fact	says half the inn is still damaged from the battle two days ago
+erin solstice	3e9e055123	2.01	+	fact	tells Ryoka the whole story from Goblins and acid flies to a dragon
+erin solstice	921b2e9349	2.01	!	event	learns Ryoka is from Earth after the iPhone mention
+erin solstice	38c365deef	2.01	+	fact	calls Calruz "bull guy" and similar nicknames
+erin solstice	8ed0bbc387	2.02	+	fact	[Alcohol Immunity] means she is not drunk
+erin solstice	9ce83371e1	2.02	+	fact	whispers "I'm not alone" before sleeping
+erin solstice	1e0b3500df	2.03	+	fact	knows Gazi, who helped her when they first met
+erin solstice	e724484cdd	2.03	+	fact	thinks Gazi has a "really sharp sword"
+erin solstice	437525b0ad	2.03	+	fact	says she fed Rags, gave her a sword and shield and made Pisces teach her magic
+erin solstice	a38626a3b7	2.03	~	belief	thinks it is the equivalent of Florida, given the climate
+erin solstice	972b58d307	2.04	+	fact	has [Dangersense]
+erin solstice	cc6716cc54	2.04	+	fact	carries two jars of acid taken from the inn
+erin solstice	8319424107	2.04	+	fact	sells acid to Goblins
+erin solstice	d17013d206	2.04	+	fact	ghoul hit by acid dissolves into a green puddle
+erin solstice	d1a52fcb94	2.04	+	fact	uses frying pans because [Bar Fighting] only works with bar or kitchen objects
+erin solstice	84f003cfb2	2.04	+	fact	has [Unerring Aim] and [Lesser Strength] and throws rocks to kill
+erin solstice	c8052ad1d3	2.04	+	fact	killed three zombies and one skeleton with the pan
+erin solstice	3e894b164f	2.04	+	fact	killed a Goblin Chieftain with boiling oil, and other Goblins, Shield Spiders and undead
+erin solstice	f9917a57f4	2.04	+	fact	she was twenty and took a gap year for chess and tuition
+erin solstice	3bca274d81	2.04	+	fact	became an [Innkeeper] by tidying the dusty inn
+erin solstice	795a553ac3	2.06	!	event	puts her finger through Gazi's eye
+erin solstice	7348a59219	2.06	+	fact	fairies speak to her and Ryoka; they say Ryoka is different and the "half-breed" lives
+erin solstice	06b00edd1b	2.07	~	belief	speak as if aware of being characters, mention "the author", chapters, crossovers, and picket signs; not story facts
+erin solstice	540d1194c8	2.07	+	fact	says she has been in this world nine months
+erin solstice	e37ee58766	2.08	+	fact	Pisces says 80 gold to enchant her cupboards
+erin solstice	dfd4a36c06	2.08	+	fact	ice cream: Ryoka explains custard method; Catherine de Medici legend
+erin solstice	93048cf64b	2.08	+	fact	becomes [Warrior] Level 2 and gains [Lesser Endurance]
+erin solstice	2391ab23ad	2.08	+	fact	[Unerring Aim] hits Pisces with a pillow
+erin solstice	dd64043458	2.10	+	fact	from Michigan, remarks on cold
+erin solstice	7579089c75	2.10	+	fact	had five blankets from Krshia
+erin solstice	32437339d5	2.10	+	fact	sends Toren for firewood
+erin solstice	c8634f0657	2.10	+	fact	gained [Warrior] Level 2; Selys proposes class comes with deliberate intent to fight
+erin solstice	c29a8acbe5	2.10	+	fact	tells Selys she reached Level 18 [Innkeeper]
+erin solstice	c9efa7a2ed	2.10	+	fact	has beaten Olesm first time and never lost to him
+erin solstice	4a8fded3c7	2.10	!	event	invites Ceria to stay at her inn free
+erin solstice	04c2df4395	2.10	+	fact	buys ground beef, cheese, mustard, bread, tomatoes, vinegar, eggs
+erin solstice	2fb6b5bbf2	2.11	+	fact	[Basic Crafting] cannot repair foundations
+erin solstice	95cde6e7ef	2.11	!	event	asks that the inn be rebuilt closer to Liscor; Klbkch agrees
+erin solstice	e3c6d89cae	2.11	!	event	promises the Frost Faeries they will be welcome as guests at the new inn
+erin solstice	ab80670f48	2.11	+	fact	has [Loud Voice]; Zevara shouts "HUMAN! SHUT UP!" from the wall
+erin solstice	fd463dfb21	2.11	!	state	[Innkeeper Level 19!]
+erin solstice	7ba8689e14	2.11	~	belief	feels the new inn cannot be finished until Toren returns
+erin solstice	92fa63ef1b	2.13	+	fact	places wooden arrow signs on hilltops to guide Toren
+erin solstice	6faaeb0112	2.13	+	fact	sells hamburgers from a brazier outside Krshia's stall; her [Basic Cooking] skill makes it near-automatic
+erin solstice	eb9a54c7a7	2.13	+	fact	sold perhaps six to eight hundred burgers; coins hidden under a floorboard installed by Pawn
+erin solstice	d515e497c6	2.13	+	fact	has [Unerring Aim]
+erin solstice	4820d71c4f	S01_Mating_Rituals	+	fact	locked Toren in the inn before going
+erin solstice	51af97a09f	S01_Mating_Rituals	+	fact	about 2,000 Elo; had online partner mysterio_Gamer12 who proved to be a Polish girl
+erin solstice	7aeea2d525	S01_Mating_Rituals	!	event	admits she has never had sex
+erin solstice	13af7e86e6	S01_Mating_Rituals	+	fact	makes blue fruit juice
+erin solstice	5ea6d56a99	2.15	+	fact	sold over four hundred hamburgers the day before
+erin solstice	856297f9ca	2.15	!	event	receives a plain smooth Afzelia chessboard with no pieces
+erin solstice	49cd9ac265	2.15	+	fact	puzzle solved in four moves; Olesm struggled over a week
+erin solstice	93f199b564	2.16	!	event	sings on the inn roof through the amplified iPhone and draws a huge crowd from Liscor
+erin solstice	b65c491093	2.16	+	fact	is heard by Frost Faeries who dance overhead and throw a mug at Relc
+erin solstice	e9e2f960eb	2.16	!	state	[Innkeeper Level 20!] [Innkeeper Level 21!] [Skill – Advanced Cooking Obtained!] [Skill – Advanced Crafting Obtained!] [Singer Class Obtained!] [Singer Level 6!] [Skill – Perfect Recall Obtained!] [Skill – Control Pitch Obtained!]
+erin solstice	816779badf	2.17	+	fact	has jars of coins from the concert night; Krshia supplied goods
+erin solstice	d77448bb94	2.17	+	fact	immune to alcohol, so no hangover
+erin solstice	3568cc4959	2.17	+	fact	[Perfect Recall] and [Control Pitch] work; she can recall any lyric and sing perfectly
+erin solstice	13e27b672c	2.17	+	fact	opens against the board with Alekhine's Defence replies and plays seriously for the first time in this world; trades several games
+erin solstice	b19eb0de3f	2.17	+	fact	has played more games in a year than Olesm in his life; once played a hundred Workers at once and an Immortal Game
+erin solstice	2260d65280	2.01G	+	fact	asks what happened to Toren's eyes; gives Rags a hamburger
+erin solstice	f0e6964a03	2.18	+	fact	[Advanced Cooking] makes french fries quickly
+erin solstice	08171d5554	2.18	!	event	charges Ceria for staying (Ceria's bra) so she counts as a guest and the faeries stop
+erin solstice	96ca879118	2.18	+	fact	tells Klbkch forced chess will not make individuals; Pawn's name came from her asking
+erin solstice	fc5809436c	2.19	+	fact	are afraid of the faeries; Pisces dug Erin out of an earlier avalanche and has avoided the inn when faeries are near
+erin solstice	ed71beeadb	2.19	!	event	touches a faerie; the cold stops and her skin feels like fluid ice, something immortal
+erin solstice	3fb9631fe5	2.19	+	fact	recalls childhood belief in faeries and magic
+erin solstice	42ac405f93	2.19	!	event	makes a ritual faerie feast with first milk from a cow, moonlit sugar and snow, virgin-churned butter, flowers, mushrooms, Shield Spider venom, rum and mead
+erin solstice	bf6806efd8	2.19	!	state	[Innkeeper Level 25!] [Skill – Inn's Aura Obtained!] [Skill – Magical Cooking Learned.]
+erin solstice	36b19fb495	2.20	+	fact	[Perfect Recall] covers songs, lyrics and quotes but not books
+erin solstice	4eec282d93	2.20	+	fact	believes she got only four levels and two skills from the feast, which she names [Inn's Aura] and [Wondrous Fare]
+erin solstice	8f9ecc7a94	2.20	!	event	tells Ceria she and Ryoka come from another world
+erin solstice	a4e2b13fe3	2.20	!	event	rushes out with a coat to save the exile because no one deserves to die in the cold
+erin solstice	2da4098df1	2.01T	!	event	introduces the exiled thief as her new employee, whom Toren must teach cleaning
+erin solstice	653952bd67	2.21	!	event	offers Lyonette the choice of a job at the inn (room, board, some coin) or a coat and five days' food and the road; Lyonette takes it "under duress"
+erin solstice	b9172f07dd	2.21	+	fact	calls her "Lyon", Lyonette demands her full name
+erin solstice	638df1fb6a	2.21	+	fact	has [Loud Voice]; shouts "WAKE UP" in Lyonette's ear to rouse her
+erin solstice	2c8c369d4a	2.21	+	fact	cooks spaghetti and meatballs with [Advanced Cooking]
+erin solstice	f0b4d65f58	2.21	+	fact	asks to see Lyonette's injuries; Lyonette refuses to undress and claims her noble word
+erin solstice	a8605c1dbf	2.21	+	fact	cut off from Gnoll shops after hiring Lyonette
+erin solstice	4230602f9c	2.21	+	fact	punches Lyonette when she attacks, has [Dangersense], slaps her, and leaves her sobbing
+erin solstice	4b94f183b8	2.21	+	fact	speech to the snow that she will not let someone die if she can help it; the snow pauses
+erin solstice	68127c47fe	2.21	+	fact	uses [Power Strike] to kick Brunkr in the groin; tells the Gnolls they are trespassing
+erin solstice	3960b6c8ff	2.22	+	fact	[Power Strike] works only once per use, so repeated attempts hit weakly; Erin has [Lesser Strength]
+erin solstice	59827340ba	2.22	!	event	[Skill Change – Power Strike → Minotaur Punch!] and [Skill – Minotaur Punch Obtained!], learned while shouting that a Minotaur taught her
+erin solstice	adf68b0f0e	2.22	+	fact	learned to punch from Calruz, a Minotaur
+erin solstice	6d5b96fccd	2.22	!	event	shouts "Everybody stop!" and a heavy aura presses the hilltop; Jelaqua guesses it is a skill aura effect
+erin solstice	8ecc44c05e	2.22	+	fact	calls Moore "Hodor"
+erin solstice	7e297b62f3	2.26	+	fact	first customers who are not friends; Drakes, Gnolls and some Humans visit
+erin solstice	03e5e3de94	2.26	+	fact	faerie flowers turn into a real-seeming gold coin when plucked and named "gold"; it reverts to a flower after a day; it feels real to Ceria
+erin solstice	a9799ec1cb	2.26	+	fact	refuses to use the coins to buy things as that would be theft
+erin solstice	9dad098129	2.26	+	fact	suspects the flowers contain illusions of what drinkers want
+erin solstice	056be69eea	2.26	+	fact	[Wondrous Fare] skill suggested the drink
+erin solstice	a0c8ef6c0b	2.26	+	fact	tells Pawn and Halrac the story of Moses, then Christian beliefs
+erin solstice	4fe9b4affa	2.00H	+	fact	offered Ceria a place to live as long as she wants
+erin solstice	8a04af2216	2.00H	+	rel	serves hamburgers and pizza; wants maple syrup
+erin solstice	5de6203d23	2.27	+	fact	Skill [Inn's Aura], felt as heaviness; she drove off nine Goblins by shouting
+erin solstice	e1434b3b9b	2.27	+	fact	borrows out much of her gold to the Horns
+erin solstice	5b8f3bf4be	2.27	+	fact	has two levels in [Warrior]
+erin solstice	ac210c1035	2.30	+	fact	unaffected because she faced Skinner
+erin solstice	793f20bd30	2.30	+	fact	has seen a Van Gogh and a Rodin in hotels on Earth and travelled to chess tournaments
+erin solstice	17e86b565b	2.30	+	fact	is 20 years old
+erin solstice	6995daa0ba	2.30	+	fact	carries a "magical" chessboard
+erin solstice	6efdfb50bf	2.30	+	fact	says Ryoka has no levels or classes, was going to earn eight hundred gold, and was chased by Frost Faeries
+erin solstice	dd57404654	2.30	+	fact	ran into a Dragon the first night and then Goblins; tells Imani she understands
+erin solstice	43e7a33427	2.30	+	fact	says she has been here three or four months, "feels like two years"
+erin solstice	28d5ecac3d	2.31	+	fact	remembers the Dragon's blue and violet eyes the first night; says the same overwhelming presence is what triggers her [Immortal Moment]
+erin solstice	9d56821c0f	2.31	+	fact	the pressure to say yes while she weighs the offer is broken by an [Immortal Moment]-style stretch of time and then by biting her tongue
+erin solstice	1dbbd2340d	2.31	+	fact	[Dangersense] rings when Ressa stares at her
+erin solstice	7f5705f6ed	2.31	!	event	kicks over the table; Ressa catches the teapot, is scalded, and nearly attacks Erin before Magnolia says "Stop"
+erin solstice	f9213d3fa7	2.31	+	fact	has [Bar Fighting] and [Minotaur Punch]; also [Immortal Moment] and [Wondrous Fare]
+erin solstice	a88e72b567	2.31	+	fact	wins the second game with Magnolia reading her intentions; checkmate
+erin solstice	4983cc0f93	2.31	+	fact	history: loved chess, then hated it, then loved it again; thinks of it as a god who blesses and curses
+erin solstice	73d6c81ce1	2.31	+	fact	wants to protect the people around her, find a way home, and live in peace
+erin solstice	44f0796ed6	2.32	+	fact	feels [Dangersense] tingle when the Hobgoblin enters
+erin solstice	cf0d4ed9ab	2.32	+	fact	a pressure Skill makes the air in the inn heavy while she stares down Relc
+erin solstice	e548e494cc	2.32	+	fact	orders Relc out of her inn; Klbkch says the [Innkeeper]'s word is law
+erin solstice	37326d26bc	2.32	+	fact	calls Relc the first person she met who did not try to kill her
+erin solstice	39a5cf26c9	2.32	+	fact	uses [Minotaur Punch] and sends Ryoka over a table
+erin solstice	02d47aa5a0	2.32	!	event	ejects Relc from the inn
+erin solstice	d05b8227d0	2.32	~	belief	says Magnolia "is on our side"
+erin solstice	918090a311	2.33	+	fact	cooks crepes using [Advanced Cooking]
+erin solstice	d579e06bc2	2.33	+	fact	hums the doe-rei-mi song to Mrsha
+erin solstice	82544a8fa9	2.33	+	fact	cannot buy from Gnoll shopkeepers because of Lyonette and has not spoken to Krshia since
+erin solstice	ab82cb00cd	2.33	+	fact	faerie flowers mixed with alcohol make a drink that grants happy memories
+erin solstice	9f5759999c	2.33	+	fact	names the Skill [Wondrous Fare]
+erin solstice	cd9832219e	2.34	+	fact	has [Advanced Cooking], rarer than [Basic Cooking] among Liscor [Cooks] and [Innkeepers]
+erin solstice	871fca0005	2.35	+	fact	has [Advanced Crafting]
+erin solstice	cddfaf623d	2.35	+	fact	builds a six-foot sledge on skis with a leather harness and bells for Toren
+erin solstice	dd99a78ce3	2.35	!	event	starts a Liscor sledding trend with Toren as the lift
+erin solstice	152774e4a2	2.36	+	fact	cooks giant bees with [Advanced Cooking] for the Antinium
+erin solstice	cbcc8c07e2	2.36	+	fact	ghostly chess opponent replies within an hour
+erin solstice	8242cd92fd	2.36	+	fact	[Innkeeper Level 26!]
+erin solstice	8fd00d28bb	2.36	!	state	wakes lost far north, alone, near a decapitated wolf
+erin solstice	8d2c943cf3	2.37	+	fact	stranded in snowfields north of the High Passes after Toren leaves, and sings ad-lib songs about it
+erin solstice	f32512780b	2.37	+	fact	scares a hibernating grizzly away with [Loud Voice] and a scream
+erin solstice	d64543e728	2.37	+	fact	paid a gold coin at the gate and calls the Wandering Inn a joke about wandering
+erin solstice	9ea2b70bed	2.37	+	fact	beats the three muggers with [Minotaur Punch], [Lesser Strength], a thumb break and a thrown dead bee with [Unerring Throw]
+erin solstice	07e0ebda7c	2.37	+	fact	says Calruz taught her to fight armed opponents
+erin solstice	b0520b45da	2.37	+	fact	has only two levels in [Warrior]
+erin solstice	14b3f108ed	2.37	+	fact	forgives Grev and spares him a whipping
+erin solstice	b1ff144fcc	2.37	+	fact	asks whether potions make food or alcohol magical, mentions faerie flowers
+erin solstice	e8486b480a	2.37	!	state	reaches Celum alone with jars of honey and bees
+erin solstice	8c6adc3add	2.39	+	fact	seen alive via Teriarch's scrying image, talking with Octavia in Celum
+erin solstice	c8385e988e	2.40	+	fact	arrived with a jar of bees and two jars of honey, paid Octavia for lab use
+erin solstice	6fa39bd623	2.40	+	fact	recipe uses cold carrots with gelatin, wheat flour, washed powdered horn, thyme
+erin solstice	b518b8029d	2.40	+	fact	soup keeps the drinker warm; Ryoka runs barefoot in snow
+erin solstice	e840ef8b79	2.40	+	fact	skills [Wondrous Fare] and [Advanced Cooking]; [Dangersense]
+erin solstice	0cfc938bd5	2.40	+	fact	refuses Octavia the recipe, "not part of the deal"
+erin solstice	74e4d72548	2.40	+	fact	cooks burgers and fries at the inn; punches adventurer "Brilliant Swords of Celum"
+erin solstice	8863e03738	2.40	~	belief	thinks Toren abandoned her on purpose; may need to destroy him or ask Pisces
+erin solstice	deb0ed858c	3.03	+	fact	bribes the faeries with a crepe
+erin solstice	d94db0619e	3.03	!	event	banned from Celum's Adventurer's Guild after Erin's "table flip attack"
+erin solstice	8da6a013a1	3.04	+	fact	made Octavia sick with a failed recipe
+erin solstice	82da4b2dd3	3.09	+	fact	experiment with cooking and potions in Octavia's kitchen; Erin has made mana soup, which Octavia says is a mana potion that is more edible
+erin solstice	fb022dd95b	3.15	+	fact	has [Advanced Cooking] and [Wondrous Fare], which makes alchemical dishes work only when she stirs; Agnes copying the Corusdeer soup fails
+erin solstice	e08eb1c259	3.15	+	fact	creates a Thickskin-effect soup (blue, minty, with Stonelizard scales, lemon juice and fish) after about a hundred tries; Octavia's pin bends against her arm
+erin solstice	54496a312b	3.15	+	fact	also made strength stew and Corusdeer soup; plans to make a dish from the same ingredients
+erin solstice	3998493589	3.15	+	fact	reaches [Innkeeper] Level 27
+erin solstice	de901cb0f0	3.15	+	fact	has been in Celum nearly a week; Ryoka paid Octavia to help her
+erin solstice	2262f73fa5	3.15	+	fact	wants to match higher-level innkeepers and gain a unique inn through magical dishes
+erin solstice	430a3abfc8	3.15	!	event	hires Jasi as a [Barmaid] at the Frenzied Hare and houses Jasi and Grev at the inn
+erin solstice	9d598de813	Interlude_Two_Rats	!	state	Level 39 Magical Innkeeper
+erin solstice	e0f0ac6412	6.49	+	fact	uses [Loud Voice] to cheer "We won!" and makes Mrsha do a cartwheel, calming the crowd; she turns off [Immunity: Alcohol] to drink at the party
+erin solstice	c2a0ee6082	6.49	!	event	granted Liscor citizenship; Numbtongue offered a provisional entry permit
+erin solstice	334d3cbd13	6.50I	+	fact	pays the Council's tax in gold and receives discounts, including one for helping the Esthelm talks; she wants ice cream cones in the diet
+erin solstice	0895ea898b	6.52K	+	fact	has her hair cut by a Gnoll [Barber] and says she and Teliv signed a deal in Esthelm for ore and visitors
+erin solstice	4022439d7b	6.52K	!	event	recognizes Canada as a surname from her own world and asks if she can message the reporter
+erin solstice	fcb9e3e61e	6.56	+	fact	staged a fake-blood (tomato sauce) scare for Mrsha; the white Gnoll cub rated it six out of ten; Gnolls smell breath and sauce
+erin solstice	15f98925c2	6.56	+	fact	invented the haunted house because Temile wanted more plays and she is out of new foods; avoids magical foods to keep life calm
+erin solstice	8c18220cc5	6.56	+	fact	sells carrot cake for eight silver, four extra for frosting; ingredients cost four to six silver; Hawk orders one iced with the name Asheli
+erin solstice	85ffd8dc42	6.56	+	fact	mentions a boyfriend once at home; Lyonette, Relc, Ceria, Drassi and Ishkr turn to look
+erin solstice	b33fb4f861	6.56	+	fact	told them The Lorax; Gnolls understood the conservation message, Drakes suggested replanting
+erin solstice	c390275fb9	6.56	+	fact	wants the door to Invrisil to find Ryoka
+erin solstice	9d2094aea8	6.56	!	event	Selys takes Pisces shopping; Erin, Ceria and Drassi suspect a date
+erin solstice	8c38a01ed3	6.58	+	fact	has rice via Lasica and Rufelt, who got it from Oteslia, and makes curry using her [Advanced Cooking]
+erin solstice	23b0d4fdf7	6.58	+	fact	slams Isceil's face into curry, hits Beza with the pot and uses [Minotaur Punch], which Beza calls an imitation
+erin solstice	cc49b43be2	6.58	!	event	learns Wistram has other Earthworlders and can take her home, but refuses to leave her family
+erin solstice	9d876fb5f0	6.61L	+	fact	refuses to give Grimalkin Earth ideas (monkey bars, burpees) unless needed; owes Seborn and Moore for being hurt; says she is banned from the Liscor playground
+erin solstice	175ef123a2	6.61L	+	fact	names the price of two thousand gold for a single golden-flower bulb after Palt senses a [Smoker] aspect in the yellow flowers in her window boxes
+erin solstice	b828695f71	6.61L	!	event	names the golden flowers a likely dangerous item and refuses to sell them
+erin solstice	6b8dbedae6	6.64	+	fact	punches an Ensoldier Shields adventurer, Walt's team, who slapped her bottom while she handed out cookies; the team is banned from her inn
+erin solstice	e73db9ecf2	6.64	+	fact	agrees to ask Palt to speak to his faction, but will not give guns; Palt promises an answer within two days
+erin solstice	9ded626cc1	6.64	!	event	agrees to explore an alliance with the Ullsinoi faction
+erin solstice	2da1268739	6.65	+	rel	serves saffron rice with eggs and sausage at breakfast; Ksmvr loves rice and warns that meat carries worm eggs
+erin solstice	ea1d3139aa	6.65	+	fact	her [Dangersense] fires louder than at the moths or Skinner; she warns the inn, sends Drassi to Pallass, and Kel raises the alarm
+erin solstice	7f2fa60e21	6.65	+	fact	opens her door on the Bloodfields and the workers rush in with Crelers behind them; the inn is overrun
+erin solstice	0580dea225	6.65	+	fact	uses [Inn's Aura] to slow the Crelers, bursting blood vessels in her nose and eye; Antinium under Yellow Splatters and Anand strike up from the basement
+erin solstice	956dbd3348	6.67	+	fact	sleeps in the wrecked inn; her [Partial Reconstruction] cannot fix the floors, and she fantasizes a level-up message
+erin solstice	21cb78c679	6.67	~	belief	imagines the notifications [Magical Innkeeper Level 40], [Awesome Innkeeper] and [Kamehameha Punch], then hears nothing
+erin solstice	8ed12742a1	6.68	+	fact	fights Toren with [Minotaur Punch], acid jars, Pelt's knife and a Relc kick
+erin solstice	682e2cdfe8	6.68	+	fact	golden ring marked Salazs..., taken by Toren and then returned to her pocket
+erin solstice	e26eb4f5ca	6.68	~	belief	says the dead of Esthelm and Numbtongue's friends are all because of Toren
+erin solstice	d10d98162c	6.68	!	state	killed by Toren and instantly revived; reaches [Magical Innkeeper Level 40], gains Skills Inn: Garden of Sanctuary and Like Fire, Memory
+erin solstice	da1c88f806	7.00	+	fact	calls a small blue-cored flame in her palm that she blows out, and senses home to the north
+erin solstice	cb134d4eb4	7.01	+	fact	spent the two-week holiday camping by a stream, a [Magical Innkeeper] from Michigan, with a magic bag and a Pallass Hunting-supplied kit
+erin solstice	578404ea0d	7.01	+	fact	uses an Octavia potion for periods, and says her [Lesser Strength] and [Unerring Aim] Skills exist; her knife is the one Pelt made
+erin solstice	230336ef5e	7.01	+	fact	her new Skill [Like Fire, Memory] needs a vivid memory; Toren's death makes a blue flame with a sapphire core she cannot feel as heat
+erin solstice	5eaa50d31d	7.01	+	fact	returns the knife and apologizes; the knife has a tiny crack Maughin ground off, but Pelt calls it flawed
+erin solstice	3f0699594e	7.01	+	fact	her blue flame grows large in the forge; it makes Emessa, Maughin, Flintel, Bealt and passers-by weep with her grief; to Pelt it feels cold
+erin solstice	312d77ee37	7.01	!	event	arrested by Pallass City Watch for "mass mental alteration" via her Skill
+erin solstice	45f8b6868a	7.01	!	event	now knows her Skill can project emotion into fire and others share it
+erin solstice	1b00b05077	7.02	+	fact	held in Pallass Watch House on the 8th floor, then moved to the 3rd-floor prison for "mass-effect Skill in public", resisting arrest, public disturbance and nuisance and disruption of industry; over four hundred complaints were fi
+erin solstice	866402d3de	7.02	+	fact	[Like Fire, Memory] cold blue flame sticks to wood, can be smothered by stomping, extinguished by water (which then freezes) or a clear bottle of liquid, and burns as an emotional aura
+erin solstice	3f594fee43	7.02	+	fact	sees a happy memory and makes a small purple flame fading to pink; Saliss takes it on a torch and runs off, his towel falling
+erin solstice	ebffa874a0	7.02	!	event	sees her Skill make a happy flame for the first time
+erin solstice	58adfb2a82	7.03	+	fact	pushes Rufelt and Lasica into a house, a dead Wyvern collapses it, and they flee to Tails and Scales on the 5th floor; the Flying Gnoll Felkhr uses [Improved Featherfall] to save her
+erin solstice	0cd079f2d9	7.03	+	fact	throws Pelt's knife into a Wyvern's neck, then makes Molotov cocktails from spirits and cooking oil, which help drive off a Wyvern
+erin solstice	f08838577f	7.03	!	event	appears on the world's scrying mirrors defending Bird; Flos, Gazi, Niers, Az'kerash, Venitra, Wistram, the Blighted King, the Antinium queens and Magnolia all react
+erin solstice	9980e79e46	Story_2_Tersk_and_Dekass	+	fact	does not drink and hates ale; her idea of bartending is Drassi filling mugs
+erin solstice	b9e7130737	7.04	+	fact	uses a new Skill-effect to weigh the room down and quiet Bird; she is fatigued afterwards
+erin solstice	4607dd83ae	7.04	+	fact	[Garden of Sanctuary] does not work anywhere she tries; she can make magical fire
+erin solstice	dcceb9c509	7.04	+	fact	places black stones across the Go board, spelling a message, "who r u?"
+erin solstice	f26390235d	7.04	!	state	returns home to the rebuilt inn
+erin solstice	91c0c5fe2d	7.04	!	event	sends the first message to her unseen Go and chess opponent
+erin solstice	a584a370f4	Interlude_Queens_and_Dragons	+	fact	toasts with apple juice; has [Immunity: Alcohol] and [Partial Restoration], which fixes Relc's mug
+erin solstice	4c983cd76e	Interlude_Queens_and_Dragons	+	fact	proposes six-way chess, Shogi and Tafl to the unseen opponent
+erin solstice	c460ae2abf	Interlude_Queens_and_Dragons	!	event	begins correspondence and an ongoing game with her anonymous opponent
+erin solstice	6502c18b46	7.05P	+	fact	feels something odd about her door at night; sets the dial to the unused red stone setting of the Cave Goblin cave; nothing happens
+erin solstice	48f788ab50	7.06	+	fact	promises Palt plays from Celum and information about Earth; there are at least two dozen Earth people in Wistram
+erin solstice	5b59eb0101	7.06	+	fact	bakes a vanilla cake with colored frosting illustrating the inn using baking powder and [Advanced Cooking]
+erin solstice	ae5a11abc2	7.07	+	fact	senses Mrsha is "in my inn, just not here", tests by having Palt, Montressa and Grimalkin go invisible and correctly locating Palt and Montressa and that Grimalkin is outside; says she could not do this at Level 20
+erin solstice	7ef1daaf29	7.07	+	fact	the hilltop holds statues of her dead: Brunkr eating cake, the chess-club Workers (Bishop, Emanuel, Milner-Barry), Ulrien, Zel Shivertail, a Horns of Hammerad table of adventurers with two gaps, their absent leader and Ceria (L453
+erin solstice	ced355aa07	7.07	!	state	learns [Garden of Sanctuary] holds statues of the dead, a memorial of her guilt and memory
+erin solstice	64a826cdd6	7.11	+	fact	Level 40; her aura slows both men and later weighs them down; [Immunity: Alcohol] lets her outdrink Wailant
+erin solstice	d7a203a21e	7.11	!	event	recognises cacao and says "Chocolate"
+erin solstice	e555d10d5d	Interlude_Chocolate_Gold	+	fact	declares "Let's make chocolate" but has only seen shows about it; relies on [Advanced Cooking]
+erin solstice	d13aedd4b9	Interlude_Chocolate_Gold	~	belief	believes Pelt-made knife and her memory of chocolate shows will work; she was wrong about beans
+erin solstice	2148d69e67	Interlude_Chocolate_Gold	!	event	ceases making chocolate herself; Lasica takes over by hiring the Gnoll [Fermenter]
+erin solstice	38446bb96b	Interlude_Chess_and_Ships	+	fact	plays chess and Go on two magical boards each day; she is a bit better than her unknown opponent, who improves faster
+erin solstice	d9b377d445-0	Interlude_Chess_and_Ships	+	fact	converse by spelling words with go stones in shorthand ("gg", "gd victry"); play speed-chess with 5 seconds per move
+erin solstice	5cd8603cba	Interlude_Chess_and_Ships	+	fact	opens with the Dutch Attack (Bird's Opening); loses game 1, draws game 2; suggests hexagonal chess; opponent says they once were an adventurer and met Crelers, with friends lost
+erin solstice	32127e81a1	Interlude_Chocolate_Alchemy	+	fact	says "chocolate" repeatedly to avoid unwanted requests; likes dark chocolate; says she never cooked before coming here
+erin solstice	e6bcf9cb0a	Interlude_Chocolate_Alchemy	+	fact	banned from Liscor's playgrounds after leading children in a siege against adults
+erin solstice	d6a209943c	Interlude_Chocolate_Alchemy	+	fact	uses her inn-sense to locate people in the garden
+erin solstice	ebc695bc50	Interlude_Chocolate_Alchemy	!	event	decides she likes Saliss and wants to be best friends
+erin solstice	bff2ef2aaf	Interlude_Burning_Alcohol	+	fact	pays Wailant 600 gold in stacks of 25 for the Sage's Grass contract; Viceria signs and the magically binding contract is destroyed
+erin solstice	efc572c1dd	Interlude_Burning_Alcohol	+	fact	took the gold from the Halfseekers (Seborn said they owed it to Numbtongue) and sends Maughin a chocolate cake with a jam heart for Jelaqua
+erin solstice	732c628143	Interlude_Burning_Alcohol	+	fact	shows Mrsha an emergency stash in the arid section of the Garden under the acacia: a box and a small locked metal box with an invisibility potion, speed potion, healing potions and explosive tripvine bags
+erin solstice	1cf4e7a99b	Interlude_Burning_Alcohol	+	fact	plays the magical chess game with an opponent who types "brd" and "hv mch wrk"
+erin solstice	49a8f44a7e	Interlude_Burning_Alcohol	+	fact	tests that she can cross from her room through the Garden and appear in the kitchen behind Palt in six seconds
+erin solstice	39e5ac739d	Interlude_Burning_Alcohol	+	fact	listens from the Garden door left ajar while Montressa and Beza talk in the private room; the door has iron bands unlike anything else in the inn
+erin solstice	b2fd0a592a	Interlude_Burning_Alcohol	+	fact	[Like Fire, Memory] is the only flame she can summon at will, a blue sadness fire; it is cold and weak as an attack
+erin solstice	d79ff8a3cb	Interlude_Burning_Alcohol	+	fact	invents a cooling lantern with [Advanced Crafting] and Lyonette's [Flawless Attempt], and makes ice cubes by freezing water in the oven with the blue fire
+erin solstice	3eceb86b5d	Interlude_Burning_Alcohol	+	fact	plans to rent out the three new second-floor rooms to staff, Temile and some players, and guests
+erin solstice	becdf751e1	Interlude_Burning_Alcohol	+	fact	reconciles with the Wistram mages by offering Palt, Montressa and Beza rooms at the inn, charged, with three meals
+erin solstice	95578d3a11	Interlude_Burning_Alcohol	+	fact	has Montressa message Falene Skystrall and Ceria or Pisces that Ryoka is in Reizmelt north of Invrisil; the Silver Swords acknowledge and Ceria replies they are nearly at Invrisil
+erin solstice	5849642685	Interlude_Burning_Alcohol	+	fact	casts a pink glory flame into the inn's fireplaces; the light lengthens shadows and Zevara flinches and whispers "Skinner"
+erin solstice	9fd23a0912	Interlude_Burning_Alcohol	+	fact	mixes Firebreath Whiskey, faerie flower nectar and Mrsha's faerie flower, burning it with the glory fire; Relc drinks it and toasts 4th Company, "Skywalker's Company", with Embria's company standing
+erin solstice	e6ee927f3f	Interlude_Burning_Alcohol	!	event	forgives Calruz without excusing him and tells him not to forget the glory
+erin solstice	ab5bed1678	Interlude_Burning_Alcohol	!	event	gets drunk on purpose without her Skill for the first time
+erin solstice	c379ce2c38	Interlude_Burning_Alcohol	!	state	reaches [Magical Innkeeper Level 41!] and obtains [Skill - Inn: Twofold Rest]
+erin solstice	6085e95060	Interlude_The_Hangover_After	+	fact	wakes on the floor and ends up in bed; [Twofold Rest] gives her twice as much sleep in the same time and lets her recover from drinking
+erin solstice	127d095b53	Mating_Rituals_Pt.2	+	fact	has her period; Lyonette fetches her cloth pad; Erin explains Human eggs and the potion-based alternatives to Lyonette, and the regulars complain
+erin solstice	15011a5287	Mating_Rituals_Pt.2	+	fact	has the ability to push the mood in the inn; the pink flame is kept in the same concealed lantern that held the blue flame
+erin solstice	0c52a84c67	Mating_Rituals_Pt.2	+	fact	uses an anger-fueled aura that freezes the room
+erin solstice	831954886e	Mating_Rituals_Pt.2	+	fact	tries to masturbate in the tropical section of the Garden of Sanctuary behind sheets, fails and feels lonely; two prior intimate experiences short of sex
+erin solstice	f1e99b5c4c	7.17S	+	fact	counts cards and wins at poker; Palt, Montressa and Beza and Bird refuse to play again; Erin won two birds from Bird
+erin solstice	9308533258	7.19	+	fact	reads a Pallassian Times; plans to brew alcohol, switches to making a food gift for Pelt after Xrn's visit; has the Skill [Field of Preservation]
+erin solstice	fac94df64e	7.19	+	fact	agrees to Antinium rooms (Pawn and at least a dozen, paid in advance, doubling or tripling up), patrols and meals, but refuses to make them weapons
+erin solstice	86fcf2c095	7.19	+	fact	brings Pelt a "Meat Supreme Sub"; Pelt admits it was good and says her shame made him remember his craft; Erin hints Liscor has forges, cheap alcohol and room, and Pelt shows interest
+erin solstice	700d8163c3	7.20	+	fact	opens the Invrisil door; Lady Magnolia, Pryde and Wuvren pass through with Ressa, Reynold, and the [Druid] Nalthaliarstrelous
+erin solstice	69a8295119	7.20	+	fact	attacks Magnolia with [Minotaur Punch]; Ressa blocks; Erin says "I hate you" and Magnolia accepts it
+erin solstice	008fb785fa	7.20	+	fact	receives letters from Oteslia and Manus offering free week stays; Grimalkin suspects a [Tourist] class
+erin solstice	6de764fbb6	7.20	!	event	Erin says she hates her, Magnolia says she should not be forgiven
+erin solstice	c9a13c484d	Interlude_A_Night_in_the_Inn	+	fact	arrives exhausted and downcast after losing to Magnolia; Pisces props his chair up and orders pasta and blue juice, restoring her cheer
+erin solstice	5aff6c9a9f	Interlude_A_Night_in_the_Inn	+	fact	invisible black "Hatred" flame bursts when Maviola throws whiskey; it spreads to Lyonette, Mrsha, Wailant and others, and Erin pulls it back into herself
+erin solstice	5856b5f198	Interlude_A_Night_in_the_Inn	+	fact	walks through Pallass burning, Kel opens the portcullis, heads to Pelt for a weapon
+erin solstice	721a5d3535	Interlude_A_Night_in_the_Inn	+	fact	asks Saliss whether he can make something from flowers for a price, and later gives him a flower
+erin solstice	fb88b6777c	Interlude_A_Night_in_the_Inn	!	event	expresses and then discards open hatred
+erin solstice	73525ebc56	7.23LM	+	fact	Level 41 [Innkeeper]; Lyonette Level 19 [Princess]; they practice auras
+erin solstice	f5447c7fd1	7.23LM	!	event	manifests her aura for the first time, shoving Pryde back
+erin solstice	69682b88d3	7.25	+	fact	arrives in Celum with Wailant, Relc, Pisces, Embria's 4th Company, adventurers, Zevara, Olesm and Maviola; Liscor's Council voted 6-2 to help
+erin solstice	6f00034bd7	7.26	+	fact	her inn blocks Teriarch from the Garden of Sanctuary until she invites him in
+erin solstice	f088c4daf4	7.26	+	fact	reaches [Magical Innkeeper] Level 43 and screams "Who was he!?"
+erin solstice	d42dac01a8	7.26	!	event	Wistram nearly learns of the Earthers through the soccer broadcast; Palt's advert diverts them
+erin solstice	73ec65ecaa	7.27	+	fact	scribbles a note calling the King of Destruction and Gazi jerks; Flos laughs and jokes he will move Liscor to the top of his list
+erin solstice	fb0c1ba08d	7.27	+	fact	levelled twice when Eldavin visited and holds a mithril coin carrying a word that nearly killed Pelt
+erin solstice	4031c10c1d	7.27	!	state	levels because of Eldavin; she suspects a link and tests him with her coin
+erin solstice	7bac8c80fc	Interlude_The_Gecko_of_Illusions	+	fact	banned smoking indoors, and says she could summon Grimalkin or Chaldion by shouting through the door
+erin solstice	b7c6fdd4a7	Interlude_The_Gecko_of_Illusions	+	fact	tells Relc the scheme is fake and says he cannot enter the inn if he keeps selling it; he leaves, saying "I'll make it right"
+erin solstice	12fa38e1c5	7.28	+	fact	is shocked and embarrassed by the news, objects to casual sex, and says she cannot see herself with Relc; Ryoka suspects Erin has little experience
+erin solstice	c88364835d	7.28	+	rel	serves bibimbap Ryoka designed; Palt arranges it; other cooks steal the dish; it is called "bees-in-pots" by a Gnoll
+erin solstice	cbca53ae1f	7.28	+	fact	plans to help Ryoka's Summer Solstice fae party at Riverfarm; her birthday is near the solstice and she is unsure how the calendar lines up
+erin solstice	c9985b1041	7.28	+	fact	with Palt, Numbtongue, Octavia and Mrsha, makes a theme-based dish for [Wondrous Fare]; a darkness theme using Lurkersnatch ink, onyx and charcoal fails with vinegar and baking soda and creates a dark cloud for hours
+erin solstice	bbc49f432f	7.28	+	fact	learns her Skill needs a theme and says the recipe would have lasted three hours if it worked
+erin solstice	bb46ac52c0	7.30	+	fact	decorates the Pallass-side checkpoint room with posters (No Killing Goblins), plants, chairs and the Liscorian Gazette; brings cookies and salsa via Ishkr
+erin solstice	7d893f29e2	7.30	+	fact	favourite Peanuts characters were Peppermint Patty and Marcie; fears she is thoughtless like Patty
+erin solstice	5f8329a7d6	7.31	!	event	leads Numbtongue, Palt, Montressa, Beza, Bird, Rose Knights, Pelt, Grimalkin, Relc, Keldrass, Jelaqua, Moore and others to rescue the [Lords] from the mob under a white flag
+erin solstice	9c77fce88e	7.31	!	event	ring glows and spells SALAZSAR; Grimalkin sees it
+erin solstice	1cde02c31b	7.31	!	state	[Magical Innkeeper] level 44, Skill Inn: Compartments of Holding, and a Warrior to Bannerlady class change offer
+erin solstice	5e3cbd0eb3	7.32D	!	event	poses as Joseph in a [Message] chat with Geneva, lies about being 19 and from Spain, then admits there are other Earthers
+erin solstice	056f38b1f3	7.32D	+	fact	penicillin; Erin offers to cover shipping and give it to Geneva free
+erin solstice	ce224c0097	7.37	+	fact	found "the second person" of three for Ryoka; says Maviola El can't make it far
+erin solstice	1ee407ab84	7.38	+	fact	boils clams gifted by Lord Toldos of House Everight, thanks for cheap tools from Esthelm; asks Lasica for clam recipes
+erin solstice	f2eb5f66df	7.38	+	fact	stomps and screams the crowd quiet with her aura; stuffed tissues in her nose after Zevara's Skill; says she supports gay marriage but does not know LGBTQ terms
+erin solstice	6ab279491d	7.38	+	fact	keeps a journal of future ideas: Golems (crossed out "bad idea"), ballista, inn on wheels, ping pong tables, boom bark walls, acid-fly squirt bottle, bicycle
+erin solstice	6401fbbb42	7.38	+	fact	cannot work out bicycle gears or chains, her father made bikes; accidentally says "Earth" to Selys, tells Palt to mind wipe her
+erin solstice	5bdb13118c	Interlude_Meetings_and_Friendships	+	fact	has a billiards table built and wants felt; the Gentlemen Callers offer to find it
+erin solstice	9442747f97	Interlude_Meetings_and_Friendships	+	fact	sees an [Immortal Moment] of young Maviola and Gresaria
+erin solstice	29dc3a52d4	Interlude_Food_and_Growth	+	fact	sets a theme and intent for [Wondrous Fare]; tried it twice before, the fae's banquet and the dish for two fake adventurers
+erin solstice	f226420ff9	Interlude_Food_and_Growth	+	fact	wants Palt to cast [Darkness]; plans Midnight Bread to hide people from bad people; puts a mithril coin into the dough
+erin solstice	3107ad271f	Interlude_Food_and_Growth	+	fact	other idea is crystalline candies from powdered gemstones from Numbtongue's mining; Numbtongue proposes lightning lollipops
+erin solstice	a6fb67e452	Interlude_Food_and_Growth	!	event	makes a failed but light-consuming Shadow Loaf via [Wondrous Fare]
+erin solstice	e9e9b76c73	7.48K	+	fact	hidden clubhouse of three rooms (knowledge board, maps/models, pictures of achievements) where Earthers sing, play Halo and explain Earth to Selys and Maviola; it has no air unless the Garden door is open
+erin solstice	89a66f60d8	7.48K	+	fact	pins on a world map for Earthers (Wistram, Terandria, Geneva, Remi Canada in Chandrar, Ryoka in Reizmelt)
+erin solstice	9bc3f1cf4e	7.50	+	fact	shaved-ice slurpies are a new fad at the inn, from her sad-fire freezer or Palt's magic with juice
+erin solstice	41de117b41	7.50	!	event	decode Cara's video as a warning that Wistram's scrying and sides are known
+erin solstice	fa6f52f7e6	7.52	+	fact	sleeps in the [Garden of Sanctuary] with a knife, frying pan and a glowing green acid jar nearby; checks her belt potions and puts the jar in her bag of holding
+erin solstice	35006883d5	7.52	+	fact	refuses to live in the Garden because the inn must be a home, and if the inn goes so does the Garden
+erin solstice	1a4255d165	7.52	+	fact	is invisible to [Appraisal] and [Scrying] thanks to Saliss' ring and something else
+erin solstice	f71137a66a	7.52	+	fact	cracks two ribs when Palt falls on her; a healing potion treats it
+erin solstice	a7738d0254	7.52	+	fact	cannot take Maviola's flames and Maviola cannot take hers, since their fires are differently coloured emotional perspectives
+erin solstice	2cf476fcf3	7.52	+	fact	Numbtongue would kill the adults, Pawn only the direct killers, Bird says follow the law
+erin solstice	3577c6acc4	7.52	+	fact	compares the Raskghar to Toren, whose last act was to sign love
+erin solstice	121d70284a	7.52	+	fact	creates a new grey fire of mercy, static like stop-motion, that cuts like blades and burns wood slowly; it hurts the Raskghar and Calruz by sight
+erin solstice	8850fb7d5d	7.52	!	event	first non-emotion-named fire: grey fire of mercy
+erin solstice	c21eb1512d	7.53	+	fact	sleeps on An [Explorer]'s Guide to 64 Isles of Note by Cemale Tenvind
+erin solstice	c78f129425	7.53	+	fact	has a booth named for her at the Players of Celum theatre that she has never used
+erin solstice	55a8bf96d0	7.53	+	fact	expels Grimalkin from the inn, removes the yellow mana stone to close the door to Pallass, and sets an eight silver per person fee
+erin solstice	056c0d77b7	7.53	!	event	closes the Pallass door until Chaldion comes
+erin solstice	4285d8a77f	7.54	+	fact	Pallass is barred from the inn for six more days; only Saliss, Rufelt, Lasica and Chaldion can pass her aura
+erin solstice	93d6685814	7.54	+	fact	plays chess against four tables at once and wins all but ties with Olesm and Belgrade
+erin solstice	2a480829dd	7.54	+	fact	beats Chaldion's [Path to Victory] by forcing a random bad move, which destroys the path the Skill foresees
+erin solstice	564dbfbbf1	7.54	+	fact	proposes a Pallass Hunting-style outing; rejects a beach after Mrsha signs "Sand is stupid"
+erin solstice	64b8e6b84c	7.54	+	fact	crashes on her first ride into the plant fence, then rides, races Mrsha, Salamani and Palt
+pawn	9a876a3b0d	1.26	!	state	a Worker whom Erin tells he is an individual becomes "I", takes the name Pawn and says he is sad
+pawn	7f3a6374c2	1.33	+	fact	says Antinium Workers level quickly and rarely; says the Queen is doing something below and another Prognugator walks above
+pawn	a251b3651d	1.36	+	fact	Worker who plays chess; Erin gave him his name
+pawn	5d0eb4aa16	1.36	!	event	taken into the Hive for Aberration testing
+pawn	04b0abedd6	1.37	+	fact	returns to the inn carried by two Workers: missing an antenna, three arms and part of a leg, green blood
+pawn	281b735ef4	1.37	!	state	freed by Ksmvr and brought back to the inn
+pawn	1b1e56a859	1.38	+	fact	says "I am individual. I am Antinium."; tested, passed, released by the Prognugator
+pawn	a9d5c720ef	1.38	+	fact	bandaged by Erin; healing potions stopped bleeding but cannot restore limbs
+pawn	3516bfac8d	1.39	+	fact	says the Antinium have no honor and the Prognugator may use his life
+pawn	bafc6d14bc	1.39	+	fact	says the Antinium came ten years ago, one Hive was sent to Liscor and paid gold to make a new kind of Antinium
+pawn	ac42a1ffe4	1.39	+	fact	says the Queen is occupied with the Process of Anastases
+pawn	f5d13da5bf	1.39	+	fact	chooses to go back to the Hive; lies that the Antinium would reclaim him
+pawn	336e0894ff	1.39	!	state	returns to the Hive
+pawn	26e31e2c66	1.00H	+	fact	leaves for Erin's with four Antinium, waiting for the Queen, who will finish "tomorrow"
+pawn	af54df71ce	1.42	+	fact	seems more confident and plays chess aggressively after the Ksmvr events
+pawn	f015007f69	2.02	+	fact	now under Klbkch's authority and no longer a Worker
+pawn	d8d0b1820b	2.02	+	fact	hates Ksmvr, who cut off his arms and leg; Ksmvr instigated Workers to leave
+pawn	e36ec0ce43	2.02	+	fact	asks Ksmvr if he knows chess
+pawn	d805655a70	2.11	+	fact	arrives with Bird; Pawn has one good hand and his missing limbs are regrowing with Hive substances, expected back within a month
+pawn	0e4b635dce	2.11	+	fact	says the inn will be done by midnight
+pawn	9ce2b2131b	2.20	+	fact	the first Individual; commands the others; five Individuals observed; Bird is another
+pawn	acf7c499ab	2.26	!	state	says the Queen questioned the four Individuals; he stopped levelling [Tactician] and feels lost; he led the Workers who died to save Erin
+pawn	7551ddccd8	2.26	+	fact	lists the dead Workers Magnus, Rook, Calabrian, Vladimir, Emmanuel and the living Individuals Bird, Garry, Belgrade, Anand
+pawn	238dbe7899	2.26	!	state	[Acolyte Class Obtained!], [Acolyte Level 1!], [Skill – Prayer Obtained!]
+pawn	ca603be8ac	2.32	+	fact	occupied in the Hive and cannot visit
+pawn	5d046e8e52	2.36	+	fact	occupied with duties in the Hive
+pawn	cd2be3fec1	3.05L	+	fact	Worker in Liscor's Hive; sleeps sitting; regrew most digits; Individuals are Pawn, Bird, Belgrade, Anand, Garry; new Individuals follow orders
+pawn	dbdd23e05b	3.05L	+	fact	[Tactician] stagnated; also [Acolyte] with Skill [Prayer] after Erin spoke of God and Heaven
+pawn	131acc1381	3.05L	+	fact	cannot digest gluten; eats eggs and bacon and pays coins
+pawn	383c5fdf2b	3.06L	+	fact	first feared Ksmvr's questioning and the undead attack on Liscor; afraid of Klbkch
+pawn	930a319740	3.06L	+	fact	told by the Queen to report class or level changes to Klbkch
+pawn	7cea92bc7f	3.06L	+	fact	eats in the Soldiers' mess, gives his bowl to a Soldier who spilled his; Soldiers gather to hear him
+pawn	50695308e9	3.06L	+	fact	tells the Soldiers Erin's account of the Bible, creation, sin, Jesus, and Heaven
+pawn	b4c57372c8	3.06L	+	fact	his [Prayer] skill did not work during the crisis; he hears no answer
+pawn	e2e4b95d3e	3.06L	~	belief	believes Antinium Soldiers should not be sinful since they were born without choice
+pawn	e08da370d8	3.06L	~	belief	concludes there may be no God for the Antinium; resolves to build Heaven
+pawn	fc4223858d	3.06L	!	event	stops the massacre by shouting, renouncing God, urging the Soldiers to live
+pawn	32b52f738b	3.06L	!	event	prays beside the wounded; Klbkch promises more secrets if he can raise the Soldiers
+pawn	3ad0b111da	3.21L	+	fact	Level 6 [Acolyte] with [Humble Presence], commands the remaining wounded Soldiers; hundreds had died in the mass suicide
+pawn	c33a9d308f	3.21L	+	fact	orders Soldiers to rest in barracks, accidentally displacing the shift system; Klbkch reassigns them to protective detail
+pawn	2255f6492d	3.21L	!	event	brings twenty Soldiers to the inn; Lyonette offers them food
+pawn	ce016a400b	3.22L	+	fact	Soldiers have blunt digit hands, reinforced carapace, larger mandibles; cannot become Individuals by naming, e.g. the Soldier named Robert
+pawn	f226e189c0	3.22L	+	fact	forbids destroying dino-bird eggs, saying they are innocent
+pawn	8550e803ee	3.22L	+	fact	official line that Soldiers patrol to improve morale; Selys thinks it a promotion
+pawn	2747fb922e	3.22L	+	fact	buys all of Erin's paint, then all of Krshia's paint except brown or black, and about twenty brushes; Krshia's stall is smaller and poorer
+pawn	23d5e6f81a	3.22L	~	belief	believes the official line about patrols
+pawn	bd6d515c52	3.22L	!	reveal	discovers that paint marks give Soldiers identity
+pawn	a0ab2915d1	3.23L	+	fact	buys all cheese in the marketplace for 240 Soldiers; Krshia's stall is smaller; Lyonette gives Krshia a jar of honey and the message "I am very sorry" via Pawn
+pawn	39aa47b58e	3.23L	!	state	Soldiers become named by paint; Klbkch wants to expand it
+pawn	07820b806a	3.34	+	fact	put in charge of the Antinium at Esthelm; Belgrade and Anand [Tacticians] command without speaking, Bird goes to hunt birds
+pawn	cbf0e83297	3.34	!	event	first Antinium to speak to Zel; Zel gives him leadership advice
+pawn	afa49c95df	3.39	+	fact	beats Zel at Go
+pawn	a07061fddc	4.07	+	fact	the five surviving Antinium who protected Erin from undead
+pawn	3a56f08b4d	4.11	+	fact	arrive through the door looking for Erin; Bird carries a dead pterodactyl-like bird
+pawn	fedad2bc81	4.13L	+	fact	class [Acolyte], the first of its kind; leads hundreds of Soldiers; has a faith and believes in heaven but has no god
+pawn	d7bdec6e9e	4.13L	+	fact	let Soldiers paint themselves with thick water-resistant paint bought from Krshia, so each can be told apart
+pawn	369310e098	4.13L	+	fact	sees Belgrade shaking in the chess room, and says he will fight beside him; Belgrade makes Pawn promise to stay behind his Soldiers
+pawn	757707f32f	4.13L	+	fact	insults Tersk by comparing him to former Prognugator Ksmvr, said to have been expelled from the Hive for incompetence
+pawn	9882b773df	4.13L	+	fact	unharmed; twenty five Soldiers die, exactly a quarter of his command; the dead are processed for food
+pawn	247d35b41e	4.13L	!	state	first battle as a commander; loses twenty five Soldiers and begins remembering them by painting their marks
+pawn	7c762ee45f	4.14L	+	fact	reports Belgrade told Klbkch over two hundred Workers and about half as many Soldiers died in the battle
+pawn	af61f13d4c	4.14L	+	fact	believes Aberrations arise when a Worker cannot make sense of the death and emptiness; admits he came close once
+pawn	5f61133160	4.14L	+	fact	is a Level 6 [Acolyte]; Klbkch once tried to kill him for knowing about gods and told him not to speak of gods
+pawn	542e5919bd	4.14L	+	fact	believes in Jesus Christ as a God but "not my God", since the Antinium created themselves, and believes in Heaven and an afterlife
+pawn	48fb2ab3f5	4.14L	+	fact	plans communion of bread and honey, a shrine, Buddhist prayer beads and a censer; the term thurible is when a censer has chains
+pawn	58560e2a65	4.14L	+	fact	trusts Lyonette fully because she fed his Soldiers and helped paint them
+pawn	58d9c67382	4.14L	!	event	reunites with Erin, who hugs him and calms his shaking
+pawn	87bbe018d9	4.15L	+	fact	wakes in the inn's basement with a blanket, the thurible in his four hands, having gained [Acolyte Level 8] and the Skill [Mass Prayer]
+pawn	a18e55913e	4.15L	+	fact	promotes the yellow-splattered Soldier to [Sergeant]
+pawn	76941816c3	4.15L	+	fact	asks Klbkch for his whole unit to return to combat; he walks through the Hive praying, swinging the thurible, with painted Soldiers clicking their mandibles, which Belgrade names "Faith"
+pawn	8f82fdf349	4.15L	+	fact	more than a hundred Soldiers eat bee soup outside the inn; Pawn teaches Tersk that prayer means to have faith "in us"
+pawn	d7cb317d2d	4.15L	!	state	reaches [Acolyte Level 8] and gains [Mass Prayer]
+pawn	59c2bf964f	4.15L	!	event	appoints his first officer, the yellow-splattered [Sergeant]
+pawn	1650e4e0c9	4.18	+	fact	visits with Soldiers and mentions Belgrade and Anand would like the game; Olesm, Anand and Belgrade come to watch; Belgrade and Anand are wounded and coated in orange slime
+pawn	7058b4fab8	4.18	+	fact	agrees to have Workers expand the inn, starting with scaffolding and a foundation; the job takes several days
+pawn	d61d214536	4.18	+	fact	says Armored Antinium use crossbows and the Hive has limited bows for use against aerial foes
+pawn	385bfda7b0	4.29	+	fact	placed the tower at the back in case Erin wants a second tower, a fourth floor or a ballista; says the Antinium have catapult plans
+pawn	bea4b96cb4	4.40L	+	fact	gives Yellow Splatters the [Sergeant] class; carries a censer; prays for the wounded; uses incense; keeps a pile of picture books in the barracks
+pawn	9212e0c9a9	4.42L	+	fact	uses [Benediction of Hope] three times per day; calms Twin Stripes, who ceases to be an Aberration
+pawn	0600dda83e	5.12	+	fact	Antinium Worker, [Priest]-like, swings an incense censer and names the dead (Blue Circles, Jilted Lines, Leaves of Trees); Soldiers click mandibles in answer
+pawn	173a3b869c	5.24L	+	fact	leads an expanded unit of Workers and Soldiers; asks Erin for indoor entertainment ideas
+pawn	e2fe6e0ff6	5.25L	+	fact	leads a weekly twenty-minute sermon with "We are alone", then hands out flatbread wafers paid from Klbkch's budget
+pawn	06707a72ac	5.25L	+	fact	titled [Acolyte]; skill [Benediction of Hope] gained in recent weeks
+pawn	17b10e7b75	5.25L	+	fact	about two thirds of hundreds of Soldiers and dozens of Workers in his unit attend; Belgrade will not pray, Anand might, Garry has no time, Bird prefers his tower
+pawn	3fae3f684f	5.25L	+	fact	knows Lyonette's secret that she is a [Princess]; she told him when Erin was gone
+pawn	5e166f914e	5.25L	~	belief	believes his prayers can restore Lyonette's class
+pawn	a401129065	5.25L	!	event	prays daily, neglects his unit, goes to the inn every morning to ask "Is everything well?"
+pawn	e870ea3b42	5.25L	!	event	curls up in the barracks for over half a day; Klbkch kicks him, cracking his carapace, draws swords, then spares him and calls him a disgrace
+pawn	e768a8b090	5.26L	+	fact	curled up so tightly a Soldier cannot pull him apart; Erin rolls him, sits on him, then talks him out
+pawn	ed64186c7f	5.26L	+	fact	sees Erin as "the sky"; says Lyonette is his only friend, with Antinium relations being family
+pawn	914f9aba6a	5.26L	+	fact	builds a ball in a hollowed barracks with a yellow dress on a stand, picked with Krshia
+pawn	59d8de529d	5.26L	+	fact	says he likes Lyonette more than Erin; Klbkch told him a third of disputes he settles are romantic
+pawn	0adc1a2fe8	5.26L	~	belief	asserts "I believe in gods" and that Lyonette is a [Princess] who must have her class
+pawn	134c9e354e	5.26L	!	event	rejects Erin's advice and follows Krshia's, then confesses affection; Lyonette realizes it is romantic
+pawn	bb691d312f	5.26L	!	event	next day they hold hands and agree to find out if it is love
+pawn	a410d6aafe	5.33B	+	fact	leads the Painted Soldiers; the Workers meet in the barracks
+pawn	a379ded576	5.38	+	fact	asks to apologise alongside Bird; the Antinium leave and will return the next night
+pawn	5600897fa8	5.46	+	fact	prays for the Antinium team; Yellow Splatters and Purple Smile play
+pawn	8d0bddeb29	5.46	~	belief	sees nothing wrong in praying for victory; prayer "is not a limited resource"
+pawn	f6f2fbe9f0-1	Interlude_Bird	+	fact	Klbkch, Pawn, Belgrade and Anand were consulted on whether Bird could meet Bevussa
+pawn	ff9feda2d2	5.53	+	fact	jealous that Erin spends more time with Goblins; makes peace with Numbtongue and Yellow Splatters through shared soup and music
+pawn	864ffeccad	5.59	+	fact	arrives with Purple Smile; his censer glows with faith light, not magic
+pawn	5e91135f2c	Interlude_Pebblesnatch_and_Garry	+	fact	left via the hidden auxiliary tunnel near the inn; commands a growing unit of Painted Soldiers and Individual Workers
+pawn	859df943cd	5.62	+	fact	begs the Soldiers, saying Erin "made me me", and goes with them with his censer and a prayer
+pawn	df251ff177	Interlude_B09_1	+	fact	kneels by one hundred and one dead Painted Soldiers; Lyonette comforts him
+pawn	c77990cbf4	6.03	+	fact	sat with hundreds of Workers and Soldiers among painted symbols; the Antinium said the dead would not be forgotten
+pawn	af91713fa1	6.29	+	fact	leads a morning and night prayer for the Painted Soldiers with a cinnamon-scented censer; he is an [Acolyte]
+pawn	360b0599e4	6.29	!	state	Yellow Splatters says he saw Heaven; Pawn reaches [Acolyte] Level 18 and gains [Miracle - Heal Minor Wounds]
+pawn	fb0dc9a02f	6.30	+	fact	heals Painted Soldiers by touch (Skill used after rest, six wounds an hour per Klbkch); Klbkch wants this kept from observers
+pawn	e449b056c5	6.30	!	event	Yellow Splatters says he and the Painted Soldiers forgive him
+pawn	2af8b2d17f	Interlude_Numbtongue_Pt.1	+	fact	hold hands to supervise the third floor works; Archer B19 thanks Erin for soup and chess
+pawn	f0c86ca361	6.62L	+	fact	now Level 23 [Priest]; Skills [Create Bread] (gained at Level 20, four-day-old crust still intact), [Benediction of Hope], [Heal Minor Wounds] (up to twelve uses), [Holy Radiance] (blinds enemies, weakens undead)
+pawn	33fe71e2f3	6.62L	!	state	class change to [Priest] after Level 23
+pawn	02ea66f2f5	Story_2_Tersk_and_Dekass	+	fact	a smaller Worker; stops now and then to poke himself in the head
+pawn	10bf17e252	Mating_Rituals_Pt.2	+	fact	have sex in her room using a harness bought from Krshia, planned for a month, against Klbkch's orders
+pawn	19d4324163	Mating_Rituals_Pt.2	!	event	begin a sexual relationship
+pawn	4bac985f82	7.16L	+	fact	[Priest] Level 24, gains a Skill that proves to be the miracle [Holy Barrier]
+pawn	68588af95a	7.16L	+	fact	keep their relationship secret; Mrsha knows from the scent and sulks
+pawn	8a5b363830	7.16L	+	fact	stays in the Hive; his [Holy Barrier] holds until Klbkch says "I will slay God" and stabs him
+pawn	82cdd64152	7.16L	!	state	nearly killed, healed by Xrn's magic
+pawn	238fd75b99	Interlude_A_Meeting_of_Druids	!	event	holds a chapel for wounded Workers who paint themselves after the riots; Lyonette comforts him
+pawn	09587e08ae	7.39A	+	fact	now [Priest] and leader of the Painted Antinium with Yellow Splatters
+pawn	0e0b9b2829	7.48K	+	fact	Xrn tests his [Holy Barrier] with a [Siege Fireball]
+pawn	70af665d23	7.50	+	fact	writes a sacred text, an Antinium guide to Heaven, with sky and flower illustrations planned; says Antinium were "made, not born"
+world	036e558ead	1.02	+	fact	sky and clouds far larger than on Earth, one cloud the size of a mountain; endless rolling grassland with deep folds and a mountain range, possible buildings far off between the mountains and the sunrise
+world	3cdee70f6a	Interlude_King_Edition	+	fact	has twin moons

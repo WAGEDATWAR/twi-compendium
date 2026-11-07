@@ -1,0 +1,621 @@
+entity	sid	chapter	marker	heuristic_kind	text
+flos	30b060e3ca	Interlude_King_Edition	!	event	announces himself as "The King of Destruction, Flos"
+flos	05d377014b	1.07R	+	fact	once conquered a continent, then his empire collapsed; he sleeps
+flos	20b0043d9a	Interlude_The_Call	!	state	speaks through twinTrouble_53, declares his return and warns Wistram
+flos	7f7736c24f	2.05	+	fact	King of Destruction; asleep ten years in his capital; mages listed him eighth likeliest disaster; 30 percent chance he conquers the world
+flos	fbd77911e4	2.10	+	fact	conquered nearly all of Chandrar and landed armies on Izril's southern shores before vanishing
+flos	d858528d28	2.00K	+	fact	King of Destruction; golden-red hair; about six years older looking than when Gazi left; a decade of conquest then a decade asleep
+flos	44a814fddb	2.00K	+	fact	quotes lines from Ozymandias, which the twins taught him; wishes to meet its poet
+flos	ffe237ea4b	2.00K	+	fact	learns that creating something never before made grants a skill automatically
+flos	8fa66c2a24	2.00K	!	event	vows to kill the Emperor of Sands and calls his Seven to war
+flos	77ecfe953c	4.00K	+	fact	King of Destruction; sat in the dream with Drevish, Amerys, Gazi, Orthenon and Takhatres the night before a battle
+flos	e8f11ca101	4.00K	+	fact	has slept in the same bed for the last twenty years and wakes at dawn by habit
+flos	d1daf63ade	4.00K	+	fact	cannot hold the dream; he remembers the block of ice on the table and weeps for six minutes, then dresses and strides out as a King
+flos	86447d89f6	4.00K	+	fact	eats while walking; likes bacon rolls the twins introduced, now a permanent castle food
+flos	d0ce17d2af	4.00K	!	event	admits he hesitates because he fears war and may lack the stomach for it
+flos	644f4865e8	4.01K	+	fact	says he slept twenty years and fears the cost of war; he is a King whose class and nature pursue war
+flos	08ed26dce2	4.01K	+	fact	Mars's gift brooch (yellow gem) disguises the wearer as a common person (hazel eyes, grey-flecked dark hair, slightly shorter); lasts several hours and is toggled by touching the gem
+flos	54dc3b3f08	4.01K	+	fact	says Orthenon would see through the illusion and Gazi could even without her main eye
+flos	37ea95bcd6	4.01K	+	fact	carried five heavy sacks at once and helped unload a [Trader]'s wagon in his disguise
+flos	a9a9a23cd2	4.01K	+	fact	tells Trey and Teres he leaves logistics to Orthenon by saying "Orthenon, take care of it" without please
+flos	e0e3088358	4.01K	+	fact	hit Trey hard in sparring with a real unenchanted sword; Trey's shield held but he was knocked flat
+flos	8d84e46e3c	4.01K	+	fact	tells Trey he meant the blow to change gossip so the twins would be seen to have blocked a King
+flos	09a734c100	4.01K	+	fact	sends yellow-bottled healing potion to the twins; his own is clear blue
+flos	c1c1d878d0	4.01K	+	fact	throws the twins off his balcony to escape the palace unseen, then takes them by horse; neither can ride
+flos	df7cdb8d8c	4.01K	+	fact	banner is a black flag stitched with gold around the edges and a flame of gold, silver, white and purple
+flos	d6bb256f31	4.01K	!	event	calls himself a bad King and admits to the twins he has not been a King since waking
+flos	80434061a1	4.01K	!	event	tells Manimar he claimed them long ago, asks them to follow him one last time and they pledge; villagers recognise him by torchlight
+flos	97f198c6bb	4.02K	+	fact	said in youth that he can't be killed by [Assassins] because a vassal (Gazi) guards him, and his dream "as large as all of Chandrar" makes him unbeatable
+flos	1d444df33a	4.02K	+	fact	one year after the first meeting led a force of a few hundred amateur soldiers against the Black Judgment after learning a child's name (Merisa)
+flos	ca0dc14577	4.02K	+	fact	sword was plain unenchanted steel, bent by blows and broken by Venith's shield
+flos	263e3209c0	4.02K	+	fact	punches Venith's shield, kicks him, headbutts him and knocks him out with a fist cut on the helm's faceguard
+flos	4b56f7c60f	4.02K	+	fact	tells Orthenon "Take care of it. Please"
+flos	650b055558	4.02K	+	fact	poem about the forges and the King awoke, made as a boy for his mother
+flos	c296f1ca70	4.02K	+	fact	was a low-level [Prince] of a tiny kingdom; his father had little time for him; his mother had faith in him
+flos	f84653c40e	4.02K	!	state	in the flashback abandoned his reign after Queravia and Tottenval were found dead, saying "The King of Destruction is no more"
+flos	fe5a8004d4	4.03K	+	fact	asked the twins to refuse any class offered until sure of their choice; he thinks Teres suits [Warrior] better than Trey
+flos	107dfc84cb	4.03K	+	fact	deliberately splits the twins; Teres tells him the truth and stands up to him in his wrath, Trey understands how he thinks
+flos	4d5cf2e348	4.03K	+	fact	has the vassals Orthenon, Mars, Gazi and Maresar drill the army; the army has some old veterans armed with gear Mars obtained but too few and very low-level recruits
+flos	44dbf0c65c	4.03K	+	fact	has the twins describe Earth daily over foods the cooks imitate (Yorkshire pudding, black pudding); servants barred from the room for objecting to the twins using his name
+flos	6d60bfebea	4.03K	+	fact	believes the world has an edge where the sea pours into blackness; only one or two ships in a thousand return; islanders on an archipelago nearest it say things sometimes come from there
+flos	fb05a2d177	4.03K	+	fact	admires Gandhi, dismisses Alexander, Arthur and Churchill; calls Hitler a great leader but "not worthy" of a King's title; hates guns; says he could defeat a gun army two ways
+flos	40e4df1813	4.03K	+	fact	secret of rulers: the more classes one has the lower the level reachable; some classes (Lord, King) have stronger Skills than single-purpose ones
+flos	656213143a	4.03K	+	fact	says the land fades when its King abandons it, and refuses a war of greed; he will wage war for a child or a fallen comrade
+flos	7ab3349e85	4.03K	+	fact	uses the Skill [Rapid March] (army moves twice as fast); has used it since Reim; the crowd covers over 24 miles in about four hours
+flos	5548482546	4.03K	+	fact	leads thousands around Rast's walls shouting "Flos!" every fourth step and the people inside open the gates
+flos	cbb1819eaa	4.03K	~	belief	the gods are dead
+flos	4753203334	4.03K	!	event	takes the city of Rast without a battle by walking round its walls, saying afterward that it was "perhaps a metaphor"
+flos	06c2d79b47	4.04K	+	fact	says Treland was a fool and a monster who treated his subjects worse than animals, and that he went to war for the thousands who died under his rule
+flos	6eaddfe504	4.04K	+	fact	Calliope has seen war once and Flos would not ransom her son
+flos	e187a752f3	4.04K	+	fact	Reim has just over six thousand soldiers (6,256), perhaps two thousand more from refugees; each enemy nation sent about ten thousand
+flos	7591dbe642	4.04K	+	fact	his Seven are Mars, Gazi, Takhatres, Drevish, Amerys, Tottenval and Queravia; Tottenval and Queravia died in the war
+flos	474a9b9fa5	4.04K	+	fact	largest army he saw was over four hundred thousand; at his peak he had three armies over a hundred thousand; a Goblin King's army is a million or more
+flos	2a8d313946	4.04K	!	event	opens storehouses and rides out of Reim with Trey and Teres to save slaughtered refugees; Mars cannot disobey a King's order to stay
+flos	950738fc15	4.05K	+	fact	kills a dozen mounted raiders with his sword; calls "This is my world. See it with your own two eyes." to the twins
+flos	1d407bd01c	4.05K	+	fact	forms refugees, mostly elderly retired warriors, into a "[Royal Vanguard]" charge of about sixty riders; their kills astonish Trey
+flos	97f6afc67b	4.05K	+	fact	the ambushers are soldiers not raiders; a [Leader] with Skills commands them; the [Mage] in bright yellow robes strikes the earth every fourth step
+flos	7455105c25	4.05K	+	fact	"I have one Skill I could use. If this were an army. But it is not."
+flos	54ad2987e4	4.05K	+	fact	orders a [Message] to Roshal and the Traders for food and supplies using captives; Gazi calls the Traders "Slavers"
+flos	81960269c7	4.06KM	+	fact	sells captives from the battle for Reim to the Traders of Roshal for coin and food, some ransomed; he says slavery is part of Chandrar and equates it to Earth's imprisonment
+flos	9e767ef822	4.47	+	fact	King of Destruction on his throne in Chandrar; Orthenon is his advisor; Flos wishes he had met the Goblin King; asks that Trey and Teres be taught about him; rats that teleport in granaries
+flos	cf08bfdf32	5.06M	+	fact	rides with Teres, Trey and Gazi to a mining town to have a new sword made
+flos	397d7865ba	Interlude_Flos	+	fact	King of Destruction, red-gold hair, fully Human, over forty, one of the highest-level [Kings], Skills geared to war
+flos	3d756f4dac	Interlude_Flos	+	fact	slumbered for over a decade after giving up conquest until two humans from Earth appeared; woke and recalled his vassals
+flos	518d64fdc7	Interlude_Flos	+	fact	after crushing a coalition army at Reim he conquered Germina and Hellios in under two weeks before winter
+flos	f230d8c8f7	Interlude_Flos	+	fact	beheads the Quarass in her throne room after she sends a [Mage] to kill him
+flos	388c00cfe9	Interlude_Flos	+	fact	eats Yellats stew, considered a poor man's food, and likes simple fare
+flos	4b1b593e6e	Interlude_Flos	+	fact	gave away his sword, armor, helmet, lance and rings including a [Ring of Health] from Armil's treasury
+flos	934cd8763c	Interlude_Flos	+	fact	carries 10,000 gold in a bag of holding taken from the Quarass's treasury
+flos	c2e11b4569	Interlude_Flos	+	fact	told Dwarves paid for arms but they delivered only Gazi's armor and sword, a masterwork
+flos	55e9535288	Interlude_Flos	+	fact	addresses the world through a scrying orb, claims the Empire of Sands as foe, demands Wistram return Amerys
+flos	4d8743d6b8	Interlude_Flos	!	state	publicly announces his return and offers amnesty to nations that do not attack him
+flos	4c1c5c3ccf	6.12K	+	fact	killed the Quarass in the Palace (Seat of Ger) about a month earlier; coalition army was routed at Reim by Drevish's tower lightning, and unredeemed prisoners were sold to a Trader of Roshal
+flos	96cdd735d8	6.12K	!	event	drops the illusion before the crowd, swears on his Seven and crown to protect her, and claims Germina for forty years
+flos	23fdc1c813	6.12K	+	fact	freezes the crowd with "Halt", offers the Quarass an alliance; she accepts "By Ger's waters" and agrees to stop child [Assassins] but keeps her adult ones
+flos	0d228d11ab	6.12K	+	fact	Skill [The Choice of the Conquered] makes those who would never accept him flee; a few hundred left Ger; Maresar to hunt them, captives preferred
+flos	411ece4007	6.12K	~	belief	says Teres's Earth proves gods once existed and are now dead; thinks faith is the difference between the worlds
+flos	c22848d47d	6.12K	+	fact	plans against Earth's weapons, e.g. a [Pyromancer] disabling combustion and Stitch-People made of kevlar; Teres told him of tanks, nukes and Mach 9 aircraft
+flos	21d92dc14c	6.12K	+	fact	ride to Blalevault takes a day with his Skill; Belchan is eight days' march north of it; Takhatres is harassing the Empire of Sands
+flos	caa2c4301a	6.12K	+	fact	says he has killed about twenty-three rulers
+flos	b42c66f299	6.13K	+	fact	returns at sundown with about eight wagons of gold and artifacts; Nawal calls the legends true
+flos	689ff3cba9	6.14K	+	fact	has Daiton's pattern-welded sword and Nawal's enchanted blade shown; Daiton's is fine but ordinary, Nawal's survives a one-handed sledgehammer blow on a ten-brick bridge unharmed
+flos	b1553e388c	6.14K	+	fact	Naq-Alrama sword is "a mage-killer"; he wants a spear for Orthenon, blades for Takhatres, a sword for himself; his old sword was enchanted
+flos	76dde2262e	6.14K	+	fact	the Seven also included Drevish, Queravia and Tottenval; Tottenval, a Beastkin [Gardener] from Baleros, died at sea saving Flos's life
+flos	e1ab63c135	6.14K	+	fact	Queravia and he were close; his cup dented when Trey raised it; Queravia once led armies alongside Orthenon
+flos	5c1970d0fd	6.14K	~	belief	says Amerys is held by Wistram, perhaps by three Archmages, and has not answered his [Message]; he still trusts her
+flos	f9a2df6608	6.14K	+	fact	Skills include edicts (only one active at a time): [Edict of Bloom] (faster crops, healing and births, six-month pregnancies, monsters and hunger as cost), [Edict of Silversky] (calm weather, lies hard to tell), [Edict of the Bloo
+flos	1dff03db86	6.14K	!	event	decides to issue the [Edict of Bloom] next day
+flos	3a82674ade	6.14K	+	fact	[Blessing of Rains] is a monarch Skill type, one active at a time; units like [Driftwind Riders] and [Steelshorn Relentless] need conditions such as about a hundred enchanted blades
+flos	da5c153d7e	6.14K	+	fact	took gold and artifacts from Germina's and Hellios's treasuries for his officers
+flos	f4d7522342	6.14K	+	fact	map of nations threatening Reim: Khelt (west, ruled by Fetohep, undead army), Belchan (mage school), Jecrass (King Raelt), Tiqr (Garuda, war elephants, only possible ally, an Empress), Nerrhavia's Fall, Pomle, Savere, Illivere, Th
+flos	907c4d3e16	6.14K	!	event	issues a world-wide declaration of peace backed by an "or else"; the message was the prelude to war
+flos	211452cb40	6.52K	+	fact	reads the article and watches rain, recalling a girl riding an elephant
+flos	a25deda67f	6.53K	+	fact	explains Skills scale with level, e.g. [Deft Hand] for [Ladies] and [Power Strike]; vowed not to make war without just cause so cannot aid Tiqr
+flos	fa55d7b98b	6.53K	+	fact	burned all pictures of Queravia because they could not capture her; Tottenval and Queravia were two of his Seven
+flos	042a26489a	6.53K	+	fact	orders Mars back from the south to intercept, Gazi with Serpent Hunters and Parasol Stroll to join, no casualties; messenger is Finl Ulesey, born in Hellios
+flos	a8b9fd40fd	6.53K	!	state	refuses Nsiia's request; per Nsiia he told her to wait and live until he returns Tiqr to itself
+flos	30a1156e3d	6.54K	+	fact	tells the Quarass that Trey and Teres are from another world and the reason he returned; she says she has never heard of that in any lifetime
+flos	3d9507bf61	6.54K	+	fact	the Quarass agrees to intercede with Fetohep (Khelt) in exchange for his reasons; Flos had planned to tell her anyway
+flos	707ee538ee	6.54K	+	fact	swore by the Shield Kingdoms, Germina's soil and Ger's Oasis to shed his blood before the Quarass's
+flos	ec6b858b49	6.54K	+	fact	wears plate armor, uses [Rapid March] to move the party at about double speed, leads the [Royal Vanguard] cavalry
+flos	3e69c3a821	6.54K	~	belief	guesses Fetohep wants a blood-sworn vow of non-interference and senses Reim's weakness
+flos	7d343ea1aa	6.54K	!	state	tells the twins he could not help Tiqr and swears to return it
+flos	d924721a51	6.55K	+	fact	waits at the Khelt border at midday with Gazi, Serpent Hunters and Parasol Stroll; says he sent Trey because Gazi took him as a pupil and he is kind and listens
+flos	94a48b756c	6.55K	+	fact	agree Khelt gives Reim thirty thousand bushels of food per month for eight years in exchange for Flos's blood oath never to take arms against Khelt
+flos	8e4c733c21	6.55K	+	fact	took four thousand Kheltian volunteers in his first war, which Fetohep resents
+flos	2eb9929547	6.68	+	fact	watches refugees return to Reim from his balcony with Orthenon and Gazi; a Rustängmarder company of about a hundred and the half-Giant Nomads of the Sky have arrived
+flos	6131622521	6.68	+	fact	wants vassals, artifacts and a Naq-Alrama blade from Nawalishifra; received a message of inquiry from a potential ally
+flos	2defc1c156	6.68	+	fact	orders Orthenon to hold on asking the Iron Vanguard how much they would charge to take Wistram, after Gazi offers a cheaper idea
+flos	75826d40fa	7.03	+	fact	the King of Destruction watches with Gazi the Omniscient; says Amerys could not break Zeres, orders Trey, Teres and Mars summoned, and demands Archmage Feor give Amerys back
+flos	9ebb0981d5	7.08K	+	fact	gained [Army of the King] at Level 50, believed usable only once every so often; he has sworn peace, lost Tiqr to keep his oath, and demands free passage to Reim for anyone claiming loyalty
+flos	eb4749e052	7.08K	+	fact	shouts his title, makes Jecrass' army and mounts kneel by aura, and Raelt resists it with "Steady"; he rides with Orthenon and Mars the Illusionist
+flos	a6c8dabff4	7.08K	+	fact	green eyes, red-gold hair, no grey; asks to cross Jecrass, buy a magical horse, and finally asks Raelt to vassalise, offering Hellios; Raelt refuses all and lies that Jecrass has no Pegasus
+flos	808b38528f	7.08K	+	fact	says he swore eternal war on the Empire of Sands and will behead its [Emperor]
+flos	aabce34214	7.08K	+	fact	gives Raelt a rubik's cube made by one of his vassals; Raelt places it in his quarters
+flos	4c42d71879	7.08K	+	fact	a six-thousand-strong caravan of refugees from Jecrass approaches, led by Gnolls with Lizardfolk
+flos	a52980e200	7.08K	~	belief	claims Reim's army is only for protection and exercise
+flos	faef55f179	7.08K	!	event	mentions Trey, Gazi and the Quarass travelling by magic carpet
+flos	41a67a7a85	7.10K	+	fact	Skill [A Kingdom's Strength] at Level 30 makes him stronger than his Seven, and he lifts fifteen pounds one-handed
+flos	0a2a1ccb24	7.10K	+	fact	says without artifacts he is only about Gold-rank, hates flying foes, wall spells and mental attacks; his shield's burst is slow
+flos	4a5b257b81	7.10K	+	fact	grants the Gnolls land from Hellios' stone mountains to Reim, and a castle; says Tottenval, a Beastkin of the Fox Tribe, died at sea saving his life
+flos	8996a2d697	7.10K	!	event	beheads the [Headman], Belchan [Commander] and officers on live broadcast, then declares war on Belchan and Lyfelt
+flos	3c8d733ad1	7.13K	+	fact	stands at the front of his army with broadsword and shield and kills a [Lineholder] cleaving through his tower shield
+flos	0113ced910	7.13K	+	fact	swore to kill Prime Minister Lyfelt; demands Belchan's politicians, officers and leaders be executed; Teres is determined to stop slaughter of citizens
+flos	529fb52265	7.13K	+	fact	throws weapons including a Returning Javelin and hatchet; breaks Raelt's ribs and leg and throws him through the stone wall
+flos	4092111b24	7.13K	+	fact	orders a retreat rather than use his [Army of the King]; laughs and calls Raelt a worthy foe
+flos	443142fb72	7.21KQ	+	fact	says King Raelt is honorable and brave and fought Orthenon personally that morning, but Reim opposes him because he sheltered the Prime Minister and is backed by Flos's enemies
+flos	d9b2c30bee	7.21KQ	+	fact	after Raelt's duel Raelt levelled; Flos says he levelled too and activates [The King's Architect], summoning a memory of Drevish who tells him the city's name is bad
+flos	2cf3aea53e	7.21KQ	!	state	gains Skill [The King's Architect]
+flos	5896e0d596	7.27	+	fact	the King of Destruction plays football with Mars and Orthenon on the Wistram broadcast; Mars appears dusky-skinned and Teres is present
+flos	ec50b15bee	7.27	+	fact	sends Joseph a [Message] asking for the rules; Typhenous has Joseph sign cardboard memorabilia
+flos	c4222763b7	7.37	+	fact	survives by smashing a healing potion into the wound and pulling the rapier out; kills Winta; Emile dies; Commander Ytol of the Rustängmarder offers deaths
+flos	b8fd93d52e	7.46K	+	fact	wants to provoke Medain into war then hit the Claiven Earth, and fears half-Elves melded into trees
+flos	a5eea61766	7.46K	+	fact	marches by [Rapid March] toward Medain claiming to demand Jecaina's return
+flos	ef35841e55	7.47K	+	fact	his past war with Minotaurs included a sea ambush that nearly destroyed his fleets; Tottenval the Gardener's sacrifice saved him
+flos	91d4f1cd3e	7.47K	+	fact	tells Teres the Minotaurs once attacked him at sea after he avoided them, and he will return the favor
+flos	de3bd20c88	7.47K	+	fact	orders Orthenon back from battle to flank the Minotaurs; recognizes Ozem's armor from the sea battle
+flos	737b888c56	7.47K	+	fact	uses [Army of the King] when Teres falls; his soldiers and Teres gain levels, Teres becoming a temporary Level 35 Trained Bladeswoman with Shadowcut Blade, Acrobat's Form, Keening Edge and Enhanced Strength
+flos	3af5d71ae3	7.47K	+	fact	his Skill will be unavailable for a crucial month
+flos	ef1b74cbf5	7.47K	+	fact	orders Takhatres recalled from the campaign against the Empire of Sands to safeguard borders
+flos	6b8214666f	7.48K	+	fact	calm and silent on the march; says the last time this many nations declared on him was when he unified most of Chandrar
+flos	9decdc38c7	7.48K	+	fact	orders Mars to give spare magical blades to Ytol for the Sorcelled Blades unit, which Orthenon will lead as roaming cavalry
+flos	48a778c1e5	7.48K	+	fact	gives the Nomads of the Sky to Ytol for Reim, sends Mars north against Claiven Earth and Medain, and keeps Esiela (under blood-oath) near him
+flos	fc676cf568	7.48K	+	fact	orders Mars, Orthenon and the Nomads to take a border city of Medain without killing civilians
+flos	8ec407cabd	7.48K	+	fact	swears to kill Prime Minister Lyfelt and to offer Raelt's daughter one chance to meet Raelt's terms before taking Jecrass's capital
+lyonette	b7bf0dd56d	2.21	+	fact	calls herself Lyonette de Marquin, of the Hundred Families of Terandria, Sixth Princess in line to the throne of Calanfer; later claims instead to be of the minor house Clavalettes, then a distant relative of Magnolia Reinhart
+lyonette	426650f272	2.21	+	fact	her rings and cloak were drained, and the Gnolls and Drakes took the ones with power left
+lyonette	2ea7a8a00c	2.21	+	fact	hates half-Elves and fears the dead, calls Ceria a "freak" and Erin a [Necromancer]
+lyonette	73ec4c08d0	2.21	!	event	steals most of Erin's gold (not what was hidden under the floorboards) and flees north
+lyonette	4a3636780a	2.26	!	state	gains a level as a [Barmaid]
+lyonette	164cb53b08	2.00H	+	fact	is a Level 1 [Barmaid]
+lyonette	e58524a883	2.27	+	fact	refuses to fetch water, afraid of Goblins and of Toren
+lyonette	03e490a307	2.30	+	fact	tries to force her way aboard; Toren holds her back
+lyonette	e12724a773	2.32	+	fact	demands to know when Magnolia will send for her; Erin says Magnolia knows she is there
+lyonette	fcfa0134e1	2.32	+	fact	watches Erin and Ryoka from the stairs
+lyonette	ef184712b7	2.33	+	fact	introduces herself as Lyonette de Marquin; Erin says she is an employee
+lyonette	f72f006001	2.33	+	fact	her damage to Krshia's clan cost the equivalent of fifty thousand gold coins
+lyonette	fa11332913	2.34	+	fact	destroyed Krshia's shop with a powerful artifact that bypassed the books' protections
+lyonette	961838e195	2.35	+	fact	[Princess] aged eighteen, heir to a Terandrian kingdom
+lyonette	10f204e756	2.35	+	fact	now has [Barmaid] Level 3 and Skill [Lesser Stamina]
+lyonette	011c5b43cb	2.35	+	fact	crossed from Terandria to Izril, survived monsters and the mob that expelled her from Liscor
+lyonette	e18864ceb8	2.35	+	fact	knows a light-ball spell without the [Mage] class
+lyonette	07a04fc0e5	2.36	+	fact	gains [Barmaid] level and [Basic Cooking]
+lyonette	d5437f1379	3.05L	+	fact	[Princess] of a small kingdom, hides in the inn during the Goblin army's pass; banned from Liscor as a thief
+lyonette	a58f337af6	3.05L	+	fact	has [Basic Cooking]; her pasta is bland
+lyonette	c70968b860	3.05L	!	event	serves Pawn, her first paying customer, and resolves to run the inn
+lyonette	8514cc0b8e	3.21L	+	fact	keeps only copper and two silver coins; discards food; cannot cook soup; thinks stealing bees' honey is her only chance
+lyonette	89766ed06f	3.21L	+	fact	harvests three jars of honey and honeycomb plus two jars of sleeping bees and grubs and royal jelly
+lyonette	66d3c7f10c	3.21L	~	belief	believes Pawn will return for eggs and bacon
+lyonette	faaca277da	3.21L	!	event	first customers since Pawn; pays bronze coins; resolves to steal bee honey
+lyonette	c77d22fe9a	3.21L	!	state	lights smoke to sleep bees using dead faerie flowers; gains honey
+lyonette	02e9c4e515	3.22L	+	rel	serves two fried bees per Soldier and soup; earns a bag of coins
+lyonette	386594c1dc	3.22L	+	fact	levels [Barmaid] 8 with [Basic Cleaning], [Carer] 2 with [Calming Touch], and [Tactician] 1 with [Lesser Intuition]
+lyonette	a72601c8e3	3.22L	!	event	rejoicing at no longer being alone and at honest work
+lyonette	40352d1627	3.23L	+	fact	[Carer] and [Tactician] classes; says Terandria's rulers gain classes by influencing people; royal, rare and merged classes are stronger; a [Princess] can grant unique classes
+lyonette	6eb382e408	3.23L	+	fact	[Beast Tamer] Level 1 with [Healthy Rearing] for caring for the bee grub, which she may name
+lyonette	fc1546a196	3.23L	+	fact	banned from Liscor; has about a year for four years since leveling [Princess]; family has secrets about classes
+lyonette	cb0f47ec4e	3.23L	~	belief	believes honey and bees can sustain the inn
+lyonette	8cdefd0a3d	3.27M	+	fact	runs the inn while Erin and Ryoka are away; cooks poorly, has blistered hands from scrubbing
+lyonette	dcd39441fd	3.32	+	fact	hauls water, cooks for Griffon Hunt, Halfseekers and Zel; the inn has nine private rooms and multiple outhouses; Moore eats three times what others do
+lyonette	c5e3f397d0	3.33	+	fact	now has the [Basic Cooking] skill; the inn guests are Griffon Hunt, Halfseekers and Zel
+lyonette	23bdab322c	3.33	+	fact	casts [Light] that turns green and grows; the inn's walls glow and shake
+lyonette	15ca56f14c	3.34	+	fact	has a [Beast Tamer] class and keeps a growing bee larva from Ashfire bees, fed royal jelly; Erin calls it "Mr. Ugly Fat Worm"
+lyonette	e7becef9bd	3.39	+	fact	cooks a mushroom fry-up buffet for returning drivers, adventurers and Antinium, and serves fried Ashfire bees to Antinium
+lyonette	1092810def	3.41	+	fact	bakes bread using Erin's baking powder
+lyonette	b6a5d24e01	3.42	+	fact	overhears Erin cry "I want to go home" and swears an oath on her name and blood
+lyonette	dfd0ad45d1	3.42	!	event	swears to help Erin go home
+lyonette	b8822b90a6	4.07	+	fact	Level 3 [Beast Tamer], Level 4 [Carer], Level 9 [Barmaid], Level 5 [Princess]; tends Apista
+lyonette	16cfbb5981	4.14L	+	fact	levels are Level 11 [Barmaid], Level 4 [Beast Tamer], Level 6 [Carer], Level 2 [Tactician], Level 5 [Princess]; new Skills [Charming Smile] and [Lesser Strength]
+lyonette	f86011bcbb	4.14L	+	fact	eighteen years old; had only one Skill from [Princess] in her life
+lyonette	d262896c9b	4.14L	+	fact	uses dried blue-fruit seed cores to scare away Rock Crabs; has done so twice
+lyonette	1adbfd36b2	4.14L	~	belief	says the barrels cost at least twelve silver
+lyonette	e3f061512b	4.15L	+	fact	assigns Drassi to waiting tables and Ishkr to fetching water and cleaning outhouses, and both do their jobs without trouble
+lyonette	6712da4f8f	4.15L	+	fact	screams at Erin that Toren pushed her into Shield Spider nests, hit her and abandoned her, then runs out
+lyonette	c063a8978f	4.15L	+	fact	tells Pawn a story of a queen who sat still on a battlefield and said "Fight", and teaches him to walk with head up
+lyonette	5d1a50d288	4.15L	~	belief	believes Erin never noticed Toren's abuse
+lyonette	7272f02566	4.15L	!	reveal	secretly identified as a [Princess] by Ryoka and appointed head of staff by Erin
+lyonette	554f5b5f32	4.18	+	fact	played six games against the unseen player, leveling up; Olesm also tried; the player reset the board to Erin's last position each time
+lyonette	371e51d7ec	4.18	+	fact	raises a bee pupa fed on jelly, twice the size of an Ashfire bee, which is moving and growing hairs; names it Apista
+lyonette	85b753faae	4.24	+	fact	is a [Princess] and whispers a vow beginning "I, Lyonette du Marquin do solemnly", which Gnoll ears hear and Mrsha stares at
+lyonette	1ffec4460c	4.27H	+	fact	gains [Warrior] Level 1 with Basic Footwork and [Princess] Level 6 with the Skill Royal Tax
+lyonette	09e0f1d8a7	4.27H	+	fact	knighting Brunkr leveled her; she recalls her mother and father not telling her this and thinks of Mavia leveling
+lyonette	3655fb3a63	4.27H	+	fact	believes only Magnolia Reinhart, Pawn and Ryoka know she is a [Princess]
+lyonette	bddc0e2f33	4.27H	!	state	first level as [Princess] and Warrior; learns tips flow to her
+lyonette	54b53c3470	4.33	+	fact	left Terandria; had never seen a dead body before; as a former [Princess] was kept from poison deaths and funerals
+lyonette	a037298706	4.34	+	fact	throw lightning, thorn, tripvine, pepper, fire, Silverfrost potions at the goats
+lyonette	d297117bcf	4.41L	+	fact	spanks Mrsha after the wand attack; earlier punishes Mrsha with no lunch
+lyonette	eb92e4f067	4.43	+	fact	can make [Knights] with a few words; royally appoints a business; grants Krshia "my royal favor" in the ritual
+lyonette	1ac1249771	4.43	+	fact	runaway [Princess] who fears her family would send someone after her; not a First Princess
+lyonette	823023bb7a	4.43	!	reveal	reveals her class to Krshia and grants her a royal appointment
+lyonette	f48bc98925	5.01	+	fact	capture two Pallass Watch who charged through, when the door went dead behind them
+lyonette	3b9b40424a	5.24L	+	fact	practices with a sword hidden under her bed, taught by Brunkr; Level 3 [Warrior] at the start
+lyonette	1068f22320	5.24L	!	state	levels [Carer] 8, [Beast Tamer] 5, gets [Skill - Apista: Basic Training]
+lyonette	9ee42b66f4	5.24L	!	state	[Barmaid] Level 15, [Warrior] Level 4, gets [Balanced Posture]
+lyonette	0af4d54d80	5.24L	!	state	loses [Princess] class, losing [Detect Poison] and [Royal Tax]
+lyonette	385220da50	5.24L	!	event	begins weeping uncontrollably the next morning, lying that nothing happened
+lyonette	dd39117f1a	5.25L	+	fact	says she was only Level 6 as a [Princess] and had two Skills
+lyonette	3ec4e3883b	5.25L	+	fact	suggests crafts, tag, communal living space; Pawn buys knitting needles, yarn, balls, clay
+lyonette	135d56ba22	5.25L	!	state	tells Pawn she lost [Princess] because she stopped living like one and says she is glad
+lyonette	40e87e896f	5.25L	!	event	confronts Pawn, tears up, shouts at him not to pray for her, runs upstairs
+lyonette	92ed58f352	5.26L	+	fact	waltzes from years of court training; the Antinium waltz in pairs with Purple Smile teaching
+lyonette	33c91324de	5.26L	~	belief	believes part of her wanted to lose the class to be someone else
+lyonette	28f16ceb1f	5.26L	!	state	class restored overnight as [Worldly Princess] Level 11; [Warrior], [Barmaid], [Beast Tamer], [Tactician], [Carer] consolidated into it
+lyonette	9c48aff07d	5.26L	!	state	gains [Basic Crafting], [Weapon Proficiency: Sword], [Basic Negotiator], [Basic Leadership], [Flawless Attempt]
+lyonette	8ca7e0de91	5.26L	!	event	next day they hold hands and agree to find out if it is love
+lyonette	8898fdf0b6	5.27	+	fact	new Skill [Flawless Attempt] does what she does at her best, with a cooldown; she made Mrsha an omelette
+lyonette	dab30876c2	5.29	+	fact	Erin's [Inn's Aura] is confined to the inn; auras can be resisted by the unprepared; Lyonette resists Erin's aura
+lyonette	b782dbbc0f	5.33B	+	fact	plans to take Mrsha to Celum with Bird as bodyguard
+lyonette	65669f4384	5.38	+	fact	sword wrist broken and head bleeding after Raskghar break into the inn; Mrsha is gone; Apista has two mangled legs
+lyonette	ac9c55f98e	5.40	+	rel	serves tables dazed, asks the Horns to find Mrsha
+lyonette	244e3b66aa	5.41	+	fact	goes with Drassi to Liscor for food; Krshia, silent, stands at her stall
+lyonette	36ca608a4a	5.44	+	fact	wields a sword and, with Apista's sting, holds off Nokha until Moore breaks her arm and throws her
+lyonette	305e69e77d	5.45	+	fact	levelled up and gained [Crimson Stinger] for Apista after the dungeon
+lyonette	2b693e5f16	5.45	!	event	uses her aura on Erin in argument; Erin pushes it back
+lyonette	d5edacc782	Interlude_B09_1	+	fact	seen by her father the King in a scrying pool; he wants her brought back
+lyonette	d8e90f271f	6.02	+	fact	[Barmaid] who keeps a plain steel sword by her
+lyonette	485b91a3d4	6.03	+	fact	cracked, bleeding hands from soap; remembers hand creams from the kingdom's [Court Alchemist]; admits she wants to be a [Princess] again
+lyonette	e286c217df	6.03	+	fact	Sixth in service to the Eternal Throne of Calanfer, which dates about six thousand years
+lyonette	87f6be4f24	6.03	+	fact	built a wooden wheel carrying the mana stones so the door can switch destinations
+lyonette	acfe63b82e	6.03	+	fact	takes over management of the inn while Erin travels
+lyonette	aca7113950	6.03	!	reveal	reveals she is a [Princess] to Numbtongue and Mrsha
+lyonette	e29ef63947	6.08	+	fact	tells Zevara she accepts her exile law, pays 8 gold of a 47 gold fine to reclaim her confiscated artifacts; Zevara keeps them until the last coin
+lyonette	4838aebdd7	6.08	+	fact	consolidated her [Beast Tamer] class into [Worldly Princess]
+lyonette	5acea95984	6.08	+	fact	sends Apista with notes to Krshia for eggs
+lyonette	5ff81149bf	6.08	!	state	reaches [Worldly Princess] Level 17 and gains [Apista: Enhanced Intelligence], [Apista: Agile Flier] and [Imperial Aura]
+lyonette	758b740b82	6.28	+	fact	[Princess], eighteen; Skill [Flawless Attempt] lets her do a task perfectly after one try; wants Erin's [Wondrous Fare] if skills could trade
+lyonette	d8b431f518	6.31	+	fact	tells Erin there are two cakes and ice cream ingredients for eight guests; ice is expensive
+lyonette	402ff47493	Interlude_Numbtongue_Pt.1	+	fact	hold hands to supervise the third floor works; Archer B19 thanks Erin for soup and chess
+lyonette	0df953f037	6.38	+	fact	keeps the Liscor and Pallass doors closed until late morning so the staff can rest and restock; plans to buy Mrsha clothes
+lyonette	6a10ce4c83	Interlude_Two_Rats	+	fact	forbids Mrsha to leave without a minder; plans a new inn and says she needs things from Zevara and her family's cloak to let Mrsha roam
+lyonette	977026f910	Interlude_Two_Rats	+	fact	declares Mrsha her daughter in the prison
+lyonette	0a4fce9663	Interlude_Two_Rats	!	event	names herself Mrsha's mother in front of the Gnolls
+lyonette	c90033471e	6.49	!	event	granted Liscor citizenship; Numbtongue offered a provisional entry permit
+lyonette	32a5022097	6.51A	+	fact	orders the inn cleaned with Octavia's soap; the floors become slippery enough that Drassi falls and the staff and guests slide on them
+lyonette	738e4d763b	6.56	+	fact	[Princess] who uses [Flawless Attempt] to make a near-perfect veggie burger
+lyonette	d5bad81fbb	6.61L	+	fact	stops Erin from chasing the thief herself and tells her to call the Watch
+lyonette	a6299de2bc	6.64	+	fact	talks Erin into negotiating, arguing Calanfer survived thousands of years by making allies, and that Erin needs an ally in Wistram
+lyonette	6301fbad36	6.64	+	fact	wants to remodel the inn; Erin delays Belgrade by one week; the Antinium have tripled the hill's size
+lyonette	29b7aba1e0	Story_1_Mrsha_and_Relc	+	fact	finds them, heals Mrsha, goes for her sword, and bans Relc from the inn for six days
+lyonette	82897d048f	7.04	+	fact	funded the build from Liscor's payment, Creler attack money and Erin's savings; hopes for Gold-rank teams as guests
+lyonette	b008bee7f9	7.04	+	fact	uses an aura to silence the inn, as does Zevara; Erin can resist both inside her own inn
+lyonette	3d3a8a5320	7.07	+	fact	gives her name as Lyon at the meeting
+lyonette	d3317eb13d	Interlude_Chocolate_Gold	+	fact	effective day-to-day manager of the inn, with Erin as the superior-ranked but trusted subordinate
+lyonette	81a61d34d6	Interlude_Chocolate_Alchemy	+	fact	says she ran away from home; the Calanfer royals have her double; her father and mother probably do not care; sending a [Message] would cause trouble
+lyonette	5f23c620f5	Mating_Rituals_Pt.2	+	fact	usually takes a potion against menstruation as does her family; says her own bleeding is bad and she may return to potions now Octavia is there
+lyonette	6d90a2a1e3	Mating_Rituals_Pt.2	+	fact	have sex in her room using a harness bought from Krshia, planned for a month, against Klbkch's orders
+lyonette	9f7558553f	Mating_Rituals_Pt.2	!	event	begin a sexual relationship
+lyonette	b118dcdea3	7.16L	+	fact	Level 19, now a [Worldly Princess], new Skill [Magnified Training]; uses [Flawless Attempt] and starts learning [Razorwind] from Mrsha's spellbook
+lyonette	3a79f35348	7.16L	+	fact	explains high-level monarchs; fewer than forty rulers above Level 40; the King of Destruction is likely just above Level 50 and the Blighted King similar
+lyonette	0b265120d7	7.16L	+	fact	keep their relationship secret; Mrsha knows from the scent and sulks
+lyonette	36640612ec	7.17S	+	fact	wants a private bath and to divert a stream past the inn; the 2nd floor is complete and Workers build the 3rd
+lyonette	bbf2eb52a3	Interlude_A_Night_in_the_Inn	+	fact	calls herself "Lyon" to Veeid
+lyonette	f7bcbc0b39	7.23LM	+	fact	sleeps in Pawn's room with Pawn; Mrsha dislikes this; Lyonette calls her Mrsha du Marquin
+lyonette	596940af7d	7.23LM	+	fact	stops Erin and Pryde's clash by shifting her own authority as a secret [Princess], then keeps Magus Grimalkin from interrupting by aura, and redirects Pryde to Grimalkin's weights
+lyonette	671a5c5f05	7.23LM	+	fact	collapses after overusing her aura and gains [Worldly Princess Level 20]
+lyonette	47a506ad15	7.23LM	+	fact	gains Skill [Boon of the Princess], giving Mrsha temporary [Barkfur] and [Lesser Strength] that outlast six hours; it can only be on one person at a time
+lyonette	9e05a7eb82	7.23LM	!	state	gains Level 20 and the Skill [Boon of the Princess]
+lyonette	07f623b184	7.26	+	fact	slaps Ryoka five times, ending in punches, until Erin and Yvlon pull her off; Ryoka does not dodge
+lyonette	d72c3ad7b7	7.27	+	fact	is dating Pawn; Erin knows, Ryoka learns it and promises silence
+lyonette	7c02d40f58	7.31	+	fact	teaches Mrsha etiquette; her "Lessons From Home" cover riots
+lyonette	94166652cc	7.38	+	fact	refuses Selys' offer to invest in the inn for a share of profits; says the inn is funded on its own income
+lyonette	61156eadf1	7.38	+	fact	has had Belgrade and Pawn undo a two-floor stables; "hired" eighteen unpainted Antinium Workers from Bird's crew as labour
+lyonette	bb2df520ca	7.38	+	fact	nearly paid off her fine from Zevara from her own income
+lyonette	230c716e54	Interlude_Meetings_and_Friendships	+	fact	Level 20 Skill [Boon of the Princess] gives a mark of her royal house and two temporary Skills; used on Mrsha and Octavia
+lyonette	b499d39804	Interlude_Meetings_and_Friendships	+	rel	father is King of Calanfer with [Favor of the King], powering Calanfer's Champion of the Dawn
+lyonette	7ed43e0317	Interlude_Meetings_and_Friendships	+	fact	gives the [Boon of the Princess] to Numbtongue and promises Bird it tomorrow
+lyonette	b087398aa5	7.50	+	fact	is hiring eight staff from 37 applicants, hopes to add four Antinium; Ishkr's sister Liska is hired
+lyonette	814bce2967	7.53	+	fact	dreams of the early inn, the first Painted Antinium (white paw print), and Zel Shivertail as her first real guest; wakes jealous that Mrsha slept with Ryoka
+mrsha	ce53c71ae6	2.23	+	fact	a young Gnoll who found Ryoka by smell, pokes her, steals her bra
+mrsha	49b75563bc	2.28	!	event	missing since the morning gathering plants; no tracks found
+mrsha	ab03b1f1c4	2.28	+	fact	does not speak though her throat is undamaged; makes yelps and growls; light brown fur
+mrsha	6eb2cb76e5	2.29	+	fact	believes the gods are dead
+mrsha	1546603566	2.29	+	fact	chased a snow hare and met a Goblin that leapt out; both fell into a crevasse
+mrsha	2b7ec05d79	2.29	+	fact	points the way with her paw
+mrsha	deae3224f6	2.29	!	event	her brown fur turns pure white
+mrsha	5cbcd6b10d	Interlude_B02_1	+	fact	Ressa reports white fur, which Magnolia says is a portent
+mrsha	8a3e704eaa	2.32	+	fact	white fur now like snow, brown eyes, silent; her tribe's death was the price
+mrsha	8e4e33ad38	2.32	+	fact	alternates between two and four legs
+mrsha	cd9be3218d	2.32	+	fact	only the second Human she has met is Erin (Ryoka the first)
+mrsha	bc094b6392	2.32	+	fact	bites Erin's ankle and claws her; Erin throws her off
+mrsha	95c8366a9d	2.33	+	fact	eats Erin's sausage and eggs, then crepes with a fork Erin teaches her to use
+mrsha	96caf72999	2.33	+	fact	bites Brunkr and Erin punches him into a wall
+mrsha	fc8b0104a3	2.33	!	event	stays at the inn
+mrsha	f896b1c3d3	2.34	+	fact	wets herself from fear when Toren enters
+mrsha	3afcae1816	3.21L	+	fact	young Gnoll, thin, refusing food from Selys, runs away; stays with Lyonette
+mrsha	4d7f1fddf8	3.21L	!	event	chooses to stay with Lyonette at the inn over Selys
+mrsha	7d65837046	3.22L	+	fact	knocks over paint cans and stains a Soldier with white pawprints
+mrsha	0cf9bc8ab1	3.22L	!	event	stays at the inn with Lyonette
+mrsha	a165e173df	3.27M	+	fact	sleeps in Lyonette's bed, eats crepes with honey; tribe was the Stone Spears, all dead
+mrsha	363ce593db	3.27M	+	fact	has the class [Last Survivor] Level 8, Skills [Natural Concealment] and [Lesser Toughness]
+mrsha	66a833973d	3.27M	+	fact	Urksh had been teaching her to walk on two legs; she is mute
+mrsha	3363548c52	3.27M	+	fact	left Selys, "the bossy Drake", nearly a week ago; was found by the Watch earlier when she hid in alleys
+mrsha	a32ad52cd0	3.27M	~	belief	believes her white fur means the tribe's death was her fault
+mrsha	753b4734f9	3.27M	!	event	falls into the Liscor dungeon, is rescued, and calls the inn home
+mrsha	c3d2d7f419	3.41	+	fact	kisses Erin and Halrac at the mistletoe; Halrac smiles privately
+mrsha	c8ba624662	3.41	+	fact	steals a matchbox, lights a match and sells them for Octavia, collecting coins in a jar
+mrsha	bf9dadc7b5	4.07	+	fact	a white Gnoll child
+mrsha	e46cebc9b1	4.09	+	fact	smells Ryoka and tackles her on the hill; four Gnolls say she was with Krshia for lessons
+mrsha	129992cf0a	4.10	+	fact	Zel notes her fur was brown before; Ryoka says it turned white after the battle in which she lost her tribe
+mrsha	dc53ff5820	4.11	+	fact	sleeps on Ryoka's head; Ryoka wonders about her age, since Urksh talked to her like a kid, and what Mrsha's future will be
+mrsha	314c428334	4.15L	+	fact	mischievous toward Safry and trips her repeatedly at one table where nothing is visible
+mrsha	8b8d012298	4.18	+	fact	finds a chess board in Lyonette's room whose ghostly pieces reset after she scatters them
+mrsha	8d456eceda	4.33	+	fact	listless and silent after the deaths; eats pizza, lasagna, honey and eggs, and milk (the last of it); Apista the bee sits on her
+mrsha	df697fc11f	4.34	+	fact	throw lightning, thorn, tripvine, pepper, fire, Silverfrost potions at the goats
+mrsha	336489dd88	4.34	+	fact	furious and reproachful at Erin for admitting Goblins; Lyonette upset and frightened
+mrsha	e0a7a9c1dd	4.37O	+	fact	steals Pisces's wand and chews it, angry at Erin over the Goblins
+mrsha	f52608cf41	4.40L	+	fact	refuses to eat downstairs or leave; keeps Pisces's wand; carries the thought of the Stone Spears tribe and Urksh; is the [Lone Survivor]
+mrsha	cced7ace13	4.41L	+	fact	sets a broken-cup trap before the basement door; Erin steps on it and gets porcelain shards in her foot
+mrsha	5a228f3733	4.41L	+	fact	bites Headscratcher's arm until she bleeds, and thrusts the stolen wand into Badarrow's left ear, drawing blood
+mrsha	d07e69f97d	4.41L	!	event	attempts to stab Badarrow through the ear; wand falls
+mrsha	c098903d0a	4.42L	+	fact	sits with Moore and Jelaqua, who comfort her; Moore gives her a flower bud; she still does not forgive the Goblins but stops waiting for them to attack
+mrsha	8bfb69eaad	4.43	+	fact	now stays with the Halfseekers; Pisces and Mrsha play a chase game over his wand
+mrsha	3b6c349f1f	4.43	+	fact	sits with Ilvriss, drinks honeyed milk, eats soufflé
+mrsha	cbd033b856	5.00	+	fact	refuses food for days after Zel's death; Erin knew she loved Zel
+mrsha	294914726a	5.03	+	fact	plays in Bird's pillow-fort bed and in puddles with Apista
+mrsha	347fef4fd7	5.06M	+	fact	Level 8 [Last Survivor] with [Natural Concealment]
+mrsha	4d43d8804e	5.06M	+	fact	Level 2 [Gardener]; waters Faerie Flowers daily for four coppers a week
+mrsha	cea04038c7	5.06M	+	fact	Level 1 [Beast Tamer] with [Wild Affinity], lets her understand Apista
+mrsha	3f30066493	5.06M	+	fact	hates and fears Goblins because they killed her tribe; she merely dislikes the Redfangs
+mrsha	29b79fbee3	5.06M	+	fact	born mute, of the Stone Spears; her hunter parents tried to abandon her and Chieftain Urksh exiled them; Urksh raised her until Goblins killed him
+mrsha	92d02e0ec9	5.06M	+	fact	can read better than Erin; Erin teaches math, Lyonette royalty and levelling secrets, Krshia practical lessons
+mrsha	8254e3999f	5.06M	+	fact	needs a catalyst; uses Pisces's wand, which she stole back after trying to hurt Badarrow with it
+mrsha	38464c6ea6	5.06M	+	fact	casts [Grow Grass] by recalling the winter night Ryoka held her
+mrsha	220aeaef6b	5.06M	~	belief	believes her spell success proves Gnolls can learn magic
+mrsha	6cea657e26	5.06M	!	state	becomes a [Mage] Level 2, then [Druid] Level 2; [Gardener] and [Beast Tamer] removed
+mrsha	79684cf4d6	5.06M	!	state	gains [Spell - Wild Growth] and [Peace of the Wild] replaces [Wild Affinity]
+mrsha	7ede04a14f	5.06M	!	event	brings home a Creler egg; Jelaqua flips the table and Seborn stomps it
+mrsha	d161de2081	5.24L	+	fact	confined to the inn by Lyonette unless supervised; pranks Ksmvr with water
+mrsha	ab02d16593	5.27	+	fact	cannot speak; Erin states she is a survivor of the Stone Spears tribe
+mrsha	bdb15ffe71	5.38	+	fact	sent to sleep at Octavia's in Celum through the magic door; Erin refuses to leave her inn
+mrsha	0c69636978	5.38	!	event	taken by the Raskghar to Calruz's lair
+mrsha	63b2e096ae	5.39	+	fact	shackled in a cage, remembers Lyonette's wrist broken and Apista struck down; an old Gnoll calls her Doombringer and says the Gnolls turn from her
+mrsha	3a0b43119c	5.42	+	fact	has a keen nose, can smell Calruz's mood flip faintly before his rages, and cannot speak
+mrsha	5f39a9475f	5.42	+	fact	Ceria tells Calruz she is mute from birth; Elirr says white fur appears around disaster
+mrsha	5241120763	5.42	!	event	is carried off with the other prisoners as the camp is attacked
+mrsha	8502176470	5.43	+	fact	smashed to the floor by an awakened Raskghar after she throws poo at him, injuring her ribs
+mrsha	34d68fe755	5.43	+	fact	finds Ceria's wand, uses [Grow Grass] and [Wild Growth] to crack shackles, and frees twenty-seven shackles over the day before fainting with a nosebleed
+mrsha	6e0024744f	5.43	+	fact	is identified as a [Druid] in her own thoughts and knows only two spells
+mrsha	a331d128a0	5.43	!	event	first casts through a wand, frees the Gnolls and howls, escaping with Elirr
+mrsha	781dc58222	5.44	+	fact	howls and runs with Ceria's wand in her mouth, drawing Nokha and eight Raskghar after her and saving the Hobs
+mrsha	1ca2862674	5.44	+	fact	conjures a grass snare with the wand that briefly catches Nokha's foot
+mrsha	cb06cbc653	5.44	+	fact	rescued and held by Lyonette; Moore collapses wounded
+mrsha	0889e407f7	5.45	+	fact	dreams Nokha pulls Vakk's head from her chest and says "We are whole, Mrsha"
+mrsha	f2d588a34b	5.45	+	fact	also levelled and gained a Skill she keeps secret; sleeps with Pisces' wand under her pillow
+mrsha	d768fe9f16	5.45	!	event	smiles at last in the sunlit field, free
+mrsha	b77bcf7460	5.49	+	fact	given a drop of Faerie Flower nectar in her bedtime milk to ease nightmares
+mrsha	5ebd3bc462	Interlude_Krshia	+	fact	shows Krshia and Elirr she can cast with Pisces' wand a spell that grows grass between floorboards and then taller
+mrsha	f0df11713f	Interlude_Krshia	+	fact	can read Ryoka's spellbook as a [Mage] and picked a spell after about sixteen minutes; later cannot read another; the book is genuine
+mrsha	22dc281cfc	Interlude_Krshia	+	fact	finds the collective light weightless and throws it into the sky; it burns eight minutes as a star over Liscor
+mrsha	a3eb898d5c	Interlude_Krshia	!	event	confirmed able to cast magic and read spellbooks
+mrsha	a001b68b40	5.59	+	fact	throws on Dawil's food; Dawil roars at her
+mrsha	ce8fbac90c	6.03	+	fact	reads Krshia's spell book until her nose bleeds; reveals a concealed wand that sprouts grass from the table
+mrsha	ab8fab3a34	6.08	+	fact	invents her own signs, mixing human sign language with Gnoll tells; Lyonette learns new ones such as "tracking"
+mrsha	b784e47021	6.28	+	fact	six-year-old Gnoll cub, mute, signs; fears heights and cartwheels; wears a small pouch, carries a wand and has been casting a growth spell that keeps the hilltop grass lush
+mrsha	ef317b4321	6.31	+	fact	signs good morning with paw gestures; carries plate and cups on two legs
+mrsha	8db1fd45f0	6.38	+	fact	has the Skill [Natural Concealment]
+mrsha	df3d9b5893	Interlude_Two_Rats	+	fact	Level 4 Druid; learned [Thorn Paw] from Moore in two days and can grow thorns from her paw
+mrsha	ef33bf3c8c	Interlude_Two_Rats	+	fact	signs with her own paw gestures known to Erin, Lyonette, Numbtongue and Moore; cannot speak
+mrsha	5115698788	Interlude_Two_Rats	+	fact	believes she is six, though by Plains Gnoll reckoning she is seven; Erin promised a birthday party with cake
+mrsha	425d52f4cd	Interlude_Two_Rats	+	fact	tackles Ulkel and stabs his leg with a thorn, then fetches Zevara by miming horns
+mrsha	dc940a0337	Interlude_Rufelt	+	fact	given carrot juice with sugar by Rufelt at the bar
+mrsha	38bc3d9ec2	6.49	!	event	granted Liscor citizenship; Numbtongue offered a provisional entry permit
+mrsha	233c276db6	6.51A	+	fact	tries to steal Pisces's eggs using [Natural Concealment] and is foiled by his telekinesis
+mrsha	79f3b3164e	6.58	+	fact	communicates in sign and has Skills that make her hard to spot; smells the Horns' blood on the mages
+mrsha	676ddc87b7	6.59	+	fact	hides under Pisces's bed with his old wand and a yellow flower; he apologizes and they hug
+mrsha	a4eef307eb	6.61L	+	fact	is under strict orders from Lyonette not to leave the roof or run about; was frightened by the stage play The Shining
+mrsha	a3e077a19d	Story_1_Mrsha_and_Relc	+	fact	stabs a baby Rock Crab with Relc's knife and is pinched by its claw before Relc kicks it dead
+mrsha	1475edae86	Story_1_Mrsha_and_Relc	+	fact	refuses a healing potion and keeps the scar as a mark of pride
+mrsha	c9fa88efbb	Story_1_Mrsha_and_Relc	+	fact	keeps a polished Rock Crab claw trophy until Lyonette makes her throw it away, which leads to a tantrum and a stay at Relc's apartment
+mrsha	23771b3f9d	Interlude_Queens_and_Dragons	+	fact	attacks Relc in play; Relc compares her to Embria
+mrsha	f0b2387b2b	7.06	+	fact	has a magical tome from Ryoka at Krshia's apartment; knows six spells all tied to plants or earth; is actually a [Druid], not a [Mage]
+mrsha	108917e704	7.06	+	fact	Level 5 [Druid] and Level 9 [Last Survivor], formerly [Young Hunter]; has [Natural Concealment]
+mrsha	9624f811c9	7.06	+	fact	receives Apista's tone of fear and a brief vision of darkness, stone and little air
+mrsha	f1a77d2d49	7.06	+	fact	knocks the cake off the counter while using her Skill; panics, hides, then flees through a second door in a guest room
+mrsha	7d7bfdaf4b	7.06	+	fact	finds herself in a shaded wild garden, the [Garden of Sanctuary]
+mrsha	07001fc30e	7.06	!	event	disappears from the inn through a strange door into the [Garden of Sanctuary]
+mrsha	f557023306	7.07	+	fact	[Scry] on her name fails for both Chaldion and Grimalkin, while Krshia's name scries fine
+mrsha	44fe61dff0	7.07	+	fact	fled from Lyonette over the cake incident and went through a new door; was gone two hours; mute, communicates in personal sign language
+mrsha	7bb29ccd64	7.07	+	fact	sees Brunkr's statue first, runs away crying; wants to level up and wishes she could see Urksh and her tribe
+mrsha	7a306c403c	7.07	!	event	is the first to find the garden door
+mrsha	732001a15b	7.11	+	fact	signs with Numbtongue and Bird, wants to play, forms the Mrsha Adventuring Team; "Toss the Mrsha" ends when Lyonette scolds them
+mrsha	3bd9fa3383	Interlude_Chocolate_Gold	+	fact	owns three other balls from Krshia, Elirr and Lyonette; visits Selys' new home with Ekirra and Visma
+mrsha	7bc8e5d3f2	Interlude_Chocolate_Gold	+	fact	realises Selys' wealth can hurt others and hides her ball in a pan in a cupboard
+mrsha	51275d766f	Interlude_Chocolate_Gold	!	event	first time she doubts that having rich Auntie Selys is good
+mrsha	18a1e394c8	Interlude_Chess_and_Ships	+	fact	overhear Erin curse and Ekirra repeats "Damn!"
+mrsha	8e0c228b82	Interlude_Lifting_Ants	+	fact	finds Bird hiding in a hatch under a basement stone in the inn, leading to an Antinium tunnel that slopes down to the Free Hive
+mrsha	b3f535eade	Interlude_Lifting_Ants	!	event	attacked by the Hive's Soldiers and Workers who click mandibles; Bird stabs a Soldier with a hunting knife, an Aberration
+mrsha	f4bc07bb52	7.19	+	fact	[Druid] who senses Apista's unhappiness, which comes from the Ashfire Bee Hive trapped in a cave sealed by Moore's wall, where bees fight "knaves" from below
+mrsha	42daf5b760	7.19	+	fact	reaches [Druid Level 7!] and gains [Ambient Mana Gatherer]
+mrsha	25326884f0	7.19	!	state	levels to Druid 7
+mrsha	b490c5da54	7.25	+	rel	serves goat's milk to refugees; Pawn comforts them and Drassi runs the door
+mrsha	b338c5b956	7.26	+	fact	her blessing is gone because Lyonette gave it to someone else; Octavia's alchemy then succeeds from Lyonette's blessing
+mrsha	4b6dee0ff8	7.26	+	fact	runs from the inn, is caught by wind Ryoka calls and carried back; says by sign "You are not forgiven" and "I'm happy you're back"
+mrsha	8a0b4ec147	7.28	+	fact	opens the magic door into Ryoka's room as a prank, exposing Ryoka and Relc to Erin, Lyonette and Embria
+mrsha	1cc48a0c1a	7.28	+	fact	sneaks to her cave, finds Shield Spiders have overrun the Fortress Beavers and the Healing Slime is gone; fights with Moore, Numbtongue, Apista and the Halfseekers
+mrsha	4c8d7f3c6e	7.28	+	fact	gains [Druid] Level 8, [Natural Allies: Fortress Beavers] and [Natural Gift: Fur of the Fortress]; keeps eight Fortress Beavers in the Garden of Sanctuary
+mrsha	b2722a8fd5	7.28	!	event	moves the Fortress Beavers into the Garden of Sanctuary
+mrsha	08c5c62494	7.30	+	fact	paw-painting taught by Erin; one-hour limit on electronics
+mrsha	980e1c7132	7.31	+	fact	[Druid]; the last Fortress Beavers (Defenders of the Cave) now live in the Garden of Sanctuary; she feels responsible for them
+mrsha	bdf672df13	Interlude_A_Meeting_of_Druids	+	fact	climbs into a compartment drawer and is crushed back to normal size; the Skill does not hold living things
+mrsha	2771051e0e	Interlude_A_Meeting_of_Druids	!	event	realizes she is a [Druid] like Nalthaliarstrelous and Shassa
+mrsha	124705d8fe	7.34C	+	fact	puts centipedes in Rose's pillow; punished with dishwashing and no dessert
+mrsha	075cc045f7	7.37	+	fact	writes in formal cursive letters (taught by Lyonette), then uses prewritten insult cards after Eldavin's advice; Maviola dunks her head in water
+mrsha	560ffc7168	Interlude_Meetings_and_Friendships	+	fact	[Druid] using [Fur of the Fortress]; previously with the boon had [Barkfur] and [Lesser Strength]
+mrsha	496dde1028	Interlude_Meetings_and_Friendships	+	fact	go fishing at a pond in the High Passes with Apista, calling themselves the Bee Rescue Team
+mrsha	11a2b6d111	7.50	+	fact	wears a cotton shirt and a plaid kilt, the only outfit she would accept; later tears it off and is chased by Erin
+mrsha	4a57a861d5	7.50	+	fact	signs more than she writes; her sign language is her own design, improved with Earthers' help
+mrsha	f9ad9a51c5	7.52	+	fact	signs Raskghar (a biting claw on a heart) after a squabble with Visma over the silver ball; Erin promises no one will hurt her
+mrsha	f83cab4481	7.53	+	fact	signs and writes notes, wears a kilt, has a card introducing herself and asking not to have her head patted
+redfang warriors	bc166fea5f	3.17T	+	fact	thirteen elite warriors over Level 10 under Hobgoblin Grunter; includes Badarrow, Headscratcher, Bugear and Rocksoup; sent by Garen Redfang to kill a Human [Innkeeper]
+redfang warriors	795c7b005c	3.17T	+	fact	decide to go back to Rags, are lost, head toward Liscor, unaware the tribes have gone north to Invrisil
+redfang warriors	16e2405c9e	3.17T	~	belief	claim Rags is friendly with a Human who often stays at an inn
+redfang warriors	f710e7e21c	3.17T	!	event	flee the Goblin Lord's war band and run into Esthelm
+redfang warriors	fb11ece98e	3.18T	+	fact	others in the band named Leftstep, Rabbiteater, Numbtongue; kills a man attacking a child; plan to ambush the army in the ruins
+redfang warriors	e0e6b6e970	3.18T	+	fact	call her a Ghoul; Headscratcher deduces the skeleton is Erin's sleigh-puller and the girl might be the [Innkeeper] Garen wanted dead
+redfang warriors	b5027322f3	3.18T	!	event	decide to disobey Garen and protect the possible innkeeper, choosing to follow Rags
+redfang warriors	53155f25d1	3.19T	+	fact	clean a burned building, build a fire pit, cook human and Goblin corpse flesh into a soup with flour, carrot and pepper
+redfang warriors	e36ad910d2	3.19T	+	fact	share soup and laugh when she tosses a pebble that lands in Grunter's bowl
+redfang warriors	16dbad617a	3.19T	!	event	kill about half of the first Goblin Lord's group and flee; thirteen face twenty-five
+redfang warriors	a849841b93	3.20T	+	fact	use a healing potion on Grunter's belly; his broken arm splinted by the Horror
+redfang warriors	739f95bc4b	3.20T	~	belief	concedes they are not heroes and will not die for humans; the Horror disagrees
+redfang warriors	47f6d8ffec	4.33	+	fact	six surviving Hobgoblins Rabbiteater, Bugear, Numbtongue, Shorthilt, Badarrow, Headscratcher; sent by Garen Redfang; grew into Hobs within a week after losing Grunter
+redfang warriors	2fa34cff37	4.33	+	fact	dead companions named Grunter, Rocksoup, Leftstep, Bitefly, Orangepoo, Patchhelm, Justrust
+redfang warriors	3d6afc208b	4.33	~	belief	think Garen Redfang is wrong and an idiot; Rags is rightful Chieftain
+redfang warriors	64f6576509	4.34	+	fact	Headscratcher (shortsword), Badarrow (bow/dagger), Shorthilt, Rabbiteater, Numbtongue; never weep because Garen Redfang disapproves
+redfang warriors	8143b8c704	5.00	+	fact	Hobgoblins living in the inn basement; Headscratcher and Shorthilt named
+redfang warriors	7a41a8dfae	5.03	+	fact	saved Erin from Eater Goats
+redfang warriors	9ba798bba8	5.03	+	fact	five Hobs with crimson eyes sleep in the basement
+redfang warriors	25dc119476	5.03	!	event	moved from the basement toward rooms on the third floor
+redfang warriors	8f212d1008	5.04	+	fact	wear white "Security" armbands as employed guards
+redfang warriors	6dc6aaaa19	5.04	+	fact	application for authorised Bronze-rank team: Headscratcher, Badarrow, Rabbiteater, Numbtongue, Shorthilt; four [Warriors], one [Archer]
+redfang warriors	ccaafc4ab9	5.04	!	event	publicly employed as guards, allowed to walk about openly
+redfang warriors	92548dfca3	5.07	+	fact	spar at dawn every day on the hill outside the inn
+redfang warriors	6ec7da9398	5.08	+	fact	hold the third floor; Headscratcher recognises and throws alchemist's fire; Numbtongue is bitten
+redfang warriors	67c08da5ad	5.14	+	fact	grieve their lost tribe; Headscratcher punches walls and Rabbiteater lets him punch him
+redfang warriors	901af1bbff	5.14	+	fact	names of the eight dead on their mission: Bugear, Justrust, Orangepoo, Bitefly, Leftstep, Patchhelm, Rocksoup, Grunter; five survivors out of thirteen
+redfang warriors	a978199967	5.14	+	fact	mission was to kill Erin on Garen Redfang's order; Numbtongue thinks it was a mistake
+redfang warriors	86c485e7d2	5.14	+	fact	want to return to their chieftain Rags; Redscar was Garen's second-in-command; Grunter was their older Hob leader
+redfang warriors	cd073dccfd	5.14	+	fact	swim to the rift, dive weighted with rocks into the dungeon seeking the treasure and strength
+redfang warriors	0c67b11878	5.14	!	reveal	leave the inn secretly and enter Liscor's dungeon
+redfang warriors	ad820b01dc	5.15	+	fact	carry stolen healing potions, smoke bag (Ryoka's design), stink potion, bedsheet, hemp bags; two healing potions each
+redfang warriors	47f24b3f3c	5.15	+	fact	none past Level 20; Garen made them train hard
+redfang warriors	e77827a035	5.15	+	fact	carry out the three artifacts in separate hemp bags after the trap breaks
+redfang warriors	851e8c4515	5.15	~	belief	fear the head-collector may still be alive
+redfang warriors	caf597cae8	5.15	!	event	obtain three dungeon artifacts
+redfang warriors	314e25ebec	5.27	+	fact	five named by Selys's briefing include Numbtongue, Headscratcher and Rabbiteater
+redfang warriors	5cc9881381	5.27	!	state	become a Bronze-rank adventurer team
+redfang warriors	4c3b3b1021	5.36	+	fact	decide to kill her by arrow, because Goblins keep no prisoners and letting her go risks the Raskghar learning too much; they do not want to
+redfang warriors	faaca2cf79	5.36	+	fact	Goblins do not betray their tribe, but the Cave Goblins' rulers are the Raskghar
+redfang warriors	291f101c57	5.40	+	fact	descend into the dungeon the same day
+redfang warriors	b395bcab8c	5.41	+	fact	Headscratcher, Shorthilt, Badarrow, Rabbiteater, Numbtongue; Shorthilt alone keeps an iron sword
+redfang warriors	1a4c62dd12	5.49	+	fact	saved 33 Gnolls before the final raid, worth 2,000 gold each (66,000), but are ruled registered only after the battle, voiding the claim
+redfang warriors	8b008f3dd5	5.49	+	fact	want weapons and armour with the money; care nothing for gold itself
+toren	8555df2d6a	1.35	+	fact	the skeleton is named Toren (rook), also called Tor; it is Level 2 and has [Sword Fighting – Basic]
+toren	64006966c6	1.35	+	fact	kills and chops up big flat killer fish, which have crushing strength, sharp teeth and sharp scales
+toren	44172eaa79	1.36	+	fact	Level 2 skeleton, Erin's inn staff
+toren	f09b6041fd	1.39	+	fact	blocks the kitchen to let Erin sleep; walks gracefully for a skeleton
+toren	881baf3a4f	1.39	+	fact	Level 3 [Skeleton Warrior], can level only via [Barmaid]
+toren	e94c9b731d	1.39	+	fact	understands Goblin speech since the dead speak a universal language
+toren	68172b0252	1.39	+	fact	sits down to play chess with Rags
+toren	49ddfd95d5	1.40	+	fact	plays chess but without spark; Workers and Rags learn faster
+toren	5cfa5a6d5d	1.42	+	fact	swept up and decapitated by an Antinium Worker outside the inn
+toren	2c003a1153	1.44	+	fact	blinds one of Skinner's eyes and takes the red gem
+toren	9b39d19087	1.45	+	fact	Level 11 and thinking more clearly
+toren	7ad6f337ec	1.45	+	fact	hides the red gem from Skinner in his skull with roofing tar
+toren	569e663581	2.02	+	fact	carries blue fruits and water; Zevara and Klbkch draw swords until Erin intervenes
+toren	eb3b6da04f	2.04	+	fact	picks up a new sword
+toren	593d52136e	2.08	+	fact	clears snow around the inn and digs the inn out
+toren	60f6e1a060	2.10	+	fact	built an eight-foot wall of packed snow around the inn overnight
+toren	ed1dd388f5	2.00T	+	fact	Level 11 [Skeleton Warrior]
+toren	a460e36b75	2.00T	+	fact	created by Pisces, whose binding orders are to protect and obey Erin Solstice and to be used in less-optimal tasks
+toren	de5ccc6c43	2.00T	+	fact	remembers exactly three things: his creation orders, a voice from the south, and music
+toren	fc79a5968c	2.00T	+	fact	survives smashing because Erin supplies him mana, but it is very little
+toren	2e5aad6ec2	2.00T	+	fact	bones include human, Drake and Gnoll
+toren	965c35c804	2.00T	+	fact	has [Lesser Strength]
+toren	ffdaf5a0b6	2.00T	+	fact	can understand every language, including the fairies'
+toren	0547d17b70	2.00T	+	fact	sees the Frost Faeries as blurs
+toren	89bd21e9b7	2.00T	!	event	Erin cries and tells him "Go away"; he first understands that she is sad
+toren	c5b46a5fef	2.00T	~	belief	music in his mind is a song Erin sang, about a place beyond a rainbow
+toren	efb5484782	2.00T	+	fact	has been ordered by Erin not to kill many species; thinks of the shadowy human following Ryoka
+toren	b3b8572f6a	2.00T	+	fact	resolves to return and become stronger
+toren	5569c5a1a0	2.00T	!	event	falls through a hole into a magical ruin about four hundred feet down with runes on the walls
+toren	a824d15d8d	2.00T	!	event	seats Skinner's gem inside his skull; his eye flames turn purple
+toren	ad2ff7ee08	2.00G	!	event	bursts from the rift pursued by the headless glowing armor; his eyes burn purple; the Goblins flee
+toren	81adba9958	S01_Mating_Rituals	+	fact	dusts the inn and sees Erin holding the replicas; she throws one at him
+toren	37d44371d0	2.01G	+	fact	purple flame eyes; understands Goblin and answers by gesture and drawing; smarter than he acts
+toren	c8a4f62e2c	2.01G	+	fact	struck a bargain to guide Rags into the dungeon in return for being taken home
+toren	8ab1be0569	2.19	+	fact	brings a bag of coins from cleaning up after the concert
+toren	31b62cd8d5	2.20	+	fact	resents inaction; feels something like resentment and doubts Erin's orders for the first time
+toren	5be9ccb4a5	2.20	+	fact	was sent out of the inn by Erin the night before and waited until morning
+toren	50d0a1a972	2.20	+	fact	killed a Shield Spider with a rock and got venom for Erin; failed to destroy the armor in an hour
+toren	caf661ef74	2.20	+	fact	decides to go level up because Relc threatened Erin and she signaled him to stand down
+toren	c4d739abc1	2.01T	+	fact	Level 14 [Skeleton Warrior] with [Weapon Proficiency: Sword], [Lesser Strength] (from [Warrior] 10) and [Conceal Presence]
+toren	2cf3b7534a	2.01T	+	fact	can freeze in place and creep until he blends into a room, then gets sent out by Erin; he did this deliberately
+toren	94ba1c7542	2.01T	+	fact	runs without tiring; cannot speak
+toren	b7ca547f66	2.01T	!	state	[Skeleton Warrior Level 16!] and [Skill – Even Footing Obtained!]
+toren	fd9d7d1979	2.01T	+	fact	roughs up the girl when Erin isn't watching, deriving enjoyment from it
+toren	e19335fd2f	2.01T	+	fact	kills ten grey-pelted Goblins from the south, a wolverine, and a second Corusdeer; the herd's steam-and-snow charge burns him, his gem of [Terror] makes them flee
+toren	1d7ba246e0	2.01T	+	fact	carries a small hatchet taken from dead adventurers in the Ruins and throws it
+toren	298ff02fbc	2.01T	!	event	uses gem of [Terror], steam from Corusdeer horns, and his sword to kill Kelthor; then an arrow from Halrac shatters his skull
+toren	c038456e25	2.01T	!	state	[Skeleton Knight Level 20!], [Skill – Power Strike Obtained!], [Skill – Weapon Proficiency: Shield Obtained!], [Skill Change – Power Strike → Mirage Cut!], [Skill – Mirage Cut Obtained!]
+toren	ebf50160c1	2.01T	!	event	dons the dented bronze armor and takes the shield
+toren	62425778a4	2.01T	!	event	sees Gnolls and others fighting at the inn and charges
+toren	8f7687d74d	2.21	+	fact	punches and kicks Lyonette when she orders him, "Thing, I order you to"; only Erin gives him orders
+toren	7c9445eb75	2.21	+	fact	pokes Lyonette 158 times and then with a knife to force chores after Erin forbids hitting
+toren	f3b832fca9	2.21	+	fact	pushes Lyonette into a Shield Spider nest, then scares the spiders off with his gem of [Terror]
+toren	d5ab47db7c	2.22	+	fact	wearing bronze armor and helmet, stabs a Gnoll, is shot through the skull by Halrac and reassembles
+toren	88c910f68d	2.26	+	fact	Erin says a red gem in his head made his eyes purple, and they stayed purple after it broke
+toren	e15ded363b	2.27	+	fact	purple eyes frighten Lyonette; he picked up one of Skinner's red eyes after the battle
+toren	167d1cf3a0	2.32	+	fact	ordered to stand still by Erin and frozen until released
+toren	d8d4b52fa4	2.32	+	fact	roams the snow outside hunting and killing at night
+toren	b65ce0e298	2.34	+	fact	returns at dawn with battered bronze armor, a notched sword and blood on the blade
+toren	020771688d	2.35	+	fact	resents the harness and bells and pulls the sledge as fast as Erin can jog
+toren	26b9cdb075	2.36	!	event	breaks his obedience by snapping the bell and abandons Erin in the north
+toren	63af4084e9	2.36	!	state	becomes a [Skeleton Knight] killing travelers and heading for the Liscor dungeon
+toren	934e29eba1	2.36	~	belief	believes the binding magic blocks harming Erin directly
+toren	9d872aab31	3.15	+	fact	skeleton, not yet sighted by any city; Erin worries and needs Pisces
+toren	d6f1c8b31b	3.17T	+	fact	[Skeleton Knight]; left Erin in the snow; purple flame eyes from a gem taken from Skinner that grants [Fear]
+toren	71c8a5cfdc	3.17T	+	fact	regenerates, even from Corusdeer horn crushing; wears battered bronze armor; has skill [Mirage Cut]
+toren	3b1bfa5f80	3.17T	+	fact	kills travellers to level; makes a kill list including the bees, Lyonette, Ryoka (dislikes her long shinbones), bells and sleigh
+toren	eefe40702e	3.17T	+	fact	haunted by music he heard in Erin's inn; hits himself to silence it
+toren	f41a6ae251	3.17T	+	fact	wants to equal Griffon Hunt, especially the [Scout] who shot him in the head
+toren	282e07b7a4	3.17T	+	fact	killed again after losing an arm to a halberd Goblin leader; bones stomped and left; reassembles
+toren	5ee2117df1	3.17T	!	state	enters Esthelm to kill Goblins, undead and Humans for levels
+toren	e87cde4666	3.18T	+	fact	uses [Fear] on a woman, stabs and beats the Horror girl until Goblins save her
+toren	3d4b6bb2d9	3.18T	+	fact	mana running low; fears a final scattering would end his animation; lost his sword in the fight
+toren	6d9595aadd	3.18T	+	fact	attacked by a Ghoul in the sewers; zombies drag it off and obey him
+toren	4b2aafb3fb	3.18T	~	belief	believes the zombies helped because he called for help or his eyes or his making
+toren	80e2fa9662	3.18T	!	state	gains [Leader] Level 1 and [Skill - Command Lesser Undead], commanding six zombies
+toren	7a3a2146bd	3.19T	+	fact	commands zombies to run, which makes them fast and lethal; kills a gang of eight and takes an iron short sword
+toren	9325aee8cb	3.19T	+	fact	reaches [Leader] Level 4 and gains [Skill - Daring Charge]; eight zombies under his control; his [Fear] does not work on Goblins
+toren	78f0fc5378	3.19T	+	fact	unable to give precise orders, only move and attack; cannot command a horde, only herd it
+toren	7a58bcde14	3.19T	!	state	kills a Goblin kill team of twenty with zombies and gains a sword and shield
+toren	2fb2e2a208	3.20T	+	fact	herds zombies in groups of fourteen who sprint to flank Goblins and exposed barricades
+toren	11958b2fb4	3.20T	!	event	cut in two by the Redfang Goblins and later flees with thirteen zombies and a Ghoul toward Liscor
+toren	88063e14e3	3.24	+	fact	reported on the road killing travelers (over twenty), and at Esthelm leading the undead with purple eyes
+toren	b0b6b94311	3.27M	+	fact	guttering purple eyes, hates Mrsha, chases her to the rift, then hesitates
+toren	265dd13fcd	4.08T	+	fact	felt the mana connection to Erin vanish while approaching Liscor with undead taken from Esthelm, and realized he was dying
+toren	9c40d4f6a1	4.08T	+	fact	kept alive by taking mana from the zombies and ghouls he commands with [Command Lesser Undead], who fell lifeless
+toren	0e72e37410	4.08T	+	fact	reached the dungeon crevasse where Mrsha tumbled in; he climbed down, fell and fractured several bones; the dungeon's ambient mana can fill him enough to reassemble himself several times
+toren	db273befd7	4.08T	+	fact	believes Erin is dead because the link is gone; recalls leaving her near a cave with a sleeping bear and throwing rocks at wolves
+toren	aae9ef7cef	4.08T	+	fact	first time he sees death as bad; chooses not to seek oblivion because he fears what the dead look like and wants to live
+toren	7986384a7c	4.08T	+	fact	a thrown rib flies back to his body; he senses mana in his bones and finds four concentrated bones (second-lowest left rib, right tibia, left clavicle, fourth rib from top on right), two ribs and the tibia shorter than their pairs
+toren	cd54a4a91a	4.08T	+	fact	can sense where mana is concentrated without having the [Mana Sense] Skill, realizing one can have a skill that is not a Skill
+toren	73a8094e4b	4.08T	+	fact	recovers a dulled iron longsword with a cracked crossguard
+toren	333523a35d	4.08T	+	fact	lures about two dozen Shield Spiders over the rune trap, which makes them burst; he does this to eight more until the trap is spent and sees its magic slowly replenish
+toren	5b647939b0	4.08T	+	fact	opens the door, returns in ten seconds and flees pursuing things that do not follow far
+toren	24ce78507e	4.08T	+	fact	finds twelve dead adventurers; takes a brown cloak from a throatless woman, her clothes, leather armor and a smashed mirror
+toren	2de203101a	4.08T	+	fact	pads clothes with rags and leather, makes a face mask from Shield Spider carapace and web, and dims his purple eye flames to nothing; he refers to the disguise as "she" from here on
+toren	3d54146e94	4.08T	+	fact	shoves Insill back from a hidden rune trap only he can see; Anith says magic may have nullified Insill's Skill
+toren	2ea3060754	4.08T	+	fact	tries to copy Pekona's dance and cartwheels into a wall
+toren	eea855a43d	4.08T	+	fact	uses [Daring Charge], grants strength and speed not momentum, and [Fear] with her eye flames to kill the mace-wielder
+toren	15c7c78ab4	4.08T	+	fact	Pekona demonstrates her style and Toren memorizes it in minutes by never blinking and not forgetting
+toren	18aebe8da6	4.08T	+	fact	lifts the shrieking mace with [Lesser Strength] but declines it; the team offers her the share
+toren	1314296ac7	4.08T	+	fact	lets the adventurers live for the first time and feels like Erin
+toren	fcb523983c	4.08T	!	state	believes Erin is dead and blames himself
+toren	0a9596f237	4.08T	!	event	discovers he is composed of multiple skeletons
+toren	e8a2c3bfce	4.08T	!	reveal	first donned clothing and a mask, adopting a female-presenting disguise
+toren	ff64880ff4	4.08T	!	state	first joins a team and spares living people
+toren	7c1e81e0d9	5.04	+	fact	sits below the chasm under an invisible barrier that keeps rain from the dungeon; the dripping annoys him
+toren	b718f0ce32	5.04	!	event	puts on a mask and the narration switches to "she"/"her"
+toren	e0dccdf1a4	5.05	+	fact	skeleton; Level 24 [Skeleton Knight], Level 2 [Barmaid], Level 4 [Leader], Level 5 [Tactician], Level 3 [Sword Dancer]
+toren	1c40e52331	5.05	+	fact	cannot leave the dungeon because her skeleton body burns more mana than outside air provides; a master or [Mage] supplying mana would let her roam
+toren	79b363717e	5.05	+	fact	has two personalities, male Toren (shield, wooden buckler, sword, hates the mask) and a female self who wears the mask and cloth wrappings and was the first to claim the [Sword Dancer] class
+toren	33adf0482b	5.05	+	fact	remembers serving Erin and tricking her to die in the snow, believes Erin is dead
+toren	74b0b0a533	5.05	+	fact	Skill [Command Lesser Undead] reanimates lesser corpses, but monsters devour corpses; created a poisonous mouse zombie
+toren	ab954de3e4	5.05	+	fact	plays dead by disassembling; enchanted armor patrols, Flesh Worms, Crypt Lords, Golems, Cave Goblins and a Minotaur live in the dungeon
+toren	a4f57d3201	5.05	+	fact	has built a crude inn in a four-door room with a bar, armor-metal cups and a barrel of maggot-guts soup
+toren	13681d0f20	5.05	+	fact	tries on names for her female half including Torina, Sans, Papyrus, Lieutenant Bones
+toren	7406b3e252	5.05	+	fact	communicates by gestures; Anith suspects a [Doomseeker]
+toren	41ef30cc49	5.05	!	state	gains an enchanted sword from Vuliel Drae and joins them
+toren	9513e552cf	5.29	+	fact	purple-glowing eyes in a crude patchwork mask, silent, weightless, fights Raskghar and Cave Goblins
+toren	1982b64575	5.39	+	fact	collects dead Raskghar bodies to bring to his inn
+toren	46b9669835	Interlude_B09_1	+	fact	collects thousands of dead bodies in the dungeon amphitheater to raise as undead
+toren	5430325093	6.48T	+	fact	keeps a crude fake inn in the dungeon with a zombie dressed as Erin, whom he stabs and orders about; he has killed things 20,651 times and is bored of it
+toren	24c0d05110	6.48T	+	fact	cannot go above because he has no living person supplying mana and would run out in minutes; in the dungeon his body repairs itself
+toren	7b0001976c	6.48T	+	fact	Level 27 [Skeleton Knight]; Level 12 [Undead Leader] with [Command Lesser Undead] and [Raise Corpse]; masked persona is a Level 13 [Sword Dancer]
+toren	af669a98c6	6.48T	+	fact	kitchen door hides about 4,300 corpses (Raskghar, Human, Goblin, Drake, Gnoll) that became 8 Crypt Lords, Ghouls, zombies and a flesh-pit he cannot command
+toren	126af9d295	6.48T	+	fact	sees in the Crypt Lord's mind a future of a world emptied of life and concludes undead are idiots
+toren	98b639b5c0	6.48T	+	fact	the masked persona wears clothes and a mask, explores, is ignored by half the monsters, and follows a Flesh Worm's undead escort into the enchanted armor's inner territory with forges, an armory and an Armor General on a pedestal
+toren	f089aba016	6.48T	+	fact	the persona saw two four-armed Antinium Soldiers, last of a suicide raid, waltz in a corridor before Facestealer beheaded them; she later hunts the Raskghar Nokha, who now has a magic sword and a cough
+toren	0e3ba0be3e	6.48T	!	event	persona and Toren cooperate for the first time to rescue Insill from the flesh-pit
+toren	834dca3dfe	6.48T	!	event	collapses on hearing "The Wandering Inn" and "Miss Solstice" mentioned
+toren	7f2fdaad37	6.62L	+	fact	skeleton [Undead Leader] in the dungeon, overhears the name Erin Solstice from Bevussa and Keldrass, shatters Erin's mask, and leads a Crypt Lord and ghouls upward to find her
+toren	0be997b405	6.62L	!	event	breaks the Erin mask and decides to go above
+toren	6f8dfe122b	6.65	+	fact	wears a mask and clothing to ambush Bevussa, stabs her in the stomach with [Fear], and leads Ghouls and Crypt Lords out of his fake inn through the dungeon, then climbs a rope out and cuts the ropes
+toren	2403b5b874	6.65	+	fact	watches the inn from outside as the Watch surrounds it
+toren	981dec364c	6.67	+	fact	waits as a skeleton in the kitchen doorway and spreads his arms to welcome her
+toren	0ea253a8c3	6.67	!	state	returns to the inn
+toren	1b6aa5edca	6.68	+	fact	waits in the damaged inn, which is full of mana; he cannot speak and Erin cannot hear his thoughts
+toren	a11ae20c45	6.68	+	fact	strangles Erin after she is silenced when using [Loud Voice]; she stops moving and is revived
+toren	862ef22892	6.68	+	fact	makes a heart gesture with his hands, breaks it in two, and removes his own skull
+toren	e79c91db37	6.68	~	belief	believes Erin hates him and always wanted him dead
+toren	9e835117b7	6.68	!	state	removes his own skull and goes dead; Ijvani takes his remains
+toren	5438d4b039	7.01	+	fact	Erin pieced together a masked woman in the dungeon and Numbtongue's encounter with a skeleton at Esthelm, and feels guilty for killing people and for not seeing him as a person
+toren	36cc0e2c77	7.14T	+	fact	kept as a skull in a unique bag of holding filled with death essence after screaming at Ijvani; Ijvani pulled him out and spilled his bones on the floor
+toren	f532d1795f	7.14T	+	fact	his spell is a unified diagram inside every bone with over a hundred thousand lines and a blank space at its center; Az'kerash reads this as the answer to sentient, leveling life
+toren	b31c99a206	7.14T	+	fact	Appraised as [Skeleton Knight] 28, [Sword Dancer] 13, [Undead Leader] 14, [Tactician] 6, [Barmaid] 3
+toren	20a86bb642	7.14T	!	event	now a captive in Az'kerash's castle
+toren	15d103b0ea	Interlude_Meetings_and_Friendships	+	fact	cleans the castle with a broom, is bullied by the Chosen, has [Limited Regeneration] and can throw his arm like a Dullahan
+toren	e366cdba50	Interlude_Meetings_and_Friendships	+	fact	hides a shrunken Healing Slime (a pet Ijvani neglected) in a closet and feeds it scraps; they become friends
+toren	19b65e10d4	Interlude_Meetings_and_Friendships	!	event	befriends the slime

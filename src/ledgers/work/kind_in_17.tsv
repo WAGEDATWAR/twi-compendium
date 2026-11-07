@@ -1,0 +1,621 @@
+entity	sid	chapter	marker	heuristic_kind	text
+agnes	fafd245f5f	3.15	~	belief	say free time is scant; fun is drink, dance, music, holidays
+agnes	dd4b72e681	3.16	+	fact	[Innkeeper] who wants Jasi to find another job; Erin sees her as good to family but selfish; Erin takes over the inn for a day
+agnes	e41608cf00	4.18	+	rel	owner of the Frenzied Hare, screams at Erin for stealing her workers Maran and Safry and her actor business
+agnes	79f2ca4857	7.50	~	belief	claims Maran and Safry are at Ulna's inn and implies Celum will never recover
+agratha	9818f45e5a	6.37E	+	fact	may not attend; a [Witch] was killed and she lost her schoolhouse
+agratha	1f5ceb44b7	7.40ER	+	fact	[Witches]; with other [Witches] they sweep spilled honey clean with brooms; Ezerre is the [Beekeeper]
+agratha	541869dc16	7.55E	+	fact	Witch who is a [Teacher], the first Laken has met; wants to build a school of magic with Rebeca and Devay
+alais	7855c3c049	6.19H	+	fact	Silver-rank captains who say the Humpbacker Hills bandit bounty is now theirs; the bounty was raised by 80 gold to 100 gold
+alais	23953c2acf	6.19H	~	belief	claim the Horns "got rich in Albez" suspiciously and that Yvlon and Ceria left Liscor, using it to excuse their hostility
+alais	d3fe972353	6.56	+	fact	[Aeromancer] with imprecise lightning; Thunder's Solace wear wood and chitin armor
+alber	001f9e1040	6.00	+	fact	young stocky [Fist Fighter] who challenges visitors in a city square for coin; self-taught; not from Ryoka's world as far as she can tell
+alber	3944ce9536	6.25	+	fact	young [Fist Fighter] who fights for money, silver from normal folk and gold from adventurers; calls Ryoka "the Braggart"; guards the stairs for her
+alber	98315601c0	Interlude_Dancing_and_Brawling	+	fact	[Fistfighter] practising Ryoka's boxing (flicker jab, roadwork); can fight Silver-rank adventurers barehanded
+alber	fdc793e974	7.24	+	fact	[Fistfighter] with [Fists of Iron] and Skill [Ten Second Rush]; learns boxing hooks from Ryoka and spars with her
+alchemy	3117517142	2.12	+	fact	imbues magical effects into potions using reactions; needs magical ingredients, not a mage
+alchemy	05274f33a2	2.12	+	fact	moon dew needs a waxing moon at night; Goblin ears must be boiled while mixing
+alchemy	3a6322af6f	6.39	+	fact	Eir Gel (island off Baleros) is the base of healing potions, boiled and distilled; boosters like Octavia's Sage's Grass water; Octavia's four Skills in the recipe are [Low-Grade Synthesis], [Cleansing Heat], [Mineral Distillation]
+alime	4de5a2f526	6.00	+	fact	[Receptionist] at Reizmelt's Runner's Guild
+alime	25c3acfd0a	6.00	~	belief	says every Runner's Guild north of Invrisil has been told unflattering things about Ryoka
+alime	2328ba65a0	6.25	+	fact	[Receptionist] at Reizmelt's Runner's Guild; plots Ryoka a quiet, low-pay circuit (Nonsfru, Ingli, Enam) for six silver and eight bronze
+alime	13be7c5387	6.25	+	fact	asked Celum's guild for a dossier on Ryoka; notes she is now different from what it said, and that guilds compete for priority contracts
+alternate tom	052d4376a5	1.04C	~	belief	argues the Demon soldiers arrived too neatly, none targeted the King or Queen
+alternate tom	1437e1919d	1.05C	+	fact	takes the body, stabs his own hand with a fork, holds a dagger to Nereshal and kisses the Blighted King's cheek; Queen knocks out a tooth
+alternate tom	6f66ee7d3d	1.05C	+	fact	deduces that the Fool marked the courtyard spot, tried to abduct the princesses, and made a fake ward stone with his copying Skill
+alternate tom	69908dfaa0	1.05C	+	fact	asks for a map, a mage to teleport him, knives, healing potions, and the King's sword; hunts Fearless in the dark, vanishing with prisoners via teleport and healing
+america group	a5a8c8e8b3	Interlude_The_Call	+	fact	Level 26 [Knight] leading a group of North Americans summoned by a spell, in Karaz on the Blighted Continent
+america group	ba4ff99454	Interlude_The_Call	+	fact	all in the group gained the [Hero] class on summoning; none has levelled it past 1
+america group	3cfca26e40	1.02C	+	fact	Keith ([Blacksmith], engineering major from Lehigh), Chole ([Nurse]), Eddy (game-knowledgeable, tactless), Cynthia, Vincent
+anith	12e29f1aff	4.08T	+	fact	Jackal Beastkin of the Duskclaw Tribe, [Mage] and party leader, black fur, carries a glowing spellbook
+anith	e488848cce	4.08T	+	fact	casts [Repulsion Barrier], and has a [Dangersense] that went off when Toren was hostile
+anith	11e0389a11	4.08T	~	belief	believes she is of a higher level than they are
+anith	399e976d95	6.48T	+	fact	Jackal Beastkin [Mage], leader of the Silver-rank Vuliel Drae (Insill Drake [Rogue], Dasha half-Dwarf, Larr Gnoll [Archer], Pekona Drath Archipelago [Sword Dancer]); hired by Earlia of Gemhammer as guards
+antinium listeners	5becd46d06	2.15	+	fact	Antinium scouts who report a Silverfang Tribe Gnoll war party with a high-level leader heading to Liscor
+antinium listeners	0ffb1562ee	2.34	+	fact	specialized breed that hears at extreme range; revealed in the Second Antinium War; only Soldiers and Workers allowed in the Liscor Hive
+antinium listeners	82c2f27e1d	6.29	+	fact	rare subtype that hears conversations up to five miles away in a quiet room; dies quickly from sensory overload
+archmages	e09c4aaf63	1.35	+	fact	one in the northern human lands, two on other continents, at least three have homes in Wistram
+archmages	cc043d0899	Interlude_The_Gecko_of_Illusions	+	fact	Terandria has two, Izril one, Chandrar one, Baleros three; Amerys is no longer counted; Verdan Blackwood, a Human raised by Dullahans, is semi-retired
+archmages	220e3c4bd3	7.29B	+	fact	Feor (half-Elf, white hair), Nailihuaile (Star Lamia), Viltach (Human) and a fourth, Amerys; Cognita (Truestone Golem, 8 feet tall) guards the higher floors
+archmages	b5d6314667	7.29B	!	event	confess Wistram has been viewing the Antinium Hives through scrying orbs; decide not to send the images to the Drakes and to scale back observing
+armored queen	92f53822dd	7.39A	+	fact	largest Queen, immobile in a fortress, in pain from her weight; says Tersk is Level 16 and Sehr Level 12 [Armored Leader]
+armored queen	552f09eeeb	7.39A	+	fact	says Prognugators are made by combining the minds of thousands of Antinium
+armored queen	3d63905f26	7.39A	+	fact	keeps a hallway of sandstone statues of nearly forty Centenium, including Galuc the Builder, Rehab, Mellika, Devrkr the Glowing and Mirrex the Bard
+armored queen	ee0575a361	7.39A	+	fact	grows Steelclad, giants at least 13 feet tall, as decoys with lifespans of weeks, calling them "my greatest sin"
+armored queen	dd07467c6e	7.48K	+	fact	fits Goat with steel armor and grants Anand enchanted chainmail
+assassin guild	40919e7f9a	6.27M	+	fact	sends nearly a hundred of its weakest recruits to attack the Ladies in a message; the Guild has thousands, maybe tens of thousands of members
+assassin guild	9f51983705	6.27M	!	event	Magnolia's contract with the Guild is considered void; Izril is divided into sides
+assassin guild	a553ce3114	7.15R	+	fact	an [Assassin] breaks Lacel's legs as a public statement that Reinhart no longer restrains them
+awakened raskghar	799a62c21b	5.42	+	fact	female who did the ritual brings a Face-Eater Moth mother's head and says she found a treasure site she can open
+awakened raskghar	28a7f8510c	5.43	+	fact	say "We are whole"; the Raskghar then mate in the camp in a frenzy
+awakened raskghar	e06e6644f9-1	5.43	!	state	gain permanent shape and intelligence through the ritual
+bamer	cdb659e2c0	6.01	+	fact	eldest Drakle vampire, coughs all his life, thinks the sickness is a curse of the Byres family
+bamer	6afd90423e	6.01	~	belief	says vampires once preyed on people and ruled much of Izril until nearly wiped out
+bamer	99de2acb68	6.01	~	belief	thinks Byres cursed the vampires after they went into hiding
+bamer	6c4f8ae107	7.46K	+	fact	remember when the plan was proposed, so some places for Vampires to live are off the table
+beatica	62d2067c94	6.36E	+	fact	Lancrel former [Councilwoman], early forties, uses a Skill that silences Rie mid-sentence, wants Lancrel's officials given authority; Rodivek, ex-[Mayor] of Hewlat, backs her
+beatica	193029c20d	6.37E	+	fact	uses [Uninterrupted Monologue] to talk over Prost, argues Elmmet could have been impersonated
+beatica	296aa4f0c1	7.40ER	+	fact	[Councilwoman] from Lancrel who switched to Rie's camp after the spring drama; Rie calls her a reliable snake
+beilmark	56d9917a08	5.54	+	fact	Gnoll Senior Guardswoman who catches Rabbiteater
+beilmark	47ec95e0dc	6.08	+	fact	Senior Guardsmen on the wall, a Drake and Gnoll pair, bet on the chase
+beilmark	5bc2c6cc8c	6.61L	+	fact	Senior Guardswoman on desk duty; her partner is Jeiss; Captain Zevara is angry about a Wistram visit
+beilmark	0790d5cc6f	Mating_Rituals_Pt.2	~	belief	says Antinium are "big kids", doubts they are children
+bismarck	d52b11bea9	5.09E	+	fact	tamed Mossbear that lingers at Durene's cottage
+bismarck	117915107c	5.31G	+	fact	Laken's bird and Mossbear at Riverfarm
+bismarck	8bebd22562	6.34E	+	fact	Mossbear that lives in Durene's woodshed and root cellar, and sits on command
+bismarck	5cc46c21bf	6.41E	+	fact	pulls a wagon following a potato on a string
+briganda	7650468fab	7.15R	+	fact	[Shield Maiden], Griffon Hunt original; son Cade, about four, violet hair, with a Box of Simulacra; she rejoins with a 2,000 gold enlistment, 4,000 into the pool
+briganda	4548c8eaba	7.15R	~	belief	has heard Riverfarm's Unseen Empire has an actual [Emperor]
+briganda	3a8ec558f9	7.15R	!	event	rejoins Griffon Hunt
+briganda	d5e8b858cf	Interlude_A_Night_in_the_Inn	+	fact	charges Numbtongue after Cade screams at him, hits the garden barrier, apologizes after Halrac's prompt
+briganda	fc0f264943	7.40ER	+	fact	cannot swim; Cade expected Laken to wear a crown
+brilm	45c8f59f93	6.32	+	fact	Wall Lord friend of Ilvriss, heavier and pink-beige; plays song crystals by the "Queen of Pop" (a Terandrian [Singer]); My Way is one song
+brilm	d9cabc561e	6.32	~	belief	believes Zel's army cut apart Salazsar's troops and "threw us over for the Humans"
+brilm	c082b31cbc	7.33I	+	fact	portly Wall Lord who sniffs Balerosian powder, advises Ilvriss take a mistress; Alrric dislikes him
+calac	11bedf0a02	4.02K	+	fact	Venith's son, born when Venith wrote Flos; tried to spear Flos and is stopped, then slapped by his father
+calac	c9a88b9d62	4.05K	+	fact	Venith's only son, in plate armor; says his father hides behind oaths and rides to Flos with some soldiers, having "disgraced himself in battle" the day before by acting dishonorably
+calac	cc8508b81b	4.05K	!	state	abandons his father's post and joins the King; Venith follows
+calac	a949d132c5	6.54K	+	fact	Venith's son, [Lord], in disgrace with his father; Nawalishifra (Nawal, veiled [Blacksmith]) also among the Germinan guests
+carn wolf	623593f973	1.08R	+	fact	giant rust-red wolves hunting in packs; one bites and tears Ryoka's arm
+carn wolf	1bfd68477f	1.11R	+	fact	red fur, iron-hard bodies
+carn wolf	2788e78f74	2.02G	+	fact	huge wolves, rust red, tamed and ridden by the Red Fang Tribe
+celum watch	eedfebc371	2.37	+	fact	one mugger was a former Bronze-rank adventurer; Erin is given two silver, four copper and three healing potions
+celum watch	e18d22377f	5.46	+	fact	sees dozens of Liscor adventurers, Antinium and Goblins cross the door and gather on the walls
+celum watch	15ee2fa209	6.18H	+	fact	arrests Yvlon, Ceria and Pisces; Receptionist blames Yvlon; Ksmvr says he will kill the Watch Captain if arrested
+celum watch	92bb9db86e	7.06	+	fact	seizes Octavia's door stone under the Mayor's order and cancels business with the inn; Numbtongue escapes through the back window
+centaurs	80ededbdd5	1.03D	+	fact	touchy, prideful, bad-tempered as a species; their officer says Dullahans have sent [Rogues] and [Assassins] at them
+centaurs	b43e5a628c	1.05D	+	fact	complain Geneva rescues more Dullahans than Centaurs; Geneva says Centaurs are heavier; both armies then send escorts for their wounded
+centaurs	220b019427	6.04D	+	fact	need to win encounters; dislike intimate scenes
+centenium	bed15a753b	4.47	+	fact	one hundred special Antinium made by the Grand Queen on another continent; only three remain in the second war
+centenium	70a7b5ade3	S02_The_Antinium_Wars_Pt.3	+	fact	only three left at that time; one hundred made by the Grand Queen on another continent, given names and individuality, "made to be heroes"
+centenium	992ae3cfcd	6.29	+	fact	a hundred prototypes made by the First Queen; three remain
+charles de trevalier	406a0c809b	S03_Wistram_Days_Pt._1	+	fact	noble scion who harasses Ceria and Pisces on the ship, with Timor du Havrington
+charles de trevalier	b1ded5545e	Wistram_Days_Pt.1	+	fact	noble students who threaten them with swords; Timor claims [Warrior] and [Lord] levels
+charles de trevalier	97984405bb	Wistram_Days_Pt.4	+	fact	allied to Rievan and the Libertarians; an ally melted Illphres's ice for him, which Illphres rejected
+charles de trevalier	e656b86674	Wistram_Days_Pt.7	+	fact	obtains Illphres's spellbook from the Drake student and drops it into the sea, where it freezes the water and sinks
+chessboard	c722db639b	2.16	!	event	the board now holds ghostly transparent pieces and a white pawn has moved to e4
+chessboard	8059820ec0	2.17	+	fact	Pisces guesses it is a duplication spell linking boards; the wisps follow pieces and the pieces are cold
+chessboard	7c19251fea	3.22L	+	fact	Erin's magical board, sent from Niers Astoragon; an unseen opponent moves white; Lyonette plays three games and wins one
+cire	f0d67a40bb	Interlude_Food_and_Growth	+	fact	green, brown and purple Drake of about sixteen apparent years, over ninety years old, an Earth Dragon in a transformation spell; Shaerrha's adopted ward
+cire	84fb012ef5	Interlude_Food_and_Growth	+	fact	previous girlfriends Wusha and Eerie, a Plains Gnoll; Shaerrha orders him to stop seeing her
+cire	0cad5abd2b	Interlude_Food_and_Growth	+	fact	Yasyiin, the last Grand Gardener, left on a trip to die away from the city and spare him; he does not know she is dead
+cire	e4c30a6abf	Interlude_Food_and_Growth	~	belief	claims his scent is cool and that he is special and older than he looks
+classes	347c021d65	1.17	+	fact	general ways of life; some, such as [Ruler]-type classes, cannot simply be taken; skills are not fixed per class, so two [Soldier]s may learn different skills
+classes	08abfa046c	1.27	+	fact	formed only by what a person makes a goal or dream of, not everyday acts such as walking; a [Gourmet] class exists for some rich merchants and nobles
+classes	89e979f54d	1.27	+	fact	a person can have several but most Adventurers have three or four; classes change names with specialisation, such as [Warrior] to [Swordslayer] or [Duelist], [Tactician] to [Leader] or [General]
+colfa	46c24bc70b	6.01	+	fact	Lady of House Lischelle-Drakle; theatrical archaic speech; a Human who married into the family and asked to be turned for years; her gaze/domination fails on Ryoka
+colfa	19378d824a	6.01	~	belief	claims vampires are immortal; Fierre says they die
+colfa	fc66401ee6	7.45	+	fact	former Human [Shepherdess] turned Vampire; drops her put-on accent and slams Ryoka into a wall
+corusdeer	7ef2ce24ef	2.01T	+	fact	oversized reindeer with orange antlers whose horns and hooves glow white-hot; vaporizes bone; Toren's bone did not regrow quickly
+corusdeer	73273a3964	2.03G	+	fact	a herd near the forest; Garen kills an alpha stag alone while ignoring the formation
+corusdeer	89ed787f50	2.35	+	fact	at least ten corpses found, horns hot enough to burn
+courier	d6a973ab95	2.09	+	fact	special long-distance Runner; one is bringing a priority request from First Landing
+courier	b37535996b	2.17	+	fact	do not answer to Guilds; "a community, not a cult"
+courier	949e910d8f	2.17	+	fact	include a [Marksman] who rides a horse and snipes from two hundred feet
+courier	16d25b36d0	7.18M	+	fact	ambushed by Assassin coaches; Tritel uses [Flicker Dodge], [Blinding Flash], [Rope Trick]; Salamani summons hundreds of [Light Arrows]; Hawk uses [Physical Overdrive]
+coven	54102ea60c	6.34E	+	fact	[Witches] meet when the two moons are full, next in six days; Wiskeria refuses and also sends a No to Witch Oliyaya via a City Runner
+coven	5eecdb7d7c	6.37E	+	fact	claims sanctuary in Riverfarm until Laken can meet them over an offer and bargain
+coven	808dae8376	6.40E	+	fact	seeks sanctuary for all witches on Laken's land and an alliance; says the decision comes from all of Izril's covens
+coven	1f32277579	6.47E	+	fact	on Day 76 petitions Laken for sanctuary for witches; Laken agrees to welcome them with hospitality rules in Califor's name
+crypt lord	aab7f5929e	1.01H	+	fact	thinking undead that eat the dead; black poisonous blood; estimated Level 22 to 26; commands lesser dead
+crypt lord	1fd3c92564	1.43	+	fact	spits poisonous black blood that kills Workers across the moat
+crypt lord	f5c73bae4d	6.48T	+	fact	its mind imposes "DEATH"; it beat Toren to pieces when he stabbed it, and Crypt Lords outrank his commands over lesser undead
+dame truvia	847339f20d	6.35	+	fact	senior Knight of the Petal in pink armour, aged about forty or fifty, sent by Lady Bethal to check on Ryoka and ride with her
+dame truvia	6cb25bfa27	6.35	+	fact	challenges a golden-armoured [Knight] of House Averin on the highway for insulting House Walchaís; the Knights of the Petal consider House Averin their sworn enemy
+dame truvia	7cc3349236	6.35	!	event	formally opens a feud with House Averin on the highway
+dawson	2204511f85-0	6.04D	+	fact	Bushranger members; Kami is their best shot
+dawson	50182a67ff	6.05D	+	fact	tricked into paying eight silver for coloured water on his first day
+dawson	6cb8dab587	6.20D	+	fact	falls when his gri-gri belay device snaps during a rappel, dislocating his shoulder and hurting a leg; Geneva sets it by hand, not with a potion
+dead	5fdc3800f0	1.00C	+	fact	Ron (killed in first expedition) and Marian
+dead	370a60fa01	6.67	+	fact	Kam, Stan and all Boltspitters except Gerit, Caddin and others; the Scales of Anarchy and Traveller's Yawn are lost
+dead	0320643888	7.42M	+	fact	Sacra, and maids Imina and Fini; Reynold loses his legs; Magnolia, Ressa and Reynold vanish
+delezza	5797b1a512	7.34C	+	fact	Noelictus [Demon Hunter], eight years in Rhir, left her husband and two children at Monarch's Pass
+delezza	5a60ae44c0	7.34C	~	belief	says Rhir's Antinium are worse than Izril's
+delezza	5210a92559	7.35C	+	fact	dies of a new Demon poison that blocks healing potions; Tom tries a blood transfusion with Emily relaying Chole's blood-typing advice, but it's too late
+delezza	ef1d3342c3	7.35C	+	fact	held the title Hell's Warden; will be entombed in Noelictus
+delezza	d45c6da6fb	7.35C	!	state	dies of poison
+dragon	47ef78a51e	1.08R	+	fact	elderly silver-haired handsome man who is a dragon, with pointed ears, in a vast treasure cave; his spells cannot read Ryoka's Level or Class
+dragon	2908d87df1	1.08R	+	fact	expected a visitor to the cave only months later
+dragon	ecea92965e	1.08R	!	event	heals her bleeding but trips over a goblet and curses "Rot."
+dwarfhalls rest	7f0278c9bf	5.19G	+	fact	former Dwarf home, now the mountain bastion of the largest tribe in the north under Tremborag
+dwarfhalls rest	57513207d5	5.31G	+	fact	not large, a foothill compared to the High Passes; Reiss's army enters through secret tunnels and meets choke points held by archers on ledges
+dwarfhalls rest	980b6733d4	5.37G	!	state	Reiss and Tremborag lose the mountain to Human adventurers and army
+dwarfhalls rest	6db1f0a0c2	5.48G	+	fact	lone mountain the Goblin Lord had besieged; Tremborag's tribe came from there
+ekirra	126a969c37	7.06	+	fact	red-furred City Gnoll cub with a black splotch, Jeva's son; Visma: pearly-white green-speckled Drake girl, daughter of the [Painter] Selena, in her hoarding year; she steals Ekirra's ball and punches him
+ekirra	b31f63030e	Interlude_Chocolate_Gold	+	fact	has a star-patterned glow-in-the-dark ball, a birthday present
+ekirra	da32ea8701	Interlude_Chess_and_Ships	+	fact	overhear Erin curse and Ekirra repeats "Damn!"
+ekirra	6e991656dd	Interlude_Chocolate_Alchemy	+	fact	learned the word "damn" from Erin and his mother was angry; Visma bleeds from the nose after Mrsha hits her for pulling Apista's wings, and they reconcile
+ekirra	49277905da	7.54	+	fact	a young Gnoll and a young Drake brought to breakfast by their older sibling; Erin introduces Ryoka as Mrsha's "Aunt"
+eliasor melissar	1fe4ada842	4.06KM	!	state	becomes head of House Melissar at age nine
+eliasor melissar	f9b697bd83	6.27M	+	fact	ten years old, [Lady] who gained her class after her mother Patricia Melissar was killed by an [Assassin]; father died at the Sacrifice of Roses; now lives with Lady Zanthia
+eliasor melissar	7a5c5345a3	6.27M	!	event	Zanthia protects her and promises vengeance; Eliasor's resistance turns to courage
+enforcer	8b4c3cee8b	Interlude_Numbtongue_Pt.1	+	fact	unnamed high-level Brother of the Brotherhood of Serendipitous Meetings who wears a beloved hat and has dust hidden on its cap; a bare hat makes the Sister's [Blackguard] freeze mid-strike
+enforcer	f486a3f741	Interlude_Numbtongue_Pt.2	+	fact	sings the rhyme heard when Numbtongue killed three thieves at Erin's door; his Skill [Grudgescent Terrier] shows the deaths of his associates on someone; Numbtongue admits the killing
+enforcer	a6176417ec	Interlude_Numbtongue_Pt.2	+	fact	says his group has a few Goblins in its ranks and non-Humans are rare
+erille	50e0b3604b	1.03C	+	fact	speaks directly, owns a ring that hides her from Nereshal's scrying, left her guards behind
+erille	6b23df65de	1.04C	+	fact	alive and put in a safe place under highest guard; the palace and city are searched, no other Demons found
+erille	7f6688a48e	1.04C	!	event	thanks Tom in public
+erille	7a74a860e6	1.05C	!	event	the dying Fool asks Tom to protect her and take her away
+esiela	37df02217e	7.13K	+	fact	Grand Mage of Belchan's Mage Schools, probably over Level 40; General Fultoolm commands with [Grace of the Bastille], Level 30 Skill
+esiela	b6fdd7f060	7.13K	+	fact	offered six years in Parasol Stroll under a blood oath (six of them died) or slavery to the Slavers of Roshal; she accepts
+esiela	949df57e31	7.13K	!	event	bound to Parasol Stroll for six years by blood oath
+esiela	3f13de6485	7.27	+	fact	Grand Mage of Parasol Stroll, bound by blood magic, casts [Featherweight] on Zamea's axe and [Haste] on her
+farri sightly	fb7d6e1dfd	6.17S	+	fact	Human [Merchant] with [Evaluation of Wealth] and [Prolonged Negotiations]; apprentice Trader Febin; stays at the Firehearth Inn
+farri sightly	2b32748a0f	6.17S	+	fact	sells Selys a magical vault (800 gold), a bag of holding (660 gold), a self-refilling quill, bug talisman, cooling stone and a bouncing ball
+farri sightly	8fa960cab0	6.57	+	fact	thirty-something [Merchant] who travels to Liscor for Selys, sold her a cooling charm before, and finally sells her nearly twelve hundred gold of items delivered to her apartment
+farri sightly	ae27fed1e4	6.57	+	fact	offers the Horns credit of twenty percent of what he thinks they can spend; paints over a truth-stone gem on his ring finger so it shines only toward him
+farri sightly	a4a2b60e52	6.61L	+	fact	[Merchant] who refuses her order because his client Selys Shivertail owns the Heartflame Breastplate, is Zel Shivertail's niece and granddaughter of the Adventurer's Guildmistress
+female goblins	a66e0ffbf3	S01_Mating_Rituals	!	state	attack Culyss when he returns, targeting his groin; the Goblins chase him toward the city
+female goblins	988fa027aa	S01_Mating_Rituals	+	fact	slightly smaller than males, more clothing, more slanted eyes
+female goblins	a5a840c6a1	5.59	+	fact	tell Erin of Rags's rise: she rebelled from Tremborag, fought the [Emperor], speaks to Greybeard
+feor	1be67d9bc5	Interlude_Blackmage	~	belief	presumes Naili knows something he doesn't and that someone helped Blackmage
+feor	6358ecc52b	Interlude_Blackmage	!	event	sends search teams to every continent after first-year classes begin
+feor	6158080242	6.68	+	fact	three Archmages visit Amerys; Naili says Earthers have helped her make a shock orb; Cognita is said not to rule Wistram yet
+feor	3b6cc91db5-0	7.39A	+	fact	watch the duel through the Queens' mirrors and rank the copies high-silver
+feor	0f53dd36ee-0	7.49	+	fact	link to stretch the Weatherward south three miles and save the student ship Emerald Signet (Captain Lasc, Second Mate Inky) carrying Trey and Flynn
+ferris seftpaw	64c3e849fa	Interlude_Queens_and_Dragons	+	fact	Gnoll spy-minder assigned to Rafaema; predecessors Kelis and Amessia nearly caused disaster; Rafaema spotted him instantly
+ferris seftpaw	d2105e8dcc	Interlude_A_Meeting_of_Druids	+	fact	Gnoll [Coachman] for Izril's Wonders, wants Liscor on a Walled City tour route
+ferris seftpaw	6186d8d0aa	Interlude_Meetings_and_Friendships	+	fact	Gnoll Manus agent posing as one of Izril's Wonders, reports to Rafaema; Erin forgets and declines the Walled Cities tour
+ferris seftpaw	f2f60a54d3	7.48K	+	fact	concludes Lyonette, a [Princess] and the 6th Princess of Calanfer, is the real power behind the inn and Erin a mascot
+ferris seftpaw	92a623800b	7.48K	!	event	switches his target from Erin to Lyonette
+first landing	fb4dffc285	2.09	+	fact	the largest city on the continent, a port, over three thousand (about four thousand) miles north
+first landing	3564d9c2fa	4.26M	+	fact	grandest Human city on Izril, built by Terandrian nobility who fled; the Reinhart mansion is there
+first landing	8f64019649	4.47	+	fact	Humans' oldest and grandest city besieged by eight Goblin Lords for three weeks; Five Families rallied; Tyrion Veltras led the defense, Magnolia Reinhart marshaled the nobles
+first landing	f667b0dd1c	S02_The_Antinium_Wars_Pt.3	+	fact	besieged three weeks by eight Goblin Lords; Tyrion Veltras led the defense, Magnolia Reinhart marshaled the nobility
+first unified army	a7ac05c067	S02_The_Antinium_Wars_Pt.2	+	fact	set out nearly a year after the war began, commanded by Sserys, against Zel's objections
+first unified army	540abbc15d	S02_The_Antinium_Wars_Pt.2	+	fact	vanished in a single night with no bodies or spells cast
+first unified army	426ee7e851	S02_The_Antinium_Wars_Pt.2	~	belief	the soldiers were probably killed and processed as supplies within the Hives
+five families	a7aa4e2a68	1.41	+	fact	Reinhart, Veltras, Terland, Wellfar, El; first humans on the continent, related to Terandrian kings
+five families	8e35b2ae43	2.09	+	fact	powerful nobles who live in the north
+five families	b3b2367b98	6.45E	+	fact	Veltras, El, Reinhart, Terland and Wellfar, settled Izril thousands of years ago
+five families	87eb78ddab	7.18M	+	fact	Wellfar (coastal, rich, infertile), Terland (mage-towns, insular), Veltras (war and wilds, Forest of Vail), Reinhart (richest; Regis Reinhart their "curse"), El (crafters, out of money)
+flamewardens	ed92248a9f	5.36	+	fact	leader is a huge plate-armoured Drake who coughs smoke or blue flame; they say they will enter at daybreak because Raskghar are strongest at night
+flamewardens	9b9257f456	5.40	+	fact	four Oldblood Drakes (Keldrass, Nautia, others) breathe a combined fifteen-second flame that melts forty enchanted armors; then cannot breathe for a while
+flamewardens	cb47a5d4f5	5.58	+	fact	Keldrass blocked by a crossbow bolt; Silver Swords (Ylawes, Falene, Dawil) hold a gap; Griffon Hunt's Halrac shoots; Typhenous raises stone walls; Revi's summons and a Bone Horror emerge from the door
+flamewardens	3d29431617	6.65	+	fact	Drake team under Keldrass who rent the Heartflame Breastplate from Zel Shivertail and also hold Siegespell Armor, close to Named-rank
+flamewardens	06884c90d4	6.65	+	fact	Keldrass's team holds a corridor against the undead and Gold-ranks send a distress call
+frenzied hare	1de19a7b5b	2.40	+	fact	inn run by Agnes (ex-[Tailor]), husband ill two weeks; barmaids Maran and Safry; cook Jerom
+frenzied hare	db5fc12cf1	3.03	+	fact	packed, Erin cooks crepes with eggs and bacon; Agnes is the owner, profits split with Erin, husband Jerom still sick
+frenzied hare	76413ccb0b	3.09	+	rel	serves a drink called Firebird; Agnes runs it; Erin eats there
+frenzied hare	c1712df2b8	3.15	+	fact	staff includes Maran and Safry; Agnes' husband Jerom is sick and bought an alchemist's potion
+gaile	9faa821073	6.43E	+	fact	Hunter who holds an axe to Wiskeria's throat; says Belavierr caused her daughter's death
+gaile	c1d3fca3a2	6.44E	+	fact	threatens Wiskeria's throat with her axe, shoves her aside to strike Belavierr and is crushed to death; Raim says she was a [Beastslayer] who became a Hunter for vengeance
+gaile	bd18d56ad0	6.44E	!	state	killed by Belavierr
+galina	5f9ff8ff13-3	7.26	+	fact	seven staying at the inn for roughly a week; Joseph drinks gin and blue fruit juice for breakfast
+galina	d5e2c4b176	7.27	+	fact	knows many musicals and joins the Players of Liscor with Relc and Temile
+galina	33859bd482	7.30	+	fact	wants The Players to put on A Doll's House; Emme and Andel agree, Yaina as lead; she is hired
+galina	5f69fa5f91	7.38	+	fact	wants to act, lacks Erin's recall; works with Rose on adapting plays
+gentlemen callers	f0ff38e76d	Interlude_Chess_and_Ships	+	fact	refuse to cooperate with Niers over Erin's identity; Niers will not pay the Brothers
+gentlemen callers	2248fce00c	Interlude_A_Night_in_the_Inn	+	fact	Wilovan (Gnoll [Thug] and [Reader]) and Ratici (Drake [Thief]) of the Brotherhood of Serendipitous Meetings confront Typhenous about a debt over the Raskghar/Goblin affair; he says he acted to protect Erin's inn and gets a repayme
+gentlemen callers	539e5ef985	7.52	+	fact	say a client hired them to protect Erin only, refuse to name the client, and admit they also guarded her in Invrisil and scared off Bearclaw's kidnappers of Mrsha
+gentlemen callers	a4405101d6	7.52	+	fact	code is to prey on those with coin, never children or decent people
+geril	7055829d75	6.15K	+	fact	Raelt's elderly [Head Servant] of over four decades
+geril	ccb829c255	7.08K	+	fact	Raelt's elderly [Head Servant] who helped raise him
+geril	7cf04992b0	7.46K	+	fact	Raelt's old retainer, regrets Raelt was sent to Terandria to learn fencing
+geril	ec1ca79b4b	7.47K	+	fact	fights Perric's pursuers with [Full Power Blow], [Bellhammer's Impact] and [My Life, My King], urges Jecaina to ride as Jecrass's [Queen], and dies to Perric's blow
+geril	d6f7e0914a	7.47K	!	state	dies protecting Jecaina's escape
+gershal	c9928963b3	4.47	+	fact	[Lieutenant] from Vaunt (north of Invrisil), commands 200 low-level [Archers] and [Swordsmen]; Vaunt sent 400 to Tyrion and 200 to Magnolia; cheese (Peppermort) as a local custom
+gershal	c6ec8fe4f9	4.47	~	belief	believes Magnolia's army cannot win without a commander and that Tyrion will do the job
+gershal	7928b3166f	4.48	+	fact	Lieutenant on the front rank; insults "cheese-rotted heads"; his shield withstood a Hob's hammer under Zel's [Stonewall Formation] and [Chargebreaker Guard]
+gnoll tribes	249c54d9fe	S02_The_Antinium_Wars_Pt.1	!	event	a force of 20,000 Gnolls routed 80,000 Antinium in a day, then a host over 100,000 held the plains; Antinium never penetrated beyond fifty miles
+gnoll tribes	bc13475e11	2.39	+	fact	summit once met every 100 years, then 50, then 20
+gnoll tribes	127cd69d35	5.00	+	fact	withdrew from sight and mourned with massed howls on the plains; Zel was a friend to their kind
+gnoll tribes	3b5267ad67	6.49	+	fact	the Woven Bladegrass tribe, under a young Chieftain, causes the Gnoll-Drake incidents; Tiqr is losing the war against Chandrar nations allied against the King of Destruction
+goblin lord army	2b4d058317	3.20T	+	fact	drums, Shield Spiders, horses, [Shamans] controlling about a hundred undead; commander with a halberd
+goblin lord army	835219f884	4.38B	+	fact	advance force with Shield Spider riders and a black-eyed Goblin who casts black bolts; tens of thousands
+goblin lord army	a6c6e43e49	4.46	+	fact	marches on Shield Spider-riders, with undead alongside doubling its size; horses, mules and Hob-pulled wagons; Goblin children are young for six months to a year
+goblin lord army	3d1e7e5acf	5.55G	!	event	fighting begins
+goblinhome	b6676f882a	7.12G	+	fact	fortress built into a stone valley of the High Passes with a lake, four wooden walls, pit traps, hidden crossbow bunkers of Cave Goblins and at least twelve fire-trap hatches to the roof
+goblinhome	7c5649e1c9	7.12G	+	fact	made of remnants of the Flooded Waters Tribe, Mountain City Tribe, Redfangs, Cave Goblins and some of Reiss' subjects; the Mountain City Tribe dug out the fortress
+goblinhome	414fb4b75b	7.12G	+	fact	uses bags of holding looted at Liscor to drop 80 pound boulders, to drag Wyverns from the air with bolas (four bags, about 400 pound boulders), and a bone-and-hide ballista that tore from its mounting
+goblinhome	86a5392f25	7.43G	+	fact	defended by a Thunderbow Hobgoblin [Greatbow Sniper] that has killed three adventurers, one Gold-rank
+gold-rank adventurers	957e9d3955	4.31	+	fact	stripped of equipment and cremated to avoid despoiling
+gold-rank adventurers	a150b676f5	5.08	+	fact	swear an oath to fight when a city is at stake
+gold-rank adventurers	2600d34f9c	5.32G	+	fact	arrive via a chalk-and-mana-stone teleport circle; led by an old half-Elf mage with silver eyes and an ancient pointed-hat [Witch] who casts [Grand Fireball]
+gold-rank adventurers	60086fff03	5.40	!	event	both withdraw, stalemated; the Horns rescue nothing
+gold-rank teams	0257e02259	1.11R	+	fact	heard of the ruins and will reach Liscor in a week or less
+gold-rank teams	89e7bc92e8	2.22	+	fact	three in the city
+gold-rank teams	3d60634d37	2.00H	+	fact	mostly six members or fewer
+gold-rank teams	e6e1231f26	Interlude_Krshia	+	fact	Halfseekers, Griffon Hunt and Silver Swords say they will leave Liscor; Ylawes says his father Yitton Byres marches with Tyrion; the Horns hesitate
+gresaria	b7a055e757	Interlude_Meetings_and_Friendships	+	fact	[Harbormistress] of First Landing, Duchess of Waves, chariot-riding rival of Maviola; attacks with [Spellstrike Arms], collapses, then reconciles over drinks
+gresaria	ef36e20822	Interlude_Meetings_and_Friendships	+	fact	is over a century old, forgetful, has a bedridden Regein who forgot his children (once courted by Maviola), expects to die within the decade and asks for a spare potion; says to avoid the Temptress
+gresaria	88fe042728	Interlude_Meetings_and_Friendships	+	fact	both are of the Five Families; they were enemies, allies and rivals for a hundred years
+gresaria	56809ef41f	Interlude_Meetings_and_Friendships	~	belief	claims her collapses are only combat Skills' toll and she will drop dead in public
+gresaria	8c7580ee99	Interlude_Meetings_and_Friendships	!	event	lifelong rivalry with Maviola ends in peace
+grunter	93aea7d3b1	3.19T	+	fact	asks "Innkeeper? You? Clss." and learns she was a flower-grower, not an innkeeper
+grunter	7dd6dcf8b2	3.19T	+	fact	fights thirteen against twenty-five, mortally wounded by Ylawes
+grunter	ed3e8bd99d	3.20T	+	fact	kills a Hobgoblin, challenges the Goblin commander with "Redfang", loses his hand, kills the commander and his Shield Spider and dies under blades
+grunter	d6b4ed5b4c	3.20T	!	state	dies killing the Goblin commander
+half-elves	46246d81b1	2.00H	+	fact	grow about one year to every three of a Human; the average half-Elf dies before a hundred
+half-elves	cdc3371604	S03_Wistram_Days_Pt._1	+	fact	distrusted and tolerated in Terandria; accused of theft and stealing children
+half-elves	0c6a119bfd	Wistram_Days_Pt.1	+	fact	distrusted on Terandria as thieves and child-stealers; ostracised by passengers
+half-elves	d9961daff9	Wistram_Days_Pt.4	+	fact	once ruled much of Terandria and enslaved Humans, per Ceria; Charles may descend from a family so enslaved
+hectval	60c5e1d6f2	7.27	+	fact	small city in the Hectval-Drisshia-Luldem Alliance writes Liscor a formal letter after the new road nears completion under Master Builder Reikhle
+hectval	c30df6b7d7	7.37	+	fact	sends a delegation to Liscor, the first visitors; the Council plans a soccer game; Meeting of Tribes soon
+hectval	45460c6c2e	7.51	+	fact	a delegation of three dozen Drakes arrives during the chaos
+hectval	f23ff16291	7.52	+	fact	delegation arrived unannounced and is housed at the Tailless Thief; it belongs to the Three Cities Alliance of Hectval, Drisshia and Luldem, known for crossbows, bows and fletching
+hellios	540955a3ed	Interlude_Flos	+	fact	Queen Calliope and Prince Siyal held captive; surrendered without fight
+hellios	fe038a23a1	6.12K	+	fact	ruled by Queen Calliope, whose husband King Treland died decades ago at Flos's hands; son Prince Siyal
+hellios	2b33471189	6.53K	+	fact	Queen Calliope has abdicated; Orthenon is managing the country and the "upstart [Prince]"; Flos wants Hellios as supplier of resources and soldiers
+helm	679694d7f8	4.20E	+	fact	[Blacksmith] from Windrest, fourteen miles east near a prairie; arrives frozen on Day 60
+helm	70ba0258f3	5.21E	+	fact	[Blacksmith] of Windrest, helps run the trebuchet
+helm	86ae9487da	7.40ER	+	fact	now [Royal Blacksmith] with [Perfect Temperature Control]; Old Kessy died in Goblin raids; Eldrim and Turc (married) live; Talaya wrote she was fine
+helm	873a27af87	7.40ER	~	belief	says a Goblin Lord nearly overran Riverfarm and was dealt with by Laken
+hobs	c3606f3e0d	5.41	+	fact	bring the cursed bell of pain but leave the cursed necklace
+hobs	a000474d45	5.41	+	fact	kill a four-Raskghar patrol, then take a small camp of twenty-six Raskghar with fifty-odd Cave Goblin slaves using Badarrow's bell-tipped arrow and charge shouting "Redfang"
+hobs	e18c22a429	5.53	~	belief	assume Erin might be their Chieftain, then reject it
+hobs	8fb988b569	5.57	!	event	released from Liscor's prison
+house byres	1cf4f5844f	2.00H	+	fact	steel-silver alloy armour is a Byres specialty
+house byres	ab7ef053e0	4.45	+	fact	sent its levy to Lord Tyrion rather than Magnolia, because of assassinations of Magnolia's allied ladies; Aunt Magnolia is a friend of Yvlon's mother
+house byres	cf41012192-0	6.01	+	fact	famous vampire slayers
+house byres	939a641131	7.45	+	fact	slayers of Vampires; keeps rituals including a tithe at a mural, silver baths, a shrine offering for the dead Silver Dragon Yderigrisel, and dropping silver dust in wells
+human army	3f888cbac6	S02_The_Antinium_Wars_Pt.2	+	fact	hid its approach with mass-concealment spells, then hit the Antinium rear with mages and heavy cavalry
+human army	5a7cb856e1	4.48	+	fact	just over forty thousand soldiers, banners from many villages; Goblin Lord's army reported almost double, about half undead
+human army	53599c2828	5.32G	+	fact	thousands marching south, reported fast, using Skills; Tremborag and Reiss both learn of it
+humans	a268b88166	1.28	+	fact	live in the northern third of the continent
+humans	89df56c694	1.34	+	fact	not all can become [Mage]; Minotaurs have little potential though some reach 2nd Tier
+humans	5330ea4258	5.51G	+	fact	mages bombard Tremborag's tribe from behind and use a [Grand Fireball]-sized spell; about eight thousand Goblins die, a few hundred from the Flooded Waters tribe
+humans	5ea212f6ea	5.51G	+	fact	parade Tremborag's severed head; Tyrion sends a [Message] to every northern city that the Goblin Lord is next
+jasi redigal	427cf07257	6.63P	+	fact	Drake [Actress], older sister of Grev; once a [Washer] in Celum who became a barmaid then an [Actress] after Erin Solstice
+jasi redigal	3ace6e137c	6.63P	!	state	Level 25 [Actress], class change to [Lead Actress]; gains [Perfect Imitation] and [Refinement by Accolade]
+jasi redigal	ea18cd1e75	7.50	+	fact	[Famed Lead Actress] with Skills [Refinement by Accolade], [Audience Charge], [Perfect Imitation] and [The Actor's Shadow]
+jeiss	48b5408951	6.08	+	fact	Senior Guardsmen on the wall, a Drake and Gnoll pair, bet on the chase
+jeiss	5a143e7ca5	6.30	+	fact	Senior Guardsman, Beilmark's partner; asks if she would take a better option
+jeiss	703074c905	6.30	!	event	defects to run alongside Lism
+jeiss	d4e4d89fdb-0	6.67	~	belief	want a formal speech for the Horns, but Tekshia refuses and calls it a wake
+jeiss	36b71bab00	7.01	+	fact	now a Councilman of Liscor; the current Council is working-class Gnolls and Drakes
+jericha	10716f1c6b	5.48G	+	fact	Tyrion's [Mage], trained at First Landing's academy, not Wistram
+jericha	560d8384fa	5.60	+	fact	Tyrion's [Mage] aide who relays messages
+jericha	090d89e445	7.54	+	fact	Tyrion's Majordomo; stabbed in the stomach by the assassin when she threatens her, and heals herself with a wand
+kel	ddb40cccfd	6.31	+	fact	Drake [Guardsman] at the Pallass end of Erin's door; Watch Captain Venim requires authorization for passage
+kel	e87a0f28c7	7.02	+	fact	promoted to Desk Sergeant two weeks earlier after the Creler attack, since he was the one who believed Erin's warning to Pallass
+kel	31100eab89	7.02	+	fact	tells Erin her truth-spell testimony will be logged as accurate, Watch Captains review cases each evening, and he sends her to the "punishment cell" across from Saliss
+kel	45ce446065	7.03	+	fact	holds the 8th-floor Watch House street with shield and pike lines using [Protector's Order] and loses a third of his squad; a Dullahan [Guardswoman] dies to frost
+kel	fb028729d6	7.30	+	fact	Watch-Sergeant of the Pallass door post, grudgingly accepts the food; Pallass 8th floor door duty is the worst posting
+khelt	a89d4d108d	6.54K	+	fact	a necrocracy; green and prosperous with paved roads, undead farmers, a playground, no wall fortifications; Fetohep is six hundred years old
+khelt	d17e60fcfb	6.55K	+	fact	no slaves and foreigners barred; undead do the labor; citizens work four of seven days, are sterile without Fetohep's blessing, and may leave but never return
+khelt	b3d1ceff26	6.55K	+	fact	King Thekheldan, Khelt's fifteenth ruler, found his subjects apathetic and quarrelsome; his reforms keep Khelt's people working; Fetohep counts him third in one line, a stated inconsistency
+khelt	2ac8346436	6.55K	+	fact	stores rain and imported seawater in reservoirs under the kingdom, enough for a year or a decade; uses Oasis Tears gems and imported [Mages]
+king	bd1111c82f	Interlude_King_Edition	+	fact	in his forties with red-gold hair streaked grey, emerald eyes, muscular, wearing chainmail under worn gilded robes; senses lies, partly by a Skill
+king	b6fad34e19	Interlude_King_Edition	+	fact	once swept a continent and built an empire, then abandoned conquest and let it collapse; the city is now ruined and starving
+king	64c661159a	Interlude_King_Edition	!	event	takes up his throne, orders his vassals to rejoin him within two days, and names the twins his bodyguards
+king	73edfa956e	1.00C	+	fact	planning to summon more Heroes
+krakk trees	8c6ac8259a	1.29	+	fact	leafless trees near Liscor that explode into shrapnel when struck
+krakk trees	1d01a24962	2.11	+	fact	bark explodes about thirty seconds after being heated, leaving smooth unharmed wood; cold, kicking and rolling do not set it off
+krakk trees	c37f864643	2.00H	+	fact	the "boom bark" source; someone has cleared out the whole forest
+leon	b7f9bd4c3f	7.23LM	~	belief	doubts Erin could have a higher level after only a few months in this world
+leon	5f9ff8ff13-5	7.26	+	fact	seven staying at the inn for roughly a week; Joseph drinks gin and blue fruit juice for breakfast
+leon	6cec2e7c5f-0	7.30	+	fact	discuss making a tabletop or card game
+leon	9efe5e9dfd-0	7.38	!	reveal	agree to sell information to Grimalkin, secretly from Erin
+levil team	dbe3810253	6.00	+	fact	six-member team led by the [Pyromancer] Levil; includes [Mages] Ullica and Keima, [Beast Tamer] Bram with wolfhounds Makki and Dassa, and warrior Lamont
+levil team	ad908fdfd6	6.26	+	fact	adventuring team of Levil ([Fire Mage]/[Pyromancer], captain), Tally ([Ranger]), Keima, Lamont, Bram, Ullica and war hound Makki; hired by a hooded [Assassin] but turn on the [Mercenaries] and him
+levil team	7f03985f5b	6.60	+	fact	Silver-rank team of Levil (captain, Pyromancer), Lamont (Warrior, healed), Bram (Beast Tamer), Ullica, Keida, Tally (Ranger); their dog Makki is a wolfhound and Dassa was lost to Wailer Frogs
+lir	21f1b97d4c	1.11R	+	fact	mage-captain in robes
+lir	5c9aee05c8	1.37	+	fact	only other mage at the captains' table
+lir	803459107c	1.01H	+	fact	[Wall of Flames]; casts with Ceria's group [Ward of Safety], [Lesser Barrier], [Sanctuary of Light]
+lir	4cca2848f5	1.02H	!	state	killed and absorbed
+liscor adventurer guild	75317f3557	1.41	+	fact	no permits needed to enter the ruins
+liscor adventurer guild	6c06a28f34	6.17S	+	fact	budget goes to Liscor's treasury, not Guild vaults; dungeon takings likely repair gates, walls, wounded Soldiers
+liscor adventurer guild	906ff3011a	6.17S	+	fact	two newbie Receptionists quit; Selys has worked since before dawn, nine hours
+liscor army	26f53d27fe	1.23	+	fact	2,000 Drakes and a few hundred Gnolls, average level 16 versus 8 for other armies; hired out as mercenaries and usually on campaign, last heard near the Walled City
+liscor army	7b1597c7e5	5.13	+	fact	citizens regard it as a nuisance; the Antinium treaty kept it away for four years
+liscor army	42822c6874	5.13	+	fact	about two to three thousand, up to six thousand when conscripting; one officer per five soldiers
+liscor army	5fafc0044b	5.52	+	fact	every citizen is conscripted at birth so Liscor can promote many officers over few soldiers; General Sserys held Shivering Falls Pass in the first Antinium War
+lord erill	a9c55e53bf	5.30G	+	fact	a merchant-lord, not a warrior, protected from rain by enchantments
+lord erill	d25ec7ed0a	5.52	+	fact	newly noble, rich; Lady Ieka (House Imarris), Lord Gralton (House Radivaek) are the other guests
+lord erill	e87336659d	Interlude_B09_1	+	fact	gives Lady Ieka two hundred thousand gold for the Circle of Thorns
+lord tourant	1d30fac7d1	5.11E	+	fact	Oswalt's father, confronts a fae and nearly duels her; Bethal intervenes
+lord tourant	f807449a22	5.21E	+	rel	father of Oswalt; old friend of the [Mayor] of Elkhan; uses a boycott to pressure Riverfarm
+lord tourant	eff3601b68	5.32G	+	fact	noble who objects that Goblins are not like Humans
+lorent	a12c19ec51	6.09	+	fact	armoured Dullahan [Sharpener] who sells razor-sharp knives and removes his head to fetch stock
+lorent	db67b05c81	6.31	+	fact	Dullahan [Sharpener] in Pallass
+lorent	7a2eb2b2eb	6.32	+	fact	Dullahan [Sharpener]; splits a wooden block with a dropped knife and sells knives through the door
+luciva skybreath	dc57e6ff5a	6.33E	+	fact	Dragonspeaker of Manus for fourteen years; blue, white and yellow scaled True Oldblood with wings and breath, wearing Dragonscale armour and carrying the glaive Fang of Manus, whose old name is Parentkiller
+luciva skybreath	9caffdc1a1	6.33E	+	fact	wears white in mourning; her daughter Hedica died in the Bloodfields battle, in which Manus reinforcements fought
+luciva skybreath	b3b04d568c	6.33E	+	fact	signs and seals the order for the first plan of ruination, to be run with fliers requested from other Walled Cities; the Cyclops who drew up the plan raised no objection
+luciva skybreath	d6adc1f66f	6.33E	!	event	Manus resolves to answer the Human attack on Liscor
+luciva skybreath	c00fe682e4	7.03	~	belief	wonders if Bird is a new anti-air Prognugator design
+lyfelt	805ea40264	6.15K	+	fact	Prime Minister of Belchan for six years, a [Politician] to [Minister], democratic parliament; talks via enchanted marble bust and mirror costing 28,413 gold; Medain's King Perric and Claiven seek defensive pacts
+lyfelt	9a34ae11f2	6.15K	~	belief	says gathering in Pomle is the real concern; Reim's worries lie south
+lyfelt	1791924584	7.08K	+	fact	Prime Minister of Belchan, a [Politician]; welcomes Flos' Manticore hunt and is content to see refugees hated in Belchan
+lyfelt	ba7adfe262	7.08K	~	belief	believes Flos is a novice politician
+lyfelt	8fb890dbd8	7.10K	~	belief	claims he did not order the attack
+madain	de86941de1	6.00	+	fact	retired adventurer ("Mad Madain"), part of a Gold-rank team, former [Javelineer]; runs the inn badly, wakes guests at dawn, hunts all day and locks up
+madain	e97c8e60ec	6.25	+	fact	former adventurer-turned-innkeeper of the Huntress' Haven in Reizmelt, huge bear of a man; has a drunken rage at least once a month, smashes furniture and throws axes
+madain	1a68564f66	6.60	~	belief	says Fierre has a high-level defensive Skill and survived thanks to healing potions
+magic	3360afd5e3	1.09	+	fact	teleportation spells exist but are rare; Pisces knows of only a few living mages who might manage one
+magic	410aea4f16	1.22	+	fact	has seven or eight tiers, with a speculative ninth no mage has cast; Pisces cannot cast beyond tier three in any field and mostly tiers one and two
+magic	eb34374915	1.34	+	fact	said to be in the air; Humans overestimate control; half-elves once knew Tier 2 by their teens
+magic	26b21e96f4	2.12	+	fact	everyone and everything has traces of magic; a grey base liquid stores extracted magic; order, heat and time matter
+manus	4b03d4baa4	6.33E	+	fact	walls slant outward with machicolations, a glacis and an inner wall, built to be unassailable by ground and nearly so by air
+manus	f0e6956732	6.33E	+	fact	the officer's academy in the inner city is the great military school of Izril; Manus exports military might, is second-poorest Walled City after Oteslia and sits next to the five Hives
+manus	97b76796aa	6.33E	+	fact	Lords and Ladies of the Wall are added each decade by merit; the ruler is elected, serves two years per term and can be re-elected indefinitely
+manus	e213d7337b	7.03	+	fact	Dragonspeaker Luciva Skybreath, Hunt Commander Makhir, General Milka, Spearmaster Lulv, Wall Lord Kishield and Wall Lady Rafaema watch; Rafaema, who looks twenty-three, already sent four wings toward Pallass and is described as a 
+manus	afa63c8951	Interlude_Queens_and_Dragons	+	fact	the City of War, star-shaped, two wall layers, borders the Antinium Hives
+merrik	5ef1a59ac1	6.22D	+	fact	Dwarf officer-class student who fought Trolls in the mountains; Skills named [Body of Stone], [Giant's Hammer] (he shouts fake names for fun), and [Battalion of Glory]
+merrik	0ebcd5c6bb-0	6.23D	+	fact	defeated by Xol's [Attraction Shield], which pins Peki to his tower shield and slams her; Merrik is lifted and dropped
+merrik	127aceda51	Interlude_Chess_and_Ships	+	fact	Dwarf [War Leader], can swim in armor; Yerranola: Selphid in a Dullahan body; Feshi: Gnoll [Strategist] going to the Meeting of Tribes; Venaz: Minotaur from the Isles of Minos
+merrik	99ba2994e2	Interlude_Strategists_at_Sea_Pt._1	+	fact	Dwarf from Deríthal-Vel (Dwarfhome), which he says has never been taken by force of arms
+message spell	045ccdc79b	1.28	+	fact	red-gold firefly of light becomes painful, hard-to-read runes; only Pisces reads it, then leaves
+message spell	3954f413ff	1.08R	+	fact	a red-gold firefly follows Ryoka and she outruns it
+message spell	301981ffad	2.40	+	fact	needs Level 15 or so; costs a couple of gold; office holds replies one week
+mister soot	1c3d7b58e6	6.61L	+	fact	ashy-scaled Drake [Fence] arming associates with wands and handling Palt's dreamleaf; gives up Saucy's Bar as the thief's location
+mister soot	80e3506784	7.07	+	fact	ashen-scaled old Drake [Gang Mastermind] of Liscor's underworld; relays claims on the inn from the Brother of Serendipitous Meetings and the Elusive Lot
+mister soot	29a8c9611a	Interlude_The_Gecko_of_Illusions	!	state	dies to the Raskghar
+mossbear	9a1baa6b74	4.20E	+	fact	woken from a den the Celestial Trackers found, attacked the village; arrows and fire barely hurt it
+mossbear	5bd0856d72	4.21E	+	fact	has a neat missing patch of fur at the nape of its neck, with no blood
+mossbear	48fe2cbf60	4.23E	+	fact	charges the Goblins from behind, called by Wiskeria's spell, then leaves
+narrator	73f859daa4	4.45	+	fact	opens with Kenjiro in Baleros negotiating paper prices with Xalandrass the Naga, and Trey sparring with Gazi in Chandrar
+narrator	8c9237b4e2	5.06M	+	fact	lists other stories, a [Clown], Knights of the Petal captured by the Flooded Waters Tribe, Tremborag's mountain home, Emperor Laken's Unseen Empire
+narrator	b864f15377	5.62	~	belief	says no one wrote the Goblins' story
+nemor	57d002fdcd	3.13E	!	event	the Great Mage blasts the wall; announces the Circle of Thorns seeks Magnolia's life; Magnolia and Ressa unharmed in a shield, assassins appear
+nemor	beb4a36216	3.14	+	fact	Great Mage in yellow robes with green slashes, goatee; once cast ward spells for Magnolia; uses a golden shield and blue fireball
+nemor	42da66f7c7	3.14	~	belief	claims the Circle of Thorns has roots in every place, even her home
+nemor	3a46d750cd	3.14	!	state	dies in Magnolia's ring beam
+nerrhavia	59a4430b48	6.52K	+	fact	String-people (Stitch) with silk-caste officers and rough Hemp infantry, 200,000 strong under General Thelican
+nerrhavia	36f98387ed	6.54K	+	fact	was itself once a slave-state, per Thelican
+nerrhavia	dd57076e7a	7.47K	+	fact	declares war on Reim, as do the Claiven Earth, Savere and a dozen other nations
+oldblood drake	ce3e98706d	6.45E	+	fact	bronze-scaled, breathes fire and carries artifact scrolls; sets wildfires with [Weatherchange] wind scrolls, saying "Fire for Manus. Fire for Liscor"
+oldblood drake	3dc331d1e5	6.45E	~	belief	claims Drake [Infiltrators] across Izril are targeting the lands of nobles who besieged Liscor
+oldblood drake	ce414f8cf4	6.46E	+	fact	sets fires across a thirty-mile area with breath, wind scrolls and engineered dryness to cut off fleeing villagers; Laken sees it through his [Emperor] sense
+oldblood drake	90007aeec0	6.46E	+	fact	burns through 34 [Weatherchange] scrolls plus emergency stone-called scrolls from Manus's reserves to unmake the rain; the aquamarine cracks and the ritual shatters
+oldblood drake	476c34a813	6.46E	+	fact	killed by Hedag's [Headman's Last Cut] after Alevica's bolt and Mavika's attack
+oom	b7d93c8f1d	4.49	!	state	killed by Zel
+oom	17f879995f	6.48T	!	state	destroyed beyond repair by Zel Shivertail
+oom	0cd578eeac	6.51A	!	state	his death confirmed to Az'kerash only now; Oom was an Acid Slime
+oom	3a7a3e9f9d	7.14T	+	fact	the fifth Chosen, destroyed fighting Zel Shivertail
+pekona	07be34430c	4.08T	+	fact	young Human [Blade Dancer] with a wide double-edged curved sword, a class from where she is from
+pekona	34d4c1192c	4.08T	+	fact	Pekona demonstrates her style and Toren memorizes it in minutes by never blinking and not forgetting
+pekona	c8fb128735	5.05	+	fact	from the Drath Archipelago, speaks little of the common tongue
+periss	e6a5d6663c	2.24	+	fact	Drake [Commander] and second-in-command to Ilvriss, serving with devotion
+periss	5450d18de1	2.25	+	fact	tells Ryoka to run and fights; she confesses she loved her lord
+periss	db964b6f63	2.25	!	event	die fighting the undead
+periss	9a104dfde8	4.45	+	fact	Drake officer, light blue scales; she advises that Zel's disappearance is key and that the Goblin Lord avoids cities
+perorn sadiluc (fleethoof)	4087d7147e	6.22D	+	fact	he hamstrung her back right leg in a past battle, and she hates him
+perorn sadiluc (fleethoof)	5b8525f28d	6.24D	+	fact	authorizes Geneva's invitation to the academy with travel costs, and runs to Elvallian filled with hope
+perorn sadiluc (fleethoof)	647a61d348	Interlude_The_Titans_Question	+	fact	famous [Strategist] and teacher of joint classes; Niers' former student, among his first winners
+perorn sadiluc (fleethoof)	63e3c477ff	Interlude_Chess_and_Ships	+	fact	Centauress, [Strategist] in the Forgotten Wing Company, one of the Four Great Companies of Baleros
+petals of death	d483f85098	7.24	+	fact	vote four of seven to kill Magnolia after her Liscor and Pallass visit; Guild of Assassins is to do it with no mistakes; the Couriers had humiliated the Guild
+petals of death	93a119bbc3	7.24	+	fact	second vote five to two to approach Tyrion Veltras as Magnolia's replacement as northern leader; they note Maviola El's House El lost its ruler and Ulva Terland is shattered; they want the Antinium and Drakes destroyed
+petals of death	a1497afb31	7.24	+	fact	tell Rie to investigate whether Emperor Godart is an ally, make an offer, or kill him; two members want the trebuchet plans
+petals of death	14a476ab2e	7.24	!	event	decide Magnolia Reinhart must die
+pomle	6125093c90	6.15K	+	fact	neutral ground, no government, small circular nation at a four-border junction; ruled by the tradition of the Strongest; Orjin won eight years ago; Drake [Secretary] Salii arrived about five years ago
+pomle	352faff53a	Interlude_Dancing_and_Brawling	+	fact	martial-artist nation around an oasis; shelters murderers who keep the peace; the Strongest enforces rules until challenged; currently Orjin
+pomle	969e607e8b	Interlude_Sand_and_Notes	+	fact	a canyon and a single oasis in Chandrar; refugees from Tiqr have built houses, a vineyard and herds of Shockwoolies, which stun attackers with static
+pomle	230edfbd8b	Interlude_Sand_and_Notes	+	fact	expands for the first time; Salii buys part of Tiqr's former land from the king of Lamullt and plans [Geomancers] to build defences
+pomle	75053b1614	Interlude_Sand_and_Notes	!	state	gains a treasury, economy, arena and territory
+princess	9e0621413f	1.40	+	fact	blonde filthy girl with an emerald ring that shoots a spider web; [Invisibility] fails
+princess	462c641568	2.18	+	fact	a starving human thief, a [Princess], using [Invisibility] and rings, steals from Krshia's stall
+princess	f50d1959b3	2.18	!	event	Krshia catches her; she fires a fire ring ("Ignis!") that destroys the stall; Gnolls seize her
+quietstab	fc1ce3c3ce	5.47G	+	fact	knocks Gilam from his horse Olli and steals the mount
+quietstab	5253a27467	5.50G	+	fact	Hob [Rogue]; killed by Tremborag, neck snapped and thrown in a latrine
+quietstab	dab6ee6b66	5.50G	!	event	murdered by Tremborag
+quietstab	d1f153c772	5.51G	!	state	death confirmed
+raskghar hoard	57fca93b1b	5.49	+	fact	a separate room below held coins, gems, goblets, a diamond-ringed scepter; Goblins bring two bags of holding and two sacks; no artifacts
+raskghar hoard	55ef9cc41c	5.49	+	fact	estimated about 110,000 gold, give or take 30,000; roughly 35,000 per team
+raskghar hoard	8e80a45e04	5.49	+	fact	the Hobs gift it to the Horns, Halfseekers and Griffon Hunt; they dislike the Silver Swords
+rast	fc9dc3bc98	4.03K	+	fact	city is destitute, bad harvests, little trade, its [Mayor] offers IOUs to traders and its walls are manned; envoy was kept outside
+rast	1303fe2e20	4.03K	+	fact	the [Mayor] fled and was torn apart by a mob; some died keeping the gates shut; Orthenon controls the warehouses and rations food
+rast	b422526946	4.03K	!	event	now Flos's; rumor says he brought the walls down with one word
+regis	2bb507e103	4.26M	+	fact	spies on his descendants with scrying and says Wernel and half-sister Damia are intimate, unknown to Cecille
+regis	048396aec6	4.26M	+	fact	grants two companies of [Knights], three battle golems, armor of her forebears for her general, a tube artifact able to fell a Giant, and gives Ressa the Vision of Grasses, a green curved dagger to be returned
+regis	98e0c90fe0	4.26M	~	belief	believes Goblin Lords grow stronger and replenish within days
+remi canada	dca774c1cb	6.52K	+	fact	a [Reporter] whose Mage's Guild article on the Laughing Brigade's end makes Erin pale at the surname and class
+remi canada	aeae0ac531	6.53K	+	fact	hidden observer filming with a smartphone as Femithain advances
+remi canada	8ca6d8e97e	7.13K	+	fact	films the standoff and duel for Wistram; a Garuda assistant whispers beside him
+remi canada	324b5e186f	7.34C	+	fact	[Journalist] raising backing for a Chandrar newspaper
+revine zecrew	f72a41674d	6.15K	+	fact	Savere was looted by Flos; threatens Reim if it nears a coast; has a sister
+revine zecrew	536ae9c4a4	6.53K	+	fact	Siren of Tides / Siren of Savere, a bandit queen; learns of the plan last, throws objects at her slave-[Mage], orders pirate armadas and the Empress killed
+revine zecrew	14953a2f31	6.54K	+	fact	talks to Femithain through an enchanted conch via Urele; backs down when told Nerrhavia wants Nsiia, says she still wants her and will talk terms later
+rock crabs (hollowstone deceivers)	dfecac00af	1.02	+	fact	panics and smashes itself when hit with the seed core
+rock crabs (hollowstone deceivers)	0a93985abe	5.03	+	fact	rain-silent rock crab that hunts in spring
+rock crabs (hollowstone deceivers)	2a10600526	Story_1_Mrsha_and_Relc	+	fact	rainy-season spawn; a baby is twice Mrsha's size with a soft carapace and no rock shell yet
+rock crabs (hollowstone deceivers)	45f4e2204b	7.23LM	+	fact	six crabs stalk the Earthers in the Floodplains until Erin saves them with poison seed cores, Bird's [Ricochet Arrow], Halrac, Ceria's ice walls, Pisces's [Shatterbolt], Ksmvr's crossbows and Grimalkin
+rose	7169c5137c	Interlude_The_Call	+	fact	has been in this world one day, alone in a forest, from California
+rose	8f28bf83c6-0	7.20	+	fact	out of money in Invrisil, begging; Joseph sold his sword; Ryoka took their electronics; Maviola buys them a meal and brings them to the Horns
+rose	5f9ff8ff13-2	7.26	+	fact	seven staying at the inn for roughly a week; Joseph drinks gin and blue fruit juice for breakfast
+rose	0af41bb1e9	7.38	+	fact	pitches an all-male Romeo and Juliet to the Players of Celum; crowd shouts "Disgusting", a Drake woman punches Rose
+rustless guard	889f812ffc	6.04D	+	fact	Silver-rank Dullahan team led by Captain Eldima; wanted the Stelbore contract
+rustless guard	05d94e9f21	6.05D	+	fact	Dullahan team of Captain Eldima that rushed a newly exposed dungeon three miles south after rainfall cleared the entrance
+rustless guard	6014bfaa46	6.06D	!	state	allied to the United Nations company; Eldima asks to join
+rustless guard	b825b42dd1	6.20D	+	fact	Dullahan team led by Captain Eldima; Eldima has a [Razor Slash] Skill
+selphids	caa672f45f	1.03D	+	fact	live in corpses, never fight one another, and were largely killed off long ago
+selphids	2ed2bdb6b0	1.04D	+	fact	inhabiting living bodies is banned by ancient treaties under threat of extinction; Calectus has not forgiven Okasha
+selphids	8e42184ebc	1.06D	+	fact	ancient Selphids once inhabited living bodies and built an empire, then were overthrown; the practice is forbidden by every nation
+selphids	ebd0b39193	6.06D	+	fact	take dead bodies for pay, never living ones; entering a living body is punishable by death; once formed a Selphid Empire
+seve-alrelious	6fedbf9f65	7.49	+	fact	the Hundredfriends Courier, [Worldtraveller Inkfriend], carries living tattoos incl. Nelgaunt Arveil, ape Erek, dolphins, and a Steelfriend tattoo tied to Seql; his boat is the World's Pact
+seve-alrelious	4d6d59f537	7.51	+	fact	Hundredfriends Courier from A'ctelios Salash (Tombhome), a Shield Kingdom of Chandrar; living tattoos are Skill and ink; Erek is his Orangutan tattoo
+seve-alrelious	71e9f6e4f1	7.51	+	fact	a [Fleshchosen] who grew up eating Tombhome's meat, heals fast and gets hungrier over time, must return every few years and one day for good
+seve-alrelious	fd7ba56495	7.51	+	fact	charges no fee when the cause is enough; Geneva gives only the name "Joseph. From Liscor" after Idis interrupts her
+seve-alrelious	8c4dfd4675	7.51	~	belief	says Tombhome welcomes all who are lost and everyone has a choice
+shield spider	241e85fd9b	1.29	+	fact	huge armored spider, half Erin's height, tracks prey for thousands of leagues, venom, cannot be tamed without [Beastmaster]
+shield spider	36a1eafd7f	1.29	+	fact	Silver-rank threat; a nest might draw Gold-rank adventurers
+shield spider	774f417d42	1.30	+	fact	bodies prized for shields and armor; steel cannot crack their shells
+silent queen	ec716b1dd6	5.54	+	fact	directs the surgery that splices a blood-sac organ and chitin onto Bird; Bird survives
+silent queen	4648efa4ab	Interlude_Queens_and_Dragons	+	fact	smallest and most timid Queen, genius at shaping, hive of dark shaded camouflaged attendants; accuses the Free Queen of withholding Bird's design and offers to send a Prognugator through the new passageway
+silent queen	cb581059be	7.39A	+	fact	Shaper Queen, fond of Klbkch, second-smallest Queen; each Infiltrator takes two months to create; her Hive is not True Antinium
+silent queen	65b9382c2d	7.39A	+	fact	shows Klbkch a light-emitting strobe Antinium built to blind enemies, modelled on Sii the Glorious
+silvenia	e9ff638e57	7.36C	+	fact	half-Elf Deathless, silver star-eyes, white and pale green hair, scarred, stutters, face partly missing and filled by a magical simulacrum, Wistram's fallen [Archmage]; called the Death of Magic, Islandbreaker, Traitor of Terandri
+silvenia	401f0db04d	7.36C	+	fact	declares war until Walled Cities, Wistram, the Death of Chains and the Death of Wings fall
+silvenia	44b6fdcb5a	7.36C	~	belief	the Elves died to the Blighted Kingdom; Flora asks who killed them and Callidaz does not know
+silvenia	fce05186ac	7.36C	!	state	return of the Deathless announced
+siri	a27bebb169	6.04D	+	fact	Swedish, in mud camouflage; she and Tofte survived transport to Baleros that way; joined the Bushrangers three weeks earlier
+siri	6addb88c4d	6.06D	+	fact	named Daly's backup leader; Paige names no one
+siri	c20fd5e390	7.22D	+	fact	have names of family tattooed on their arms (silver and gold) to avoid forgetting
+sisters of chell	a83d7a6575-1	5.54	+	fact	thieves' guilds who steal the door; Lord Erill's intermediary and "Lady Spellcraft" hired them
+sisters of chell	aeba3865b5	Interlude_Numbtongue_Pt.1	+	fact	a scarred [Nightstalker], formerly [Nightwalker], with wrist blades, and a bandaged [Blackguard] who is her bodyguard; they say a job went bad before the Liscor battle and a whole hand of their sisters died
+sisters of chell	285325dfd2	Interlude_Numbtongue_Pt.2	+	fact	the [Nightstalker] stabs Yellow Splatters, who shrugs off the poison, and swears Numbtongue is marked; the [Enforcer] says the Brothers may not hold a grudge if it was chance
+snow golem	195c74626a	2.01T	+	fact	a Drake child's snowman that gained life from magic and grew by absorbing snow; fights the Corusdeer; stones in its body overheat and explode
+snow golem	f3f60db47b	2.01T	+	fact	the pure white snow in its head is its core; Toren digs it out to kill it
+snow golem	3bd58b19a7	3.31G	+	fact	hill-sized (about 260 feet) giant; Goblins avoid it
+spellbooks	ec0ed4e874	1.40	+	fact	several hundred to a thousand gold each; Ceria saves for a Tier 4 one
+spellbooks	e6ce60bf5a	2.34	+	fact	immune to ordinary harm but destroyed by sufficiently powerful magic
+spellbooks	b17f6a3089	2.39	+	fact	some are teaching tomes, not just spell lists; low-level spells are common so many cheap books are redundant
+spellbooks	270b367014	5.06M	+	fact	opening a page injects the spell into the reader's mind, instantly understood, for example a stone sword spell and [Grow Grass]
+spiderbite	7409b8b23a	5.56G	+	fact	Garen's second with a falchion, resentful of Redscar
+spiderbite	384514d69d	5.58	+	fact	parries Garen's killing blow on Headscratcher, saying "Redfangs don't fight alone"; most of the tribe sides with the Hobs
+spiderbite	27618ea84a	5.59	+	fact	duel with ordinary identical steel swords outside; both healed; Halrac bets 200 gold on Redscar and Pisces takes bets
+spiderbite	1e02d67ff0	5.62	+	fact	killed shielding Garen from bone shards
+stitch-folk	ef997d9952	2.12	+	fact	can reshape their cloth bodies within limits; need bones and organs; dark skin comes from the fabric chosen by their makers
+stitch-folk	eb941f2faa	2.12	+	fact	cotton is common, wool and rough cloth for the poor, canvas makes heavy rough people, silk would be rare and costly
+stitch-folk	149df998d6	4.06KM	+	fact	cloth-bodied people of Chandrar, one of its main races with Garuda and humans; fear fire; the Serpent Hunters, hundreds of veiled spear-wielding Stitch-warriors, arrive at Reim
+stitch-folk	8f1abdc807	5.02	+	fact	String People, born of cloth, can swap limbs, eyes and bodies; hated simply for being different
+stone spears	9269f14ae0	2.23	+	fact	smaller Gnoll tribe north of the Blood Fields, prospecting gems near the Grisrith mountains; sells uncut gems to Drakes
+stone spears	c98ba092a0	2.28	+	fact	miners are several days away; a [Shaman] knows no useful spells
+stone spears	23714b35a7	2.29	+	fact	camp lies at the foot of one of the mountains surrounding Liscor
+stone spears	7b864ff795	Interlude_B02_1	+	fact	wintered in the mountains; the mining party was ambushed and slew over a hundred Goblins before dying; some Gnolls may have been saved by Zel's army
+students	d6bc50bcac	4.25N	+	fact	Umina (Lizardgirl), Cameral (Dullahan), Marian (Centaur), Venaz (Minotaur), Wil (Human), Yerranola (Selphid in a Naga body, identifies as female)
+students	883263e633	4.25N	+	fact	say Flos took down three kingdoms; Marian notes his Seven are down to four, one male; Niers says success depends on whether Flos finds a new Seven
+students	a02c275b2f	4.25N	~	belief	believe Niers is cursed, which he denies as gossip
+students	d534833512	6.22D	~	belief	believe Tulm killed a Dragon and levelled a Lizardfolk city in a week-long siege
+tagil	9b06d7b159	6.44E	+	fact	introduces himself as Foreign Hunter leading the Hunters of Noelictus on a mission for the Crown of Noelictus
+tagil	5f2735412d	6.44E	!	event	bargains with Belavierr for a charm to save his sick daughter, kills Sylind, Coroise, Faigen and Erashelle and hangs himself on a hilltop tree
+tagil	fc1fb1acf8	6.45E	+	fact	buried by villagers where he fell, a traitor's burial; the Order carries the ashes of Sylind, Erashelle, Faigen, Coroise and Gaile
+talenqual	b04b834c53	6.04D	+	fact	city that becomes the company's home, with rice fields on its edge
+talenqual	9262570b64	6.05D	+	fact	port city claimed by the Featherfolk Brigade, mostly Lizardfolk, no great resources; Daly sees Dullahans, Centaurs and Lizardfolk daily
+talenqual	a7b64e60bd	7.22D	+	fact	small-to-medium Baleros port city ruled by the Featherfolk Brigade; United Nations Company now holds four adjoining houses leased four months from landlady Miss Hastel
+talia	ad4fda5290	Interlude_Talia	+	fact	wants to admit other species to the Order; Selphids joined thrice (Chalica of Spring held the gates), but Lorell cites the Crowlende Order's ruin
+talia	ee3368dfac	Interlude_Talia	+	fact	has the [Lady] class and Skill [Mark of Worth]; uses [Aura Blade] to make plain steel white-hot
+talia	315e04278f	Interlude_Talia	!	event	promises to stand with Ser Solstice if his cause is just
+talia	1681d97c1e	7.48K	+	fact	aboard a transport ship, attacked by Ailendamus ships; Ailendamus crosses Kaliv's border and blockades Pheislant, a month earlier than Grandmaster Calirn predicted
+talia kallinad	6243750bb8	6.42E	+	fact	Dame, Summer Knight, twenty-eight, back from Daquin; her brother Wil is House Kallinad's strategist
+talia kallinad	72e629a610	6.45E	+	fact	leads the surviving Spring and Summer Knights home with the dead and Raim's sword; older knights are dead or wounded and most survivors are younger than Ryoka
+talia kallinad	c60a103518	Interlude_Talia	+	fact	Summer Knight of the Order of Seasons, Wil Kallinad's elder sister, possible heir if she marries, from a coastal duchy; has a scar from an enchanted arrow on her left leg
+talia kallinad	bd65c217b6	Interlude_Carriages_and_Conversations	+	fact	fought a Spider of Terandria with a Knight of Summer who died, feels weak, and says war is brewing between Pheislant and Ailendamus
+termin	17f8980f63	3.34	+	fact	wagon drivers use Skills like [Continuous Rolling]; the convoy has over a hundred adventurers, guards, [Healers], [Masons], [Hunters]
+termin	f2745307af	3.34	~	belief	says no Human army could match one led by Zel with Gold-rank teams
+termin	5b150231d6	4.27H	+	fact	the [Wagon Driver] takes them to Esthelm and then heads north fearing the Goblin Lord
+termin	4d98a74078	7.52	+	fact	[Wagon Driver] who levelled after Ryoka rescued him from Wailer Frogs
+teura	af80c5f28b	Interlude_Blackmage	+	fact	red-haired half-Elf, over six decades in Wistram, part of Feor's faction; guards Blackmage
+teura	c57c3c8023	Interlude_Blackmage	~	belief	says Wistram's Council discussed waiving fees, a Revivalist notion rejected as too drastic
+teura	f9d15831a7	6.22D	+	fact	pushes back the mist around the plaza by herself
+teura	6b58e7a085	7.29B	+	fact	half-Elf High Mage, Council member, Centrist under Archmage Feor, still resents Aaron giving her the slip
+thelican	8727942ca8	6.53K	+	fact	Stitch-person [General] of Nerrhavia, reclines on a sofa tended by eight servants; Silk-caste officers; Hemp-[Soldiers] take the first wave
+thelican	f0e3c72b8e	6.53K	+	fact	pulls Nerrhavia back six hundred paces and fortifies, so Nerrhavia's army looks besieged; General Heic of Deimos is ordered to hold the left flank
+thelican	91afc73c0f	6.53K	!	state	Alked Fellbow quits his contract when he hears Flos may have joined Tiqr
+thelican	48aac79ac1	6.54K	+	fact	Nerrhavian pride demands Nsiia; Femithain persuades him by backing Nerrhavia's claim to Oliphant and most of Tiqr and proposing an occupied subservient region instead of selling slaves
+theofore	a6571a20e1	1.08R	+	fact	forgettable [Assassin] hired by Magnolia to guard Ryoka; says his team could not fight monsters and reimburses her
+theofore	9df45dbb86	1.10R	+	fact	[Assassin] watching Ryoka; has [Nerve Strike: Paralysis]; lacks [Sure Footing]
+theofore	2a865d6fe9	Interlude_B02_1	+	fact	Reinhart agent who located Ryoka; she will return to Liscor in two days
+theofore	b9af489df1	6.27M	+	fact	former [Assassin] now working for Magnolia, hunted by the Guild; identifies and helps capture three trainees
+therrium sailwinds	450c4351f0	Interlude_Strategists_at_Sea_Pt._1	+	fact	half-Eel Depth Captain of the Drowned ship The Passing Shadow, shadowing the students with a second Drowned ship; has three sons
+therrium sailwinds	22dd1c4926	Interlude_Strategists_at_Sea_Pt._2	+	fact	defeats and conscripts a second Drowned captain for six months; wants the last shipwreck too
+therrium sailwinds	2a522ec7da	Interlude_Strategists_at_Sea_Pt._2	+	fact	orders Glisal, a half-Blowfish [Venom Archer], to shoot Wil; Zeres, a Walled City, fires on his ship and Drake ships sally
+therrium sailwinds	ce3c5cbde3	Interlude_Strategists_at_Sea_Pt._2	~	belief	says Wil could have been saved if he gave up the blades at the start
+thief	03d686cc5f	2.19	+	fact	a rich human girl with enough artifacts for a Gold-rank team, almost out of magic after about a month
+thief	87fcb33d8a	2.20	+	fact	blonde, pale, wearing once-expensive clothes; exiled with no winter clothes and one day of food; her artifacts are mostly drained
+thief	ab9ee60e0b	2.01T	+	fact	complains about "filthy peasants", orders Toren as "Thing", and tries to take Erin's coin pouch
+thief	61191f3188	3.36	+	fact	bland, flaxen-haired pickpocket takes Durene's pouch holding Riverfarm coin and gems; Durene catches him by shouting, throwing him and breaking an arm and ribs
+thriss	58c9e8c65b	1.00D	+	fact	Human [Sergeant] of the 4th Battalion, Raverian Fighters; wields a large mace; commands 6th Squad
+thriss	4c7f5a9540	1.00D	+	fact	no item or [Appraise] user in the company can verify classes
+thriss	ebfee53aa2	1.01D	+	fact	has a full healing potion in a flask, withholds potions from regular soldiers
+thriss	fe4aed57b5	1.01D	!	state	dies, stabbed through the chest by Okasha after he strikes Geneva's spine
+thrissiam blackwing	2c8cd07669	4.16	+	fact	Drake [Lineholder General] from Pallass, the northernmost of the six Walled Cities, sent to lead the suppression effort against the Goblins
+thrissiam blackwing	5484f220ac	4.16	!	state	killed and raised as undead
+thrissiam blackwing	22fbfa3754	4.24	+	fact	ordered both armies to buy time so word could reach other cities
+thrissiam blackwing	22b2d8a42a	1.02C	+	fact	[Generals], dead with over twenty thousand Gnolls and Drakes to the Goblin Lord; undead not warned of despite Zel Shivertail's information
+timbor parithad	7e95b5b38a	4.18	+	fact	bearded redheaded owner of the Drunken Swordsman in Celum; Level 24 [Innkeeper]
+timbor parithad	24627ded66	6.18H	+	fact	Celum [Innkeeper] with a grudge against Erin; nervous about Ksmvr, sends a free round
+timbor parithad	4a7a02c1a3	7.25	+	fact	sits before his destroyed inn; Erin comforts him and sends him to Liscor
+timbor parithad	2a82c74605	7.50	+	fact	reopened as The Drunken Gnoll in Liscor after Celum's Drunken Swordsman was lost
+tremborag city	57705bdcd9	3.26G	+	fact	ruined stone city inside a mountain, carved by perhaps Dwarves long ago, with Goblin [Blacksmiths], steel armor, magical weapons, over thirty Hobs in the hall
+tremborag city	85b65a1460	3.28G	+	fact	hollowed mountain for tens of thousands of Goblins, larger than Esthelm or Celum, built on an abandoned Dwarf city; sub-Chieftains and factions (armbands, tattoos, chain bracelets on [Blacksmiths])
+tremborag city	77b2da5cc9	5.32G	!	event	Reiss and Tremborag's forces flee when Elia Arcsinger appears
+troll	2895a6c528	1.01C	+	fact	flees after Tom stabs its groin with Wilen's knife
+troll	13bd609366	3.01E	+	fact	considered monsters, as smart as Goblins, not all violent or man-eating
+troll	c41c15f33f	5.09E	+	fact	cannot gain classes or level
+twin stripes	5e0001e08e	4.40L	+	fact	Soldier with two pink face stripes; becomes an Aberration after being sparred hard; restrained in iron and sent to a holding cell
+twin stripes	bb273aea3a	4.40L	!	state	becomes an Aberration
+twin stripes	3dae6df65c	4.42L	!	event	recovered from Aberration by Pawn's blessing
+twisted queen	25011cc514	7.39A	+	fact	tells Klbkch "Wrymvr is. Waiting for you."
+twisted queen	89f983552c	7.39A	+	fact	missing a mandible, parts of her body and one eye, speaks haltingly; dangles Anand over a Birther until Klbkch puts a sword to her side
+twisted queen	e1b4dc6885	7.39A	+	fact	says the flaw of the Hives is Queens and "you do not need me anymore", claiming her project is complete
+twisted queen	df1e9bbb2c	7.48K	+	fact	debate crossing the sea; Wrymvr says he could kill the Illusionist
+ulseil greenscale	f6934d41d0	5.35H	~	belief	blames the dungeon and the Antinium for the attacks
+ulseil greenscale	d6266839fa	6.28	+	fact	olive-green Drake, head of Liscor's Merchant's Guild and a Councilmember, unmarried, nominates his deputy Stale as successor
+ulseil greenscale	cac56a1e6a	6.28	+	fact	publicly blurts that he'd support Gnolls on the Council and elections, then faints; a crowd spreads this as one of eight Council votes
+ulseil greenscale	7bf5a3ed7e	6.49	+	fact	head of the Merchant's Guild and a member of the old eight-Drake Council; the old Council nominated its own successors until the election
+ulyse	03108933ed	6.13K	+	fact	Daiton's combination steel cannot hold enchantments, so Serpent Hunters lack enchanted blades
+ulyse	d153da41c6	6.53K	+	rel	leader of Parasol Stroll, [Mage] with a parasol
+ulyse	1261662124	7.47K	!	state	dies, stabbed in the throat by Rasea
+unseen empire	e4f823a5b4	5.09E	+	fact	only a few thousand people, mostly refugees from villages raided by Goblins; town of Trottvisk declared itself part of it
+unseen empire	d332c6b00d	7.40ER	+	fact	[Witches] protected by Laken's laws came to Riverfarm, Agratha with nearly a dozen
+unseen empire	9ce1b04e27	7.55E	+	fact	eleven nobles have replied for the party after Lady Imarris; none of the Five Families yet
+wall lord zail	c0e6b345d9	6.50I	+	fact	Ilvriss's father, 83, retired, confused and scarred; he asks about the ring and makes Ilvriss swear on a truth stone
+wall lord zail	ce7c0765d2	7.04	+	fact	Ilvriss's father, old and weakened, helped command in two Antinium Wars; fears Bird; names Devrkr the Glowing as an Antinium killed repeatedly; grants access to the heirlooms
+wall lord zail	1e4fe072c1	7.33I	+	fact	Ilvriss' elderly father, uses a cane, has an indentation in his head, resents Gnolls
+wall lords	39a832b7de	4.43	+	fact	noble lineage from age of Dragons; they built the Walled Cities with Dragons' help; duty to defend Drakes
+wall lords	bd86aa4cb3	7.04	+	fact	Wall Lady Calistoca presides; Navine Gemscale opposes Ilvriss; Brilm and Tasilt support or weigh his plan
+wall lords	90a6e03f3d	7.33I	~	belief	think the ring's owner is a Gnoll, Human or Selphid and that Ilvriss will marry
+wesle salkis	fd1a2647ce	5.04	+	fact	former Celum [Guardsman], now [Actor] leading the Players of Celum with Jasi; signs people's arms with oil-based charcoal
+wesle salkis	c94dc0e4f6	6.63P	+	fact	lead [Actor], former Celum [Guardsman] and [Watch Captain], nicknamed 'Fuzzylips' by Erin; now Level 26 [Method Actor]
+wesle salkis	52dc04ec0f	7.50	+	fact	now a [Famed Method Actor] past Level 30 with Skill [Everyday Prop]
+wilen	1ed838ab34	1.00C	+	fact	village boy aged about twelve; asks about [Tumblers]
+wilen	142dc10477	1.01C	+	fact	dies of Troll injuries after a joke ("the main course"); had a kitchen knife
+wilen	0b7d18c1d0	1.02C	+	fact	died the night Tom stopped fighting, killed by a Troll
+windrest	780300556d	4.20E	+	fact	raided by about sixty Goblins who killed a dozen, burned buildings, took two thirds of stores and two young women
+windrest	9e62d6cce5	7.15R	+	fact	Halrac's home village destroyed by Goblin raids and fires; survivors are at Riverfarm under the Unseen Empire
+windrest	208834e94f	7.40ER	+	fact	burned to ash; Halrac's home village, most inhabitants had moved to Riverfarm
+wistram exam	17e93a2a87	S03_Wistram_Days_Pt._1	+	fact	after a month; students over Level 20 or with a unique spell may stay, and a patron can skip the exam
+wistram exam	af196d1a75	Wistram_Days_Pt.1	+	fact	nearly twice the usual number of applicants; need Level 20+, a new spell, or a patron
+wistram exam	e4c1513737	Wistram_Days_Pt.4	+	fact	tests include magic theory, spell demonstrations, spotting dangerous artifacts, and a combat gauntlet of fake [Fireball], traps and light-illusion monsters with a Troll
+wistram factions	3006565ddc	S03_Wistram_Days_Pt._1	+	fact	Expansionists, Revivalists, Isolationists; Calvaron is undeclared
+wistram factions	8dcb327549	Wistram_Days_Pt.1	+	fact	Expansionists, Revivalists, Isolationists
+wistram factions	5cbd3e128b	Interlude_Blackmage	+	fact	Centrists (Feor), Libertarians (Welaiat, Rievan), Preservationists (Failess), Revivalists (Naili, Beatrice, Montressa)
+wuvren	abd9f147a6	6.27M	+	fact	nearly sixty but looks about twenty-eight; son Gilliad appears older; charms [Assassins] with a gaze and uses [Heartbreaker Kiss]
+wuvren	333a188bd7	7.20	+	fact	Pryde has [Pride is Weight] and overpowers Grimalkin's grip; Wuvren, the [Eternal Beauty], uses charm to make Grimalkin formal; the three wear Earth-style clothing
+wuvren	f79961e25e	7.20	~	belief	thinks Erin's [Crowd Control]-type Skills are what let her start riots
+wyvern lord	600bb79e82	7.00	!	event	leads over a thousand Wyverns to fly south in search of a new nesting place, passing Liscor
+wyvern lord	658795520a	7.02	+	fact	refuses the 4th Army's cattle bait because he senses magic and a Dragon-like aura from Pallass, then attacks the city
+wyvern lord	30da4d68f5	7.02	+	fact	lands on the wall and kills a Garuda [Lieutenant] and a Dullahan [Soldier]; the weyr pours into the city
+wyvern lord	829d39f1dd	7.03	+	fact	after a second assault, a Greater Wyvern immune to low-tier spells; Relc, Grimalkin, Duln and the Flamewardens fail to kill it; Saliss's lightning combination nearly does
+wyvern lord	99b89afcde	7.12G	+	fact	a Greater Wyvern who survived the Dragon fight and Pallass; killed six challengers; attacks Goblinhome with the whole weyr
+xol	89069cfff2	6.22D	+	fact	Dullahan [Juggernaut], a War Walker of the Iron Vanguard, about fourteen feet tall, who captures students
+xol	c5903da5a0	6.23D	~	belief	believes using children to win is wrong
+xol	e248619b63	6.24D	+	fact	War Walker, carried as a head by a Dullahan; Tulm used his appraisal Skill on all the students and some Forgotten Wing officers
+xol	97f6710924	6.24D	+	fact	posts a personal nonlethal bounty on Luan via Zevai's Adventuring Guild: superficial beatings and destroying his boat, no permanent harm
+yellow rivers	332928c6b3	6.06D	+	fact	severe new sexually transmitted infection; two Gravetender men caught it at a brothel; healing potion worsened it
+yellow rivers	f92da106e2	Interlude_Strategists_at_Sea_Pt._1	+	fact	spreading through brothels and armies in major cities; Niers thinks it may have several ways to be contracted and fears a magical plague like the Sporepits Plague, which killed millions
+yellow rivers	2439ae2187	7.32D	+	fact	bacterial disease causing fever and diarrhoea, spreads by airborne routes; Geneva expects 20 percent mortality untreated
+yellow rivers disease	e0b40db224	6.07D	+	fact	cannot be treated by healing potion; possibly magical
+yellow rivers disease	384b2fc558	7.22D	+	fact	bacterial STD that has mutated to spread by pus or fluid contact; fever, diarrhea, sores; healing potions make it explode; Geneva wants penicillin or another broad-spectrum antibiotic
+yellow rivers disease	35557490c7	7.22D	!	state	becomes a pandemic reaching other ports and continents
+yerranola	ef97dcaacd-0	6.23D	+	fact	stage a wagon ram and a thrown head toward the circle; Tulm leaps eight feet to catch Cameral's head and Niers rules "Out!"
+yerranola	708c13cab7-0	6.23D	+	fact	plan was agreed in advance, with Cameral's wounds real but planned
+yerranola	358d949491	Interlude_Strategists_at_Sea_Pt._2	+	fact	beheaded by Seagrass but her inner body throws him overboard; she loses her body and finds a new one later
+yerranola	344f8215a5	Interlude_Strategists_at_Sea_Pt._2	!	event	hit in the chest by a poisoned arrow and appears lifeless on deck
+yerranola	3903116f39	7.32D	!	event	poisoned by blowfish, kept in a jar in agony; Strategists plan to go to Oteslia
+yesel	700ce5e2f7	3.01E	+	fact	tries to move Laken into the village; Laken refuses
+yesel	a4fa7c19bb	4.21E	+	fact	Prost's wife, bakes bread in an uncovered oven
+yesel	7d4b260e8b	6.41E	+	fact	Prost's wife; recalls Ryoka's Christmas presents for the children during winter
+zamea	9b866e309f	7.08K	+	fact	tallest half-Giant of the Nomads of the Sky, about thirty feet; calls herself Shepherd
+zamea	fd577b02bc	7.10K	+	fact	Shepherd of the Nomads of the Sky; about thirty-two feet tall, skin like armor, pale orange eyes, says smallfolk are not equal to half-Giants and lifts Teres
+zamea	39e5bc5c83	7.13K	+	fact	First Shepherd of the Nomads of the Sky, a half-Giant about thirty feet tall with skin that stops steel, wields an axe and the Skill [Cleaving Arc]
+zamea	19b9050b2d	7.27	+	fact	half-Giantess, First Shepherd of the Nomads of the Sky, and Orthenon break Jecrass's army; she has lost kin named Shali
+zel relatives	39a9a74670	5.16S	+	fact	scrying call with father (elderly Drake), sister-in-law and cousins; father orders the casket kept open despite horror, rebukes the greedy
+zel relatives	f91eb4a6af	5.16S	~	belief	one calls Zel a "Turnscale" in outrage at a hidden line in the will
+zel relatives	fd372d8399	5.17S	+	fact	Xalia (Zel's sister-in-law) contests the armor and fights her father-in-law over the scrying orb
+zel relatives	06d5b892c9	5.17S	~	belief	Zel's request in the will is a scandal; compromise reached to have the funeral in Liscor and send ashes home
+zel will	f37be6a938	5.16S	+	fact	dictated eight years ago; leaves land and money to relatives and spears and Liscor holdings to Tekshia
+zel will	0dd0598432	5.16S	+	fact	leaves his personal effects on his corpse to Selys, hoping she becomes an adventurer, with an alternative blade and coin if the artifacts are lost
+zel will	053a6137e1	5.18S	+	fact	the words "Bury me with my love" are taboo among Drakes, and "Turnscale" is the word Pisces cannot place

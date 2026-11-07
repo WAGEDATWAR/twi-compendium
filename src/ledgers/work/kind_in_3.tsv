@@ -1,0 +1,621 @@
+entity	sid	chapter	marker	heuristic_kind	text
+ceria springwalker	21ae11ada4	1.04R	+	fact	half-elf mage, pointed ears, pale yellow eyes, hides ears under a hat
+ceria springwalker	d15894e196	1.04R	+	fact	has new enchanted robes from the Lich treasure; liquid runs off them
+ceria springwalker	775fc7bf0b	1.05R	+	fact	has lived forty years
+ceria springwalker	5d9b6b0fbf	1.05R	!	event	suggests necromancy as a way to heal Ryoka
+ceria springwalker	9f77fa0b9e	1.06R	+	fact	heard about the Necromancer at Wistram Academy
+ceria springwalker	8c05dfad44	1.06R	+	fact	studied with Pisces at Wistram Academy and knows him as acquaintance, not friend
+ceria springwalker	f282b66ae6	1.06R	+	fact	floats the coins into four stacks of ten with green light
+ceria springwalker	73ed479df2	1.06R	!	event	described as part-immortal with golden eyes
+ceria springwalker	f7854d45c1	1.06R	~	belief	believes Pisces' goals are delusional and he will be caught eventually
+ceria springwalker	8b05cf5538	1.29	+	fact	heals the flesh with a stronger red potion and removes the numbing spell with strange words
+ceria springwalker	c6d04ec03e	1.07R	+	fact	finds half of the potions she gave were mana potions
+ceria springwalker	9671cbc74e	1.10R	+	fact	tried to reach Ryoka with the firefly messages, which Wistram students use by touch
+ceria springwalker	4828765d85	1.34	+	fact	light hazelnut hair; casts [Light] more quickly
+ceria springwalker	b55ecaf2c2	1.11R	+	fact	Half-Elf, more adventuring experience than the whole room together (L56, L64); stayed in Celum to wait for Ryoka
+ceria springwalker	e1c7d61acf	1.11R	+	fact	gave Ryoka mana potions instead of healing potions before the High Passes
+ceria springwalker	f951d86aab	1.11R	+	fact	reached Level 18 in [Elementalist] and learned [Fireball]
+ceria springwalker	b175946973	1.11R	+	fact	tells Ryoka to take a first level in [Mage] after a nap
+ceria springwalker	f9006d5ad7	1.12R	+	fact	gives up her seat for Garia and rebukes Calruz
+ceria springwalker	21836b49c2	1.12R	+	fact	shields the downed Ryoka
+ceria springwalker	e0b88cd2bf	1.12R	+	fact	casts [Silence] on Ryoka when she wakes at dusk
+ceria springwalker	9584ecd99d	1.12R	!	event	parts from Ryoka angry, "may we meet in new forests"
+ceria springwalker	a514dc7e97	1.37	+	fact	not a morning person; trained from Wistram, called "the Wistram mage"
+ceria springwalker	4cf6ed8694	1.37	+	fact	wand of pale white wood with a green tint, light wisps at the tip, worn on an armband up her sleeve
+ceria springwalker	7872ea7a41	1.37	+	fact	is a Half-elf, not an Elf; no one has seen an Elf for thousands of years
+ceria springwalker	b03b1ddb22	1.37	+	fact	eats meat, likes pork
+ceria springwalker	7eff38cc06	1.37	~	belief	Erin reminds her a bit of Ryoka
+ceria springwalker	8255a8bb1e	1.38	+	fact	warns that attacking Ksmvr is the same as attacking the Hive
+ceria springwalker	d9bfbcc3fc	1.38	~	belief	senses the night is a trap
+ceria springwalker	cf81980500	1.39	+	fact	heals Erin's sore throat but cannot cure a cold; only [Restoration] does, as far as she knows
+ceria springwalker	0d87c0261d	1.39	~	belief	Pisces' goal is a leveling undead
+ceria springwalker	dfb144a8de	1.39	~	belief	last night's music may be a rare Skill
+ceria springwalker	28157f5756	1.40	+	fact	over sixty years old; fourteen years adventuring; Gerial eight
+ceria springwalker	800ccf033e	1.40	+	fact	can cast [Illumination] once, then needs a mana potion
+ceria springwalker	5b7ab7ae04	1.40	+	fact	left Wistram when money ran out
+ceria springwalker	53f8786c03	1.40	+	fact	[Flashfire] burns the webbing
+ceria springwalker	79e5106306	1.40	~	belief	Gazi was a soldier of a desert kingdom with a sleeping king
+ceria springwalker	594284384b-2	1.40	!	event	flee the Watch after the webbing
+ceria springwalker	5445a74398	1.41	+	fact	everyone has internal mana; Half-elves have a lot, Humans less
+ceria springwalker	1d7165366d	1.41	+	fact	alcohol and mana potions don't mix; she can drink a lot
+ceria springwalker	3f21e929ab	1.00H	+	fact	grew up foraging; has eaten bugs, birds, bark
+ceria springwalker	0a45e9f6bb	1.01H	+	fact	knows over fifty spells; wand holds [Ice Spike]
+ceria springwalker	63f6d8e4d7	1.01H	+	fact	casts [Illumination], [Fireball] and [Flashfire]
+ceria springwalker	6a4cc0ebad	1.02H	+	fact	has [Translate] from Wistram; needs enough words
+ceria springwalker	a5dff2e743	1.02H	+	fact	breaks her wand for a giant ice spike that frees Yvlon; her hand freezes and leg broken
+ceria springwalker	4503519626	1.02H	~	belief	believes Gerial's death is her fault for fleeing
+ceria springwalker	ce614f749b	1.02H	!	state	attacked by a ghoul and apparently dies
+ceria springwalker	2cea311f40	2.04	!	event	found alive in a sealed coffin, starved, right hand reduced to bone and blackened flesh
+ceria springwalker	36cac17b60	2.05	+	fact	hid in coffins three to four days
+ceria springwalker	cdf17dd493	2.05	+	fact	used wand mana to make ice; skeletal hand from spending a wand's magic
+ceria springwalker	f81c2d0b5f	2.05	+	fact	Calruz's arm was torn off; Skinner killed Cervial, Gerald and half of them
+ceria springwalker	be58f3f460	2.05	+	fact	calls the Pisces "Master Mage"; the two are Wistram alumni
+ceria springwalker	d5da9b3882	2.10	+	fact	recovering in Watch barracks; the city confiscated Ruins treasure as fine
+ceria springwalker	8e42a8aa5f	2.10	+	fact	no wand, books or gold; Yvlon barely responsive
+ceria springwalker	7f15be2b94	2.10	+	fact	does not do well with males; declines barmaid job
+ceria springwalker	82fde68649	2.11	+	fact	knows [Lesser Resistance to Ice], a basic spell of her school; can cast [Repair]; knows one or two flame spells
+ceria springwalker	3f5e2ed879	2.11	+	fact	have [Dangersense]
+ceria springwalker	20221ae30d	2.11	+	fact	remembers the King of Destruction's first rampage and the sudden end of his ambitions
+ceria springwalker	7b3b62defc	2.11	+	fact	lost all her coin, her magical items except her robes, her friends and her hand
+ceria springwalker	eff88da4fe	2.13	+	fact	sleeps in the furthest upstairs room; nightmare of Skinner opening her coffin
+ceria springwalker	5fb8f2d59e	2.13	!	event	fires an [Ice Spike] at Erin in her sleep; it hits the wall
+ceria springwalker	0cbf3c1403	2.13	!	event	her skeletal hand moved and cast; she believes half-Elf bodies are closer to magic than other species and live longer but are mortal
+ceria springwalker	61573a097b	2.13	+	fact	lost the hand when she cast [Glacial Spear] badly, pouring all her mana into an oversized [Ice Spike]
+ceria springwalker	d155d919e6	2.13	+	fact	spells act as containers with a limit; overcharging can injure the caster
+ceria springwalker	43800c1139	2.00G	!	event	warns Rags that the Watch will wipe out or drive off her tribe within days
+ceria springwalker	98dad6f06d	2.00G	+	fact	remembers the last Goblin King's rampage from the sea across three continents
+ceria springwalker	2058693bf5	2.15	!	event	[Detect Magic] shows Ryoka enchanted with something powerful; Pisces guesses Tier 6 or 7 magic
+ceria springwalker	bfd069c023	2.18	+	fact	likes Olesm; they spent days with only each other in the ruins
+ceria springwalker	09e3e7dfda	2.18	+	fact	says wands amplify magic and artifacts are like wands with recharging mana
+ceria springwalker	9f320af515	2.18	+	fact	can cast at best Tier 3; cannot cast [Fireball]; specialises in cold
+ceria springwalker	14e390f049	2.18	+	fact	can learn [Grand Fireball] only over years; Tier 4 spellbooks cost more than she could afford
+ceria springwalker	b02f424de4	2.18	!	event	her skeletal hand moves when she channels magic and casts more easily than her good hand; she says half-Elf bones conduct magic and asks it be kept secret
+ceria springwalker	3340b87d67	2.19	+	fact	says half-Elves do not know where flowers are; elders said faeries once got along with Elves
+ceria springwalker	133de91abd	2.20	+	fact	plans to reform the Horns of Hammerad; shows her skeleton hand casting [Ice Spike]
+ceria springwalker	5832ede1c1	2.21	+	fact	raises her skeletal hand to frighten Lyonette
+ceria springwalker	a781851f11	2.21	+	fact	sixty-odd years old; says half-Elves "always wake early"
+ceria springwalker	27c376bb79	2.21	+	fact	planted a Wistram tracking spell on Lyonette; shows an arrow-pointing [Light] orb
+ceria springwalker	642df96b44	2.21	!	state	resolves to return to adventuring; Yvlon says she would join once healed
+ceria springwalker	8907734a8d	2.22	+	fact	casts [Snowy Blast], [Ray of Frost] with her skeletal hand
+ceria springwalker	e5875c13b0	2.00H	+	fact	over sixty years old; says she is barely twenty by Human standards
+ceria springwalker	680735f4cf	2.00H	+	fact	went through puberty at length because of her Human half
+ceria springwalker	e43ab6c082	2.00H	+	fact	lost her comb in the crypts
+ceria springwalker	5a24ce6c00	2.00H	+	fact	skeletal hand still feels magic and can cast without a wand
+ceria springwalker	ab7b3c6933	2.00H	+	fact	Gerial and Calruz are dead; she is the only surviving Horn of Hammerad
+ceria springwalker	89b9c1dc61	2.00H	+	fact	believes the optimal party size is four
+ceria springwalker	37758ddfaa	2.00H	+	fact	says Erin once sold acid to Goblins and built her house from an exploding tree
+ceria springwalker	4a3ca0f823	2.00H	+	fact	casts [Ice Spike] and [Icy Floor]
+ceria springwalker	c6b928378e	2.27	+	fact	spellbooks, first choice
+ceria springwalker	9cd500c7c5	2.27	+	fact	killed over a thousand rats starting her career
+ceria springwalker	125e1bb6d7	2.33	+	fact	has gone north to adventure again
+ceria springwalker	e948fff5d2	S03_Wistram_Days_Pt._1	+	fact	half-Elf aged 58, Bronze-rank adventurer with [Stone Dart], [Flame Jet], [Chameleon], self-taught Tier 2 spells
+ceria springwalker	baa1b435fb	S03_Wistram_Days_Pt._1	!	event	meets Pisces and enters Wistram
+ceria springwalker	d231d291c1	3.02H	+	fact	left hand is bone, moves by mana; Captain of the Horns of Hammerad
+ceria springwalker	5a32f8f1d4	3.02H	+	fact	Level 50 mage example of a mage's quarters
+ceria springwalker	73e7a361d7	3.02H	~	belief	local adventurers at Esthelm treated them with sympathy or contempt over the crypt deaths
+ceria springwalker	8dd0a3a43e	3.07H	+	fact	half-Elf; her great-grandmother (the last family she had) said half-Elves hold only a drop of Elf blood, yet a half-Elf and a Human always produce a half-Elf child
+ceria springwalker	63a08c0939	3.07H	+	fact	great-grandmother died nearly two decades ago, buried in her garden in a village on another continent
+ceria springwalker	1dcb6a9f45	3.07H	+	fact	skeletal hand casts [Ice Spike] five at once; spells [Light], [Stone Fist], [Ice Shard], [Frozen Wind]
+ceria springwalker	6c35d7b17a	3.07H	+	fact	improvises a mud ball from water and earth; has no [Create Water]
+ceria springwalker	6cd1e2d9b7	3.07H	!	event	Horns of Hammerad leave the pit through the tunnel to the same door that teleported them
+ceria springwalker	1b1f37ce1c	3.08H	+	fact	carries a mana potion that restores Pisces; burns [Light] spell azure
+ceria springwalker	389f94b7c9	3.08H	+	fact	confronts Pisces that he has lost his student-days dueling skill; he agrees he grew lax
+ceria springwalker	76fbc1a2fd	3.08H	+	fact	has been alive sixty years
+ceria springwalker	550ad3fd84	3.09	+	fact	plans to send artifacts to Invrisil, the City of Adventurers, over four hundred miles north, for analysis
+ceria springwalker	5f3bf925b9	3.09	+	fact	believes Ryoka could be the Runner to carry them; Yvlon trusts her, Pisces on the fence
+ceria springwalker	23213bbf58	3.09	!	event	toast the old Horns of Hammerad
+ceria springwalker	846838d1ce	3.10	+	fact	[Dangersense] triggers around Ressa
+ceria springwalker	fd25683fc8	3.24	+	fact	reads the burnt spellbook she got in exchange for the ring; it is written in a script she does not know beyond magical formulas
+ceria springwalker	5bb502fc53	3.24	+	fact	Calruz was an honorable Minotaur whom Pisces and Ksmvr never knew
+ceria springwalker	a4c0649c2b	3.24	~	belief	thinks Liscor safer than Celum, two Gold-rank teams in the city
+ceria springwalker	2ed5b116f3	3.24	!	event	previously feared Toren's gaze; Ceria first links Ylawes to Yvlon's delirium in the pit
+ceria springwalker	6883835801	3.25	~	belief	thinks Pisces will keep Toren creations on a leash
+ceria springwalker	6a342aa1a7	3.25	!	event	Yvlon's grudge against Pisces persists
+ceria springwalker	dc4d75bb16	3.30	+	fact	skeletal hand; fires [Ice Spike], [Ice Dart]; [Dangersense] blares on Erin and others when Teriarch appears
+ceria springwalker	866a1294e5	3.30	!	event	admit they were expelled from Wistram but still claim the name
+ceria springwalker	fc043ef444	Wistram_Days_Pt.1	+	fact	58 years old, half-Elf, Bronze-rank adventurer; self-taught [Stone Dart], [Flame Jet], [Chameleon]; saved twenty gold in about a decade for entry
+ceria springwalker	d6e71b1523	Wistram_Days_Pt.1	!	event	befriends Pisces, her first Human friend
+ceria springwalker	cdcd385884	Wistram_Days_Pt.2	+	fact	guesses Rievan may be from Terandria and dislikes half-Elves; her [Ice Shard] casts up to about twenty darts before exhaustion
+ceria springwalker	1243e65145	Wistram_Days_Pt.2	!	event	decide to steal a trapped Tier 4 spellbook from a secret library section
+ceria springwalker	dac814e1e2	Wistram_Days_Pt.3	!	event	obtain the spellbook and agree to share it
+ceria springwalker	f51a44c923	Wistram_Days_Pt.3	!	event	begins to regard Pisces as a friend, and admits she likes him
+ceria springwalker	c077167389	Wistram_Days_Pt.4	+	fact	finds trap hexes at her door every few days (grease spell, shock spell) that she suspects Charles's group plants; Pisces had the mice drive off intruders and left bites
+ceria springwalker	e5d3e1b9c5	Wistram_Days_Pt.4	+	fact	can fire about thirty [Stone Dart] before resting; can hit light-orb targets to about 120 feet; her aim is judged poor against moving targets
+ceria springwalker	e26d5457ec	Wistram_Days_Pt.4	+	fact	breaks Illphres's Tier 4-proof [Ice Wall] using kitchen salt and her own heat spells; Illphres agrees to teach Ceria and any friends who pass her test
+ceria springwalker	aa01eb336d	Wistram_Days_Pt.4	!	event	struck from behind during the combat trial, with Rievan implying it was a "slip" and mages angry; she believes she failed
+ceria springwalker	809a13c794	Wistram_Days_Pt.4	!	state	both pass the exam; Ceria's name appears last and Illphres promises class at her quarters the next day
+ceria springwalker	613e8f4635	Wistram_Days_Pt.5	+	fact	gains the [Elementalist] class; asks Illphres daily to be her master; Calvaron lays 50-to-1 odds she fails by year's end
+ceria springwalker	1c58023d45	Wistram_Days_Pt.5	+	fact	devised a messaging spell using a firefly of light, which Mons masters
+ceria springwalker	b096cd34e2	Wistram_Days_Pt.5	~	belief	believed Illphres might not freeze her ears because she once got in trouble with the Council for that
+ceria springwalker	ed27fcfc63	Wistram_Days_Pt.6	+	fact	students nickname her "Professor"; she teaches the new students while apprenticed to Illphres, who sets her this teaching burden
+ceria springwalker	57973b9cd8	Wistram_Days_Pt.6	+	fact	spells [Ice Dart], [Ice Spike], [Frost Arrows]; Illphres bans [Frozen Shield], recommends [Wall of Ice], [Glacial Spear], [Barrier of the Winds]
+ceria springwalker	69489f8305	Wistram_Days_Pt.6	+	fact	buys two Tier 4 ice-resistance rings via Calvaron for the allies, using a very large amount of gold
+ceria springwalker	ffe5ec6455	Wistram_Days_Pt.6	!	event	speak again after a year; Ceria says they are not friends, then reconciles when she visits him to "hear everything"
+ceria springwalker	017f3cb914	Wistram_Days_Pt.6	!	event	learns Illphres's plan to challenge Cognita and the Golems
+ceria springwalker	f89c466f0d	Wistram_Days_Pt.7	+	fact	tells Pisces she never wants to see him again; they part on Izril
+ceria springwalker	79dba73e59	Wistram_Days_Pt.7	!	event	leave Wistram exiled and expelled but named full mages
+ceria springwalker	bb5edfecdb	3.32	+	fact	tells Erin her Wistram story, saying she never contacted friends again and that she used the Wistram name for work
+ceria springwalker	b9b238f6c4	3.32	~	belief	Erin suspects Ceria exaggerated her story; Pisces says Ceria may have inflated numbers like six ships and two Trolls
+ceria springwalker	9d9bc5365a	3.33	+	fact	tell Griffon Hunt they are Wistram graduates
+ceria springwalker	4d4fc3dcf7	3.34	+	fact	shouts at a Fortress Beaver on the road to make it leave; Termin says such beavers can bite a wheel in two
+ceria springwalker	6c3190b6df	3.35	+	fact	tells Erin slimes are born in liquid and take its properties; this one from the sewer is a "poo slime"
+ceria springwalker	9500b9d2ba	4.12	+	fact	Horns considering the dungeon; monster hunting near Liscor is unprofitable in winter and she avoids Rock Crabs
+ceria springwalker	0257a3fb66	4.27H	+	fact	carries a wand Ryoka brought back from Invrisil, plus robes and a burned spellbook
+ceria springwalker	3d4cec8fbb	4.27H	+	fact	learns the Tier 4 spell [Ice Wall] (the spell Teriarch showed her) and raises a six-foot wall at lunch
+ceria springwalker	7f3225e43b	4.27H	+	fact	Level 25 [Cryomancer], class change the previous day
+ceria springwalker	5aebc7e6c7	4.27H	~	belief	assumes Regrika will enter Liscor's dungeon and that she can handle traps
+ceria springwalker	f718278b35	4.27H	!	state	becomes a [Cryomancer] and learns Ice Wall
+ceria springwalker	0a19696ae0	4.45	+	fact	nervous about Falene; Pisces claims they are Wistram graduates; Falene says standards have lowered
+ceria springwalker	9b934019bf	5.07	+	fact	half-Elf [Cryomancer] with a skeletal left hand; Pisces: [Necromancer]; Yvlon: [Wounded Warrior]; Ksmvr: three-armed Antinium outcast; Horns are Silver-rank near Gold
+ceria springwalker	7bae8bc968	5.08	+	fact	[Ice Spikes] and [Ice Wall] hold the windows; Yvlon cuts moths at the windows
+ceria springwalker	bf41114160	5.12	+	fact	all levelled in the battle
+ceria springwalker	e8fc3160e1	5.13	+	fact	casts [Frost Bloom]; Pisces conjures green and gold fire dragons and a horse; Ksmvr jumps through a flaming hoop
+ceria springwalker	da2d4ebf74	5.27	+	fact	wake screaming from dungeon nightmares; Ceria casts [Silence] on their room nightly
+ceria springwalker	e875c446d4	5.27	!	event	admits she is afraid and offers to step down; Pisces and Ksmvr affirm loyalty; she then decides to enter the dungeon
+ceria springwalker	42628fa3c3	5.29	!	event	planned the leak with Pisces and Yvlon; Ksmvr says it does not harm his Hive
+ceria springwalker	cc54434c5c	5.35H	+	fact	sixty years old, adventuring nearly a decade, spent forty years in a half-Elf village
+ceria springwalker	fb1a54b368	5.36	+	fact	asks the raid to look for Calruz, a Minotaur who led the Horns; an old yellow Drake with a greatsword tells her to give up
+ceria springwalker	85d0af4ad4	5.38	!	event	taken by the Raskghar to Calruz's lair
+ceria springwalker	0bed041eae	5.39	+	fact	her skeletal hand is a result of the backlash freezing off the skin; she makes the rude gesture at Calruz and refuses him
+ceria springwalker	7ff0efd5e4	5.42	+	fact	senses an overwhelming urge to obey whenever Calruz looks at her and deduces he has a Skill, possibly unintended
+ceria springwalker	5d2eab9f3a	5.42	+	fact	notes the hole connecting Liscor's crypt to the dungeon that Pisces showed her
+ceria springwalker	75fde5c57c	5.42	+	fact	tells Calruz she reformed the Horns with Pisces, Ksmvr and Yvlon after Olesm found a map of Albez
+ceria springwalker	b88af79acb	5.42	+	fact	tells Calruz about Ryoka, who lost fingers in winter and vanished after the battle with Regrika Blackpaw, and about her false Named Adventurer title
+ceria springwalker	7b847f19bd	5.42	+	fact	sees invisible monsters, including fourteen insect-maggot creatures at a spring, that Calruz and the Raskghar cannot
+ceria springwalker	04963f9cb8	5.42	!	event	learns the dungeon's labyrinth, the city, the Mother of Graves and Snatcher
+ceria springwalker	38c54d0c92	5.43	+	fact	lies about not casting [Message], loses her wand when thrown, and forms a hidden ice dagger from her tears and water
+ceria springwalker	073d9445bf	5.43	+	fact	attacks Calruz with the ice dagger; he had been warned by Raskghar scent; she warns him the ritual may make Raskghar permanently intelligent
+ceria springwalker	134da8286c	5.43	+	fact	sends Pisces a firefly message that the ritual may make them smart all the time and she will help Calruz to buy time
+ceria springwalker	7ff3c52884	5.43	~	belief	believes the awakened plan to overthrow Calruz
+ceria springwalker	744b4cf276	5.44	+	fact	thrown to the ceiling and falls twenty feet; uses two healing potions
+ceria springwalker	078b8fd5c0	5.44	+	fact	sends a fiery-bug message to Pisces: "Gnolls escaped. Mrsha here. Raskghar rebel soon. Hurry."
+ceria springwalker	7fbf665adf	5.44	+	fact	argue over whether mute means unable to make sounds or unable to speak; Ceria says Pisces read it in a book
+ceria springwalker	597bd12932	5.44	+	fact	wears an ice mask that Illphres taught, then frost armor; Calruz backhands her and breaks the mask
+ceria springwalker	846b6b5a9a	5.44	+	fact	says "The Horns of Hammerad don't run" and fights back-to-back with Calruz, who uses [Whirlwind Cleave]
+ceria springwalker	a04e2b6750	5.44	+	fact	weeps over Calruz and says she will testify at his trial
+ceria springwalker	98f1ee960b	5.45	+	fact	back with the Horns; says she told them nearly everything but could not convey the pain
+ceria springwalker	b832b81ca5	5.46	+	fact	wears the Ring of Barkskin and feels happier in the sun; her left hand is bone
+ceria springwalker	662021fbde	5.46	+	fact	conjures ice cubes at will for the water
+ceria springwalker	768040b0b8	5.46	+	fact	says Calruz will be executed under Drake law and she could not kill him; he cared about Gerial
+ceria springwalker	f74c59f61c	5.46	+	fact	was the only adventurer in the Raskghar camp and could not stop the killings
+ceria springwalker	beba514e5c	5.49	+	fact	announce they are done with the dungeon
+ceria springwalker	78592dd45e	5.49	!	event	decides the Horns are done with the dungeon for now
+ceria springwalker	5d03a86e2d	5.62	+	fact	fire from the walls at Reiss' army, including [Valmira's Comets] and a scroll nova
+ceria springwalker	e14ab866d2	6.10	+	fact	plans to take Celum jobs next day
+ceria springwalker	ec6dda5162	6.11	+	fact	visits Calruz daily; says the northern teams leave soon with the Raskghar treasure to exchange at Invrisil
+ceria springwalker	32b76bc448	6.16	+	fact	team will aim to be Gold-rank before meeting the others again
+ceria springwalker	eb563d9d23	6.18H	+	fact	Level 28; knows [Ice Wall], [Frozen Armor]; lacks [Ice Lance]; hopes for a new class at Level 30
+ceria springwalker	d4b3b1aa99	6.18H	+	fact	say the dead were cremated and families got all remaining money
+ceria springwalker	e542f4406a	6.19H	!	event	tells Ksmvr "Good job" and the team accepts his solo action; he declares the Horns' dominance over the guild
+ceria springwalker	01c9139318	6.28	+	fact	recharges the inn's magic doors
+ceria springwalker	4e2d67bbeb	6.39	+	fact	[Cryomancer] in her upper twenties, has [Weak Frost Resistance], [Ice Magic Affinity], [Frozen Quickshape]; taught herself [Frozen Armor] in the Raskghar den; Grimalkin calls her out of shape and lazy
+ceria springwalker	c6a915f7f8	6.39	+	fact	expelled by Wistram's Council of Mages but declared graduates by Cognita; Illphres, Calvaron and others died in the Zelkyr test; Montressa and Beatrice were friends
+ceria springwalker	f5636b2839	6.39	+	fact	trained in a tub of boiling water kept at heat by Grimalkin's fire, to force her to freeze the water; lasts eight minutes by his count
+ceria springwalker	3c5622f81d	Interlude_Two_Rats	+	fact	brings Calruz a dumbbell, a barbell and the book The Conquests of Tulm the Mithril, a History, plus the two rats
+ceria springwalker	7a969b56e2	Interlude_Rufelt	+	fact	half-Elves do not worry about marriage until their eighties if born in a traditional village; mentions Falene
+ceria springwalker	b0036db338	6.56	+	fact	Grimalkin ([Sinew Magus]) drops her in boiling water nightly to train mana control and spell power
+ceria springwalker	62e662e94b	6.57	!	state	taken by the Wistram party; Ceria sealed in the box, Alais wakes later to find them gone
+ceria springwalker	fa37ed0ac1	6.59	+	fact	Montressa blames Pisces for Calvaron's death and Beatrice; Ceria says Illphres was her master and that Cognita vouched for them
+ceria springwalker	23347edb38	6.66H	+	fact	tells Pisces to run and builds ice walls; Pisces tackles her away and stays, and they hold hands
+ceria springwalker	34dbab9ece	6.66H	+	fact	merge their magic by thought, turning the Behemoth's broken bones into a Frostmarrow Behemoth with ice over bone; Perril Chandler names it
+ceria springwalker	fba29c2629	6.66H	+	fact	her eyes turn winter-pale blue and grey and snow falls around her; Pisces gains depth of power in his eyes
+ceria springwalker	8932a666a4	6.66H	!	state	gains frost-pale eyes and snow aura after the merge
+ceria springwalker	5fd9dc875f	6.66H	!	event	create a Frostmarrow Behemoth by merged magic
+ceria springwalker	fb4252cec3	6.67	+	fact	suffer mental fog after the linked magic; Palt says they cannot uncombine disciplines
+ceria springwalker	d699815c20	6.67	+	fact	class change to [Arctic Cryomancer] with Skills [Glaciersheet Ice], [Adept Iceform] and [Aura of Rime], which makes snow and frost around her
+ceria springwalker	de331e6906	7.20	+	fact	[Cryomancer], pale eyes, skeletal left hand; builds an ice house with [Ice Walls]
+ceria springwalker	1865ace147	7.28	+	fact	told Jelaqua her relationship is "serious"; Jelaqua tearfully congratulates her, apparently on a rumored engagement to Hedault
+imani	a0845a29d0	2.30	+	fact	separate group; only survivor of an attack by Crelers in a village; traumatised
+imani	7556f30fc0	6.68	+	fact	sole survivor of a group that landed beside Tunnel Crawlers (Crelers) and called for help in vain
+imani	8f28bf83c6-3	7.20	+	fact	out of money in Invrisil, begging; Joseph sold his sword; Ryoka took their electronics; Maviola buys them a meal and brings them to the Horns
+imani	6a6433cda5	7.23LM	+	fact	a [Survivor] whose group was killed and eaten by Crelers; has nightmares and hysterics; Mrsha comforts her at the end
+imani	5f9ff8ff13-6	7.26	+	fact	seven staying at the inn for roughly a week; Joseph drinks gin and blue fruit juice for breakfast
+imani	91a96c4738	7.30	+	fact	makes fufu for Palt, who casts [Remove Fear] on her unnoticed
+imani	c24f5c6199	7.38	+	fact	practically rules the kitchen; Joseph is "soccer-guy"; Leon and Troy are a team
+imani	0d846c32e0	7.39A	+	fact	convinces Dekass to try her croissant by withholding his fries; says she is feeling better of late
+imani	a5b2f7ffbb	7.49	+	fact	makes bessara (spiced bean dip) at the inn
+imani	c0f1e872d6	7.51	+	fact	Erin's Shadow Loaf eats light and does not go stale; Erin hides it in the Garden of Sanctuary
+imani	6b63484710	7.53	+	fact	has the Skill [Minor Accident Prevention], gained at Level 10; Palt gave her Dreamleaf water (lemon, Dreamleaf, sugar) for trauma from the Creler attacks
+imani	29b05a1b78	7.53	+	fact	orders avocados and other Earth vegetables via Oteslia and the Pallass bazaar, and cooks mandazi with coconut milk, rice, beans, eggs and avocado toast
+imani	159206266f	7.54	!	reveal	reveals she survived a Creler attack elsewhere and takes dreamleaf to suppress nightmares
+klbkch	557c3714b0	1.07	+	fact	Antinium, giant ant-like humanoid, dark brown chitin, bulbous black compound eyes, antennae, mandibles/pincers, four arms, swords at his sides; formal speech; Senior Guardsman for the city; class [Swordslayer] plus [Guardsman] lev
+klbkch	83982621ad	1.07	+	fact	partners on the city watch; patrol spotted smoke from the inn from the city walls; their Captain ordered the check
+klbkch	0951b8069e	1.07	~	belief	tells a story that the races once all fought with tooth, claw and magic, then divided; those who forsook their natures received [Leveling] and those who stayed true to their nature kept the might of their natures
+klbkch	5cb9eaec9e	1.07	+	fact	pay Erin with several copper coins and two silver coins for the meal
+klbkch	b114fed3de	1.07	+	fact	stands still to rest ("hibernation") while Relc sleeps
+klbkch	01c0d53f80	1.10	+	fact	skill [Detect Guilt], a basic guardsman skill learned at level 15, tells him when someone lies
+klbkch	ae66f933b9	1.11	+	fact	fights with two swords and two small daggers, one in each of his four hands
+klbkch	f6e0c0569a	1.11	+	fact	tells Erin she may enforce law inside her own establishment as she chooses
+klbkch	299f8b0cf6	1.17	+	fact	has no name in words among his kind; "Klbkch" and "Klb" are what other species call him
+klbkch	28dd513eaf	1.17	+	fact	is "of the Free Antinium"; carries two swords at the waist and two daggers in his lower hands
+klbkch	11dd954cc3	1.17	+	fact	[Enhanced Movement], gained from his high [Guardsman] levels, lets him cross miles in moments
+klbkch	e4d6832ae2	1.17	+	fact	fourth-highest leveled [Guardsman] in Liscor
+klbkch	9804adc951	1.17	+	fact	signs Relc out of the duty roster because Relc never does it properly
+klbkch	4fb8eb923b	1.17	!	event	heals Erin with a potion and deduces she is not from this world; Erin admits she is from another world
+klbkch	0799a453ef	1.17	+	fact	buries the Chieftain's body far from the inn to prevent reanimation
+klbkch	372a591316	1.17	+	fact	judges [Tavern Brawling] and [Unerring Throw] unusual for an [Innkeeper] but not unheard of
+klbkch	e366a17275	1.17	+	fact	delivers the Chieftain's bounty bag to Liscor through the western gate
+klbkch	2dadab2aad	1.17	!	event	punches the drunk Relc in a Liscor bar for boasting about the beheadings, and says Antinium standing in the city and Guard will suffer
+klbkch	a0077cb31e	1.17	~	belief	resolves the Others must learn of a human named Erin Solstice
+klbkch	11b6c13f89	1.19	+	fact	leaves forty silver coins as the bounty for destroying a Goblin Chieftain near Liscor, with a signed note; he says he is not fluent in "your script"
+klbkch	7bec8c88aa	1.20	+	fact	as Senior Guardsmen, threaten the cheating Drake with a tax and inventory investigation; Relc wrecks the stall
+klbkch	ecf94701e9	1.20	+	fact	hands Erin her wager back: three gold coins plus some copper and silver
+klbkch	b362dcfcf2	1.21	+	fact	turned in the Goblin Chieftain's head to the Adventurer's Guild; Selys says he reported Erin has no fighting class
+klbkch	8d16e5004e	1.23	+	fact	says the strain of madness in the Antinium is falling by 14% per year but needs watching
+klbkch	837ce52368	1.23	~	belief	dislike adventurers for drinking, brawling and rudeness to the Watch
+klbkch	7831fdfd4a	1.24	+	fact	and Olesm worry that Workers outside the hive resemble an Expedition; Klbkch will send a monthly report
+klbkch	cbb8aa4ce6	1.24	+	fact	pays Erin a bag of silver and gold for the Antinium meal and buys a jar of acid flies for a gold coin
+klbkch	8fc228b458	1.25	+	fact	bangs his head on seeing the request, then reports to the Queen and leaves the city with the Designated Worker
+klbkch	9158db1637	1.25	+	fact	beheads the Goblin leader, heals Erin with a potion given half by drink and half on her legs
+klbkch	7e6c4630b7	1.25	+	fact	fights with swords and daggers, wounded repeatedly, green blood, kneels; ends with nine Goblins around him
+klbkch	f7f49699c4	1.25	!	event	collapses in a pool of green ichor, says "I will die free" and goes still; Erin carries him toward Liscor
+klbkch	571783c5c8	1.30	+	fact	fourth highest-level guardsman in the city, second in strength, ten levels below Relc
+klbkch	60ca240af7	1.36	+	fact	Prognugator, dead; only Antinium known above Level 10
+klbkch	a715beb8f3	1.36	!	event	replaced by Ksmvr
+klbkch	144cc5b3ac	1.38	+	fact	estimated he could hold Relc off five minutes
+klbkch	7c621ca325	1.44	!	state	returns in a new two-armed body, saves Erin, says Antinium never truly die
+klbkch	ce935e49bb	1.45	+	fact	the Rite of Anastases revives only a Prognugator; he lost ten levels in every class; the Queen worked nearly three weeks
+klbkch	80d838715f	1.45	+	fact	new body has two arms and is faster; Ksmvr is no longer Prognugator
+klbkch	10e62ffd27	2.02	+	fact	introduces himself to Selys as of the Free Antinium
+klbkch	e13837ef66	2.02	+	fact	speech says Antinium and Watch erred, the creature is dead, and he has returned to life
+klbkch	43a0639b62	2.02	+	fact	refuses the title Prognugator; says Ksmvr resumes it and a new position will be created for himself, second only to the Queen
+klbkch	e207d02dc9	2.03	+	fact	cannot lend Soldiers because the agreement with Liscor limits them above ground to authority requests, war, or city defence
+klbkch	fc32268bc6	2.03	+	fact	orders Ksmvr to go with Erin and tells him privately Erin's life matters more than his, on pain of deconstruction
+klbkch	e427152a1b	2.06	+	fact	knocked down by Gazi; called "Klbkch of the Free Antinium"
+klbkch	2dbf11e34e	2.07	~	belief	joke that Klbkch's death by Goblins hurts his reputation and that Rags took Skinner's kill
+klbkch	9ecce26544	2.10	+	fact	offer to carry Erin's bag and visit the inn
+klbkch	68191b1802	2.11	+	fact	names the deadly forest southeast of Liscor, where a scouting party disappeared and patrols avoid it
+klbkch	14543f2d61	2.11	+	fact	no longer Prognugator, but holds a similar position of command; called thirty Workers with class levels
+klbkch	132d9f7256	2.11	+	fact	also called the Revalantor by Pawn
+klbkch	131e4a38c1	2.11	+	fact	asks that Antinium be allowed to visit the inn to play chess and learn as payment
+klbkch	e65c6da89f	2.11	+	fact	Antinium Workers cut boards precisely, work silently in concert, and Erin thinks of a hive mind
+klbkch	fce615da64	2.11	+	fact	carries two swords and has only two arms, unlike other Antinium
+klbkch	ed85efc7cb	2.11	+	fact	says the Antinium would act if the King of Destruction resumed war; the Queens would wait until then
+klbkch	334a49025a	2.00G	+	fact	tells Relc not to kill Rags because Erin cares for the Goblins and has been deemed important to the Hive
+klbkch	a3c0fa74dd	2.00G	+	fact	buried the last Flooded Waters Chief
+klbkch	f78b9fd91c	2.15	+	fact	newly reincarnated Revalantor of the Free Antinium, ranked above Prognugator and able to ignore even his Queen's instructions
+klbkch	eef8a7c902	2.15	+	fact	the Queen calls him Klbkchhzeim; they have been a pair longer than she remembers
+klbkch	8d70bd62f6	2.15	+	fact	asked for his two-armed form
+klbkch	26038f10c6	2.15	+	fact	tells his Queen the glass windows are goodwill, since the Hive needs Erin more than she needs them
+klbkch	5d909e5a34	2.15	~	belief	believes Erin and Ryoka are pieces tied to other anomalies the Hives have found
+klbkch	d291496c9b	2.15	+	fact	will send five Individuals from three Hives to the inn under guard to learn chess
+klbkch	6e068c36b8	2.16	+	fact	help Krshia bring ale kegs to the inn
+klbkch	bf216ae33b	2.01G	+	fact	says Relc fought in the Goblin Wars and thinks of Goblins as enemies
+klbkch	c153e6b626	2.18	+	fact	says asking a Worker its name usually makes it an Aberration; says Erin "has the quality"
+klbkch	41d4a9793a	2.22	+	fact	Senior Guardsman who fights Revi's phantom axeman and restrains Revi
+klbkch	f1db815225	2.22	!	event	announces everyone is under arrest; later puts the inn under guard
+klbkch	ed3428cfd4	2.27	+	fact	full name Klbkchhezeim
+klbkch	fa83f6035c	2.27	+	fact	a Revalantor, a step above a Prognugator
+klbkch	84b81b850d	2.27	+	fact	believes his Queen is a captive, as he is
+klbkch	1994cc4d16	2.27	+	fact	planted the Albez map in a staged cellar of a buried ancient building, using a smashed wine rack
+klbkch	2a98c227d9	2.27	+	fact	knows Erin is among the best chess players from her world, and has told no one, not even his Queen
+klbkch	b28371d0f6	2.27	+	fact	has regained five of his ten lost levels from fending off monster attacks
+klbkch	3a08e34e35	2.27	+	fact	Level 21 [Swordslayer], Level 18 [Commander], Level 11 [Diplomat], Level 14 [Assassin]
+klbkch	5a9ae9f789	2.27	+	fact	formerly a Level 44 [Swordslayer] and Level 26 [Assassin], before being a Prognugator
+klbkch	751c0e8940	2.27	+	fact	left Rhir long ago; the Centenium are dead; he and his Queen were allowed no valuables when founding the experimental Hive
+klbkch	34d6dfd191	S02_The_Antinium_Wars_Pt.2	+	fact	the only Prognugator confirmed living at time of writing, residing in the sixth Hive at Liscor
+klbkch	878da92980	2.32	+	fact	has never met Magnolia in person
+klbkch	f0fcedec7f	2.33	+	fact	has two arms and promises patrols south of Liscor
+klbkch	be363900de	2.33	+	fact	says a Hive will destroy the Goblin Lord's army if it passes
+klbkch	644d0738a2	2.34	+	fact	failed to return to his Hive overnight for the first time; his Queen recalled search parties
+klbkch	36f1fa8d68	2.34	+	fact	tells Selys that Ryoka and Erin come from a country with unlike customs, covering for them
+klbkch	1820850fd0	2.34	+	fact	offers Ryoka alliance, tells her his Queen does not know the two are from another world, and says he will lie to her Queen
+klbkch	8b1ead30f8	2.34	+	fact	believes Erin Solstice must survive to help change the Antinium; calls her "everything"
+klbkch	795e856f0d	2.34	+	fact	has not told Erin because he thinks she cannot keep a secret
+klbkch	8f69cdec11	2.34	+	fact	believes in his Queen's mission of creating Individuals and wants her to see other species as people
+klbkch	e1bdcfe769	2.34	+	fact	says the Antinium fled Rhir because they were losing; the Antinium Wars were minor setbacks next to the loss of most of their people at sea
+klbkch	c30cbefd57	2.34	+	fact	says a God is buried in Rhir and trying to wake, and that speaking of Gods gives them power
+klbkch	4efd23e2ec	2.34	+	fact	knows Teriarch is a Dragon who incinerated two armies in the Second Antinium War
+klbkch	4a4a57162c	2.34	+	fact	opposes giving Antinium weapons knowledge because it could start a third war
+klbkch	1eaf0833bd	2.34	+	fact	loses ten levels each time he is resurrected by his Queen
+klbkch	c0f966369e	2.34	+	fact	currently Level 21 [Swordslayer], Level 18 [Commander], Level 11 [Diplomat], Level 14 [Assassin]; at his peak Level 44 [Swordslayer] and Level 26 [Assassin]
+klbkch	c5d64d574c	2.34	+	fact	sensed [Assassins] and [Scouts] sent by Magnolia hidden miles east of the inn
+klbkch	699812b1a6	2.34	!	reveal	reveals Antinium disunity and offers Ryoka his help
+klbkch	3bad2c22b2	2.36	+	fact	Level 30 skill deflects blows with his swords; Level 40 skill [Continuous Cut]
+klbkch	0a9fa2faaa	2.36	+	fact	was slain by General Sserys and has never recovered his levels
+klbkch	2126d32335	3.05L	+	fact	visit the inn, ask for Erin; Klbkch calls Lyonette the thief who burned Krshia's shop
+klbkch	80c3381fdc	3.05L	+	fact	Revalantor who acts as Prognugator; Ksmvr was driven out
+klbkch	f4509f196a	3.06L	+	fact	seated Antinium with two arms and slim frame, unlike the four-armed norm; carries two swords always
+klbkch	7dba8f93cf	3.06L	+	fact	Revalantor and Prognugator of Liscor's Hive, in charge of monitoring new Individuals; friends in the Watch
+klbkch	dd18671381	3.06L	+	fact	tells Pawn Erin is safe with Ryoka Griffin but cannot return due to the Goblin presence
+klbkch	9cef4de336	3.06L	+	fact	says the existence of a God is tied to the Antinium on Rhir; his original task as a Centenium concerns Gods and supersedes other orders
+klbkch	89fde87dbc	3.06L	+	fact	knows only dead Gods; says Gods are a secret
+klbkch	3bb624307d	3.06L	+	fact	forbids Pawn to speak of God, his class or skills to Workers or Individuals; Pawn finds Soldiers are not covered
+klbkch	d583e7c7da	3.06L	+	fact	his original form was lost when he died at sea; Galuc was a giant, strong, fearless
+klbkch	28d3dbd479	3.06L	+	fact	orders Workers to bring as many sacs as possible; gel applied to wounds
+klbkch	c79300657a	3.06L	~	belief	argues the Christian God belongs to Humans, not the Antinium
+klbkch	3623c16bee	3.06L	!	event	attempts to kill Pawn for knowing of Gods, spares him after Pawn begs
+klbkch	97148053b1	3.06L	!	event	tells Pawn the Queen will not kill him unless his form or actions endanger the Hive
+klbkch	d270fe749b	3.06L	!	state	permits Pawn to pray and care for wounded Soldiers, testing them to become Individual
+klbkch	ecfd733f0f	3.13E	+	fact	known as Klbkch the Slayer; Magnolia met him briefly during the Second Antinium War
+klbkch	99a8729fcc	3.21L	+	fact	says Pawn has one [Tactician] skill and is too valuable to risk; tells him to surprise him or pray for an idea
+klbkch	d9bef1e266	3.21L	+	fact	requests forty Soldiers be allowed on the surface; Zevara grants twenty for patrol, with a lie that Antinium numbers are slightly below six hundred
+klbkch	14b8f6bf2a	3.23L	+	fact	has Pawn take twenty Soldiers on patrols for trophies and goodwill; hears of the paint and wants Soldiers named without words; Klbkch's stipend raised
+klbkch	2cc4782d8c	3.23L	+	fact	buys a jar of bees for the Queen and eats five; Garry cooks for the Queen alone, which Klbkch dislikes
+klbkch	6494261cf5	3.23L	+	fact	tells Bird, Pawn, Belgrade, Garry and Anand that other Hives' delegation arrives today; Pawn is not to mention the [Acolyte] class
+klbkch	31279a586b	3.23L	+	fact	knows Xrn is the only living Antinium who casts spells
+klbkch	b95d7dbe95	3.23L	~	belief	says the other Queens do not think as his Queen does; other Hives made from other templates, not Aberrations
+klbkch	ca91ffe4e1	3.23L	!	event	nearly begin a fight in Liscor, stopped by Pawn with twenty Soldiers, Zevara and Relc
+klbkch	87eac8a28f	3.27M	+	fact	says he regrets only that he was too weak to finish the battle on Rhir
+klbkch	743c87c550	3.33	+	fact	knows Erin returned the instant she entered the floodplains; Zel treats him with open hostility but keeps the truce
+klbkch	8039712e21	3.34	+	fact	tells Erin the Antinium want "to live"; says other Queens either prepare for war or ally against a "true enemy"; his Queen does not know friendship, not even with him
+klbkch	3029cbd655	3.34	+	fact	reports over fourteen villages destroyed by the Goblin Lord and a Drake city badly hurt in the south
+klbkch	1442d93be8	3.34	+	fact	tells the Hives he will lead 150 Soldiers and 300 Workers to Esthelm; Tersk and Xrn will observe; Pivr refuses
+klbkch	b2c9a619f4	3.41	+	fact	dress as Santa and Klbkch with a goat-hair beard to do "good deeds" for gifts; frighten the Bitterscale family, then catch two Drake burglars, ending with a crowd's applause
+klbkch	2e3a07a8ba	3.42	+	fact	refuses to deny a Dragon's existence near Liscor after Grev spots his non-denial; says it is not in his Hive's interest to confirm or deny
+klbkch	bc63086636	3.42	!	event	confirms by silence that a Dragon is near Liscor
+klbkch	2a2117d451	4.07	+	fact	Revalantor, once Klbkch the Slayer in the Antinium Wars; one of the Centenium with Xrn; now weak after losing levels
+klbkch	2907f4b597	4.07	+	fact	agrees to the plan; thinks of Ryoka as a possible ally; says all Individuals trace back to Erin Solstice, who "comes from another world"
+klbkch	7ae663ee6b	4.07	~	belief	believes Xrn's visit was to order him back to the Grand Queen
+klbkch	670650552e	4.07	!	event	commits to the plan and tells Xrn about Erin
+klbkch	a81663e233	4.12	+	fact	has a long splintered gash on one arm; says a situation in the Hive needs all Workers and Soldiers
+klbkch	2210352952	4.12	+	fact	refuses to let Garry work for Erin because the Queen likes his cooking, also withholds Anand, Belgrade and Pawn
+klbkch	028c1e2c78	4.12	+	fact	says Queens are normally mostly brain, but his Queen mimics that by being huge; she is the lightest on Izril and was the only one able to relocate
+klbkch	25ebafa400	4.12	+	fact	quotes 328 gold for construction; 6 silver of every 20 goes to Liscor under the treaty; windows cost about 8 gold each; a quality new home costs around 200
+klbkch	d07c5fc53c	4.12	+	fact	says Bird would trade his life for Erin's
+klbkch	63f1ca6a56	4.13L	+	fact	office is a dirt room with a coatrack holding only one scarf
+klbkch	8d642566d9	4.13L	+	fact	titled Revalantor of the Hive and former Prognugator; said to have slain more Workers than any monster has
+klbkch	f7c8a7bcd9	4.13L	+	fact	tells Pawn the dungeon is "waking up" now that adventurers entered; Hive attacks have doubled or tripled and the Hive loses more Antinium than it produces
+klbkch	452fac31e2	4.13L	+	fact	orders Pawn not to tell anyone of the Hive's weakness, Erin included
+klbkch	d6171692fb	4.13L	+	fact	tells Pawn to select one hundred Soldiers and report to Belgrade at noon the next day; guest Antinium may fight if they wish but the Hive will not request aid
+klbkch	0f047b9f14	4.13L	~	belief	says to Pawn that the guests have no obligation to fight and that his Queen will not request aid
+klbkch	dfccaf05c0	4.15L	+	fact	found wounded, bleeding from his side, with twenty injured Soldiers around him; heals with a nearly empty healing potion
+klbkch	a0b56aeebc	4.15L	+	fact	says Erin visited and he agreed to take Pawn's unit off combat duty because of their losses and Xrn's remarks; Xrn has agreed to lend her abilities
+klbkch	2af8999469	4.15L	+	fact	tells Xrn that Pawn's walk "is not the same" as the Antinium of old; Xrn answers that it is exactly the same
+klbkch	f9baf29bc0	4.29	+	fact	believes the death suspicious because Brunkr was a good [Warrior] found near the ropes; Captain Z ordered the investigation; he questions everyone from the party using truth stones that flash white when true
+klbkch	70bb738f60	4.29	+	fact	Regrika is seen talking to Brunkr; she answers that she did not meet him after the party and the stone flashes white
+klbkch	d44d07c98c	4.40L	+	fact	arrives with Pawn after the incident
+klbkch	1a2bc0baa1	4.42L	+	fact	the Revalantor, inspects the kill zone, plans to relay it to the Queen
+klbkch	7e4c8fc29b	4.47	+	fact	lost his Centenium form and levels; at the time seven Queens remained of what had been hundreds; Antinium defend with Silent and Flying variants
+klbkch	024119e68f	S02_The_Antinium_Wars_Pt.3	+	fact	at the battle with Xrn as the two nearest Prognugators; Drakes had a kill zone of [Mages], [Archers] and spearmen
+klbkch	f91107bfca	S02_The_Antinium_Wars_Pt.3	+	fact	twin silvery swords, two of four arms; not yet used to his new body; told Xrn to enact the Rite of Anastases if he died
+klbkch	c042144568	S02_The_Antinium_Wars_Pt.3	+	fact	personally rescued the youngest Queen from drowning; she later led the Liscor Hive
+klbkch	cac9c0a9cb	S02_The_Antinium_Wars_Pt.3	!	state	tells that he lost his original form and levels and is no longer at Centenium strength
+klbkch	2a7bef3550	S02_The_Antinium_Wars_Pt.5	+	fact	led Antinium to Liscor, ordered Soldiers not to hurt Drakes; waves of ranks charged into the backs of earlier ranks
+klbkch	32c40d6dcb	S02_The_Antinium_Wars_Pt.5	+	fact	fought each other right after the victory; Klbkch says he stabbed Zel in the chest and Zel tore off Klbkch's arm; their animosity persists
+klbkch	0f2ab792a6	4.49	+	fact	left the grieving inn; the Queen of the Free Antinium has a black-glass mirror artifact connecting to the Grand Queen; Xrn was with the Grand Queen
+klbkch	18378b203c	5.03	+	fact	ordered Bird not to kill the Hobs just yet; Bird has guarded them each night under Hive orders
+klbkch	07bc648c1f	5.03	+	fact	Revalantor of the Free Antinium, inspects tunnels, seals faulty ones; Pawn leads Painted Antinium
+klbkch	fd6337606d	5.03	+	fact	also serves as Senior Guardsman on Liscor's Watch
+klbkch	55be3ed55a	5.03	+	fact	believes he is ageing and mentions Xrn and the Grand Queen; the Queen is on a private project
+klbkch	4b145fd7c2	5.12	+	fact	told Zevara that aberrations arise around an Antinium's name and that Pawn is an Individual
+klbkch	a1035c4d40	5.12	+	fact	partners for nearly seven years on the Watch
+klbkch	d04cdd4c02	5.12	+	fact	agrees to send a few Workers to rebuild the inn for a fee
+klbkch	ef074495e5	5.12	+	fact	Liscor law makes the city reimburse property used in its defence; Octavia and Erin may claim
+klbkch	0d2ba51d6b	5.13	+	fact	acts as a critic of the play, noting the actor playing Claudius
+klbkch	5bc2d66be5	5.25L	+	fact	Revalantor; sets scheduled downtime for Pawn's unit and wants it turned into a fighting force
+klbkch	7e4fbabc57	5.26L	+	fact	removed Pawn's budget temporarily
+klbkch	039c0d1bc2	5.33B	+	fact	now Revalantor of the Free Antinium of Liscor, lacks armor in meeting, wears two silver swords
+klbkch	eadb6f7349	5.33B	+	fact	his form was altered by the Rite of Anastases; he has not regained his lost levels
+klbkch	4080168507	5.33B	+	fact	asks the Queen to give Garry a day off and says the Hives may soon move
+klbkch	153949a73f	5.34	+	fact	says he could arrest the Drakes only for tangible interference, and that Watch Captain Zevara would likely refuse a guard detail since Erin lives outside Liscor and pays no taxes
+klbkch	d75930672a	5.35H	+	fact	the Hive was not attacked; says Raskghar have fought beside Crypt Lords and other monsters
+klbkch	b73b2aad11	5.36	+	fact	offers a secret squad of Painted Soldiers led by Pawn plus bow-armed Workers to guard the inn overnight; arming Workers must stay secret
+klbkch	43c7b9d3ea	5.39	+	fact	leads an attack with a thousand Soldiers, expects 60% casualties, has Anand and Belgrade stay as Tacticians with a scrying mirror
+klbkch	113d4d1f4f	5.39	+	fact	tells Anand and Belgrade he lied to Ksmvr, rescuing Ceria and Mrsha is a priority, and forbids telling Pawn of the casualties
+klbkch	b94264c9f7	5.39	+	fact	a treasure-room trap killed forty-one Soldiers before yielding a pair of pink crystalline daggers; he counted 521 Soldiers left
+klbkch	f6f2fbe9f0-0	Interlude_Bird	+	fact	Klbkch, Pawn, Belgrade and Anand were consulted on whether Bird could meet Bevussa
+klbkch	cafbcae155	5.53	+	fact	the Soldiers nearly kill the Hobs at the Hive entrance; he says Bird's only hope is his Queen, who is attached to Bird
+klbkch	1b6d12ba7e	5.53	+	fact	Prognugators undergo the Rite
+klbkch	2dcc4223bb	5.54	+	fact	tells the Free Queen he would kill his friends for the Hives if ordered
+klbkch	9bdecc07fb	Interlude_Pebblesnatch_and_Garry	+	fact	studies a map of Liscor with Belgrade and Anand; says the Floodplains are crawling with Goblins and he let only Pawn out to scout the inn and Erin
+klbkch	0652a4eb85	Interlude_B09_1	+	fact	offers a Rite of Anastases to revive Yellow Splatters; Pawn refuses, saying "He's free"
+klbkch	9a54affdd5	6.02	+	fact	proposes placing more Antinium in the City Watch; Zevara grants it
+klbkch	f988b86c8a	6.08	+	fact	schedules Belgrade's Workers to rebuild the third floor and Bird's tower; Pawn to meet Lyonette; calls himself a Revalantor of the Hive
+klbkch	598ce5559c	6.29	+	fact	Revalantor of the Free Antinium; spymaster, security head, vice-ruler and strategist; can overrule the Free Queen if need be
+klbkch	9fb1deabf7	6.29	+	fact	dossier lists the King of Destruction's Seven all at Level 40 at least; has never met Flos of Reim
+klbkch	3817befda9	6.29	+	fact	proposal from Xrn involves Antinium Soldiers, distance and boats; he also wants to speak to Wrymvr, finish the Liscor-to-Hives tunnel and get more Queens
+klbkch	a334324b69	6.29	+	fact	his thoughts reach the Hive's Soldiers only faintly now; once he could read any Worker ten miles away
+klbkch	22fb6ad715	6.29	+	fact	offers Hive funding of twenty percent of construction costs, discounted Workers, and 2,000 gold annually for the Watch and Adventurer's Guild
+klbkch	d965781a1d	6.29	+	fact	asks for Hive expansion beyond its treaty limits, up to fifty visiting Antinium from other Hives with free passage, and more than the current 600 Soldiers
+klbkch	89d04d0a8a	6.29	+	fact	holds the class [Diplomat] at Level 11 and uses the Level 10 Skill [Reassuring Presence] daily; no one, not even his Queen, knows he has these tertiary classes
+klbkch	948bed03a9	6.29	+	fact	tells the crowd Pallass' army spilled twenty-eight times more blood than Liscor's army and that Goblins saved the city
+klbkch	ad22e77bde	Interlude_Embria	+	fact	allergic to wheat per his own claim but tries a pancake; asked about Acid Flies on Erin's menu
+klbkch	ea98d3e73a	6.30	+	fact	Yellow Splatters lost ten levels in resurrection; Free Queen modified his body; he is unique
+klbkch	481bd20ccd	6.30	+	fact	allows a rotation of fifty Soldiers aboveground and grants a stipend of four silver and six copper per Soldier or Worker
+klbkch	b826480d1a	Interlude_Rufelt	+	fact	brings Rufelt Rxlvn, a black savory alcohol made by Antinium Workers with mushrooms, serpent venom and Shield Spider venom
+klbkch	1be63bb55e	6.59	+	fact	arrives late from a Hive incident involving a Facestealer, and takes command of the guard line
+klbkch	95068787a8	6.61L	+	fact	Senior Guardsman, has [Detect Guilt]; leads Junior Guards Tkrn (demoted after the prison torture of Calruz) and Jerci (second week, dyed black fur, earring)
+klbkch	2749c83123	6.61L	~	belief	reports Palt's dreamleaf and Soot's meeting but says Zevara will not fight Wistram over it
+klbkch	943a6bced7	6.62L	+	fact	Senior Guardsman by day (about 30 Senior Guards in Liscor) and Revalantor below; has two arms now and carries two silver swords; he sleeps about three hours
+klbkch	d41825d6b9	6.62L	+	fact	refuses, saying "No"; sets up a test with 438 excess Workers and Soldiers because Belgrade's traps cut losses 56% and Face Stealer's raid killed 211
+klbkch	3937b377cb	6.62L	+	fact	is told to treat Anand and Yellow Splatters as Prognugators and train them as War Queens were taught; only about 50 of 400 survive the test; each saved Antinium may be inducted into the Painted Antinium
+klbkch	89cc6dedb4	6.62L	!	event	has not regained most Skills
+klbkch	eb242d7691	7.04	+	fact	strikes Bird twice, cracking his carapace, shouts that he is a fool who disobeyed orders, and orders the Antinium back to the Hive without Bird
+klbkch	97ea98f38e	7.04	+	fact	dodges Erin's punches; Relc hits him; he stands down and says if Bird enters Pallass again he will kill him
+klbkch	e6bb8b848a	7.06	+	fact	monitor Bearclaw; Bearclaw testified under truth spell she committed no crime in Liscor, though Klbkch confirms she committed murder elsewhere
+klbkch	8f506da045	Interlude_Burning_Alcohol	+	fact	appears and toasts "the Centenium of the True Antinium, the Antinium of Rhir" without rebuking Pawn, Bird or Belgrade
+klbkch	73e3394051	Mating_Rituals_Pt.2	+	fact	furious at the Antinium, he is intercepted by Relc and Jeiss who throw him a "wake" at Wishdrinks, led by the belief that he lacks genitalia
+klbkch	52e3d16128	7.16L	+	fact	believes the Individuals are "wrong", copies not True Antinium, and orders the Painted Antinium not to leave the Hive
+klbkch	388a7237aa	7.16L	+	fact	in the inn, severs Chesacre's arm with his sword; the Garden of Sanctuary barrier stops his blade at Pawn
+klbkch	689350ec2e	7.16L	+	fact	tells Pawn and the Painted Antinium they may never return to the Hive, or die; calls them Aberrations and "worthless"
+klbkch	db559f326e	7.16L	+	fact	learns [Skill - Recaptured Sublimity] mid-fight, beats Relc and 4th Company (Wikir, Pielt, Vell, Embria) with Relc's [Triple Thrust] failing
+klbkch	4ab3276f23	7.16L	+	fact	crushes the scrying orb and walks to the Hive
+klbkch	4bc42adcbf	7.16L	+	fact	takes leave from the Watch; Xrn hugs Anand when he asks to call her aunt
+klbkch	af7881f590	7.16L	~	belief	says the Individuals "are failing" in Hive assessment and screams the Hive wants them destroyed
+klbkch	b1af4c603e	7.16L	!	event	told "you are no longer alone" by Xrn and weeps
+klbkch	4428f29e1b	7.16L	!	event	takes leave from the Watch
+klbkch	5a38921d54	7.19	+	fact	stripped of leadership of the Free Antinium, on leave from the Watch, driven to rage earlier; Xrn says he is learning to feel
+klbkch	49b3301424	7.19	!	event	replaced by Xrn as Free Antinium leader
+klbkch	f8b42275ec	7.27	+	fact	leaves the Hive with Anand, Painted Antinium and Workers carrying acid-flies, Garry-bread and cheese to other Hives; Xrn tells him to visit the Armored or Silent Antinium
+klbkch	f234f7c9b7	7.39A	+	fact	titled Revalantor of the Free Antinium, Centenium, Senior Guardsman, Klbkch the Slayer; returns to the Hivelands via a tunnel southwest of Liscor with Anand and 200 Antinium
+klbkch	a5d7177749	7.39A	+	fact	carries Ring of Metal, Ring of Hops, Amulet of Dispel, ignition and pain daggers and potions; his new Skill [Recaptured Sublimity] has a twelve-hour cooldown
+klbkch	a5b42f3b04	7.39A	+	fact	tells Anand the army is "all that is left" of a far greater past
+klbkch	b080219ee2	7.39A	+	fact	duels a Worker-type Sword Prognugator (cut once by [Extend Blade]), then with [Recaptured Sublimity] defeats thirty-plus copies without deaths
+klbkch	f949d26b60	7.39A	+	fact	tells Anand "Well done" and recounts that Galuc laughed
+klbkch	44c7eeb285	7.39A	+	fact	shares Rxlvn (Antinium alcohol) and pepperoni pizza with Wrymvr and the Twisted Queen
+klbkch	a178e54ef7	7.39A	!	event	publicly honoured by four Hives and learns the Grand Queen plans a third war
+klbkch	4b83bc906b	7.39A	!	event	acknowledges Anand's competency with "Well done"
+klbkch	8ccc82b791	7.48K	+	fact	debate crossing the sea; Wrymvr says he could kill the Illusionist
+nameless child	e0a21cc16f	1.24	+	fact	beats two Workers and opens with the knight, which Erin calls the Baltic Opening
+nameless child	27dc0dd550	1.25	+	fact	leads four surviving Goblins out of the original nine; she was beaten the night before
+nameless child	144c0d0a0b-0	1.25	+	fact	attack the nine Goblins from behind, killing several; Erin kills one with a thrown knife and punches others
+nameless child	7006ad739b	1.28	+	fact	leads small Goblin followers, often wounded; pays for them and watches Erin
+nameless child	96b0c94eb6	1.32	+	fact	leads a breakaway Goblin faction that does not eat humans on sight; the Chieftain was killed and her tribe is in a power struggle
+nameless child	4e863cb860	1.32	+	fact	communicates by sign and gesture; tries Goblin and human speech without success
+nameless child	e35f36fe61	1.34	+	fact	sparks a flame on her finger and starts a [Firefly] spell
+nameless child	24fe02a22d	1.36	+	fact	Goblin chess player, aggressive style
+nameless child	238cb01364	1.39	+	fact	leads thirty-odd Goblins; bruised side; orange-pink potion on her belt
+nameless child	3e9611a92d	1.40	+	fact	Goblin; beat Toren about eighteen games running
+nameless child	e59fe862cb	1.42	+	fact	hides her followers on a hilltop and watches Liscor fall without intervening
+nameless child	826b0df8b7	1.43	+	fact	counts the odds, orders her tribe not to intervene, yet feels pain at the choice
+nameless child	c377226f99	1.44	!	event	kills Skinner with fire magic, a bronze sword and acid with her Goblins
+nameless child	c4ca4f3105	2.02	+	fact	plays chess with Pawn and Ryoka
+nameless child	f1ad376453	2.03	+	fact	forced to join when Erin dangles her upside down and shakes her; she vomits
+nameless child	ef5cc77abf	2.03	+	fact	each cast [Light]
+nameless child	1f3bb14bef	2.04	+	fact	stabs a ghoul in the back of the head
+nameless child	63516ae7fe	2.04	+	fact	takes a broken black crossbow
+nameless child	3971a04527	2.06	+	fact	kicked unconscious while throwing acid
+nameless child	84a8aac01f	2.00G	+	fact	Goblin Chieftain of the Flooded Waters Tribe around Liscor; carries a new bright bronze shortsword and a small buckler
+nameless child	e078d0a4fc	2.00G	+	fact	knows three spells including [Firefly], used with archers to drive bears from the den cave
+nameless child	b5a20cf1e3	2.00G	+	fact	loves chess, has played hundreds of games, gained [Tactician] from it, and has not yet beaten Erin
+nameless child	dba0fce7ae	2.00G	+	fact	remembers Klbkch's death and sees his revived body as unchanged in smell and manner
+nameless child	305ffa6991	2.00G	+	fact	carries a small jar of acid
+nameless child	e171270f16	2.00G	+	fact	Level 8 [Warrior], has [Mage], and is a Level 11 [Tactician]; has not become a Hob
+nameless child	64a033298f	2.00G	+	fact	the "death beyond death" is a rift in a distant mountain in Red Fang territory, remembered through the Chief's inherited memory of a slime that destroyed the Scale Slayer Tribe
+nameless child	08a50646da	2.00G	+	fact	has six jars of acid left
+nameless child	415dfe214b	2.00G	!	state	[Leader Class Obtained!] [Leader Level 2!] [Skill – Aura of Command Obtained!] [Tinkerer Class Obtained!] [Tinkerer Level 1!] [Skill – Basic Repair Obtained!]
+nameless child	314fe0fd25	2.00G	+	fact	tests boom bark as a trap; has fourteen crossbows besides her own
+nameless child	5779420705	S01_Mating_Rituals	!	event	does not know how babies are made until Erin explains
+nameless child	0968657d5f	2.01G	+	fact	Chief's memories come as fragments because her tribe is small; she believes she will never die
+nameless child	70bb9fabdc	2.01G	+	fact	plans to settle near the dungeon where the Watch will not patrol
+nameless child	15bd228908	2.01G	!	state	loses to the magical board's unseen player; the pieces form a disappointed smiley
+nameless child	50c1c5cfe2	2.01G	+	fact	remembers Relc killing the three Goblins who raised her while she hid as a child
+nameless child	6add82d59b	2.01G	!	event	draws her sword on Relc and refuses to be small; a Frost Faerie freezes Relc and drives him out
+nameless child	bce436819f	2.01G	!	event	decides to move north, attacks the Jawbreaker Tribe (small, pays tribute to the Red Fang), and kills their Hob Chief Rockgaw with a crossbow bolt
+nameless child	399473f4e1	2.01G	~	belief	resolves to build a tribe large enough to kill Relc, oppose the Watch, and beat Erin and the unknown player
+nameless child	5287776f69	2.02G	+	fact	ambushes with hidden Goblins, crossbows, bows, and clay-pellet stone bows; has eight Hob archers
+nameless child	2fea1fe9a1	2.02G	+	fact	uses a horn signal system; takes in defeated Goblins, separating children and pregnant females
+nameless child	eec3116a16	2.02G	+	fact	leads over eight hundred Goblins and twelve Hobs; levelled as [Leader], [Tactician], [Mage]; still low [Warrior]
+nameless child	a7f06d2621	2.02G	+	fact	carries a bronze shortsword and shield given by Erin, plus a black crossbow, a magical dagger and a jar of Erin's acid
+nameless child	585ad80755	2.02G	+	fact	uses the gem of [Terror] against the Carn Wolves, but the Chieftain roars and the wolves charge anyway
+nameless child	49b360dcb8	2.02G	+	fact	loses over a hundred Goblins; Goblins from the Gold Stone Tribe desert
+nameless child	3a3270cf9f	2.02G	!	event	kills a Sword Taker Hob with her crossbow when he challenges her
+nameless child	ba68595bfc	2.02G	!	event	duel; both hear a chorus of ancestral voices "This is Goblin"; Rags hears a King's voice "This is not who we are"
+nameless child	3155c47fc9	2.02G	!	event	breaks acid on herself and the Chieftain, heals both with potions
+nameless child	e6693ff6b6	2.03G	+	fact	now leads the Red Fang Tribe and the tribes allied or subservient to Garen
+nameless child	fe4ab1b2cd	2.03G	+	fact	told her tribe to kill the Carn Wolf mounts first; Garen had about fifty Goblins and a little over twenty survive
+nameless child	2ea1ae00c7	2.03G	+	fact	nearing a thousand Goblins; tribe called the Flooded Waters Tribe
+nameless child	a4c396b3d9	2.03G	+	fact	casts [Firefly]; Garen swats it with a branch and says spells can be broken
+nameless child	ada88eb29e	2.03G	+	fact	invented stone crossbows firing clay pellets; Garen calls them too weak for fighting
+nameless child	6bbac59fa4	2.03G	+	fact	missing Erin and the dungeon; wants Erin's help to make Goblins stronger
+nameless child	06bb04199e	2.03G	!	reveal	disguise themselves as travellers and walk to The Wandering Inn
+nameless child	e67c5a976a	2.32	+	fact	arrives with a hooded Hobgoblin and looks taller and more confident
+nameless child	486235f6c5	2.36	+	fact	banned from the inn; carries a crossbow
+nameless child	b41db7ad76	2.41	+	fact	leads the Esthelm sack on a Carn Wolf; spares fleeing civilians; orders the Goblins north
+nameless child	cbb3a97af5	2.41	+	fact	barred from Erin's inn, saw herself in Mrsha
+nameless child	d578046940	3.10	+	fact	rides a wolf with a black crossbow among Hobgoblin elites and recognizes Ryoka
+nameless child	356bc1c78d	3.26G	+	fact	army marched nearly two weeks north; she rides a Carn Wolf in the centre of the coalition army
+nameless child	4eb5b87a1f	3.26G	+	fact	classes gained on the march: [Warrior] via Garen's training, two levels of [Tactician], over ten of [Leader]; [Leader] will become the Goblin-unique [Chieftain]
+nameless child	e189f43b93	3.26G	+	fact	conquered four tribes: Rockjaw (she killed its leader), Still Grass (young Chieftain), Fire Bite (Hob Chieftain, least loyal), Gold Stone
+nameless child	3373320f5a	3.26G	+	fact	can "look" back at recent events; easier now her tribe has grown
+nameless child	0a1a739b22	3.26G	!	state	loses effective command of the coalition to Garen, and realises his obedience was convenience
+nameless child	152465dbaa	3.26G	!	event	kicks a Hob at the feast, takes her seat; only Gold Stone Chieftain, Still Grass Chieftain and three Hobs stand for her before Garen intervenes
+nameless child	b3e276f2a1	3.26G	!	event	declares to the Gold Stone Chieftain that Tremborag's people "are not Goblin"
+nameless child	9813d2cd78	3.28G	+	fact	kicks Ulvama after she urges her to sleep with Garen and others and touches her; casts [Light] and [Firefly]; was taught magic basics by Pisces
+nameless child	e87efe708e	3.28G	+	fact	nicknamed "Fake Name Goblin" by Tremborag; her raid plan uses feints on the gate and west wall; battle starts at evening
+nameless child	5921f426df	3.28G	+	fact	names him Pyrite, after gold-like stones used in place of flint and steel
+nameless child	fc7ee8e669	3.28G	+	fact	buckler was given by Erin; she cites the Redfang tribe as her former subordinates
+nameless child	3539ff1f09	3.28G	!	event	declares in Goblin "I am Goblin. This place is not." and starts war against Tremborag's tribe
+nameless child	3014c6e866	3.28G	!	event	Human women in the mountain make her imagine Erin's face on them
+nameless child	61ec238806	3.29G	+	fact	gets a bowl of porridge seasoned with cinnamon, butter and sugar from stolen stores
+nameless child	e0046b8ea6	3.29G	+	fact	breakout raid stole weapons from the armory, freed the hundreds of Human women, and took Redfang riders and wolves
+nameless child	cb62b035a0	3.29G	+	fact	names the old Goblin Whitebeard, then Greybeard; names the scarred Redfang elite Redscar; a Hob from the mountain also joins her council
+nameless child	cb42c8627a	3.29G	+	fact	still has the gem of [Terror], which is ineffective against Goblins
+nameless child	c2a58afabe	3.29G	+	fact	returns the women to a Human city (named Merendia, Balum or Ostegrast by arguing Goblins); tells their adventurer leader that Tremborag fought with the Goblin King and works with the Goblin Lord
+nameless child	65dc33d5fc	3.29G	+	fact	memory of a Biting Blade Tribe Hob Chieftain killed by [Knight] Yaltes Byres in silver armor, who uses riding Skills
+nameless child	59ad8a74d7	3.29G	+	fact	trains Goblins with twenty-foot pikes carried by two to four Goblins; mock battle against sixty Redfang warriors shows pikes work but are weak to arrows, magic, flanking
+nameless child	a6c0add2a2	3.29G	~	belief	lets the Humans think Tremborag and the Goblin Lord will join forces
+nameless child	0a09580cb7	3.29G	!	event	breaks away from Tremborag and leads the Flooded Waters tribe, now larger than before
+nameless child	b9278302d7	3.31G	+	fact	becomes [Chieftain] Level 15; [Tactician] Level 16; [Scavenger] and [Tinkerer] consolidated away; gains [Skill - Tribe: Fleet Foot] and [Lesser Tinkering]
+nameless child	3747cb4622	3.31G	+	fact	five strong artifacts from Tremborag's cache: unbreakable flower shield (to Pyrite), shocking sword and chest plate (to Redscar), sledgehammer-weight mace (to a Hob), a fire-throwing sword (withheld)
+nameless child	9e7ea8b354	3.31G	+	fact	ambushes a thirty-wagon caravan bound for Ostegrast, lets the guards flee, and kills only five Humans
+nameless child	cdeb8370b2	3.31G	+	fact	plans to head south, build a base, and see Erin
+nameless child	cb0122e4f4	3.31G	!	state	promoted to [Chieftain]; Goblin parties follow level-ups
+nameless child	facb7be04f	3.31G	!	state	blames herself for the dead and decides she must also be strong
+nameless child	f447c574e3	4.32G	+	fact	Chieftain; introduced daily work rosters, duty rotation, crossbows, and 20-foot pikes; Goblins in her tribe are getting smarter by copying her
+nameless child	3dcf56fbb1	4.32G	+	fact	speaks the common tongue with difficulty; her skill [Fleet Foot] shortens marches; wields a black Dwarf-made crossbow
+nameless child	9b479474d0	4.32G	+	fact	not a Hob and Pyrite does not know her age; Hobs are special Goblins, can match Silver-rank adventurers
+nameless child	4caacb6755	4.32G	+	fact	has a soft spot for Humans, has freed Human captives from Tremborag's mountain, and a strange Human near Liscor who feeds Rags is rumored
+nameless child	46c29074fc	4.32G	+	fact	ignites the tree trunk with her glowing hand
+nameless child	5416cd5e68	4.32G	+	fact	takes the town with crossbows, pike wall, a battering ram, Noears's lightning; Pyrite kills a Silver-rank mace-and-shield adventurer by distracting him
+nameless child	ec086bcae1	4.32G	+	fact	hangs only dead Humans from the roofs, loots for an hour, spares all living townsfolk and forbids touching them
+nameless child	de274c7df3	4.32G	!	event	orders "We attack" the town after the Undercrawler massacre; a break from her prior non-violence rule toward Humans
+nameless child	ef6377c6ff	4.39G	+	fact	orders a wooden fort of four twenty-foot walls with pre-sawn trees to topple, and not to flee
+nameless child	38dc6e8009	4.39G	!	event	judged "not yet" a Goblin Lord by Greydath; the tribe sees her fail
+nameless child	0e479cb9af	5.19G	+	fact	leads a scouting group of about forty against a thousand Humans; uses [Firefly], [Fire Arrow], and a black crossbow
+nameless child	51ec45ddaf	5.19G	+	fact	is just past four years old, about twenty by Goblin standards
+nameless child	b5fd43262f	5.19G	+	fact	levels are 19 [Chieftain], 13 [Mage], 18 [Tactician], 11 [Warrior]
+nameless child	0fbb76bd3d	5.19G	+	fact	her Skill [Fleet Foot] affects the whole tribe's pace
+nameless child	fb0756ee3d	5.20G	+	fact	the tribe's factions are not fully united, and Mountain faction males still regard rape and torture of Humans as acceptable
+nameless child	c3794ca5ec	5.20G	+	fact	given a ruby half the size of her fist by Pyrite; is learning [Lightning Bolt]-style magic from Noears and can cast [Firefly] and [Fire Arrow]
+nameless child	e21270ce51	5.20G	+	fact	refuses mercy to the Humans, saying they started it and Humans do not leave Goblins alone
+nameless child	65a98872a6	5.20G	+	fact	at a crossroads decide to go south toward Liscor and keep watching Kerrig
+nameless child	5aac323dff	5.20G	!	state	reaches [Chieftain Level 20!] and gains [Skill - Tribe: Scavenger Armor Obtained!]
+nameless child	24c7e29a1f	5.20G	!	event	has intrusive memories of Erin's inn and fragments of speech to Erin, ending in "Thank you"
+nameless child	cef239040d	5.22G	+	fact	new Skill [Scavenger Armor] makes the tribe's [Hammerers] turn out scrap armor from bark, cloth, leather
+nameless child	c8f109b9a0	5.22G	+	fact	had nightmares of dead Humans; says "We are not Humans. We can be better."
+nameless child	22cf21099c	5.22G	+	fact	has a black crossbow and casts [Light]
+nameless child	20fb6d65d5	5.22G	+	fact	spares Bethal because Bethal's fear reminds her of Erin; declares her prisoner
+nameless child	bf5325559c	5.22G	!	event	wounded in the chest by an armored rider who says "So small"; found alive by Pyrite after healing potions
+nameless child	ee51cefc43	5.23G	+	fact	takes Lancrel using Hobs throwing Goblins up to the walls, Noears's lightning, Redscar on the battlements, and a ram on the gates
+nameless child	b526070fd7	5.23G	+	fact	uses wounded Goblins' crossbows to beat Wiskeria's cavalry against the walls
+nameless child	e008250bef	5.23G	+	fact	[Fear] gem (red stone) shows Skinner to Wiskeria; scares Darksky horses; later inactive
+nameless child	95d20ec638	5.23G	!	state	wakes after three days; Pyrite stands bloodied and says "Yes, Chieftain"
+nameless child	02e89bddac	5.23G	!	event	orders Redfangs to "Burn the villages... No Humans spared" and splits them into small groups; she burns a farm herself, screaming
+nameless child	a2646d6fdf	5.30G	+	fact	leads about forty Redfang riders, uses trip-ropes, ambushes and a [Fear] gem that weakens with each use
+nameless child	1e8d745b1a	5.30G	+	fact	a Redfang cavalry force of under 400 was sent raiding, spread thin by suicidal diversions
+nameless child	51de3068fe	5.30G	+	fact	sees the first boulder shatter part of the wall and announces she has a plan
+nameless child	c356c66364	5.31G	+	fact	names Quietstab, Redscar, Poisonbite and Pyrite for tasks (nails, wood, stones, waiting for signal)
+nameless child	dd14c6cd55	5.31G	+	fact	sends Hobs to fell a tree for timber after the first copy collapses; the first copied trebuchet fires short of the Human camp
+nameless child	81ba004820	5.31G	+	fact	offers Sir Kerrig a peace deal pointing to the trebuchets as proof of power, offers gold and the knowledge of trebuchet-building to the Humans if they let the Goblins go
+nameless child	79a0960019	5.31G	+	fact	demands a truth spell and a meeting with the Emperor, even shouting from a distance
+nameless child	cb28744772	5.32G	+	fact	leads sixty Carn Wolf riders to Riverfarm, uses [Fleet Foot] Skill to rest warriors while running
+nameless child	1d6913589a	5.32G	+	fact	identifies Laken as the only one not looking at her, eyes closed head turned east
+nameless child	cbe295e86b	5.32G	+	fact	tells Laken she has no proof of peace, offers a one hour standoff once the Humans' army is withdrawn
+nameless child	a7b60c9572	5.37G	+	fact	spits at Tyrion; Pellmia's sword deflects it
+nameless child	f1a9f7b8bf	5.37G	!	state	Chieftain Level 24; gains Tribe: Rapid Reload, Flashfire Spellcraft, Burning Blades
+nameless child	0ffef344b1	5.47G	+	fact	levelled; new Skills [Rapid Reload] (tribe-wide), [Flashfire Spellcraft], spell [Burning Blades] set weapons ablaze for about three minutes
+nameless child	0174623bce	5.47G	+	fact	[Chieftain Level 25!]
+nameless child	566834ff83	5.47G	+	fact	has [Fleet Foot]
+nameless child	effb271c01	5.47G	+	fact	told Pyrite of meeting Laken Godart, who was sad and angry he could not make peace
+nameless child	f4ba5f229a	5.47G	+	fact	has Gilam under her crossbow, hears Pellmia scream, and lowers it; no one else shot
+nameless child	c58a134b64	5.47G	~	belief	believes Humans started it and "They started it" sounds wrong
+nameless child	6ab30b3e54	5.47G	!	event	spares Gilam, Pellmia; the Goblins keep Gilam's horse Olli and gear
+nameless child	f8e4203105	5.48G	+	fact	leaps on a collapsed Hob's stomach, has Hobs hand heavy weapons and armour to Noears' bag of holding, then jogs so the whole tribe follows
+nameless child	e18a68b833	5.48G	+	fact	her tribe has a shared Skill that makes them run faster; other Goblins lack it
+nameless child	54b3740dce	5.48G	+	fact	senses a fire to the north, others feel a bright light or a mountain; the Goblin Lord approaches
+nameless child	cd569ee7cd	5.48G	+	fact	forbids any Goblin from entering her camp, even Redfangs, as possible spies
+nameless child	307d98e25f	5.48G	!	event	now leads a tribe positioned at the front of a hundred-thousand-strong Goblin column
+nameless child	1bf83e5484	5.50G	+	fact	accuses Tremborag's tribe of kidnapping and raping Human women, calling it not-Goblin; Tremborag laughs it off and Garen answers "It is Tremborag's tribe. He decides."
+nameless child	bd580aac1a	5.50G	+	fact	tells Reiss "I am not yours" but agrees to talk again, believing Humans are the danger
+nameless child	1d0070f568	5.50G	+	fact	a Goblin tribe chants her name, drowning out Garen's Redfangs, led by Redscar's choice of "Rags!"
+nameless child	547dbc1618	5.50G	!	state	feels a snap and emptiness at Quietstab's death, unaware why
+nameless child	2facc238a2	5.50G	!	event	tribe forms a tentative bond with Reiss's army
+nameless child	b88029eb73	5.51G	+	fact	tears for Quietstab before dawn; his body is found twisted in the latrine, head snapped
+nameless child	7a6cbee6ec	5.51G	+	fact	ambushes Tremborag's tribe with a pike wall and crossbow volleys at the rear of her column, then retreats while firing, using [Fleet Foot]
+nameless child	b609da6726	5.51G	+	fact	realizes the conflict is a circle and leaves him for the Humans, saying he is "big, fat, stupid"
+nameless child	1a0fc0c6a5	5.51G	+	fact	after Tremborag's death, tells the crowd Goblins die in a circle and must change; just over half the Mountain City tribe join her
+nameless child	286626e92e	5.55G	+	fact	organises new tribe sub-factions led by competing Mountain City lieutenants; Redscar's Redfangs in charge of drilling them
+nameless child	1b3e1bb947	5.55G	+	fact	refuses to fight Liscor and says the Goblin cycle must stop; her reason is Erin Solstice, her friend, whose inn has a sign "No Killing Goblins"
+nameless child	fbcc4e0e61	5.55G	~	belief	says Erin kills only to defend; "She is good."
+nameless child	adb401eef9	5.55G	!	event	hit by [Deathbolt], alive but weak
+nameless child	9cfe2047b7	5.56G	+	fact	wounded by [Deathbolt], her Carn Wolf (never named) is killed by Reiss's spell; her tribe breaks when she vanishes
+nameless child	67e6b37190	5.56G	+	fact	survives under her wolf's corpse among the dead; later all her gear including crossbow is gone
+nameless child	72a5571428	5.56G	!	state	loses her tribe, wolf and crossbow
+nameless child	0cf1e044ba	5.60	+	fact	leads several hundred Goblins with Pyrite and Ulvama toward Liscor behind Tyrion's army
+nameless child	b7eb31b97d	5.60	+	fact	tells Garen "When you betray, you should stay" and he rides north and west to the High Passes with about a dozen Redfangs
+nameless child	30cb3e5c5b	5.62	+	fact	frees the Shield Spiders from the dungeon with Garen's group; Ulvama enlarges them; Laken halts one with "Halt" and "Begone"
+nameless child	a188216658	Interlude_B09_1	+	fact	five Goblin leaders survive with her: Poisonbite, Snapjaw, Rabbiteater, Badarrow and Redscar
+nameless child	6d1eb0c099	Interlude_B09_1	+	fact	names herself Chieftain of the Flooded Waters tribe, the Redfangs, Reiss' Goblins, the Cave Goblins and Great Chieftain of the Mountain, and leads the survivors with flaming weapons
+nameless child	db0f6e2781	7.12G	+	fact	Chieftain of Goblinhome, Level 32 [Great Chieftain]; wears Garen's key; is a few inches taller and has begun to bleed; dreams Velan's memories
+nameless child	a545b06fe5	7.12G	+	fact	designs the "Roarwing" crossbow (a third of the ballista size, one prototype) and orders more large crossbows
+nameless child	8df050cce6	7.12G	+	fact	plan to send Badarrow and Snapjaw to the inn to find survivors; Rags will not go herself for fear of exposing Erin
+nameless child	69edcd058b	7.12G	~	belief	believes the Goblin cycle can only be broken by strength, as Velan did before turning mad
+nameless child	3662c9a1e9	7.12G	!	state	reaches Level 27 [Steelflame Tactician] and obtains [Spell - Fast Fireball] and [Skill - Dual Shot]
+nameless child	393cbada89	7.12G	!	event	teleported by Teriarch into Goblinhome's lake after his audience
+nameless child	b2c7aa9043	7.12G	!	event	decides to find the two northern Chieftains, a [Fighter] and a [Witch], as allies to climb the High Passes
+nameless child	ee2542e53c	7.43G	+	fact	wins peace with Invek's Ogre clan Tormek Al after Redscar beats their champion without Skills; trades gold and gems for Goblin-sized arms and three plate sets
+nameless child	6646fd3b2b	7.43G	+	fact	dives into Kerra's memory of the Valley Pact Tribe and the Keeper of the Valley falling to Terandrian armies
+nameless child	117bac73fc	7.43G	~	belief	Ogres believe magic potions let them grow magic; Rags suspects mana potions are what they fight Humans for
+nameless child	a95a29948d	7.43G	!	state	becomes [Great Chieftain] Level 34 and learns Natural Allies: Ogres and Ogre's Strength

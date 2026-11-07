@@ -1,0 +1,621 @@
+entity	sid	chapter	marker	heuristic_kind	text
+gecko of liscor	ee0bf97793	1.07	+	fact	Drake, scaled light-green lizard-humanoid over six and a half feet, bass voice, forked tongue, sharp claws, spiny crest, snake-like eyes; Senior Guardsman; class [Spearmaster] plus [Guardsman] levels; can breathe fire
+gecko of liscor	ec53a855f0	1.07	+	fact	partners on the city watch; patrol spotted smoke from the inn from the city walls; their Captain ordered the check
+gecko of liscor	b4bd2541bc	1.07	+	fact	pay Erin with several copper coins and two silver coins for the meal
+gecko of liscor	b80868c384	1.08	+	fact	dislikes the Captain; has ear-holes on the sides of his head
+gecko of liscor	b2d3ea8c72	1.10	+	fact	skill [Dangersense] (scales itch when danger is near); Klbkch: skill [Appraise Foe]
+gecko of liscor	44dcda60f6	1.10	+	fact	his spear throw never misses; he is strong enough to break Erin's grip with two fingers
+gecko of liscor	6140dd6a71	1.10	+	fact	it is his day off; he and Klbkch leave without paying and say "put it on our tab"
+gecko of liscor	81b62058c6	1.11	+	fact	breaks through a Wind Wall by force; says he is a former soldier of the 1st Wing of the Liscorian Army and has killed more mages than Pisces has levels
+gecko of liscor	b5b2623859	1.14	+	fact	[Thick Skin] and [Iron Skin], the last skill from his [Soldier] class, possibly also a [Spearmaster] skill
+gecko of liscor	1e7bfa7bb5	1.14	+	fact	off duty, flips a dagger in the barracks mess hall; fellow guards include a pale-blue Drake and a green Drake, and Lism has scars from his stray dagger
+gecko of liscor	70a522df10	1.14	+	fact	says Erin makes a mean plate of pasta and survived in the floodplains; mentions the Necromancer she would not let them kill
+gecko of liscor	232a752a94	1.14	~	belief	tells the guards humans have little in their heads and cannot be trusted with smart decisions; Erin overhears
+gecko of liscor	15b96581ab	1.14	+	fact	drives the Goblins off with his spear and calls them no threat to anyone with a few warrior levels
+gecko of liscor	e2815409ad	1.14	~	belief	says Necromancers should be killed on sight and cites a thousand zombies; he says he could never trust one
+gecko of liscor	28190c5ada	1.14	+	fact	carries Erin's bag home and vows to make it up to her and deal with the Goblins
+gecko of liscor	0b209e135f	1.14	+	fact	learns from Erin she spent a few gold coins on food and says a gold coin should not buy a sack of flour
+gecko of liscor	ba314e7503	1.15	+	fact	kills three Goblins with his spear as an "apology", and brings their heads to hang around the inn as a warning to others
+gecko of liscor	cfca9fbb38	1.17	+	fact	a higher-level [Guardsman] than Klbkch but lacks [Detect Guilt]
+gecko of liscor	0ca2aded83	1.19	+	fact	and Klbkch, on duty, come to warn Erin the bet is unfair
+gecko of liscor	238ecea8e6	1.20	+	fact	as Senior Guardsmen, threaten the cheating Drake with a tax and inventory investigation; Relc wrecks the stall
+gecko of liscor	8ea01f6cb6	1.23	~	belief	dislike adventurers for drinking, brawling and rudeness to the Watch
+gecko of liscor	681b031a21	1.26	+	fact	blames Erin for Klbkch's death, tells her not to come to the barracks again, and smashes a chair
+gecko of liscor	ea55a6a6cf	1.28	!	event	sees Erin in the market, then turns away without speaking
+gecko of liscor	9a412c4c18	1.29	+	fact	green Drake guardsman with a spear who races Ryoka and loses; later muses whether Erin knows her
+gecko of liscor	cb158464fc	1.29	!	state	loses a race to Ryoka for the first time
+gecko of liscor	de57164547	1.30	+	fact	over Level 30 in the [Spearmaster] class
+gecko of liscor	48b092ba5d	1.30	+	fact	strongest active city guard on the continent, perhaps the world, and left the army to join the Watch
+gecko of liscor	ebd0cfedac	1.31	+	fact	Senior Guardsman and says he is the highest-level [Guardsman] in the city
+gecko of liscor	33f9cd52d2	1.31	+	fact	confiscates Pisces's gold as a donation to the city and allows him back after fines; Pisces still wanted for scaring people and robbing graves
+gecko of liscor	1ec93923c5	1.31	+	fact	asks about a tall black-haired female Runner who outran him
+gecko of liscor	62a10e7e8d	1.36	+	fact	Drake, spear, notes the Watch is mostly former soldiers
+gecko of liscor	8dbbbbf689	1.36	+	fact	warns that Watch will not act on the adventurers Erin beat; they laughed at it
+gecko of liscor	8500fa898b	1.36	~	belief	Goblins are part of the wild and the Watch leaves them alone unless ordered
+gecko of liscor	c7717d578e	1.36	~	belief	Klbkch was special; the Antinium do not care that he died
+gecko of liscor	04cbe324a0	1.38	+	fact	former sergeant of the 1st Wing of the Liscorian army; Level 33 [Spearmaster], Level 12 [Guardsman], negligible [Archer] and [Carpenter]; skill [Triple Thrust]
+gecko of liscor	2b6d910cfb	1.38	+	fact	has [Dangersense]; shields Erin because Klbkch died protecting her
+gecko of liscor	fb6dacec8a	1.42	+	fact	Senior Guardsman of the Watch, Drake, Level 33 [Spearmaster]
+gecko of liscor	a0013b2c4f	1.42	+	fact	has [Indomitable Will], which makes him and the Antinium immune to Skinner's fear
+gecko of liscor	2701577fcc	1.44	+	fact	starts a three-hit spear skill ([Triple—])
+gecko of liscor	db0f951dd0	1.44	+	fact	sees the Antinium leader and says "He's back."
+gecko of liscor	1b8feef2a8	2.02	+	fact	sprays Ryoka with blue juice, calls her "the Runner human"
+gecko of liscor	22282c81d3	2.02	+	fact	wakes naked on the plains; Zevara in a gutter
+gecko of liscor	b5b09f481e	2.06	+	fact	arm cut to the bone, his spear cut in two, [Triple Thrust] on his later attack
+gecko of liscor	721f7a240f	2.06	+	fact	throws his spear through the portal; she throws it back
+gecko of liscor	ed47778fea	2.07	~	belief	joke that Klbkch's death by Goblins hurts his reputation and that Rags took Skinner's kill
+gecko of liscor	3887fa6241	2.10	+	fact	offer to carry Erin's bag and visit the inn
+gecko of liscor	8cf82fd45a	2.10	!	reveal	reveals the inn exploded
+gecko of liscor	b5aa4ba87f	2.11	+	fact	have [Dangersense]
+gecko of liscor	d268f8c39b	2.11	+	fact	covers a hundred meters in a few seconds
+gecko of liscor	c1f4deac76	2.11	+	fact	Ceria thinks he could be Gold-rank
+gecko of liscor	cf7a1fc212	2.11	+	fact	declares he will eat at the inn every night if she keeps making the food
+gecko of liscor	dc41cfd460	2.13	+	fact	pays five silver and eats eight in total
+gecko of liscor	196ba7adde	2.00G	+	fact	has killed more Goblins than the rest of the Watch combined, including the Goblins who raised Rags
+gecko of liscor	5ca872f2fa	2.00G	!	event	throws Rags into a tree and later kicks her unconscious
+gecko of liscor	fdd257b9d1	2.16	+	fact	help Krshia bring ale kegs to the inn
+gecko of liscor	70981fdc1a	2.01G	+	fact	taunts Rags, she spits on him, he knocks her unconscious, flips her table, and says he will kill any Goblin near Klbkch or the city
+gecko of liscor	3c9d71ae52	2.01G	+	fact	says Klbkch's return means the Watch's orders are to get rid of Goblins
+gecko of liscor	e82315477e	2.22	+	fact	breaks his spear on Ulrien's sword, then defeats him using his tail and kicks
+gecko of liscor	c527fe83b8	2.00H	+	fact	charges the raiders and kills two
+gecko of liscor	0baf09ff0e	2.32	+	fact	toasts Byssa, Invrss and Olivis, killed protecting a village from monsters, cursing Goblins
+gecko of liscor	d0371d9c9a	2.32	+	fact	hurls a mug at the floor; Erin declares the Goblins under her protection
+gecko of liscor	5ce85c1b0d	2.32	+	fact	leaves wishing their tails would fall off
+gecko of liscor	a447dfaf64	3.05L	+	fact	visit the inn, ask for Erin; Klbkch calls Lyonette the thief who burned Krshia's shop
+gecko of liscor	c7d5442624	3.33	+	fact	attends the party and feels left out; Klbkch and Olesm do too
+gecko of liscor	8bc2d3844a	3.33	~	belief	says he could take any one Gold-rank adventurer by himself
+gecko of liscor	34661c10b8	3.39	+	fact	eats at the inn, says the dungeon spits out monsters, Zevara has the Watch guarding in shifts, and approves of Erin keeping Mrsha
+gecko of liscor	bc7c948197	3.41	+	fact	dress as Santa and Klbkch with a goat-hair beard to do "good deeds" for gifts; frighten the Bitterscale family, then catch two Drake burglars, ending with a crowd's applause
+gecko of liscor	56577be76a	3.42	~	belief	the Dragon was a fire-breathing Wyvern or salamander, not a Dragon
+gecko of liscor	cf21f3a4bb	4.07	+	fact	Senior Guardsman who punches the black-scaled Drake and names the soup Scale Soup
+gecko of liscor	414eb1ddf0	4.12	+	fact	complains of breaking up four adventurer brawls, has a bruise on his arm, wants his enchanted spear back from his army days and asks Ryoka to carry a message to the Liscor army
+gecko of liscor	bda51453a9	4.12	~	belief	says the army is fighting around a Walled City, location unknown
+gecko of liscor	4a8b87ef7b	4.24	+	fact	spots the impostor ("not one of the new guys"), punches him with [Relc Punch], and takes Ryoka out on a lunch break; he has forgotten Ryoka's name
+gecko of liscor	f1badef9c1	4.28	+	fact	chases Ivolethe into the alley after she pours snow on him; he leads the group to Erin's inn
+gecko of liscor	78ba98a9ae	4.29	+	fact	finds Ryoka in the hills, reminds her he once chased her on the north road, and tests her with a truth stone; she says "I didn't do it" and the stone flashes bright blue
+gecko of liscor	027a2569e2	4.30	+	fact	[Relc Kick], [Lightning Sprint], [Triple Thrust], [Relc Punch]; fights Venitra with an unenchanted spear until it splinters and his chest is cut
+gecko of liscor	e1e78259c9	5.00	+	fact	Senior Guardsman, light green scales, head-butts the mud-throwing Drake with [Relc Headbutt]
+gecko of liscor	26406f1c76	5.00	+	fact	former [Soldier] of Liscor; calls his spear his security spear
+gecko of liscor	558d554029	5.00	+	fact	says the inn's Goblins are not the ones who killed Zel, so he can tolerate them
+gecko of liscor	0fcac7ff71	5.00	+	fact	says Drakes are forming another army to hunt the Goblin Lord
+gecko of liscor	92cb4d22d4	5.00	~	belief	Humans' cowardice caused Zel's death, per the mud-throwing Drake
+gecko of liscor	60cefba971	5.00	!	state	reconciled with Erin, returns to the inn after the earlier Goblin dispute
+gecko of liscor	6ebd4b40db	5.01	+	fact	Relc Grasstongue, [Sergeant] of Liscor, called the Gecko of Liscor; fought Pallass in three wars; uses [Relc Punch] and [Triple Thrust]
+gecko of liscor	a6db1f51b9	5.01	+	fact	says Walled Cities fight each other constantly over insults; a siege is ongoing at another Walled City where Liscor's army fights
+gecko of liscor	e71e1c55c1	5.01	!	event	arrested briefly, then treated as guests under Ilvriss's insistence
+gecko of liscor	e506dfb600	5.08	+	fact	keeps fighting on the wall; Tekshia fights with a barbed spear
+gecko of liscor	16d8b397b4	5.12	+	fact	partners for nearly seven years on the Watch
+gecko of liscor	3565f0bf03	5.12	+	fact	suspects the Antinium secretly knew about the dungeon entrance
+gecko of liscor	ad325be86b	5.12	~	belief	tells Klbkch the Antinium knew where the dungeon was from the start
+gecko of liscor	d227e0d4bc	5.13	+	fact	former [Sergeant] and "Gecko of Liscor" for skirmishing and escaping; retired suddenly after two and a half decades; Level 33 [Spearmaster] and Level 20 [Sergeant]
+gecko of liscor	62c4c56d81	5.13	+	fact	his enchanted spear pierces magic barriers and cannot be bent; Embria brought it from the army
+gecko of liscor	cc909aa90f	5.13	~	belief	says Antinium saved Liscor and fought for ten years, and he was on the walls against Skinner
+gecko of liscor	5f8a2f1fac	5.28	+	fact	Liscor [Guardsman]; wants to be invited to the next performance; compensation for Erin's furniture paid by Ilvriss
+gecko of liscor	af94992d67	5.34	+	fact	Embria scolds her father for trying to start a bar fight; Embria is a Wing Commander
+gecko of liscor	7b701c1acc	5.44	+	fact	on his sixth straight day of wall guard duty as the highest-level [Guardsman] in the city
+gecko of liscor	24fcf71f0a	5.44	+	rel	father and daughter
+gecko of liscor	875a00c734	5.44	~	belief	says Erin grows on people like a mushroom
+gecko of liscor	7368860957	5.46	+	fact	hits a ball roughly four hundred feet; Ishkr runs on all fours and catches it
+gecko of liscor	db7a83d52d	Interlude_Bird	+	fact	arrives on a day off, hits on Bevussa and fails; says he gave all the good lines to Embria
+gecko of liscor	0ad6becf43	5.60	~	belief	claims he came to Erin's on "a walk", then asks her to do her "Erin thing"
+gecko of liscor	146fa3a60a	6.02	+	fact	refuses Zevara's order to push Numbtongue back through the door
+gecko of liscor	46122a10fe	6.08	+	fact	tells Lyonette he killed Garen Redfang; Klbkch broke up a rent protest led by Elissa Slipscal
+gecko of liscor	adf6dd7d6e	Interlude_Embria	+	fact	Senior Guardsman and former army [Sergeant]; light-green scales, big build; his daughter Embria meets him weekly
+gecko of liscor	55bcf8c9b5	Interlude_Embria	+	fact	cannot cook, nearly burned his kitchen making pancakes and pasta; collects mechanical puzzles; considers a dog
+gecko of liscor	d7e47c2e89	Interlude_Embria	+	fact	[Spearmaster] above Level 30 and nearly as high as [Sergeant]; nicknamed the Gecko of Liscor; anti-officer fighter
+gecko of liscor	b7c8a6525a	Interlude_Embria	~	belief	says Goblins killed his parents
+gecko of liscor	ae81e9416f	Interlude_Embria	!	event	reconcile through a synchronized spear dance; Embria holds his hand; she says she will never ask him to rejoin again
+gecko of liscor	9f5c919592	Interlude_Embria	!	state	admits he left the army from fear of dying, not cowardice in battle
+gecko of liscor	18c4fb8e1d	Interlude_Embria	!	state	reports Numbtongue did not attack him because Garen Redfang chose his own death
+gecko of liscor	818314109a	6.30	+	fact	joined 4th Company's morning practice early; no real complaints from the company
+gecko of liscor	9f87e81dd3	6.58	+	fact	cuts through spells with an anti-magic spear; is hit by [Chain Lightning] (a Tier 4 spell) leaving a crater in his scales
+gecko of liscor	95d08ee527	7.03	+	fact	Relc uses [Triple Thrust] on Wyverns; Olesm takes command of Kel's sector as Liscor's [Strategist]; the Flamewardens follow, Keldrass wearing the Heartflame Breastplate
+gecko of liscor	27298ef13e	Story_1_Mrsha_and_Relc	+	fact	in charge of Mrsha for a day because Lyonette is busy, Ishkr works elsewhere and Drassi is on holiday
+gecko of liscor	cfe6ee6ca2	Story_1_Mrsha_and_Relc	+	fact	mentions Temile, the actor missing a finger; the magic door is held by the city while the inn is damaged
+gecko of liscor	78ce9f9dc2	Story_1_Mrsha_and_Relc	+	fact	has a daughter, Embria, whom he used to take along with his squad
+gecko of liscor	9ac458b58d	Story_1_Mrsha_and_Relc	+	fact	says he likes being a [Guardsman] because he has to hit something and does not want to join the army
+gecko of liscor	2bf8faa355	Story_1_Mrsha_and_Relc	~	belief	claims Lady Macbeth is written for a Human and her blood-guilt is weak
+gecko of liscor	229007f6a7	Story_2_Tersk_and_Dekass	+	fact	asks Klbkch who the new Ants are; Klbkch has been in a bad mood all week and says he does not wish to talk
+gecko of liscor	f679e335ba	7.06	+	fact	monitor Bearclaw; Bearclaw testified under truth spell she committed no crime in Liscor, though Klbkch confirms she committed murder elsewhere
+gecko of liscor	2df6d39ba8	Interlude_Chocolate_Alchemy	+	fact	weekly father-daughter visit; Embria, a Wing Commander of the 4th, says her company is restless and may remain on semi-permanent duty in Liscor
+gecko of liscor	4f99ec9362	Interlude_Lifting_Ants	+	fact	asks a Garuda [Guardswoman] from Pallass out with a bad line; she accepts, off duty on the 8th; Embria disapproves
+gecko of liscor	d42025a1f2	Interlude_Lifting_Ants	!	event	gets a date with the Garuda [Guardswoman]
+gecko of liscor	7e88b9a9b7	Interlude_Burning_Alcohol	+	fact	says Klbkch is investigating the murder of two new Senior Guards who were following a Gnoll big shot named Bearclaw; Watch Captain Z is furious; bodies not found; Klbkch has been in a bad mood all week since the Bird thing
+gecko of liscor	9e13e89062	Mating_Rituals_Pt.2	~	belief	claims to have used [Triple Thrust] in bed, once
+gecko of liscor	f4ce9f9904	7.16L	+	fact	runs a pyramid scheme called The Golden Triangle ("crowdfunding" adventurers) and recruits Kelli; claims the Merchant's Guild paid him
+gecko of liscor	af6c661696	7.16L	+	fact	beats Klbkch in the street in front of the Walled Cities, watched by scrying orb; Dragonspeaker Luciva, Chaldion, Ilvriss and the First Gardener watch
+gecko of liscor	e07a8676c1	Interlude_The_Gecko_of_Illusions	+	fact	Senior Guardsman and [Spearmaster], a former [Sergeant]; lives alone in a messy apartment and solves blacksmith puzzles, including the Ullsinoi Cube of Galei
+gecko of liscor	c9b77d9901	Interlude_The_Gecko_of_Illusions	+	fact	Klbkch has been gone for nineteen days; Relc's usual wake-up routine misses him
+gecko of liscor	7d97d3c4d1	Interlude_The_Gecko_of_Illusions	+	fact	signed up at least a thousand people as a Diamond-backer; ranks run Copper, Silver, Gold, Platinum, Mithril, Orichalcum, Adamantine, Dragonscale; fake adventurer teams like the Marshland Riders
+gecko of liscor	28d0d2ad7a	Interlude_The_Gecko_of_Illusions	+	fact	returns gold to people he recruited, then is ambushed by Bearclaw's gang of eighteen, kills nine or more with a spear, and is nearly killed by poisoned claws and crossbow bolts
+gecko of liscor	6bef0ffc58	Interlude_The_Gecko_of_Illusions	+	fact	survives, scarred on face and shoulders; Embria keeps his spear; he gave back all his Golden Triangle coins
+gecko of liscor	50b5d82a46	Interlude_The_Gecko_of_Illusions	!	event	learns the Golden Triangle is a scam and drops it
+gecko of liscor	258c9c6e51	7.28	+	fact	reaches [Spearmaster] Level 36 and gains [Recall Weapon: Spear], and [Guardsman] Level 17 with [Eyes In The Back]
+gecko of liscor	d0e8795551	7.28	+	fact	asks to live at the inn if Erin has room and is told Ryoka's room is rent-free from Erin
+gecko of liscor	740f2feb6f	7.30	!	state	loses Liscor Senior Guardsman rank, says "no objections", to be transferred to Cellidel for some months
+gecko of liscor	4ec1296d87	7.31	+	fact	his apartment burned; Zevara returns him to duty
+gecko of liscor	2aea3d1983	7.38	+	fact	reassigned to another city a week earlier after the Golden Triangle incident; his apartment burned down; Erin did not know
+gecko of liscor	52948999e6	7.38	!	event	reassigned out of Liscor
+gecko of liscor	f1237fb9b2	7.54	+	fact	has left Liscor over the Golden Triangle situation; Erin sent him a [Message] with no reply; Ryoka had planned a hike with him
+ilvriss	5d49edb7cf	2.24	+	fact	arrogant Drake Wall Lord in red-and-gold armor; can detect lies as a [Lord]; commands the army guarding the only viable pass
+ilvriss	08f70177f2	2.24	+	fact	his aide Berlyssat tests Teriarch's ring and finds Tier 5 or higher magic
+ilvriss	4e508a05fa	2.25	!	event	comes with Periss and fifteen elite soldiers to take Ryoka and challenge Zel
+ilvriss	a74c4d4fc3	2.25	!	state	his emerald ring breaks when Periss dies; Zel knocks him out and carries him away
+ilvriss	67449d38bf	2.28	+	fact	allowed to keep his armour but not his sword; honourable; plans to investigate Periss's fate once restored to his city
+ilvriss	e5d37b0b7a	3.22L	+	fact	Drake General and Lord of the Wall traveling north to Liscor, one day away, past the Blood Fields
+ilvriss	6ccba40db1	3.23L	+	fact	Ilvriss stays at the Tailless Thief; both recall Klbkch and Xrn from the war
+ilvriss	d6a51fbd2c	3.23L	!	event	nearly begin a fight in Liscor, stopped by Pawn with twenty Soldiers, Zevara and Relc
+ilvriss	d470732ed5-1	3.42	+	fact	argue at the gate; Ilvriss refuses to share a room with Antinium
+ilvriss	f4a91f6f6c	4.09	+	fact	Wall Lord of the Walled City of Salazsar, travels with Zel for his informant network; cannot find any record of Ryoka and has asked only Drakes
+ilvriss	7c4a1e0405	4.09	+	fact	believes Humans lie and trusts his own kind more
+ilvriss	2879f75c08	4.09	+	fact	wants to know why the Antinium are in Liscor and why the Slayer and the Small Queen are meeting
+ilvriss	a349759003	4.09	+	fact	intimidation Skills used unconsciously empty the inn
+ilvriss	8e7c2d0adf	4.09	+	fact	arrives with fourteen or so armed Drakes and Zel and demands to speak with Ryoka on a matter of war
+ilvriss	61d02a0c34	4.09	+	fact	his Skill makes him seem taller and frightens Gnolls, Ryoka resists it
+ilvriss	01366b3f98	4.09	+	fact	asks how his lieutenant Periss died; Ryoka answers "Runner's confidentiality"
+ilvriss	6a3b388890	4.09	!	event	learns Ryoka was the last to see Periss and confronts her publicly
+ilvriss	effde141ba	4.24	+	fact	forgives transgressions but wants to speak with Ryoka; his people ask where [Captain] Periss is and how she died
+ilvriss	52f32b00d4	4.26M	+	fact	concludes the Goblin Lord is likely to go north and wants villages cleared
+ilvriss	89df974dbc	4.28	+	fact	demands to know how Periss and the missing soldiers died; Ryoka refuses with "Runner's code"
+ilvriss	f2a8cdd00a	4.30	+	fact	Lord of the Wall; rings and amulets protect him; wields a sword and has a ring that summons bodyguards
+ilvriss	f118f845bd	4.31	+	fact	told by Ryoka that the Necromancer killed Periss; he collapses
+ilvriss	6d67a4359b	4.36O	+	fact	from Salazsar, stuck in Liscor because Goblin Lord's armies block the road home; drinks Firebreath Whiskey with his retinue and pays for the table
+ilvriss	ee8a853b87	4.36O	+	fact	has been maudlin since the battle with Regrika Blackpaw and Imenet; speaks of subordinate Periss with feeling
+ilvriss	fccae051de	4.36O	+	fact	[Strategist] class is Level 30 or lower with a military rank mix, per Ilvriss
+ilvriss	27076ab29f	4.36O	+	fact	had himself suffered defeat at the Goblin Lord's hands along with Zel Shivertail, and two Drake armies were destroyed
+ilvriss	27d874622a	4.36O	~	belief	in his talk, Humans are cowardly and nearly ready to crumble, and he longs for the days before the Antinium
+ilvriss	e5caa8d46d	4.38B	+	fact	has drunk since learning Periss was killed (Ryoka named Az'kerash); loved Periss and would have married her
+ilvriss	79dae9e890	4.43	+	fact	drunk, wearing magical rings (fire scales, projectile shield, strength); orders Erin to link her magic door to Pallass
+ilvriss	5f8c531b44	4.43	+	fact	uses a command Skill that freezes Erin's feet for a few seconds; she breaks it
+ilvriss	0b702536f2	4.43	+	fact	apologizes for letting Regrika Blackpaw escape; mourns Periss, his subordinate and lover
+ilvriss	e4369285fd	4.43	~	belief	claims a half-Drake is worth more than any Human, Gnoll or other species
+ilvriss	6f6772cc99	4.43	!	event	bows to the Halfseekers and apologizes to Erin
+ilvriss	1a06093191	4.45	+	fact	dreams of Periss at a map table of Salazsar, who slaps him and tells him to pull himself together; she says to focus on all Izril and this inn
+ilvriss	a9ac44e89c	4.45	+	fact	vows to protect Drakes, find the Necromancer, and not slip back into grief
+ilvriss	b4f5e3066c	4.45	!	event	has a dream encounter with Periss and resolves to recover
+ilvriss	d4d7330739	4.47	+	fact	sober, in armor, refuses wine; says Periss was right "we can't keep doing this"
+ilvriss	82a5ca01d2	5.00	+	fact	Lord of the Wall of Salazsar, no authority over Relc
+ilvriss	1681180667	5.00	+	fact	regrets letting Zel leave with a Human army; vows vengeance
+ilvriss	36e5dda929	5.00	+	fact	dislikes the milkshake but wants the mayonnaise recipe and offers to pay for exclusivity
+ilvriss	9631a91cd3	5.00	!	event	step through the door to Pallass and are stranded with the door recharging for a day
+ilvriss	56a77e0eee	5.01	+	fact	full name Ilvriss Gemscale, Wall Lord of Salazsar; his aura makes Drakes flinch and one fall
+ilvriss	9a16472ebc	5.01	+	fact	cut down a dozen Pallass Watch with his sword in the melee
+ilvriss	e68c466c2a	5.01	!	event	to be fined but not charged; Pallass expels him back to Liscor
+ilvriss	96dd597765	5.07	+	fact	political struggle between Pallass and Salazsar, which Salazsar won
+ilvriss	e3736e8e10	5.08	+	fact	rallies Liscor's Watch on the wall with a Skill and carves into a giant moth with an enchanted sword
+ilvriss	0957d77456	5.12	+	fact	patrols without sleep, orders moth corpses burned by a [Mage], and congratulates Olesm
+ilvriss	2112fae74e	5.12	+	fact	says most [Tacticians] need five more levels to reach [Strategist] and calls Olesm a prodigy
+ilvriss	ef04fc42c0	5.12	!	event	moth corpse disposal begins; larvae discovered
+ilvriss	168558668b	5.13	+	fact	attends Olesm's celebration with twelve followers; pays for Olesm's bill
+ilvriss	038a78b7eb	5.14	+	fact	initially objects, then enjoys the play and wants it recorded
+ilvriss	c73661d456	5.17S	+	fact	genuinely distressed at seeing Zel's body despite their rivalry
+ilvriss	849b3bbe58	5.17S	+	fact	both offer to buy or take the breastplate; Zevara says there have been burglary attempts and hundreds of [Message] spells
+ilvriss	44f2cbffaf	5.24L	+	fact	visits the inn; served first, steak well done
+ilvriss	c3fd98162d	5.27	+	fact	starts the riot, fights Hobgoblins, is punched by Erin
+ilvriss	bf0de3a695	5.28	+	fact	starts the riot, beaten by Moore who throws him into a wall; demands the play be changed and boycotts the inn
+ilvriss	6c9abd8741	5.35H	+	fact	arrives at the inn with followers, claiming to seek Venim and Olesm
+ilvriss	693b314546	5.35H	+	fact	requests cooperation bounties on Liscor's dungeon and allocates forty thousand gold from Salazsar's budget
+ilvriss	632e6db70f	5.35H	+	fact	offers one thousand gold per Liscor citizen returned alive and threatens petitions to strip Gold-rank status
+ilvriss	c27faa9463	5.35H	!	event	accepts the Redfang Hobs as interpreters and is compelled to address Numbtongue by name
+ilvriss	c308a0388c	5.36	+	fact	lodges at the Tailless Thief in Liscor and guarantees the bounties as Wall Lord of Salazsar
+ilvriss	1de571ce01	5.39	+	fact	doubles the reward for returning the missing citizens but will not enter the dungeon; orders Erin watched
+ilvriss	cb8c823268	5.44	+	fact	speaks to Salazsar by scrying orb; Pallass has sent two thirds of its Gold-ranks and its Named Adventurer cannot be forced; Seborn refused to infiltrate the camp
+ilvriss	def4c51bd6	5.44	+	fact	mentions the Heartflame Breastplate, worn by a Selphid, which lets her fight a hundred Raskghar
+ilvriss	b04cd66197	5.44	+	fact	for once without scorn, lists the races who fought together; Erin adds Goblins
+ilvriss	96970f3349	5.45	+	fact	bounty of 1,000 gold per Gnoll prisoner saved, reportedly doubled; artifacts and bounty go into a pool for bids and a lottery
+ilvriss	87602a737f	5.45	+	fact	speech to Liscor during a parade, recorded by [Mages] and a scrying orb; names Goblin among the heroes under his breath
+ilvriss	1231f98593	5.49	+	fact	uses Liscor City Hall's council room as an office and war room full of recovered artifacts; hums when happy, as he did before Periss's death
+ilvriss	c3c379c761	5.49	+	fact	bounty and gold bags (1,211 gold coins for Erin as payment for her magic door and later food and stamina potions); gives Erin two lesser bags of holding to return
+ilvriss	5bcf86532a	5.49	+	fact	says paying Goblins would be politically disastrous for a Wall Lord and the adventurers would riot; Liscor's Council voted
+ilvriss	7f53cf1df7	5.49	+	fact	"loses" Calruz's axe from the records so Erin can take it for the Goblins
+ilvriss	018a6b3349	5.49	~	belief	says the Goblins cannot be paid because it would embarrass Salazsar
+ilvriss	3a599adc77	5.52	+	fact	Wall Lord; notes Drakes and Humans have an accord prohibiting unprovoked assaults
+ilvriss	e9344b364e	5.52	~	belief	argues Humans need pretexts for war, and lies become truth to those who only hear Tyrion
+ilvriss	91083796ba	5.57	+	fact	wears Rabbiteater's blood-red Cloak of Plenty; tells Olesm it can copy mundane liquids like wine; reluctantly relinquishes it
+ilvriss	3688655201	5.60	+	fact	wears the Heartflame Breastplate and has not drunk alcohol since Erin's drink; the door goes to city hall and adventurers may flee through it only after the walls fall, or be branded traitors in every Drake city
+ilvriss	3bb2bbb84e	5.60	~	belief	claims the door will be a security risk in Human hands
+ilvriss	0214ab6942	5.61	+	fact	sits in Liscor city hall's war room as armies arrive in thirteen days; the Winged Riders may arrive by nightfall and Pallass' main force in two days
+ilvriss	251e5a8053	5.61	+	fact	says over two thousand Antinium Soldiers hold the wall and four thousand the streets
+ilvriss	3aa8f63adf	Interlude_B09_1	+	fact	already knows about the Necromancer, hushes Osthia and says it is their only advantage
+ilvriss	b2075fb56f	6.02	+	fact	plans to leave Liscor for Salazsar; Pallass still denies him entry; Major Asrira Shieldscale, an Oldblood Drake with wings and an acid breath, joins him as aide
+ilvriss	cc9faa187e	6.03	+	fact	signs a Salazsar-paper document declaring Numbtongue a recognised adventurer entitled to rights; many signatures follow
+ilvriss	01afca9989	6.03	+	fact	invites Erin to visit Salazsar and the Walled Cities after Pallass
+ilvriss	c5ebe2d754	6.11	+	fact	loans his adjutant Welsca Crimsonscale to arrange copies; teaches flashfire dust and magical wax envelope security
+ilvriss	bd1cfdc49c	6.11	+	fact	says Salazsar has debated arms manufacturing for six years and could poach Pallass smiths
+ilvriss	3042300251	6.11	+	fact	still barred from Pallass by the Assembly; plans a secret exit and says Erin is stirring up the Assembly over the door tax
+ilvriss	7497828aa5	6.11	+	fact	uses a bound Tier 5 [Denial of Observation] ring against scrying
+ilvriss	f99c366db2	6.11	+	fact	secrecy plan includes only himself, Osthia, Welsca, Veel and Ryoka as knowers; fears the Antinium would attack during a war
+ilvriss	45afd6edb1	6.11	+	fact	plans to gather artifacts such as the Heartflame Breastplate and allies from other species
+ilvriss	cae918027e	6.11	+	fact	leaves in three days without notice; Venim and the Assembly are furious
+ilvriss	d33f0abfe9	6.11	~	belief	tells Olesm he has no concern with Rissa's sketches of monsters
+ilvriss	e4a7c52632	6.11	~	belief	believes Pallass will not figure out how he got through for some time
+ilvriss	897e4b615f	6.11	!	reveal	reveals to Osthia and staff that Regrika Blackpaw and Perril Chandler are Az'kerash's agents
+ilvriss	24220bf3ef	6.11	!	state	leaves Liscor three days later and appears in Salazsar
+ilvriss	b021989daf	6.32	+	fact	purple-scaled Wall Lord; Periss, his best subordinate, died
+ilvriss	b4ea9c5c38	6.32	+	rel	employs six Gnoll [Head Miners]
+ilvriss	33475f9eab	6.32	+	fact	has a dent in the scales of his ring finger; Brilm infers he gave his ring to someone; Ilvriss says it will find its way to him
+ilvriss	57c3dbe7df	6.32	+	fact	will back Liscor's expansion and may donate to Olesm's cause but will wait until "Liscor's most dangerous Human" Erin Solstice moves
+ilvriss	cc4b177420	6.50I	+	fact	holds hangover-day parties with Wall Lords Tasilt (married to Gnoll Rhelika, twins Cecilla and Feldir) and Brilm; he has Wardmistress Geyasa of Fissival sweep his estate after finding a bugging quartz
+ilvriss	fee4692d98	6.50I	+	fact	plays a song on a sound crystal gifted by Brilm and hears Frank Sinatra's "My Way" sung by the Singer of Terandria, sensing a link to Erin
+ilvriss	a968618697	6.50I	+	fact	lists Regrika Blackpaw as an Az'kerash minion whose visits matched accidents killing high-profile Drakes; he trusts only Osthia, Zel Shivertail and Ryoka
+ilvriss	f18b65c96f	6.50I	+	fact	tests Osthia with a Mirror of True Seeing and a Diadem of Inner Thoughts, then names her head of a private elite force against the Antinium, a cover for hunting Az'kerash
+ilvriss	4cd9392971	6.50I	+	fact	Az'kerash is about two hundred years old; his lover Periss Veldant died in battle; he visits her Gnoll mother Solicia and Drake father Elkill and weeps
+ilvriss	b7cbf806d4	6.50I	!	event	gave his Gemscale ring away to a "someone who did a great service" and told his family only that she was trustworthy
+ilvriss	8823ce2672	6.50I	!	event	confesses Periss was his love and he could not bury her; his mother had a cenotaph made
+ilvriss	e40580de73	7.04	+	fact	tells Alrric he saw his love die, watched the Tidebreaker die, met an idiot and quit drinking
+ilvriss	871c99266d	7.04	+	fact	argues Bird is an anti-air specialist and a sign the Antinium can make more Prognugators; proposes secret contributions from each tower to recruit an elite force from beyond Izril
+ilvriss	36fd9c2d45	7.04	~	belief	thinks Erin made the Walled Cities' plans meaningless and mocks them as hilarious and disastrous
+ilvriss	edd4d23bd3	7.04	!	event	Holders of the Wall pass his motion; Project Periss is underway
+ilvriss	91f8738737	7.33I	+	fact	Wall Lord of Salazsar, wears enchanted armor and sword, drinks juice; takes public credit for the arrest though the scheme was Alrric's
+ilvriss	bd04397473	7.33I	+	fact	Skill [Productivity Spike] repeats the company's best day, lasts four hours
+ilvriss	b65e365048	7.33I	+	fact	learned popcorn in Liscor, misses the city, wants Strategists such as the one he met there or Zel Shivertail; hasn't dismissed pro-Gnoll ideas
+ilvriss	b7065cffde	7.33I	!	event	shows pro-Human and Gnoll leanings, invests in a Human Singer and Liscor land
+ilvriss	f9aec5dfee	7.33I	!	event	has changed since Liscor; no longer scorns his sister Navine and pro-peace views
+ilvriss	76c8b4154c	7.35C	+	fact	reads a garbled insulting [Message] from "Cirille" calling Salazsar cowards and thieves
+selys shivertail	57340e4e2b	1.13	+	fact	a light-green Drake receptionist, smaller and thinner than Relc
+selys shivertail	003df961c3	1.13	+	fact	says humans are rare so far from the coast and usually stay in their own cities
+selys shivertail	088f21f1c9	1.21	+	fact	has [Fast Stitching] and makes reusable cloth pads for Erin from Guild bandages
+selys shivertail	78f56bdaca	1.26	+	fact	urges Erin to stay in the city and offers a receptionist job; Erin refuses
+selys shivertail	e68a1f269f	1.28	+	fact	Drake receptionist at the Adventurer's Guild
+selys shivertail	e2ed674134	1.28	~	belief	claims the Watch kept the worst monsters away from the inn
+selys shivertail	51c871be9c	1.36	+	fact	Drake receptionist at Liscor's Adventurer's Guild, overworked
+selys shivertail	4fe75c313f	1.39	+	fact	Drake receptionist at the Adventurer's Guild; threatens a twenty-gold bounty on Pisces
+selys shivertail	66e7cdd9f4	1.41	+	fact	Drake receptionist; a Human messenger for Lady Magnolia is bothering the city
+selys shivertail	b0e932f800	1.42	+	fact	Drake receptionist, fights with a bow
+selys shivertail	d60110c7b7	1.45	+	fact	now a [Warrior] and levelled [Hunter]
+selys shivertail	02a1f2dc19	2.02	+	fact	Level 4 [Warrior]
+selys shivertail	932685ffe6	2.02	+	fact	wakes next to Krshia, clothes missing, nothing happened per Krshia
+selys shivertail	9e11eb06fb	2.03	+	fact	says the best human adventurers went down with the Horns
+selys shivertail	956608304f	2.10	+	fact	Adventurer's Guild receptionist; Level 4 [Warrior]
+selys shivertail	d3311f5e52	2.10	+	fact	says Frost Fairies follow Relc each winter
+selys shivertail	bac3ec4dc1	2.10	+	fact	says the Frost Faeries are viewed as forces of nature
+selys shivertail	a58a671981	2.10	+	fact	doubts the Council will respond
+selys shivertail	54bd793098	2.10	+	fact	says reaching Level 20 in a second class would take a decade
+selys shivertail	4b87c26ee3	2.13	+	fact	takes the day off, runs the table and doubles the price; Hawk pays one silver
+selys shivertail	17a32a3088	S01_Mating_Rituals	+	fact	has only had Drake partners and invited Erin to talk about relationships
+selys shivertail	b9645d9555	S01_Mating_Rituals	+	fact	thinks Relc is ugly; Olesm is good-looking and a [Tactician] with prospects, with many interested
+selys shivertail	9138002695	S01_Mating_Rituals	~	belief	says Relc would be good for one night then chase others
+selys shivertail	61f1d0943e	S01_Mating_Rituals	+	fact	bet fifteen copper on whether Erin picks a Drake or a Gnoll first
+selys shivertail	b274ca28ad	S01_Mating_Rituals	+	fact	gives Erin a Drake replica; Krshia gives a Gnoll one with a knot
+selys shivertail	a057cbf249	2.17	+	fact	told Erin Level 20 is not high
+selys shivertail	0e815b7eba	2.20	+	fact	sends Pisces to tell Erin, in exchange for a Bronze-rank Adventurer's Guild place
+selys shivertail	608b9ea8fb	2.22	+	fact	one of the older receptionists in the Liscor guild; her grandmother is the Guildmaster
+selys shivertail	4672d983bd	2.22	+	fact	has the [Warrior] class now
+selys shivertail	f4edf96ce6	2.00H	+	fact	her grandmother is the Guildmaster
+selys shivertail	aab46cbc7b	2.32	+	fact	had not heard of Magnolia Reinhart; Relc calls Magnolia "The Deadly Flower"
+selys shivertail	f3d9f51f7a	2.32	+	fact	calls Magnolia a hero of both Antinium Wars
+selys shivertail	67cf2fa90b	2.32	+	fact	avoids Relc after he flirted with her; calls him arrogant and selfish
+selys shivertail	35e0224786	2.32	+	fact	begins "I'm almost the same age as his d—" before Relc interrupts
+selys shivertail	6ac9aee159	2.32	+	fact	stands beside Erin; says Relc once beat up over forty people and even Zevara is careful with him
+selys shivertail	cacef08ec8	2.34	+	fact	says [Expert Cooking] would need a high-level [Chef], none in Liscor, around Level 30-40
+selys shivertail	1522210867	2.34	~	belief	first laughs at the theory, then accepts it; Klbkch says it matches his stalled [Swordslayer]
+selys shivertail	57e538cf7e	2.35	+	fact	takes Mrsha to the playground for the day
+selys shivertail	80a5a8c1c3	3.05L	+	fact	sends a [Message] saying Mrsha is with her and Olesm watches the inn
+selys shivertail	806cae2e2b	3.21L	+	fact	faints on seeing a Soldier at the inn door
+selys shivertail	ec7ac9fa6e	3.22L	~	belief	wants to bring Mrsha back; calls the Soldiers alarming
+selys shivertail	31783d5240	3.23L	+	fact	brought toys for Mrsha; niece of Zel Shivertail, calls him Uncle Zel
+selys shivertail	7f5a4a91f7	3.41	+	fact	kisses Pisces for a laugh and then others
+selys shivertail	8f3f4b73fb	4.07	+	fact	works at the Guild, friend of Erin; Drassi is a receptionist friend
+selys shivertail	856a4d89f6	4.27H	+	fact	tells the Horns of Hammerad they are not certified Gold-rank until they prove themselves on requests
+selys shivertail	8d7712773e	4.36O	+	fact	Drake [Receptionist] at Liscor's Adventurer's Guild; says her Grandmother is Guildmistress and dislikes [Necromancers]; refuses Pisces's request to put a creation in the sewers
+selys shivertail	2f0d490cdf	4.47	+	fact	granddaughter; her mother shot arrows and died to a wraith; her father killed a Carcass Walker by [Ram's Charge] and fell with it; body never found
+selys shivertail	a08c59d1cc	S02_The_Antinium_Wars_Pt.4	+	fact	visits grandmother Tekshia weekly; Tekshia is Guildmaster of the Adventurer's Guild in Liscor and Selys's boss
+selys shivertail	bc92fd8f18	S02_The_Antinium_Wars_Pt.4	+	fact	Pisces saved her and Erin during the undead attack on Liscor; Tekshia dislikes a [Necromancer] in the city and in the Guild
+selys shivertail	e83d523608	5.03	+	fact	works the Adventurer's Guild desk in Liscor
+selys shivertail	393c80ef69	5.03	+	fact	agrees to do paperwork for Erin's plan though she expects it to fail
+selys shivertail	419a847d6b	5.08	+	fact	arms the Guild's adventurers; Hawk the Courier kicks moths apart
+selys shivertail	5aafb1b8d7	5.16S	+	fact	just past twenty, Level 18 [Receptionist], also Level 1 [Soldier] by mandatory training; once dreamed of being an adventurer
+selys shivertail	adaa4c77ba	5.16S	+	fact	tells Tekshia that Pisces is "a good kisser"
+selys shivertail	4295a23e2d	5.16S	+	fact	only two Shivertails live in Liscor, she and Tekshia; her parents once lived there
+selys shivertail	63a45a4c77	5.16S	!	event	inherits the Heartflame Breastplate and Zel's personal effects
+selys shivertail	04e99056a1	5.17S	+	fact	wakes after the will reading with the class [Heiress] at Level 4, gaining Skills [Increased Income] and [Lingering Presence]
+selys shivertail	c19c004004	5.17S	+	rel	parents died in the Necromancer's attack on Liscor
+selys shivertail	55929b9621	5.17S	+	fact	advises armor and ranged bone spikes (Spiked Stalker variant), and approves four more undead to patrol the sewers
+selys shivertail	c9d4af65b5	5.17S	+	fact	kissed Pisces once under mistletoe
+selys shivertail	d53861ce2c	5.17S	!	event	legally owner of the Heartflame Breastplate
+selys shivertail	1de034ae7a	5.17S	!	event	kidnapped in Pallass
+selys shivertail	9afb89539c	5.18S	+	fact	wants to be a Named Adventurer; Tekshia teaches her sword use and she may enter the sewers at fifteen
+selys shivertail	773c10969d	5.18S	+	fact	breaks free by jabbing two claws into her captor's eye and kicking him
+selys shivertail	b94a45d023	5.18S	+	fact	spend about two hours trying mage-sounds and phrases ("Drakes do not run", "Ia curim law", "Drakes rule") on the armor without effect
+selys shivertail	1bd26837db-0	5.18S	+	fact	crowd around her for gossip and a look at the armor; Drassi mentions the Goblins in Erin's inn got artifacts
+selys shivertail	1f3143ada6	5.18S	+	fact	hisses at Pisces in anger, and the armor bursts into flame (pale red and orange, later purple with a white core); hissing, even silently, turns it on and off
+selys shivertail	65d930a890	5.18S	+	fact	puts the armor on, finds it a perfect fit, and walks ten minutes to the Adventurer's Guild on fire, the whole city watching
+selys shivertail	7f5ea82b5e	5.18S	+	fact	leases the armor to the Halfseekers (Jelaqua, Moore, Seborn) for a share of whatever they find, first rights on artifacts with compensation to her; Jelaqua counters at thirty percent
+selys shivertail	2e2bc67923	5.18S	+	fact	with Pisces, Relc and Klbkch lookouts and Zevara's knowledge, digs up General Sserys's grave and pours Zel's ashes beside the coffin
+selys shivertail	2e224b939e	5.18S	!	event	chooses to keep the Heartflame Breastplate, saying "It's mine"
+selys shivertail	588263a409	5.18S	!	event	discovers the armor's flame trigger by hissing
+selys shivertail	5f6f76fdc0	5.18S	!	state	gains [Receptionist Level 19!], [Heiress Level 6!] and [Skill - Legacy Whispers: Heartflame Set obtained!]
+selys shivertail	fb65d9f7a8	5.18S	!	state	receives a rhyme in her mind about finding the helm of fire in a village without rest where the Putrid One died
+selys shivertail	ca9984cef4	5.18S	~	belief	fears being treated as a traitor or blacklisted by Pallass if she sells to the wrong city
+selys shivertail	ef8b656e50	5.27	+	fact	[Receptionist] at the Liscor Adventurer's Guild; Grandmother Tekshia is Guildmistress and approved the Goblins' Bronze-rank registration
+selys shivertail	773ace47e4	5.39	+	fact	tells Drassi to keep Erin in the inn; the Council bars all Gnolls except adventurers from leaving the walls
+selys shivertail	fa78d65676	5.52	+	fact	leases the Heartflame Breastplate to the Halfseekers for 30% of their earnings
+selys shivertail	ad707321c1	6.16	+	fact	tempted to quit; owns Zel Shivertail's Heartflame Breastplate, which gave her gold she will not reveal; Maviss guesses under 10,000 and says "four thousand" in jest
+selys shivertail	457e76bf83	6.17S	+	fact	has well over 3,000 gold, perhaps 6,000, from Jelaqua's cut for the Heartflame Breastplate rental plus Ilvriss's rental fee
+selys shivertail	7df11bd7a0	6.17S	+	fact	Level 8 [Heiress] with no Skill at first; Level 11 at the end, gaining [Everything Has a Price] and Inheritance [Shadow of His Name]
+selys shivertail	73224b2aca	6.17S	+	fact	has known Mica, Warsh and Lellia since hatchling days; Drassi is an old friend
+selys shivertail	7420ade215	6.17S	+	fact	buys three bolts of cloth (blue-red print, black-and-gold silk for Tekshia, yellow cotton)
+selys shivertail	02a8b868b0	6.17S	+	fact	pledges 400 gold to the campaign in exchange for a Guild twice as big
+selys shivertail	8c0b90a352	6.17S	+	fact	lends Zevara the Breastplate for three weeks (haggled up from two) if she helps
+selys shivertail	40eb933053	6.17S	!	event	realises Mica, Warsh and Lellia wanted her money and ends the friendship in a public shouting match
+selys shivertail	4981ad2143	6.17S	!	event	first to see herself as a power player who acts through money rather than as an adventurer
+selys shivertail	f77622f988	6.17S	!	state	moves to a new apartment near the eastern gates, close to Market Street
+selys shivertail	5f2007ebf2	6.29	+	fact	allied to force a Council election with one Council member per district
+selys shivertail	855f5309eb	6.30	!	event	attacks Olesm and a brawl breaks out between Lism's and Krshia's supporters
+selys shivertail	2590fc3561	6.31	+	fact	leased the Heartflame Breastplate to Keldrass; the City Watch stores it in the vaults when unworn
+selys shivertail	5cfd3295e6	6.31	!	event	realizes Erin never planned the visit around the election; the crowd follows anyway
+selys shivertail	8e89f4f669	6.38	+	fact	says Pallassian [Senators] now back Krshia over Lism, and Gnoll speakers are helping her campaign
+selys shivertail	0cf3d055db	6.38	+	fact	has [Everything Has A Price]; Xif says the flower is worth 2,000 gold
+selys shivertail	d4dd883d23	Interlude_Rufelt	+	fact	Drake Receptionist, now also called Heiress, who campaigns for Krshia
+selys shivertail	cf2dd3b08a	Interlude_Rufelt	+	fact	advises armor, crossbows and varied skeletons for Pisces; Pisces says running zombies come from charged zones with high ambient mana
+selys shivertail	f15b39fb5f	Interlude_Rufelt	~	belief	thinks a fair election would exclude Servail Street's about four hundred Drake voters, a claim Pisces calls strategic
+selys shivertail	b4585c6e0c	6.57	+	fact	now an [Heiress] with a magical vault of gold; Keldrass and his team still rent the Heartflame Armor from her even after getting Raskghar armor
+selys shivertail	41946703a4	6.57	+	fact	has the Skill [Incisive Comment]; as a [Receptionist] she studies classes, which is how she knows about [Pirates] and [Sailors]
+selys shivertail	371707ca72	6.57	+	fact	is thinking of telling Pisces about her class and the Heartflame Breastplate, which she believes may be on Izril
+selys shivertail	4da57c3c45	6.57	!	state	has her memory wiped by [Mind Blank] and is left standing vacant in the street
+selys shivertail	b06e872c2e	7.00	+	rel	niece of Zel Shivertail, granddaughter of Tekshia, now an [Heiress] and "most eligible bachelorette"; bids on a plot in the new city
+selys shivertail	0dafe63cb1	Interlude_Chocolate_Gold	+	fact	glossy scales, new clothes and magical artifacts; earning from the Heartflame Breastplate, which rich Drakes rent for about a hundred gold a week
+selys shivertail	cf666fd8dd	Interlude_Chocolate_Gold	+	fact	buying land and building apartments for any species but mainly Humans, with Antinium labor; Players of Celum will be first tenants, and she housed nearly forty actors and families in one night
+selys shivertail	6721eda32b	Interlude_Chocolate_Gold	+	fact	plans soundproofed Gnoll apartments; will ask Krshia, Elirr and Raekea to act on rent pricing
+selys shivertail	9de8e4c35d	Interlude_Chocolate_Gold	+	fact	offers to pay half of the 600 gold Sage's Grass cost in exchange for free Pallass access, saying a silver fare for the door would be a steal
+selys shivertail	ff3d1e8cab	Interlude_Chocolate_Gold	~	belief	thinks low rent is solved by building competition
+selys shivertail	f39cbebada	Interlude_Burning_Alcohol	+	fact	bought plots in the new district and is building apartments and warehouses to rent, paid for Antinium Workers
+selys shivertail	2cfb48ab86	Mating_Rituals_Pt.2	+	fact	says she had sex yesterday with a casual partner; says nothing happened with Pisces beyond the dare kiss and she likes him; later reveals it was Hawk
+selys shivertail	4475891df7	7.17S	+	fact	with Drassi at a Cream Tea cafe; she rents the Heartflame Breastplate to Keldrass for 3 gold per day, builds apartments, and visits Pallass via Erin's door
+selys shivertail	e2ad321398	7.17S	!	event	enters Pallass high society
+selys shivertail	2f4ce1da85	7.38	+	fact	[Heiress] with a new six-floor apartment block built by Antinium labour and Human tenants; bored by having lots of money and wants a purposeful investment
+selys shivertail	7ca561ba9f	7.38	+	fact	attended Sir Relz's invitation party with an auction and did not back any projects, finding herself not that rich by comparison
+selys shivertail	da8ba11573	7.38	+	fact	pitches and finances the bicycle project, pays down payments to Pelt and Hedault
+selys shivertail	d3aba99000	7.38	!	event	breaks up with Hawk
+selys shivertail	becffd8b60	7.48K	!	reveal	learn that Erin is from another world, Earth
+selys shivertail	01a6e08b45	7.54	+	fact	sleepless in the Earth-rooms, watching movies and shaken by the round world; Galina says Maviola is fine
+teriarch	7c9ba328cf	1.09R	+	fact	silver-haired old man with violet-blue nebula eyes and pointed ears who turns out to be a gold dragon; casts [Repair] silently
+teriarch	ec4967a63d	1.09R	+	fact	compels Ryoka to stay still and answer honestly
+teriarch	9310cbe30b	1.09R	+	fact	has been secluded and wants news; knows Magnolia Reinhart and has been asked to find Ryoka
+teriarch	fdae2a31f5	1.09R	+	fact	appraisal spells show no class or level for Ryoka
+teriarch	f4dad52e88	1.09R	+	fact	cannot scry Ryoka because he lacks the kanji of her name
+teriarch	7168f7f0f2	1.09R	+	fact	sends her to the Blood Fields to deliver a sealed letter and onyx ring to Az'kerash, also called Perril Chandler
+teriarch	bed8241723	1.09R	+	fact	Az'kerash is shielded from magical contact, as is Teriarch
+teriarch	3432f8347d	1.09R	+	fact	Ryoka's mana poisoning would have caused fever and illness over days; magic can be acclimatized by slow dose increases
+teriarch	3221061429	1.09R	+	fact	teleports her toward Celum from under a hundred miles away
+teriarch	e97dfb81e2	1.09R	+	fact	Dragons invented the rhetorical question per his lecture
+teriarch	fd3f30ce14	1.09R	!	event	introduces himself and learns her name
+teriarch	d1c03b54fd	1.09R	~	belief	believes Magnolia Reinhart still lives
+teriarch	cb779de266	1.13R	+	fact	geas on Ryoka drove her to the Blood Fields
+teriarch	addf934661	1.13R	+	fact	geas glows as runes on her arms and burns when she turns back
+teriarch	af1507fee8	1.13R	~	belief	told her Az'kerash lives in the Blood Fields surrounded by the dead
+teriarch	1d6ffbccfd	2.12	+	fact	speaks with Magnolia over about four hundred miles by a spell no mage can eavesdrop on
+teriarch	d1ef4e1f37	2.12	+	fact	has known Magnolia thirty or forty years, since she was a girl; he is long-lived and unchanging
+teriarch	8d43ebb240	2.12	+	fact	cannot teleport Magnolia to him; both homes are heavily warded
+teriarch	d32d9ed552	2.12	+	fact	healed Ryoka and teleported her back to the city; could not scry her before or after
+teriarch	38b36854f0	2.12	+	fact	his message is a ring and a letter for Az'kerash; the ring is magical
+teriarch	4a71e39349	2.12	+	fact	appears as a six-foot-six bronze-skinned white-haired man with pointed ears; is a bronze-scaled Dragon
+teriarch	3c479b599d	2.12	+	fact	bubbles away the stench and holds Ryoka's potion
+teriarch	ff10784b22	2.12	+	fact	gave orders to deliver a ring and letter to Perril Chandler, also known as Az'kerash
+teriarch	4bfdc6c0ac	2.12	!	event	gives Ryoka a smooth stone with a golden arrow that points to Az'kerash's magical signature, southwest
+teriarch	865ec4876b	2.12	!	event	agrees to pay eight hundred gold for the delivery after bluffing about prices; Ryoka accepts
+teriarch	7fd231016a	2.12	+	fact	earlier payment was forty gold to reach him and one Potion of Haste for the delivery
+teriarch	f04e396640	2.12	~	belief	believes Ryoka's name may hide a trick that defeats scrying
+teriarch	95253542ac	2.16	+	fact	a Dragon four times the size of a house, mismatched heliotrope and cerulean eyes, living in a cave of marble, art, weapons and treasure
+teriarch	8795a9cffc	2.16	+	fact	healed Ryoka's wounds on her first arrival and used a memory spell; he mistook her for a requested Courier
+teriarch	61171d8b31	2.16	+	fact	in human form he casts a dragon-shaped shadow; he insists his treasure is a collection, not a hoard
+teriarch	4f6ac77338	2.16	+	fact	swears "Tamaroth's beard"; owns an Orb of Scrying in jade and a giant's broadsword
+teriarch	91ffa77749	2.16	+	fact	when truth-spelled Ryoka said Magnolia Reinhart still lives; he told Ryoka to find Ryoka Griffin without knowing she was the same girl
+teriarch	e7799097b8	Interlude_B02_1	+	fact	has ignored Reinhart messages; Magnolia gave him "an earful" over Ryoka's delivery
+teriarch	96c6bcb771	2.38	+	fact	wakes and watches the High Passes by scrying, cannot focus on Ryoka because her name will not work
+teriarch	a6d64ac71f	2.38	+	fact	appears as an old man, removing his shadow; plans a [Greater Geas] before smelling her blood
+teriarch	cc41c78847	2.38	+	fact	heals Ryoka's feet with [Mend] and gives her eight hundred gold pieces as agreed
+teriarch	95d139b116	2.38	+	fact	claims to be an [Archmage] and is nearly sure Magnolia is playing pranks
+teriarch	bc4bfc9c8e	2.38	+	fact	true form is a huge Dragon with golden-looking bronze scales, a molten-bronze mane and mismatched eyes
+teriarch	9769572d84	2.38	+	fact	says Reinhart cannot order him about and complains about her messages
+teriarch	9570f4bd82	2.38	+	fact	calls the Frost Faeries pests and burns them with a spit of fire
+teriarch	ffc7c6f857	2.38	+	fact	calculates 5,811 pears at eight silver as 46,488 silver
+teriarch	b438755461	2.38	+	fact	agrees to scry for Erin Solstice after Ryoka concedes and begs
+teriarch	ba24913775	2.38	!	event	agrees to help find Erin
+teriarch	f47c7a93aa	2.38	~	belief	claims the answer to the paradox is a word from the Elves
+teriarch	f6abcbd28a	2.39	+	fact	scales shine like living gold; size compared to an Airbus A380
+teriarch	5560faa03b	2.39	+	fact	sees Frost Faeries as pests; says their glamour defeats even accomplished mages unless a rule is satisfied
+teriarch	49c83a4e02	2.39	+	fact	name wager paid with Ryoka's original-language name; scry failed because "Ryoka" is a translation, which he had not factored in
+teriarch	fed3b0b663	2.39	+	fact	knew Ryoka was from another world via Lady Magnolia; will not divulge Magnolia's secrets
+teriarch	fd5129001c	2.39	+	fact	can erase chosen memories, can cast without voicing spells
+teriarch	ced17c1dcf	2.39	+	fact	Gnomes and Elves have walked on the twin moons
+teriarch	36476091d0	2.39	+	fact	says Gnolls can learn magic; Wistram's expulsion of the Gnoll apprentice ~200 years ago puzzles him
+teriarch	8a6dccc516	2.39	+	fact	[Repair] and [Reconstruct] duplicate the iPhone; keeps the copy; uses a Human (old man) form to study it
+teriarch	1b6fe35add	2.39	+	fact	refuses to duplicate the iPhone again; hates his possessions being copied
+teriarch	fe6fb53be1	2.39	+	fact	gives the tome as the price; offered 10,000-20,000 gold first
+teriarch	0e0b348c11	2.39	+	fact	faeries travel between planes; Gods are dead here but still control weather
+teriarch	37040a3998	2.39	+	fact	Magnolia will contact him by mage spell, not letters
+teriarch	5995a187ba	2.39	~	belief	Ryoka's fingers lost to a faerie pact that also cost a Gnoll tribe
+teriarch	7602063668	2.39	!	event	spares Ryoka's memory after her Dragon-stories speech; farewell "we will not meet again"
+teriarch	58b2fdac32	3.14	+	fact	Dragon who speaks with Magnolia by mind link and offers to fly to help; Magnolia says there is only so much he can do from his cave
+teriarch	0474d10ee7	3.30	+	fact	white-bearded, six-foot-plus old man with one cerulean and one heliotrope eye; casts basic spells such as [Stone Dart], [Mud Slap], [Call Object], [Frozen Wind], [Tripgrass], [Flash], [Flame Jet] without fuss
+teriarch	034682a919	3.30	+	fact	copied Ryoka's iPhone, has played 2048, Triple Town, Candy Crush, Angry Birds, Cookie Clicker; Erin teaches him the swipe screen
+teriarch	edad22fc9d	3.30	+	fact	remembers Archmage Zelkyr, who Ceria says died over two centuries ago
+teriarch	db5468e26c	3.30	+	fact	kicks Pisces unconscious, stuns Yvlon with snow, ties Ksmvr in grass; leaves all alive
+teriarch	04e8c82e8b	3.30	~	belief	says standards at Wistram have fallen; tells Ceria and Pisces they failed
+teriarch	5cb1158d5c	3.30	!	reveal	revealed to be a Dragon in his cave, controlling the Human form remotely; realises Erin is "the girl" he met
+teriarch	de1c7ef9ad	3.30	!	event	refuses Pisces's plea to be his apprentice
+teriarch	4e7df71035	4.26M	+	fact	a Dragon in his cave playing Cookie Clicker on an iPhone and producing 538 quintillion cookies per second, then feeling empty
+teriarch	3c157fc136	4.30	+	fact	the gold Dragon sleeping in his cave; Ryoka screams that Az'kerash, Perril Chandler of the Blood Fields, had killed because of a birthday letter
+teriarch	dc5e2ad88e	4.31	+	fact	gold-bronze Dragon with heliotrope and cerulean eyes; revives Ryoka by rebuilding her heart and dispels the death magic
+teriarch	47c824d650	4.31	+	fact	lives in a cave at the High Passes marked by a yellow flag; calls Venitra "Wretch. Thing."; hurls her into the mountainside and burns her with dragonfire
+teriarch	40c4e2c944	4.31	+	fact	breaches Az'kerash's [Message] spell with fire spelling "Worm", burns his room and a wing of the castle; Az'kerash survives with [Snap Freeze], [Void Room], [Sanctuary of Protection] and [Wall of the Damned]
+teriarch	d3fe094f8a	4.31	+	fact	flies Ryoka back under an invisibility spell and drops her near Liscor's east wall; says a death spell destroys little
+teriarch	3f6c71ccf4	4.31	+	fact	leaves it to Ryoka whether to keep Az'kerash's secret and declines to put another geas on her, saying she has paid dearly for the knowledge
+teriarch	09dbcffc14	4.31	+	fact	appears in human form to apologize, saying he does not believe Ivolethe is dead and that her King, the Lord of the Glades, the Walker of the Forests, the Eldest, would banish her for a thousand or ten thousand years
+teriarch	b50098bd65	4.31	+	fact	refuses to attack the Goblin Lord, says he cannot be sure of winning against Az'kerash and cites old history with him
+teriarch	0e1748d355	4.31	~	belief	says Ivolethe was probably punished by banishment, not killed; he does not know
+teriarch	d917117ddf	4.31	~	belief	claims the Goblins are as innocent as any race
+teriarch	e5ad503bac	4.47	+	fact	eavesdrops on mages' communications; dismisses Magnolia's [Message]s; thinks she wants "a [General], a [Strategist], and me"
+teriarch	b02b803523	6.55K	+	fact	Dragon, owns a magical copy of Ryoka Griffin's iPhone, charged constantly, uses a simulacrum to touch it; Cookie Clicker was deleted after "incidents"; he sleeps to a podcast he has heard fifteen times
+teriarch	d2a6612e9e	7.00	+	fact	a brass Dragon with copper-like mane and heliotrope and cerulean mismatched eyes; he lives in a cave in the High Passes with a hoard
+teriarch	2e294b1739	7.00	+	fact	uses a ray from a talon, meteor-like spells, a Baneblade he cannot find, a dancing trident that vaporizes what it hits, and a quiver of exploding crystal arrows
+teriarch	7a84d901b4	7.00	+	fact	says he bested the Wyvern matriarch two hundred years ago and plans to hire Gold-rank adventurers to clear Crelers and pests when he wakes
+teriarch	8949470cdb	7.00	+	fact	swears by "Tamaroth's beard" and "Darkscale's breath"
+teriarch	033bba24d2	7.12G	+	fact	a brass Dragon with bronze or gold scales, Lord of Flame; wakes to a recorded iPhone alarm in his own voice and sets Evielda's Skyshield wards, illusions and traps
+teriarch	a24d0bd31b	7.12G	+	fact	moved his home less than a year ago and has anti-scrying spells; Az'kerash the Necromancer is the one he cannot easily scry
+teriarch	8fbcd6e1d2	7.12G	+	fact	reveals himself in his cave to Rags; says she holds Velan's key, the second key is not with him and he is neither ally nor enemy
+teriarch	ccf7bbad25	7.12G	+	fact	says Humans hold one stolen Dragonthrone in Terandria, Calanfer's Eternal Throne; four true Dragons existed ten thousand years ago and one fell in the Creler Wars
+teriarch	3c411b0496	7.12G	+	fact	says Curulac of a Hundred Days, Sove the Island Queen and Velan each left a legacy; Sove made the island of Goblins near the House of Minos
+teriarch	257a8bf8c5	7.12G	+	fact	says Garen once challenged him over the key and was removed, and that Velan climbed the High Passes to hide his treasure
+teriarch	3d023a1626	7.12G	+	fact	posts a [Message] bounty to guilds within two hundred miles: 2,000 gold per Wyvern head, 80,000 gold for the Greater Wyvern, no payment for young
+teriarch	efe9f9b769	7.12G	~	belief	claims Wyrms were not fit to be listed with Dragons and that Humans blamed thefts on Halflings
+teriarch	f54eb7d6ff	7.12G	~	belief	says he cannot answer the Goblin Kings' secret; if told the right words he could
+teriarch	ba26910a15	7.25	+	fact	sleeps in his cave in the High Passes; Magnolia Reinhart's [Message] spells hover unread around his head, asking for scrying help against the Assassin's Guild and advice before she goes to Oteslia
+teriarch	4929e71fdf	7.25	+	fact	wakes believing a hundred hunters mean to kill him and roars a challenge, then a magic note reminds him he hired them for the Wyverns
+teriarch	86f2da7755	7.25	+	fact	keeps a second cave in the High Passes with ward spells and a Dragonthrone; had talked with the Goblin there
+teriarch	7e4f29ce9c	7.25	+	fact	his hoard holds a Concealed Spoonblade forged by Maia Whitforgers of the Terminus Dynasty, keyblades, and an armoire of holding with a thousand pounds of beef from a breed extinct for eight hundred years
+teriarch	f3dde361b0	7.25	+	fact	keeps mental, magical and physical notes to remember his hoard and affairs; one of his fake personae, Grand Magus Eldavin, is invited to a Wistram conference
+teriarch	3ba0369ca0	7.25	+	fact	a thing with Todi's face and too-long arms stands outside his cave; he orders it away and redoubles his wards
+teriarch	b09b82fde4	7.25	+	fact	heals Ryoka with a touch and feeds her extinct beef; her pile of electronics is a laptop, two smartphones and a tablet owned by the Earthers under Magnolia's protection
+teriarch	d81e2c5a98	7.25	+	fact	shows Ryoka smoke illusions of a saved boy becoming an Archmage or a warlord, and answers that good or evil never matters because all things end
+teriarch	474421c9e9	7.25	+	fact	remembers his pact with the Quarass of Germina in flowering Zeikhall, his oath to Empress Sheta of Iltanus, and Magnolia at sixteen asking him to join her
+teriarch	3c858a80b3	7.25	+	fact	scores Ryoka's plea fifty-seven out of a hundred and Magnolia's sixty-two, and refuses to act
+teriarch	825bd71fa5	7.25	+	fact	says Ivolethe lives but the Faerie King is wrathful with her
+teriarch	a762f88956	7.25	+	fact	gives Ryoka one starlight vial for Fierre that eases symptoms only, and says interference would begin the Nights of Blood again
+teriarch	5918f3fa2d	7.25	+	fact	agrees to copy the electronics into his hoard in trade for one small favor
+teriarch	de54dd9cfe	7.25	+	fact	walks into Celum as a mismatched-eyed half-Elf [Mage], following Ryoka's magic trail
+teriarch	aed47e5279	7.25	!	state	leaves his cave and follows Ryoka to Celum
+teriarch	7eb16ef5dc	7.26	+	fact	appears in Celum as a half-Elf avatar named Grand Magus Eldavin, tells Ryoka their business is unfinished; has heterochromic eyes and white-silver hair
+teriarch	8dc3bb638e	7.26	+	fact	shows Ryoka a laptop (Kevin's) with Shrek paused; she must interpret it, and she makes Erin and Mrsha watch too
+teriarch	3f30a442a5	7.26	+	fact	says the Garden of Sanctuary was first created by Empress Sheta of Iltanus and that there is only one; he remembers a Harpy leading him through it
+teriarch	74f6537723	7.26	+	fact	tells Ryoka the soonest chance to meet Ivolethe is midsummer and that she is running out of time before winter ends
+teriarch	a0b8e2f4ba	7.26	~	belief	claims as Eldavin that he abandoned Wistram over a hundred years ago and that his class is [Grand Magus]
+teriarch	fec3357a2c	7.27	+	fact	speaks to Magnolia by spell, declines her offer to visit Invrisil or Oteslia, and says he is putting in half-effort
+teriarch	0129e9a6e8	7.27	+	fact	tells Erin safety is an illusion and to value courage and moments
+teriarch	da6bed6f8d	7.27	+	fact	speaks "Ghosts" to Reiss near Numbtongue; Reiss answers "Dragon"
+teriarch	3a6be28b07	7.27	+	fact	explains that Ivolethe was punished by the Faerie King never to see Ryoka and is of the highest fae, close to royalty
+teriarch	ee6c7f2f57	7.27	+	fact	Ryoka must throw a ball for the Summer Court on the Summer Solstice, with no iron, permission of a ruler and at least a hundred nobles, three of them among Izril's greatest
+teriarch	8d048f8c0c	7.27	~	belief	claims Laken is no true [Emperor] to the fae because his ancestors are not buried in Izril
+teriarch	39ef2f3fda	7.27	~	belief	says the fae are bound by an ancient compact to bring winter snow and not interfere noticeably
+teriarch	ec3ff33da9	7.27	!	event	tells Ryoka the plan to meet Ivolethe and warns of its difficulty
+teriarch	31f7354efb	7.30	+	fact	appears as a tall half-Elf with Magnolia; she grants him odd requests
+teriarch	5a5c2d1ba5	7.31	+	fact	bleak at the mob; asks Magnolia to stop killing
+teriarch	f9d48c9a5c	Interlude_A_Meeting_of_Druids	~	belief	his half-hearted answers hinted vampires' illness relates to the Panacea
+teriarch	77c6f6fd6c	Interlude_A_Meeting_of_Druids	!	event	repairs Magnolia's carriage as a red coach, cures Bekia, teleports cats off the roof; Sacra summons him to Invrisil by saying Nalthaliarstrelous beat a man
+teriarch	276f942946	Interlude_A_Meeting_of_Druids	~	belief	claims enchanting declined because compression theory is lacking, hinting at dimensions beyond two or three
+teriarch	59762ca9b8	7.37	+	fact	leaves The Wandering Inn as Grand Mage Eldavin after sending Magnolia a note; tells Mrsha to write rather than sign
+teriarch	002237ec10	7.37	!	state	leaves The Wandering Inn
+teriarch	60b85cf73f	7.42M	+	fact	reinforced the carriage spells and gave Magnolia a ring; he is asleep and does not answer her call
+teriarch	7d66417e06	7.45	+	fact	severs Messages meant for him, teleports Magnolia, Ressa and Reynold to safety and then seals himself in absolute seclusion, forgetting the Summer Solstice
+teriarch	4ceeb7beb5	7.45	+	fact	a half-Elf body Teriarch walks out in to travel to Wistram Academy; nearly trips over his robes
+teriarch	ad5373d467	7.45	!	state	seals himself in his cave and leaves a Message gap only for himself
+zel shivertail	8b4ebada0e	2.24	+	fact	[General]; "General of the Line", "Tidebreaker", the greatest defensive general on the continent; fights with claws
+zel shivertail	250cea0963	2.24	+	fact	skill [Glorious Charge]
+zel shivertail	2672be13f1	2.24	!	event	attacks the camp during the chaos; Ryoka sprints between the armies
+zel shivertail	4ee3a7a9f7	2.25	+	fact	tall armored Drake, lost in the same maze; thanks Ryoka for causing the chaos; asks her name
+zel shivertail	e77d1e2641	2.25	+	fact	army pressing the Drake side; notices a blur crossing the battlefield
+zel shivertail	15ef4c36e5	2.28	+	fact	a prisoner Ilvriss marches beside him; Ilvriss's army surrendered after Zel charged and captured their leader
+zel shivertail	381affa9fd	2.28	+	fact	a [General] with ranks in [Commander] only; leads from the front on instinct
+zel shivertail	4c9b6669a8	2.28	+	fact	fears an unauthorised Antinium Hive; only six Hives are permitted on the continent
+zel shivertail	d6f39eb139	2.28	+	fact	marches on through the blizzard toward the Gnoll fires
+zel shivertail	85e4da1ed6	2.29	+	fact	leads his army with the remnants of Ilvriss's army against the Goblin horde; fights barehanded with claws that cut steel
+zel shivertail	043f24e8da	2.29	+	fact	has [Dangersense]; sees undead Goblins that explode
+zel shivertail	59e5010e03	2.29	!	event	orders retreat to protect the Gnoll children, saving a few cubs
+zel shivertail	69e491c4af	2.29	+	fact	salutes Ryoka as she runs past carrying a Gnoll
+zel shivertail	2b3d8ee76f	2.29	!	event	retreats defeated; the Goblin Lord smiles
+zel shivertail	e1d481e202	Interlude_B02_1	+	fact	Magnolia plans to recruit him for the north after his disgrace; she intends to send a [Message] spell
+zel shivertail	d60bb03484	S02_The_Antinium_Wars_Pt.2	+	fact	Level 15 [Lieutenant] who commanded Geir's remaining forces after the Antinium overran the city
+zel shivertail	4f6fba0bfd	S02_The_Antinium_Wars_Pt.2	+	fact	grew from Level 15 [Lieutenant] to Level 39 [General]
+zel shivertail	e7cc89ddf2	S02_The_Antinium_Wars_Pt.2	+	fact	nicknamed Tidebreaker for repeatedly holding against the Black Tide
+zel shivertail	ffd4e1b5bb	S02_The_Antinium_Wars_Pt.2	+	fact	refused armor from Sserys and magical weapons, fighting with his claws
+zel shivertail	9fbbde7eac	S02_The_Antinium_Wars_Pt.2	+	fact	later won the second defense of Shivering Falls and retook Geir
+zel shivertail	b35f052c1d	S02_The_Antinium_Wars_Pt.2	!	state	becomes commander of the Second Unified Army after Sserys's death
+zel shivertail	c381507f0f	2.41	+	fact	presses the Drake assembly about the Goblin Lord, Antinium, Flos
+zel shivertail	90ee71d9ff	3.22L	+	fact	Drake General and Lord of the Wall traveling north to Liscor, one day away, past the Blood Fields
+zel shivertail	c9bb728386	3.23L	+	fact	Ilvriss stays at the Tailless Thief; both recall Klbkch and Xrn from the war
+zel shivertail	558ae24ce3	3.23L	!	event	nearly begin a fight in Liscor, stopped by Pawn with twenty Soldiers, Zevara and Relc
+zel shivertail	7c7934c924	3.23L	!	event	takes a room at the Wandering Inn, which he thinks he remembers though it was rebuilt; Lyonette welcomes him
+zel shivertail	63f8825230	3.27M	+	fact	stayed at the inn with an unnamed hungover "companion"; says he has no children
+zel shivertail	55bddbd66c	3.27M	!	event	ends up recognised by townspeople; Xrn aids him "just this once"
+zel shivertail	79ad9b0a3f	3.32	+	fact	staying at the inn, receiving [Message] spells from guilds and Zevara; Ilvriss is making things political
+zel shivertail	5e171a9a60	3.32	~	belief	thinks Erin is unreliable like other "distracted geniuses"
+zel shivertail	29976194ce	3.33	+	fact	meets Erin as Selys's uncle; scolds her for treating Lyonette as incompetent, listing that Lyonette cooked, stole honey from Ashfire bees, and rescued Mrsha
+zel shivertail	b856d95ee5	3.33	+	fact	Relc calls him "the Tidebreaker", an Old Soldier of the Drakes
+zel shivertail	4314bf0ccc	3.33	~	belief	believes Erin has a "very scattered personality", unreliable in command
+zel shivertail	eff57316ef	3.34	+	fact	fought both Antinium Wars; refuses to like Pawn but advises him what to tell a dying soldier
+zel shivertail	3f3e54cd4d	3.34	~	belief	reconsiders his opinion of Erin and thinks she resembles one other Human he knew
+zel shivertail	f00083a0b6	3.39	~	belief	calls himself a general who "acts by instinct"
+zel shivertail	d470732ed5-0	3.42	+	fact	argue at the gate; Ilvriss refuses to share a room with Antinium
+zel shivertail	5108089bad	3.42	!	state	learns Wrymvr the Deathless killed General Sserys
+zel shivertail	d6f613a122	4.09	+	fact	called the Tidebreaker, hero of both Antinium Wars; uncomfortable at the Tailless Thief, whose clientele is all Drakes
+zel shivertail	7242ddbff4	4.09	+	fact	prefers The Wandering Inn, likes pancakes and the Gnoll cub who sits on his lap as Selys used to
+zel shivertail	b136bcb279	4.09	+	fact	Liscor is where General Sserys came from
+zel shivertail	236f9a7975	4.09	+	fact	warns a Goblin Lord is a major threat, noting the Goblin King beat back the army he and Ilvriss led together; says the Goblin King before the last brought down eight kingdoms on Terandria and ended at least two bloodlines
+zel shivertail	776199a9b5	4.09	+	fact	intimidation Skills used unconsciously empty the inn
+zel shivertail	6da752b9b9	4.09	~	belief	claims Erin's food is as good as the Tailless Thief's steak and has [Advanced Cooking]
+zel shivertail	7e50262c7e	4.10	+	fact	met Ryoka in a misty forest during a battle, saw her scatter Ilvriss' camp, and saw her flee the Goblin Lord's army with the Stone Spears tribe
+zel shivertail	27a2c95230	4.10	+	fact	says Ilvriss' side was a Walled City against a coalition of city-states
+zel shivertail	daf0365ff9	4.10	+	fact	tells Ryoka Periss ran after her in the forest and never returned; he and Ilvriss suspect she is involved, and she refuses to explain, saying telling would endanger him
+zel shivertail	9c21462e34	4.10	+	fact	says he saw her freeze her way through part of the Goblin Lord's army
+zel shivertail	2f9e95b821	4.10	+	fact	believes Ilvriss and Periss were a couple
+zel shivertail	bda122d14b	4.10	+	fact	uses a spiral truth detector with a large central green gem and smaller gems that record statements, confirms Ryoka told the truth
+zel shivertail	e0633afcf5	4.10	~	belief	calls his reputation overinflated by stories
+zel shivertail	1d0ea13c96	4.11	+	fact	eats breakfast at the inn, enjoys the food and entertaining Mrsha
+zel shivertail	e903af48ae	4.15L	+	fact	says Sserys told him to look for a spark in his officers and nurture it until they surpass him
+zel shivertail	ecc96cf4c2	4.26M	+	fact	says the exploding undead and underground tactics were not known to the generals; the [Scout] saw undead rise
+zel shivertail	49ffa842a8	4.30	+	fact	survives a fall and a [Grand Fireball] thanks to his Skills; his [Dangersense] warns that Regrika is too strong for Gold-rank
+zel shivertail	09a63b7891	4.31	+	fact	Ryoka tells him in a warded room of the Tailless Thief that Az'kerash sent Regrika and Imenet; he suspected illusions and says he killed Az'kerash in the last Antinium War
+zel shivertail	d8755c9d5e	4.31	+	rel	mentor General Sserys held the unique class [Spear of the Drakes], able to command any Drake army; he died with no Skill gained
+zel shivertail	708b5bf1db	4.33	+	fact	sits with Liscor's Council; [Message] to Esthelm; pays gold for the wall and damage and apologizes; plans another army with the Walled Cities
+zel shivertail	a0622cf4e4	4.34	+	fact	stops Zevara citing his authority; says he will not sleep under the same roof as Goblins; fought them in the Second Antinium war
+zel shivertail	b96cfb1f26	4.34	+	fact	tells Erin her instinct picking out Regrika Blackpaw and her associate's treachery is why he backed her; has unstated ulterior motives
+zel shivertail	bae94f92b2	4.38B	+	fact	sleeps at Peslas's inn since leaving the Wandering Inn because of the Goblins; misses Mrsha and pancakes
+zel shivertail	fd367839bd	4.38B	+	rel	friend and student of General Sserys, former [General] of Liscor and leader of the mercenary army; no Drake [General] has gone past Liscor since the last Antinium War
+zel shivertail	738ab8b2a8	4.38B	+	fact	receives a letter through Celum and leaves Liscor north to meet someone
+zel shivertail	f4c1c08009	4.38B	!	state	leaves Liscor and shakes hands with Magnolia Reinhart, agreeing to help
+zel shivertail	422b1ae49a	4.44M	+	fact	called Lineholder, hero of two Antinium Wars; a defensive [General] who holds the line; leads Magnolia's levy army of about forty thousand scattered by city
+zel shivertail	bb16661531	4.44M	+	fact	refuses her blind alliance; will help against the Goblin Lord and Az'kerash, and might return with the Titan to hear her plan
+zel shivertail	23713f5a45	4.44M	~	belief	does not trust her because she seeks peace through war
+zel shivertail	fde0d9224d	4.44M	!	state	becomes a tentative ally of Magnolia Reinhart; first Drake [General] in a Human lady's mansion
+zel shivertail	f828236edf	4.44M	!	event	acquires armor and golems; Magnolia says Zel is "the first" to commit
+zel shivertail	714fe8dac7	4.47	+	fact	Tidebreaker, Lineholder; wears the Heartflame Breastplate; told the officers he slew the Necromancer at Liscor (a lie he believes he told); speaks without a Skill
+zel shivertail	dc7e2d80f5	4.47	+	fact	promises to pursue the Goblin Lord, calls Izril "our home"; officers cheer "Izril! The Dragonlands! The unconquered!"
+zel shivertail	442a6dfaa2	4.47	!	state	becomes commander of Magnolia's army, publicly allied with a Human
+zel shivertail	f548c014f9	4.47	!	state	and the Goblin Lord each feel the other across miles; both say "Death"
+zel shivertail	2e44d6a921	4.47	+	fact	routed Klbkch the Slayer's army in a pitched battle
+zel shivertail	f9ea5652b4	4.47	+	fact	[General of the Line]; defensive Skills; unable to corner Az'kerash, who hid behind undead or vanished
+zel shivertail	db4bd7d67b	4.47	+	fact	Selys calls him Uncle Zel; he visited Liscor as a child; embarrassed by thanks; Tekshia urges him to marry or have hatchlings
+zel shivertail	738a7c31ee	S02_The_Antinium_Wars_Pt.3	+	fact	routed Klbkch the Slayer's army in a pitched battle
+zel shivertail	2dd65300ea	S02_The_Antinium_Wars_Pt.3	+	fact	marched north with three Drake [Generals]; Hekiss, Vusso and Misa fell on successive days
+zel shivertail	669e4563e7	S02_The_Antinium_Wars_Pt.4	+	fact	gathered three other Drake armies led by [Generals] to relieve Liscor for his late comrade General Sserys; remained on the field day after day and was known as the best defensive [General]
+zel shivertail	25aca9c526	S02_The_Antinium_Wars_Pt.4	+	fact	[General of the Line]; his Skills are mostly defensive formations, unlike the offensive Sserys, so he could not corner the Necromancer
+zel shivertail	14bc683a8a	S02_The_Antinium_Wars_Pt.5	+	fact	Drake High Command's only reply to his requests was "Prepare for irregular reinforcements"
+zel shivertail	08caccabdd	S02_The_Antinium_Wars_Pt.5	+	fact	killed Az'kerash with [Antimagic Slash], tearing him in two, and the undead and a Bone Giant collapsed
+zel shivertail	e4cb413fca	S02_The_Antinium_Wars_Pt.5	+	fact	fought each other right after the victory; Klbkch says he stabbed Zel in the chest and Zel tore off Klbkch's arm; their animosity persists
+zel shivertail	9c6b46ae79	S02_The_Antinium_Wars_Pt.5	+	fact	sits in his tent near Invrisil with Magnolia and her [Maid] Ressa; expects the Goblin Lord's army in two days
+zel shivertail	e2ac3ed02a	S02_The_Antinium_Wars_Pt.5	+	fact	saw Velan charging from the front line and thought he looked sad, as if he knew what would happen
+zel shivertail	c840294f7d	S02_The_Antinium_Wars_Pt.5	~	belief	thinks the Goblin Lord is allied with the Necromancer, as equal or servant, unknown
+zel shivertail	6590a27718	4.48	+	fact	ordered the secret weapons held until the Goblin Lord is exposed; refuses to use Magnolia's grandfather's tube artifact unless the battle turns bad
+zel shivertail	7be624ae70	4.48	+	fact	wears two rings and a pendant from Magnolia against teleportation, curses and mental attacks; he never had Walled City support
+zel shivertail	781f393b69	4.48	+	fact	unfolded his arms and stood still while the Goblins chanted, which made their voices falter; Goblins know of him
+zel shivertail	d761bba146	4.48	+	fact	claws cut Hob armor; he caught an axe blade bare-handed and kicked a Goblin into eight others
+zel shivertail	1ab27ccc38	4.48	+	fact	tore off Illbreath's head, killed Noface, and Snapjaw bit his hand ("Ow") before he threw her
+zel shivertail	d4becd7454	4.48	+	fact	revived Reynold with a potion; wants to borrow Reynold and the carriage for a dangerous plan, dropping him first at Thomast's position
+zel shivertail	982cb21bbe	4.48	!	event	kills Illbreath and Noface
+zel shivertail	d625501756	4.48	!	event	tells Magnolia to call him Zel in the field
+zel shivertail	190840a466	4.49	+	fact	used [Rapid Maneuvering], [Hold the Line] and [Vanguard of Steel] from the flying carriage; [Vanguard of Steel] made front-line Humans' bodies steel-like for a short time
+zel shivertail	269354b570	4.49	+	fact	handed the left flank to Thomast, who accepted without question
+zel shivertail	7765ba6261	4.49	+	fact	[Titan's Cut] severed the Shield Spider's legs; [Antimagic Slash] tore open the Goblin Lord's stomach; the Goblin Lord said only "Oh"
+zel shivertail	8ec1010847	4.49	+	fact	killed Oom by crushing his mana stone and shouted "That's one"
+zel shivertail	725ef9e687	4.49	+	fact	killed or crippled Bea (cut in half), Ijvani and Venitra and Kerash were beaten; the Goblin Lord crept up with Venitra's sword and Zel kicked him
+zel shivertail	d195736eae	4.49	+	fact	last [Antimagic Slash] cut Az'kerash's throat, which did not bleed; Az'kerash teleported away, Chosen followed
+zel shivertail	323dfa54a0	4.49	+	fact	died after calling Sserys "wings of my heart" and naming the Goblin Lord Reiss, a Drake name Sserys wanted for a son
+zel shivertail	caf0419b1e	4.49	!	state	dies
+zel shivertail	91ffbc2043	5.00	+	fact	killed in battle by a Goblin Lord; legendary Drake hero of both Antinium Wars, called the Tidebreaker
+zel shivertail	a96c80476c	5.00	+	fact	family crest is a sprig of blue flowers curled like a tail; Liscor doors display blue flowers
+zel shivertail	699afb1052	5.00	!	state	death becomes known worldwide
+zel shivertail	bb321a7709	5.01	+	fact	the parade carries an empty coffin with a blue flower wreath; announcer says the Humans' army fled and abandoned him
+zel shivertail	81d4786412	5.16S	+	fact	Selys's uncle, last visited her four years earlier and again in winter; fought a Trisstral Alliance versus Salazsar trade dispute over a gemstone monopoly
+zel shivertail	66b491bfec	5.16S	+	fact	was tired of being treated as a hero or symbol; named Selys his favorite niece; had taught Garusa Weatherfur as a [General]
+zel shivertail	c8fbfd01b6	5.16S	+	fact	knocked out Wall Lord Ilvriss and had a mysterious meeting with Ryoka Griffin with dark news before leaving; left Liscor three days after the talk and allied with Magnolia Reinhart
+zel shivertail	f7c92e347e	5.16S	+	fact	drank Erin's Faerie Flower drink and felt "never better"
+zel shivertail	2df2cc889c	5.16S	+	fact	preserved by runes in a black wood casket, half his head gone, scales discoloured, torn limbs; one intact piece of armor on chest
+zel shivertail	76dc918a4e	5.16S	!	event	seen by Selys, Tekshia and Zevara after Magnolia's carriage delivers it
+zel shivertail	746db3730d	5.17S	+	fact	killed after hard fighting; Magnolia had kept the breastplate in the Reinhart armory for two centuries
+zel shivertail	6823b226e3	5.17S	+	fact	a [Healer] who removed the armor fell ill within the hour and died despite potions; Magnolia's people say the effect only afflicts those who touch the body
+zel shivertail	723faa30d2	5.17S	+	fact	cremated in a public funeral in Liscor's largest plaza; ashes to be sent to his home; Pallass sent a company, dignitaries and timber; every Drake city watched by scrying
+zel shivertail	4a6765b827	5.17S	!	event	cremated
+zel shivertail	f4ab1b600b	5.18S	+	fact	a flashback has him teaching young Selys claw tricks, telling her fame is a one-way street, and that he leads because there is no one else and it is his duty
+zel shivertail	80796a55f2	5.18S	!	event	buried beside Sserys, implying they were lovers
+zel shivertail	059c1eb4a0	7.17S	+	fact	was a Turnscale according to Onieva; Chaldion thinks a Goblin Lord beat him in single combat out of sight

@@ -1,0 +1,330 @@
+sid	kind	supersedes	note
+f452cad5a5	event		
+41aa20d163	event		
+0f74f25b4d	event		
+199e9dcc2d	event		
+289fade200	state	f1ddb4cb56	level 1 to 4
+af67582f41	belief		
+659a7d91f5	event		
+1dce042361	event		
+a6a2f0e68a	event		
+3530770c71	belief		
+42a41badca	event		
+01c2bce7d8	event		
+5701fd1618	event		
+be20c0d593	state	289fade200	level 5
+d10fead066	event		
+99ab6ecfb1	event		
+50a3b45e4e	event		
+3fbdb91631	event		
+d4279aebf7	event		
+c738d903ab	event		
+e587702dd1	belief		
+7f07a308ca	event		
+39e9f54dc8	event		
+28fd20500b	state	be20c0d593	level 6
+902cad3820	event		
+0cfd83380e	event		
+de6770491d	event		
+e122af9ec1	event		
+af2747e37a	state	28fd20500b	level 9
+d3064fba2b	event		
+37ceb47ed1	event		
+3b78c0a992	event		
+20719100a6	event		
+4922b05103	event		
+4b183e3f72	event		
+dc052d0078	event		
+cbfb30865c	state	af2747e37a	level 10
+58ad5e6ad7	event		
+0475e35bf7	event		
+43ec517648	event		
+0dc4ac1c37	event		
+0a94067e6d	event		
+ec8c35acd6	event		
+8cc121440f	state	cbfb30865c	level 11
+027afdad5e	event		
+29531a5d6a	event		
+c47d29320f	belief		
+3b6bb22141	event		
+f2031c37db	fact		
+d8f4d4d110	event		
+cee9b5ffaa	event		
+a2150df71e	event		
+6359a4d364	event		
+68dc590e59	event		
+2a1f1540f0	event		
+8740e3d236	event		
+221a0f1c4e	state	8cc121440f	level 12-13
+f8caa225be	event		
+8a985ae02d	event		
+f34dc7db72	event		
+5b537bc0a1	event		
+05a9b5f26d	event		
+bd556cc19a	event		
+0191f3b0a5	event		
+cae9fae488	event		
+661c6c05b3	event		
+1942c0a4d1	event		
+7d158bd0b2	event		
+3ba0d61129	state	221a0f1c4e	level 15
+fd6c3aeb4a	state	3ba0d61129	level 15
+f5f359e7cc	event		
+b9089afcc8	event		
+15c92feb06	event		
+48604a7963	event		
+b83c4ef733	event		
+6b39bb15e1	state		learns Power Strike
+e87a1405c2	state		learns Power Strike
+31ad9496db	event		
+6098f8392d	event		
+cbdd6abb1c	state	fd6c3aeb4a	level 18
+43c6335403	event		
+3e9e055123	event		
+921b2e9349	reveal		
+9ce83371e1	event		
+1e0b3500df	rel		
+e724484cdd	belief		
+437525b0ad	event		
+8319424107	event		
+c8052ad1d3	event		
+3e894b164f	event		
+7348a59219	event		
+e37ee58766	event		
+dfd4a36c06	event		
+93048cf64b	state		becomes Warrior
+2391ab23ad	event		
+dd64043458	event		
+32437339d5	event		
+c8634f0657	state		Warrior level 2
+04c2df4395	event		
+ab80670f48	event		
+fd463dfb21	state	cbdd6abb1c	level 19
+92fa63ef1b	event		
+6faaeb0112	event		
+eb9a54c7a7	event		
+4820d71c4f	event		
+7aeea2d525	reveal		
+13af7e86e6	event		
+5ea6d56a99	event		
+49cd9ac265	event		
+b65c491093	event		
+e9e2f960eb	state	fd463dfb21	levels 20-21 plus Singer
+13e27b672c	event		
+2260d65280	event		
+96ca879118	event		
+bf6806efd8	state	e9e2f960eb	level 25
+4eec282d93	belief		
+8f9ecc7a94	reveal		
+b9172f07dd	event		
+638df1fb6a	event		
+2c8c369d4a	event		
+f0b4d65f58	event		
+a8605c1dbf	state		
+4230602f9c	event		
+4b94f183b8	event		
+68127c47fe	event		
+59827340ba	state	e87a1405c2|6b39bb15e1	Power Strike became Minotaur Punch
+8ecc44c05e	event		
+7e297b62f3	event		
+9dad098129	belief		
+a0c8ef6c0b	event		
+4fe9b4affa	event		
+8a04af2216	fact		
+e1434b3b9b	event		
+dd57404654	event		
+9d56821c0f	event		
+1dbbd2340d	event		
+a88e72b567	event		
+44f0796ed6	event		
+e548e494cc	event		
+37326d26bc	event		
+39a5cf26c9	event		
+918090a311	event		
+d579e06bc2	event		
+9f5759999c	event		
+cddfaf623d	event		
+152774e4a2	event		
+8242cd92fd	state	bf6806efd8	level 26
+8d2c943cf3	state		
+f32512780b	event		
+d64543e728	event		
+9ea2b70bed	event		
+14b3f108ed	event		
+b1ff144fcc	event		
+e8486b480a	state	8fd00d28bb|8d2c943cf3	reaches Celum
+8c6adc3add	event		
+c8385e988e	event		
+0cfc938bd5	event		
+74e4d72548	event		
+deb0ed858c	event		
+d94db0619e	state		
+8da6a013a1	event		
+82da4b2dd3	event		
+e08eb1c259	event		
+54496a312b	event		
+3998493589	state	8242cd92fd	level 27
+9d598de813	state	3998493589	level 39
+e0f0ac6412	event		
+c2a0ee6082	state		citizenship
+0895ea898b	event		
+fcb9e3e61e	event		
+15f98925c2	event		
+85ffd8dc42	reveal		
+b33fb4f861	event		
+23b0d4fdf7	event		
+175ef123a2	event		
+6b8dbedae6	event		
+e73db9ecf2	event		
+2da1268739	event		
+ea1d3139aa	event		
+7f2fa60e21	event		
+0580dea225	event		
+8ed12742a1	event		
+682e2cdfe8	event		
+d10d98162c	state	9d598de813	died and revived; level 40
+da1c88f806	event		
+cb134d4eb4	event		
+5eaa50d31d	event		
+3f0699594e	event		
+312d77ee37	state		arrested
+1b00b05077	state		held in Pallass
+3f594fee43	event		
+58adfb2a82	event		
+0cd079f2d9	event		
+b9e7130737	event		
+dcceb9c509	event		
+4c983cd76e	event		
+6502c18b46	event		
+48f788ab50	event		
+5b59eb0101	event		
+ced355aa07	reveal		
+e555d10d5d	event		
+d9b377d445-0	event		
+5cd8603cba	event		
+32127e81a1	event		
+e6bcf9cb0a	state		
+bff2ef2aaf	event		
+efc572c1dd	event		
+1cf4e7a99b	event		
+49a8f44a7e	event		
+39e5ac739d	event		
+d79ff8a3cb	event		
+3eceb86b5d	event		
+becdf751e1	event		
+95578d3a11	event		
+5849642685	event		
+9fd23a0912	event		
+c379ce2c38	state	d10d98162c	level 41
+127d095b53	event		
+0c52a84c67	event		
+831954886e	event		
+f1e99b5c4c	event		
+9308533258	event		
+fac94df64e	event		
+86fcf2c095	event		
+700d8163c3	event		
+69a8295119	event		
+008fb785fa	event		
+c9a13c484d	event		
+5aff6c9a9f	event		
+5856b5f198	event		
+721a5d3535	event		
+69682b88d3	event		
+f088c4daf4	state	c379ce2c38	level 43
+73ec65ecaa	event		
+fb0c1ba08d	state		
+7bac8c80fc	event		
+b7c6fdd4a7	event		
+12fa38e1c5	event		
+c88364835d	event		
+c9985b1041	event		
+bb46ac52c0	event		
+1cde02c31b	state	f088c4daf4	level 44
+056f38b1f3	event		
+ce224c0097	event		
+1ee407ab84	event		
+f2eb5f66df	event		
+6401fbbb42	event		
+5bdb13118c	event		
+9442747f97	event		
+29dc3a52d4	event		
+f226420ff9	event		
+89a66f60d8	event		
+fa6f52f7e6	event		
+f71137a66a	state		
+2cf476fcf3	belief		
+3577c6acc4	event		
+121d70284a	state		
+c21eb1512d	event		
+55a8bf96d0	event		
+93d6685814	event		
+2a480829dd	event		
+564dbfbbf1	event		
+64b8e6b84c	event		
+04b0abedd6	state		
+1b1e56a859	event		
+a9d5c720ef	event		
+f5d13da5bf	event		
+26e31e2c66	event		
+f015007f69	state		
+d8d0b1820b	rel		
+e36ec0ce43	event		
+d805655a70	event		
+0e4b635dce	event		
+ca603be8ac	event		
+5d046e8e52	event		
+383c5fdf2b	event		
+930a319740	event		
+7cea92bc7f	event		
+50695308e9	event		
+b4c57372c8	event		
+c33a9d308f	event		
+f226e189c0	event		
+2747fb922e	event		
+a0ab2915d1	event		
+07820b806a	state		
+afa49c95df	event		
+3a56f08b4d	event		
+d7bdec6e9e	event		
+369310e098	event		
+757707f32f	event		
+9882b773df	event		
+7c762ee45f	event		
+af61f13d4c	belief		
+542e5919bd	belief		
+48fb2ab3f5	event		
+58560e2a65	rel		
+87bbe018d9	state	3ad0b111da	level 8
+a18e55913e	event		
+76941816c3	event		
+8f82fdf349	event		
+d7cb317d2d	state	3ad0b111da	level 8
+1650e4e0c9	event		
+7058b4fab8	event		
+385bfda7b0	event		
+bea4b96cb4	event		
+e768a8b090	event		
+ed64186c7f	rel		
+914f9aba6a	event		
+134c9e354e	rel		
+bb691d312f	rel		
+a379ded576	event		
+5600897fa8	event		
+f6f2fbe9f0-1	event		
+ff9feda2d2	event		
+864ffeccad	event		
+5e91135f2c	event		
+859df943cd	event		
+df251ff177	event		
+c77990cbf4	event		
+360b0599e4	state	d7cb317d2d	level 18
+2af8b2d17f	event		
+f0c86ca361	state	360b0599e4	level 23 priest
+33fe71e2f3	state	360b0599e4	priest class
+10bf17e252	event		
+19d4324163	rel		
+4bac985f82	state	f0c86ca361	level 24
+8a5b363830	event		
+0e0b9b2829	event		
+70af665d23	event		

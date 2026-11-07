@@ -11,3 +11,6 @@ Ideas beyond the current scope, awaiting triage. Ease: S/M/L. Status `proposed` 
 | S-05 | `extract_facts.py` that turns notes blocks straight into `facts.jsonl` (entity, kind from the `+ ~ ! =` marker, cite, seq) as a first Phase 2 draft | M | Phase 2 | proposed |
 | S-06 | Auto-suggest alias canonicals from `names_census.tsv` plus the merged alias ledger to shrink DEF-005 | M | Phase 2 | proposed |
 | S-07 | Run a second independent reader on a sample of ~30 chapters and diff its facts against the notes to estimate the miss rate | M | Phase 4 | proposed |
+| S-08 | Export-time spoiler test: cut at every book boundary and assert no kept fact has `supersedes` pointing at a fact after the cut and no `reveal` fact precedes the belief it corrects | S | Phase 5 | proposed |
+| S-09 | Auto-detect cross-piece supersession for big entities by matching `[Class] Level N` patterns across facts | M | Phase 3 | proposed |
+

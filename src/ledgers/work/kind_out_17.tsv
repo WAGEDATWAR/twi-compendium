@@ -1,0 +1,230 @@
+sid	kind	supersedes	note
+13be7c5387	event		asks for dossier
+2328ba65a0	event		plots circuit
+1437e1919d	event
+6f66ee7d3d	event		deduction scene
+69908dfaa0	event
+cc043d0899	fact	e09c4aaf63	new archmage counts replace old
+5becd46d06	event
+dd07467c6e	event
+9f51983705	state		contract void
+a553ce3114	event
+799a62c21b	event
+28a7f8510c	event
+296aa4f0c1	state	62d2067c94	switches camp
+193029c20d	event
+5cc46c21bf	event
+3a8ec558f9	state		rejoins Griffon Hunt
+d5e8b858cf	event
+11bedf0a02	rel
+c9a88b9d62	rel
+a949d132c5	rel
+623593f973	event
+eedfebc371	event
+e18d22377f	event
+15ee2fa209	event
+92bb9db86e	event
+b43e5a628c	event
+406a0c809b	event
+b1ded5545e	event
+97984405bb	rel
+e656b86674	event
+8059820ec0	belief
+f0d67a40bb	reveal		true nature
+84fb012ef5	rel
+0cad5abd2b	reveal
+16d25b36d0	event
+54102ea60c	event
+5eecdb7d7c	event
+808dae8376	event
+1f32277579	event
+6cb25bfa27	event
+50182a67ff	event
+6cb8dab587	state		injury
+5fdc3800f0	state
+370a60fa01	state
+0320643888	state
+5210a92559	state	5797b1a512	dies
+980b6733d4	state	7f0278c9bf	lost to humans
+126a969c37	event
+da32ea8701	event
+6e991656dd	event
+49277905da	event
+f9b697bd83	state		gains class
+7a5c5345a3	event
+f486a3f741	event
+6b23df65de	event
+b6fdd7f060	state		accepts oath
+949df57e31	state
+2b32748a0f	event
+8fa960cab0	event
+a66e0ffbf3	event
+6358ecc52b	event
+3b6cc91db5-0	event
+0f53dd36ee-0	event
+6186d8d0aa	reveal	d2105e8dcc	real role exposed
+f2f60a54d3	belief
+9b9257f456	event
+cb47a5d4f5	event
+06884c90d4	event
+db5fc12cf1	event
+76413ccb0b	fact
+c1d3fca3a2	event
+bd18d56ad0	state	9faa821073	killed
+d5e2c4b176	state		joins Players
+33859bd482	event
+2248fce00c	event
+539e5ef985	reveal
+ec1ca79b4b	event
+d6f7e0914a	state	7cf04992b0	dies
+c6ec8fe4f9	belief
+7928b3166f	event
+249c54d9fe	event
+127cd69d35	event
+3d1e7e5acf	event
+414fb4b75b	event
+2600d34f9c	event
+60086fff03	event
+957e9d3955	fact
+0257e02259	event
+e6e1231f26	event
+b7a055e757	event
+88fe042728	rel
+8c7580ee99	state	88fe042728	rivalry ends
+93aea7d3b1	event
+7dd6dcf8b2	event
+ed3e8bd99d	event
+d9961daff9	belief
+60c5e1d6f2	event
+c30df6b7d7	event
+45460c6c2e	event
+540955a3ed	state		captured
+2b33471189	state	fe038a23a1	abdicated
+86ae9487da	state	70ba0258f3|679694d7f8	new class
+c3606f3e0d	event
+a000474d45	event
+8fb988b569	state		released
+3f888cbac6	event
+53599c2828	event
+5330ea4258	event
+5ea212f6ea	event
+3ace6e137c	state	427cf07257
+ea18cd1e75	state	3ace6e137c	new class
+703074c905	state		defects
+d4e4d89fdb-0	event
+36b71bab00	state	5a143e7ca5|48b5408951	now Councilman
+090d89e445	state	560d8384fa	now Majordomo
+e87a0f28c7	state	ddb40cccfd	promoted
+31100eab89	event
+45ce446065	event
+64c661159a	event
+9efe5e9dfd-0	event
+5f9ff8ff13-3	fact
+6cec2e7c5f-0	event
+4cca2848f5	state	803459107c	dies
+906ff3011a	event
+e87336659d	event
+1d30fac7d1	event
+eff3601b68	belief
+b3b04d568c	event
+d6adc1f66f	event
+e213d7337b	event
+0ebcd5c6bb-0	event
+045ccdc79b	event
+3954f413ff	event
+29a8c9611a	state	80e3506784	dies
+9a1baa6b74	event
+48fe2cbf60	event
+73f859daa4	event
+8c9237b4e2	event
+57d002fdcd	event
+42da66f7c7	belief
+3a46d750cd	state	beb4a36216	dies
+ce414f8cf4	event
+90007aeec0	event
+476c34a813	state	ce3e98706d	killed
+34d4c1192c	event
+5450d18de1	event
+db964b6f63	state	e6a5d6663c	dies
+5b8525f28d	event
+d483f85098	event
+93a119bbc3	event
+a1497afb31	event
+14a476ab2e	event
+230edfbd8b	state		expands
+5253a27467	state		killed
+dab6ee6b66	state
+b422526946	state	fc9dc3bc98	taken by Flos
+1303fe2e20	event
+048396aec6	event
+aeae0ac531	event
+8ca6d8e97e	event
+324b5e186f	event
+14953a2f31	event		
+45f4e2204b	event		
+8f28bf83c6-0	event		
+0af41bb1e9	event		
+dfecac00af	event		
+05d94e9f21	event		
+fd7ba56495	event		
+401f0db04d	event		
+fce05186ac	event		
+6addb88c4d	event		
+285325dfd2	event		
+ec716b1dd6	event		
+65b9382c2d	event		
+384514d69d	event		
+27618ea84a	event		
+1e02d67ff0	state		killed
+7b864ff795	event		
+5f2735412d	state	9b06d7b159	dies
+fc1fb1acf8	event		
+1681d97c1e	event		
+315e04278f	event		
+72e629a610	event		
+bd65c217b6	event		
+5b150231d6	event		
+4d98a74078	state		levelled
+f9d15831a7	event		
+f0e3c72b8e	event		
+91afc73c0f	event		
+48aac79ac1	event		
+a6571a20e1	event		
+22dd1c4926	event		
+2a522ec7da	event		
+ab9ee60e0b	event		
+61191f3188	event		
+fe4aed57b5	state	58c9e8c65b	dies
+5484f220ac	state	2c8cd07669	killed
+22fbfa3754	event		
+22b2d8a42a	state		
+4a7a02c1a3	state	7e95b5b38a	inn destroyed
+2a82c74605	state	4a7a02c1a3	reopened in Liscor
+77b2da5cc9	event		
+2895a6c528	event		
+5e0001e08e	event		
+3dae6df65c	state	bb273aea3a	recovered
+25011cc514	event		
+89f983552c	event		
+e1b4dc6885	event		
+df1e9bbb2c	event		
+cac56a1e6a	event		
+d153da41c6	rel		
+1261662124	state	d153da41c6	dies
+d332c6b00d	event		
+9ce1b04e27	event		
+bd86aa4cb3	event		
+c94dc0e4f6	state	fd1a2647ce	new class
+52dc04ec0f	state	c94dc0e4f6	new class
+142dc10477	state	1ed838ab34	dies
+0b7d18c1d0	state		
+780300556d	event		
+333a188bd7	event		
+ef97dcaacd-0	event		
+708c13cab7-0	reveal		
+358d949491	state		loses body
+700ce5e2f7	event		
+19b9050b2d	event		
+39a9a74670	event		
+fd372d8399	event		
+06d5b892c9	event		

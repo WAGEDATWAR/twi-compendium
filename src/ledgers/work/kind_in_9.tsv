@@ -1,0 +1,621 @@
+entity	sid	chapter	marker	heuristic_kind	text
+antinium	3bfca78f40	1.07	+	fact	Klbkch's own species name; Relc calls them "bugs" and "ants"
+antinium	6270457654	1.17	+	fact	do not weep
+antinium	e784a9fffc	1.21	+	fact	are glucose-intolerant; pasta and bread make Klbkch lethargic and ill, so he now buys only blue fruit and juice
+antinium	99b3417795	1.23	+	fact	will eat creatures others find unsavory; Klbkch eats bowl after bowl of acid flies and slaps Relc's hand away
+antinium	26ab5e7861	1.24	!	state	several Antinium and one Goblin gain levels that night; Erin does not, but the chapter notes her message of [Strategist Level 1!] as one she did not receive
+antinium	9836d1e321	1.03R	+	fact	have several Colonies to the south and one unique Colony in Liscor
+antinium	6e3268e891	1.26	+	fact	do not have names, and Selys says one should never ask a Worker's name
+antinium	340fc7644b	1.04R	+	fact	book says hives invaded the southern continent in the First Incursion War, a decade-long war, razing cities and pushing Gnoll tribes back
+antinium	48a626757d	1.04R	+	fact	Southern Alliance used long-range mage spells on hives; a truce with the Queens (the Collective) lasted four years before the Second Incursion War
+antinium	c27f5fb7da	1.28	+	fact	six known colonies in the south; those outside Liscor are hostile, Liscor's has a bargain with southern cities
+antinium	b5dc6751e6	1.30	+	fact	dislike spiders
+antinium	faaad18da7	1.33	+	fact	recycle waste in the hive; four arms and natural builders
+antinium	bf0993b4a5	1.42	+	fact	are the larger half of Liscor's defences; the Watch is a third or quarter
+antinium	30cd6f0a09	1.44	+	fact	Bargain obliges them to protect Liscor
+antinium	13e2193014	2.02	+	fact	Hive brewed rxlvn, a black fizzing alcohol, to sell
+antinium	9948adeb6e	2.02	+	fact	rxlvn includes paralytic and soporific agents, a trial run
+antinium	49cad3c45d	2.02	!	event	Klbkch says Ksmvr resumes the Prognugator role
+antinium	eb3e920738	2.11	+	fact	can survive freezing weather for up to two hours
+antinium	70d123cac5	2.20	+	fact	fight a long war in the dungeon under Liscor; daily losses fifty-two Workers, eighty-six Soldiers; they killed nineteen Flesh Worms
+antinium	a30b90c2f7	2.26	+	fact	believe nothing follows death; memories remain in the Hive
+antinium	8ce91709f3	2.27	+	fact	two Gold-rank teams have asked them to dig for the dungeon entrance; Klbkch plans a discount to win goodwill, particularly with Griffon Hunt
+antinium	285b0a8e09	S02_The_Antinium_Wars_Pt.1	+	fact	left Rhir in 5 B.F. after the Blighted King's armies were shattered; of two hundred greatships only four landed on southwestern Issrysil
+antinium	1167baa450	S02_The_Antinium_Wars_Pt.2	+	fact	cannot swim or float and drown
+antinium	771b587c85	S02_The_Antinium_Wars_Pt.2	+	fact	had built four Hives at this point
+antinium	4e19051290	2.36	+	fact	seldom level; only Queens level, in [Queen]
+antinium	d34cdc2e8d	3.13E	+	fact	A Brief History by Krsysl Wordsmith, funded by Magnolia; includes both Antinium wars; Ryoka takes it
+antinium	3ff4c04733	3.21L	+	fact	no personal quarters or entertainment; shifts for eating and sleeping; Soldiers only patrol, fight, guard and scout
+antinium	f9fcac8a4b	3.32	+	fact	bred without magical affinity and do not level greatly, so they cannot be mages
+antinium	b46751bf7b	3.32	+	fact	Pawn, Belgrade, Bird, Anand and Garry hear the news; Klbkch cancels talks with Xrn to greet Erin; four Hives' delegates are in town
+antinium	9e64449c63	3.39	+	fact	Pawn, Belgrade and Bird eat fried bees with gusto; Bird calls them "bee birds"; Soldiers use bowls
+antinium	81f2bd3090	4.24	+	fact	over three hundred Queens fled Rhir to escape the sleeping god, the Centenium among them, and only eight survived the sea crossing, of which six remain
+antinium	2c736f52bf	4.47	+	fact	six Hives in southern Izril and a foothold; Drake cities treat the border as forbidden zones; peace eight years after the first war; year 13 A.F.
+antinium	e8e2d55751	4.47	+	fact	Grand Queen shifted to night harassment through tunnels and Silent Antinium after three defeats; Goblins and Antinium became enemies
+antinium	35dc323739	4.47	+	fact	arrived at the last moment to break the siege; Liscor opened its gates and signed the treaty because of them
+antinium	5f4c034433	S02_The_Antinium_Wars_Pt.3	+	fact	previous war was eight years before 13 A.F.; six Hives and a foothold in southern Izril; Hive zones forbidden, border crossers executed
+antinium	a27c9a0fe0	S02_The_Antinium_Wars_Pt.3	+	fact	only seven Queens left, out of what had been hundreds
+antinium	710c11a4c7	S02_The_Antinium_Wars_Pt.4	+	fact	after three routs, switched to night raids, tunnels and Silent Antinium against the Goblins
+antinium	3c76c7d729	S02_The_Antinium_Wars_Pt.4	+	fact	arrived at the last moment, broke the Necromancer's army and were let into Liscor, leading to the treaty signed there
+antinium	45c2c6857a	S02_The_Antinium_Wars_Pt.4	!	event	relieve the siege of Liscor and are admitted to the city
+antinium	f8b087d192	S02_The_Antinium_Wars_Pt.5	!	event	given a Hive in Liscor under the peace
+antinium	e48273ab4c	5.03	+	fact	do not go above ground in the first two months of spring; sell boats and build fishing craft
+antinium	1f14d5034e	5.08	+	fact	Belgrade and Anand run a Hive kill zone with traps; Klbkch fought six hours; the Queen takes command of the lower-eastern section
+antinium	3f8f8db132	5.08	+	fact	Painted Soldiers lead by a yellow-splattered giant and one with a purple smile join the wall fight after seven hours
+antinium	e0dba8cbf7	5.12	+	fact	killed fourteen giant Face-Eater Moths underground; their heads are displayed in a Liscor square
+antinium	a6111c1dd4	5.12	+	fact	Soldiers may be uneasy once the Floodplains fill; heights and rain do not bother them
+antinium	2e24c9997a	5.13	+	fact	Pawn leads the Painted Soldiers in the parade with a censer; Liscor applauds them and recognises individual Soldiers for the first time
+antinium	45edf4e71a	5.13	!	event	first time Drakes, Gnolls and Humans cheer them
+antinium	eb2a6e60ef	5.25L	+	fact	fear flooding of tunnels; Hive designed so one broken tunnel does not fill it
+antinium	220e76df79	5.29	+	fact	have a fortified tunnel entrance into the dungeon with Worker archers in alcoves; Belgrade guards it
+antinium	655b7ad74b	5.30G	+	fact	Ilvriss, Olesm, Zevara and Embria dictate messages to the Walled Cities about suspected Antinium motives toward Liscor's dungeon
+antinium	3c0677ca5d	5.40	+	fact	over a thousand dead Antinium and over a hundred Raskghar in the corridors; Halrac says it was one wave of a Hive
+antinium	3917334b23	5.40	!	event	both withdraw, stalemated; the Horns rescue nothing
+antinium	d4504a30d7	5.49	+	fact	were offered nothing for the battle; Pawn says they got what they wanted anyway
+antinium	51b9be3b25	5.61	+	fact	the Free Queen says Bird and the Individual Workers would never be chosen as expendable Workers; Bird answers "I see"
+antinium	a3b769eced	5.61	+	fact	sortie from tunnels destroys a seventh of the two dozen trebuchets before Human archers and mages cut them down; Klbkch retreats
+antinium	b538209247	Mating_Rituals_Pt.2	+	fact	have no genitalia, only a disposal valve
+antinium	149252c030	7.31	!	event	three hundred, led by Xrn and Yellow Splatters, march to secure streets; Zevara asks them to cooperate
+ceria, yvlon, ksmvr (and pisces)	3f019658df	1.02R	+	fact	twelve-member adventuring party, most above level 20, led by the minotaur [Fighter] Calruz with a battleaxe; granted a week's exclusive access to the ruins
+ceria, yvlon, ksmvr (and pisces)	97bd5398b4	1.04R	+	fact	Calruz plus five (three mages, two warriors) at this meeting
+ceria, yvlon, ksmvr (and pisces)	9b4048e87b	1.04R	+	fact	a tall mustached human warrior is vice-captain, named Gerial
+ceria, yvlon, ksmvr (and pisces)	98cfd6fead	1.04R	+	fact	Ryoka delivered potions to them a week earlier at the Ruins, through a Lich's fire; they killed the Lich
+ceria, yvlon, ksmvr (and pisces)	65043a3d62	1.06R	+	fact	hired a carriage and horses within an hour of Ceria getting a reply from Pisces and paid for the potions and carriage
+ceria, yvlon, ksmvr (and pisces)	256f34a640	1.29	+	fact	not yet Gold-rank; plan to leave Liscor's new ruins until a full party is ready
+ceria, yvlon, ksmvr (and pisces)	81c7d7159b	1.07R	+	fact	lend potions, store Ryoka's belongings at the Adventurer's Guild; Calruz is away
+ceria, yvlon, ksmvr (and pisces)	a8de850d34	1.10R	+	fact	gone to Esthelm to prepare for the Liscor ruins
+ceria, yvlon, ksmvr (and pisces)	a2c764170f	1.11R	+	fact	have a member able to detect and disarm traps
+ceria, yvlon, ksmvr (and pisces)	f71a5f4a94	1.36	+	fact	arrive at the inn at night, attack Goblins, then agree to stay
+ceria, yvlon, ksmvr (and pisces)	2d13dac559	1.37	+	fact	paid in advance, handsomely, for the first night
+ceria, yvlon, ksmvr (and pisces)	9273400716	1.41	+	fact	each carries four healing and four mana potions; too many healing potions harm
+ceria, yvlon, ksmvr (and pisces)	07e4121adf	1.00H	+	fact	ten members at the expedition, formed two years ago; core five who will never quit are Ceria, Gerial, Calruz, Sostrom, Hunt
+ceria, yvlon, ksmvr (and pisces)	4aebbce93c	1.00H	+	fact	specialize in monster slaying and close combat; code is no broken promises, no retreat, repay advances; "Death before dishonor"
+ceria, yvlon, ksmvr (and pisces)	815b7414ec	2.27	!	state	re-formed by Ceria, Yvlon, Pisces and Ksmvr, hands joined
+ceria, yvlon, ksmvr (and pisces)	3eb707ee28	3.02H	+	fact	Ceria, Pisces, Yvlon Byres, Ksmvr (former Prognugator); eighth night; original team included Calruz and Gerial
+ceria, yvlon, ksmvr (and pisces)	39b631e420	3.02H	+	fact	borrowed money from Erin; one gold coin left; food for two more days
+ceria, yvlon, ksmvr (and pisces)	3291e00fc6	3.02H	!	event	teleported to a pit and hit by an [Insanity] rune; Ceria sees Ksmvr as an Aberration, Pisces as a fencing master, Yvlon as Yenelaw/Yennais Byres
+ceria, yvlon, ksmvr (and pisces)	65cb1d5d4a	3.07H	!	event	all four survive, unconscious in the heat as the chapter ends
+ceria, yvlon, ksmvr (and pisces)	daba913e1c	3.08H	!	event	leave the dungeon alive after their first dungeon as a new team, eighty pounds of gold in tow
+ceria, yvlon, ksmvr (and pisces)	6767bf5564	3.08H	!	state	announced as "dead" by the receptionist; a public parade greets them in Ocre
+ceria, yvlon, ksmvr (and pisces)	d5339a39cb	3.24	+	fact	Remendia crowd sends them off; they travel by wagon guarding goods because they are broke
+ceria, yvlon, ksmvr (and pisces)	11ba0a542f	3.30	+	fact	new line-up Ceria, Pisces, Yvlon, Ksmvr; guard Termin's wagon (horses Erma and Fox) day and night; Silver-rank
+ceria, yvlon, ksmvr (and pisces)	eafe14faaa	3.33	+	fact	Silver-rank team, Erin introduces them as an adventuring team to the Gold-rank groups
+ceria, yvlon, ksmvr (and pisces)	83d611782c	3.39	+	fact	worry that Ryoka's three-weapon list means the haul is thin; Yvlon notes they got sweets at the solstice growing up
+ceria, yvlon, ksmvr (and pisces)	4c66eba895	4.10	!	event	receive their first big haul and approach Gold-rank
+ceria, yvlon, ksmvr (and pisces)	4a7b2caec9	4.24	+	fact	agree to take contracts at Esthelm
+ceria, yvlon, ksmvr (and pisces)	ea2088d6b4	4.27H	+	fact	find the bear cave occupied by Crelers, juveniles and hatchlings; Ceria is poisoned by a bite, Yvlon's arm breaks
+ceria, yvlon, ksmvr (and pisces)	4d976dd6a5	4.27H	+	fact	bears are not people, so they pull a sled with undead bears into Liscor
+ceria, yvlon, ksmvr (and pisces)	09ba6032ba	4.33	+	fact	Silver-rank-level job clearing Shield Spiders from Liscor's sewers; Ceria, Pisces, Yvlon, Ksmvr
+ceria, yvlon, ksmvr (and pisces)	c18ad01551	4.37O	+	fact	nauseated after a cockroach cave; Yvlon swallowed roaches; Ksmvr is bitten, Ceria's poisoned snow spell failed
+ceria, yvlon, ksmvr (and pisces)	e666581c01	5.00	+	fact	Ceria, Pisces, Ksmvr, Yvlon stay at the inn and take small hunting requests
+ceria, yvlon, ksmvr (and pisces)	961d3c9cf9	5.07	+	fact	spent four to five days hunting Corusdeer for Esthelm's food shortage; ride a wagon pulled by Pisces's undead bears
+ceria, yvlon, ksmvr (and pisces)	25c22f1880	5.28	!	event	Erin hugs them goodbye at the inn and they leave by boat to the crypt
+ceria, yvlon, ksmvr (and pisces)	14d0a1e43c	5.29	!	event	all agree to the plan so more adventurers will search for Calruz
+ceria, yvlon, ksmvr (and pisces)	17b96794f9	5.36	+	fact	row in boats with dozens of others to the rift; Ceria has eight silver pieces; Falene keeps the Silver Swords' boat dry
+ceria, yvlon, ksmvr (and pisces)	b22b805b21	6.18H	!	event	take the bandit bounty and are alienated from Celum's guild
+ceria, yvlon, ksmvr (and pisces)	c870249cf6	6.19H	+	fact	Ceria, Pisces and Yvlon held in a shared low-risk cell overnight; Watch took Ceria's wand, Yvlon's Sword of Weight and Pisces' rapier
+ceria, yvlon, ksmvr (and pisces)	ec61a88116	6.28	+	fact	Pisces, Yvlon, Ceria, Ksmvr argue about guarding contracts; they have run out of local jobs and may go to Ocre or Wales
+ceria, yvlon, ksmvr (and pisces)	ab0728c778	6.38	+	fact	Grimalkin's [Dispel Magic] topples Pisces' Bone Horror; he punches through Ceria's four-foot [Ice Wall] and knocks them all down
+ceria, yvlon, ksmvr (and pisces)	6a7c41b46a	6.62L	+	fact	first return to the Adventurer's Guild two days after the fight; Ceria publicly vows Pisces is a teammate and says she will "find out what you taste like" if anyone claims the bounty
+ceria, yvlon, ksmvr (and pisces)	7c48f69bd8	6.64	+	fact	working for Liscor for a week; scouting with the Drake [Scout] Hissle; stay two miles from the Bloodfields; Pisces climbs with [Flash Step]
+ceria, yvlon, ksmvr (and pisces)	c6bec344e3	6.66H	+	fact	cheered as Crelerbane, 'Hell's wardens', by Walt, Alais, the Watch and Grimalkin, who calls the kill an event few in the world can boast of
+ceria, yvlon, ksmvr (and pisces)	a3d9f2b179	6.66H	!	event	hailed as Crelerbane by Liscor's Watch
+ceria, yvlon, ksmvr (and pisces)	42805e2191	6.67	+	fact	rest in a private room at Wishdrinks, which hosts them free as Creler slayers; they cannot cast magic for a few days after their combined spell
+ceria, yvlon, ksmvr (and pisces)	1109c9db70	6.67	!	state	promoted to Gold-rank
+ceria, yvlon, ksmvr (and pisces)	603faf4546	Meta_B14_Authors_Note	+	fact	among the author's favourite characters to write; they must exist alongside the Innkeeper who gives them a place to go
+ceria, yvlon, ksmvr (and pisces)	311f483910	7.00	+	fact	took a door north to Invrisil about a week and a half earlier; they beat an Adult Creler in the Bloodfields
+ceria, yvlon, ksmvr (and pisces)	ee61eefeec	7.13K	+	fact	Ceria, Pisces, Yvlon and Ksmvr kill a Stone Golem infestation in a village's mines on the road north, nearly at Invrisil, then head to find Ryoka
+ceria, yvlon, ksmvr (and pisces)	72c00e61dc	7.19	+	fact	Ceria, Pisces, Yvlon and Ksmvr arrive at Invrisil with a magic door on a wagon, lined up for a Flesh Giant corpse burning; gates close for curfew
+ceria, yvlon, ksmvr (and pisces)	caec07d123	7.20	+	fact	wagon sold to the Halfseekers, burned for firewood; carry Erin's magic door, which will not open unless Erin sets its stone; Ksmvr sets tripwire bells
+ceria, yvlon, ksmvr (and pisces)	3ccd89e985	7.28	+	fact	head north on foot, with Griffon Hunt riding the wagon driven by Termin to Riverfarm and an [Emperor]'s lands
+ceria, yvlon, ksmvr (and pisces)	613d17b62f	7.37	+	fact	Ceria Springwalker, Yvlon Byres, Pisces, Ksmvr are Gold-rank; clear the Face-Eater Moth swarm at Yissirain's Rest in an undead-horse chariot; use [Sword Art: Curve of the Moon], [Focus of Ire], [Ice Wall], [Deathbolt]
+fierre	f2bb14e96d	6.00	+	fact	thin, scarfed girl with a cough and sharp teeth; has lodged at the inn nearly a year
+fierre	409a8091c8	6.00	+	fact	works as an opener (Runner's fence and information broker) from a warded, windowless room reached by a knock and a kick
+fierre	c0535c60b9	6.00	+	fact	also grinds poison stems for the [Alchemist] Kelysta and hauls cargo for a silver coin an hour; strong, does not sweat
+fierre	ed516261b6	6.00	+	fact	offered six gold for the letter's details and was paid three silver six copper for the check
+fierre	ac7c94ed2e	6.00	!	reveal	revealed to Ryoka as a vampire
+fierre	189846b80b	6.00	!	event	knocks Ryoka out and brings her to her vampire family; full name Serafierre val Lischelle-Drakle
+fierre	2cba608be4	6.01	+	fact	aged twenty-five, looks sixteen; has a brother Rivel at home, one who moved away, and lost others long ago
+fierre	789718aead	6.01	+	fact	paid ten gold to find Rose, Imani and Joseph in Magnolia Reinhart's care
+fierre	9ea5d4239c	6.01	!	state	becomes Ryoka's friend after the Drakle meeting
+fierre	b415835ceb	6.25	+	fact	Vampire, works as a [Laborer]/[Builder] and information broker, sleeps at the inn, has superior senses, eats goat's blood, wears a hat and cloth wrapping against the sun
+fierre	5b17e3de2e	6.25	+	fact	hasn't found leads on the people Ryoka asked about, especially around Magnolia Reinhart
+fierre	60a1fdf983	6.25	+	fact	once threw Ryoka through a tree by accident while sparring; invites her to run or practice fighting
+fierre	fd854c8cd8	6.25	+	fact	dislikes [Knights]; says [Knights] hunted down her family, and orders have specialized classes
+fierre	fb1d89eeab	6.25	~	belief	believes Madain "likes me" and that his friends only drink for free alcohol
+fierre	fc005ac587	6.41E	+	fact	obtains Belavierr's wanted record; bounties 18,000 gold in Terandria, 20,000 from Slavers of Roshal, 3,000 from Wistram
+fierre	399d535e14	6.41E	!	event	panics at Belavierr's bounty and sends a priority Message to Filk Runner's Guild for Ryoka
+fierre	bfa567b41c	6.42E	+	fact	Vampire Opener in Reizmelt (one of three), cannot level; her family: father Himilt, mother Colfa, brother Rivel, Bamer
+fierre	0f4d919b97	6.42E	+	fact	hires Daufica Longshel (Mage and Fixer in Filk) for eight gold to beat the Fence and burn his office
+fierre	89304690c6	6.42E	+	fact	sells a secret from Reizmelt's gang hideout The Blasted Pyromancer where bartender William hosts a meeting; the gang agrees for a tenth of the bounty
+fierre	8040ec440d	6.42E	+	fact	tripped the curse by writing Belavierr's name in her notes; needles tore through her iron door and she survived with needles in her head, then forced Gailt to send the confirmation
+fierre	8ebcf4d5fc	6.42E	+	fact	Riverfarm file lists Hedag as Executioner and Witch, Alevica the Witch Runner, Wiskeria Silver-rank of the Celestial Trackers, Eloise former Lady of Terandria
+fierre	962f0121db	6.42E	~	belief	guesses a curse protects Belavierr only against those trying to betray her location
+fierre	92cba5f874	6.42E	!	event	triggers the curse, survives, and sends confirmation to the Order of Seasons
+fierre	8e1814b8e9	6.43E	+	fact	sends word of the Fence's death through Nesor to Ryoka
+fierre	07eabbe101	6.51A	+	fact	[Broker] in Reizmelt with a new office after needles destroyed her old one, selling the nondescript man (Az'kerash's puppet) three months of news and Runner reports
+fierre	f5b634ebaf	6.60	+	fact	new warded office in a rougher part of town after Belavierr's needles destroyed her old one; spent over half her gold on a network (cabinets, maps, bounty lists, scrying mirror)
+fierre	a6e69f1241	6.60	+	fact	reports Ogre bands raiding about eighty miles southeast into Lady Pryde's domain, Magnolia Reinhart's trade war, and a [Knight] called the Goblin Slayer who has killed multiple Goblin tribes
+fierre	392340cf75	6.68	+	fact	tracked Magnolia's Earth guests, about eight people, to Laiss, thirty miles south of Reizmelt
+fierre	e1a5764e78	Interlude_Dancing_and_Brawling	+	fact	Vampire; says odds are one to eighty-six that Belchan survives the war; lost money rebuilding her shop and getting contacts
+fierre	423614776a	Interlude_Dancing_and_Brawling	+	fact	says the kids that left (Ryoka's former companions) are probably dead south of Reizmelt, ambushed by rabbits
+fierre	a4839645c9	Interlude_Dancing_and_Brawling	~	belief	says the Savellian knights and Lord Bel fight in perfect formations
+fierre	6e01b17867	Mating_Rituals_Pt.2	+	fact	Vampire, has toys, says Vampires are few and mostly related; Ryoka keeps her as a friend
+fierre	1ec851e8d5	7.24	+	fact	twenty-five-year-old vampire, an Opener and information broker; family includes Old Bamer, her mother and father Himilt
+fierre	072d879cf6	7.37	+	fact	has Teriarch's panacea, which Ryoka obtained; Ryoka warns other causes may make Fierre sick
+fierre	4e08ad2f49	7.37	+	fact	joins Ryoka in a coach driven by a bound Djinn of the Unmarked Coach
+fierre	a7f4d85e24	7.37	!	event	drinks the panacea
+fierre	66a47e588d	Interlude_Carriages_and_Conversations	+	fact	has taken Teriarch's cure and vomited black bile into her bag of holding; is faster and stronger but sunlight now burns her face badly, even through cloud
+fierre	2be96f005d	Interlude_Carriages_and_Conversations	+	fact	remains a Vampire in diet and aversion; garlic burns her like pepper spray; she crosses the sea but is seasick
+fierre	9b4999ca52	Interlude_Carriages_and_Conversations	+	fact	spend three days in the coach, then cross by boat to the island at sunset
+fierre	bfc74c0b9c	Interlude_Carriages_and_Conversations	!	event	cured Vampire, newly strong and now sun-sensitive
+fierre	559862eef3	7.41	+	fact	Vampire girl, cured of the affliction Teriarch knew about; stronger but vulnerable to garlic and sunlight; feeds on rats
+fierre	22f54dc3ae	7.41	+	fact	runs a hundred metres in about 6.5 seconds, about 40 mph, roughly horse speed; Ryoka rates her strength Gold-rank, below Grimalkin or Relc by much
+fierre	36cecb6294	7.41	+	fact	Vampires never level; Old Bamer says Vampire Lords had Skills and could turn to mist
+fierre	54adb25803	7.41	+	fact	has no reflection; keeps notes on Izril in a journal, a backup wand, an enchanted dagger and blood; her bag came from her parents
+fierre	ec85b74f94	7.41	+	fact	has no reflection so the mirror trap fails; Ryoka beats her four doppelgangers with acid and wind, noting they had no Skills
+fierre	39ad6b54d9	7.41	+	fact	goes insane in the Chamber, bites Ryoka's neck and throws her into a wall; both are captured
+fierre	34ce1099be	7.41	+	fact	decide the trap is a bad delivery, retreat out of the mansion, then drunkenly burn the isle and shout messages until Valeterisa appears with about a hundred shadow familiars, golems and a shadow maw
+fierre	129749f8f4	7.41	~	belief	guesses Tier 4 for the landmine spell
+fierre	fa11d7fea4	7.44	!	event	collapses ill and screaming after returning home
+fierre	310055a6b5	7.45	+	fact	has high fever, rash, vomiting and coma-like state after being cured; her family says Vampires do not get infections
+fierre	be34221013	7.45	!	event	survives the poisoning and recovers consciousness
+fierre	596e2ab5be	Interlude_Experiments_in_Golems	+	fact	Vampire farmer family; Himilt says there are several thousand Vampires in Izril, in clans and towns, and the family cleans its well with silver and charcoal pills while buying imported breeding stock
+fierre	0251a8586d	Interlude_Experiments_in_Golems	+	fact	travel to Invrisil to see Lady Ieka; Ryoka's anti-enchantment necklace blocks Salamani's [Haste] until removed
+fierre	81eac375f0	7.53	+	fact	Vampire who avoids sunbeams, works as an Opener and information broker, is Ryoka's friend from Reizmelt; Erin keeps blocking light for her
+fierre	14a47df3b6	7.53	+	fact	says two hundred pounds "doesn't sound like much" and has to be covered by Ryoka
+fierre	866a2b4c0f	7.54	+	fact	an Opener and information broker from Reizmelt who takes notes constantly; says Montressa and Bezale are rivals in her line of work through Wistram
+fierre	dfc1c4fc97	7.54	+	fact	says she heard Maviola El drank a Potion of Youth and rode off a month ago
+fierre	c746754437	7.54	+	fact	feels sudden intense blood hunger around Lyonette, Erin, Salamani and the Callers, which began at her farm
+fierre	9c5649247d	7.54	~	belief	says Ryoka's blood tasted "fresh" and that river-fed animal blood matters less than wells tainted by Byres
+frost faeries	fa9c24baf2	2.06	+	fact	winter arrives as a storm with tinkling voices; Relc hates them
+frost faeries	472a85d8df	2.08	+	fact	pale azure, two sets of dragonfly wings, no pupils, Irish and British accents
+frost faeries	9fd36ba932	2.08	+	fact	see and speak to Erin and Ryoka; Pisces sees only blurs
+frost faeries	ce17a41e25	2.08	+	fact	say they cannot be blinded by ointment effect "not in this world"; gods here are dead
+frost faeries	3aed6a15b0	2.08	+	fact	fire does not hurt them; they freeze Pisces; cold iron horseshoe drives them off
+frost faeries	15409adbfc	2.08	+	fact	don't enter buildings
+frost faeries	750d410fd3	2.09	+	fact	freeze everything they pass; follow Ryoka to Celum; guards call them sprites or Snow Sprites
+frost faeries	50e5309627	2.11	+	fact	hate iron and call the Workers slaves; accept copper nails
+frost faeries	bb225fad43	2.12	+	fact	follow Ryoka into the High Passes; Teriarch drives them off with a fire blast and the word "Pests. Begone!"
+frost faeries	d170636a7d	2.14	+	fact	call the phone an object from another world; ask how she knows "the old smoker" of the cave
+frost faeries	758a26b980	2.14	+	fact	bring winter to a last autumn stretch and pelt Ryoka with snowballs
+frost faeries	af6e5efa3d	2.16	+	fact	plague Val
+frost faeries	58d1b9b7c1	2.18	!	event	enter the inn using Erin's invitation, wreck the kitchen, abuse Ceria with slurs, and cannot be harmed by cold iron threats once guest-right applies
+frost faeries	e913fb8155	2.18	+	fact	dislike all half-Elves; Ceria can hear but not clearly see them
+frost faeries	02b45a640f	2.19	!	event	eats the whole sugar supply and claims Erin gave it
+frost faeries	4a50687bf5	2.19	+	fact	fey obey no one and bring Winter under their King; they want food that is pure and not from the smoky, polluted world
+frost faeries	24bd167f82	2.19	+	fact	"We are that we are"; says Erin's skeleton moves by her magic and that magic is not spells
+frost faeries	2ae4c1d23d	2.19	!	state	about a hundred attend after twenty minutes; the leader leaves a table of pure gold as payment
+frost faeries	c0dceebf1a	2.19	+	fact	speech to each other is incomprehensible to Erin
+frost faeries	13491aabab	2.23	+	fact	have tormented her for over a week; froze a Wyvern in flight; scared all monsters from around her
+frost faeries	4074052263	2.23	+	fact	left Earth centuries ago because of pollution; they never heard of superheroes or Lord of the Rings
+frost faeries	521102dda3	2.23	!	state	agree to guide Ryoka west to the Necromancer by sensing the dead
+frost faeries	6499b6c32b	2.24	+	fact	after four days they are less hostile because she tells stories; they refuse to say how old they are; they know Teriarch from when he was young
+frost faeries	51c8f73474	2.24	+	fact	will not interfere in mortal quarrels
+frost faeries	612ecbd58f	2.25	+	fact	lead her to a maze of trees in front of the Necromancer's castle; she must walk backwards and sideways, following Teriarch's stone
+frost faeries	5dc0e8167f	2.28	+	fact	call Ryoka a "plaything"; say levels and classes are chains someone else plays with
+frost faeries	58acc76d5a	2.28	+	fact	cannot tell whether a mortal has levels (L96); accept her oath on water, grass, earth and sky
+frost faeries	f37e26f913	2.28	+	fact	Teriarch did not use magic to deliver because he was polite and avoided breaking the Necromancer's wards
+frost faeries	8bbdc842fa	2.28	+	fact	will not interfere in mortal affairs or save people from death; all things have a price
+frost faeries	ccbc9d6ad0	2.28	+	fact	accents vary from Welsh to German
+frost faeries	3033bed6b8	2.28	+	fact	do not give names lightly; one vanishes when asked
+frost faeries	ff4789c650	2.28	+	fact	vanish whenever a hidden danger they cannot interfere with is near
+frost faeries	b59c9f007f	2.28	!	event	refuse to help; freeze Urksh's paws and extinguish all camp fires
+frost faeries	17ee66e17c	2.28	+	fact	deny being Sluagh, Redcaps or Finfolk
+frost faeries	6cc3088c60	2.28	+	fact	"life for life, death for death"; they agree to offer a chance but promise nothing
+frost faeries	7913c8da30	2.29	+	fact	say they are breaking a rule to give her a chance; refuse to reveal whether it is fate
+frost faeries	62326c5089	2.29	!	event	warm the air and grow a patch of spring around the sleeping Ryoka
+frost faeries	9093d71364	Interlude_B02_1	+	fact	have not reached Baleros, so it is hot there
+frost faeries	fba361de7f	2.32	+	fact	body of crystal and ice; will not answer Ryoka's question about the price
+frost faeries	9862a6bbcd	2.33	+	fact	banter about avalanches; Ryoka says they like children
+frost faeries	9fcc23815d	2.33	+	fact	say mortals are supposed to throw the flowers away; they then enter the inn to taste the drink
+frost faeries	4456b988f5	2.35	+	fact	cannot be seen by Lyonette
+frost faeries	9681a124e4	2.35	+	fact	join Erin's Christmas songs and dislike Rudolph
+frost faeries	498d5fa322	2.36	+	fact	seen by Ryoka, not Klbkch; Liscor regards them as natural forces
+frost faeries	31a7cbe74b	2.38	+	fact	refuse to interfere but a faint wind speeds her run
+frost faeries	6ce7ab0053	2.38	+	fact	say they follow Ryoka out of boredom and because she defies fate
+frost faeries	27719f0a3c	2.38	+	fact	make Ryoka and Teriarch speak in rhyme for a time
+frost faeries	fb3e96dc37	3.01E	+	fact	dancing lights that bring snow; first snow on Day 20
+frost faeries	685a7e336d	3.03	+	fact	also called Winter Sprites; part crystal, part ice; only blurs to most people; keep out of iron-built buildings such as the Runner's Guild
+frost faeries	6677518d99	3.03	!	event	bored with Ryoka after the Teriarch riddle game, most leave
+frost faeries	ce1fca90bb	3.04	!	event	bury the Celum Runner's Guild in an avalanche; Ryoka asked to leave the city
+frost faeries	e1f0db2aa9	3.09	~	belief	say a dire oath of vengeance has been sworn against Ryoka
+frost faeries	bcb3c5c6b4	3.11E	+	fact	Winter Court faeries visit Laken because he is an [Emperor]; bow to no mortal sovereign; free until spring
+frost faeries	6667ea7ce1	3.11E	~	belief	knew Laken called himself Emperor of the Unseen; claim to have heard his claim over the land
+frost faeries	889ce8a817	3.11E	~	belief	swear that the fate awaiting his land will not befall it
+frost faeries	cd0712cc9d	4.32G	+	fact	are leaving this world and do not watch Goblins
+goblin child	2a9604ee7b	1.15	+	fact	a ragged Goblin with a grey loincloth and a small knife attacks her; Erin hits and kicks it, tells it "I don't want to kill you", and lets it flee
+goblin child	c6e69cec57	5.23G	+	fact	the only Goblin shown weeping; Pyrite carries her away, bitten by her
+goblin child	146d9a82d9	6.55K	+	fact	can operate an iPhone in thirty minutes; its owner Laken Godart never used the shake-to-shuffle feature
+goblins	31b39c2124	1.02	+	fact	short green-skinned, sharp teeth and knives, also harvest the blue fruit; they chase Erin
+goblins	4acbe9940d	1.03	+	fact	pointed ears, carrot-like noses, two rows of shark teeth, glowing blood-red eyes, ululating scream; armed with rusty daggers, short swords, a cleaver; wiry and muscled but small
+goblins	699d979fb1	1.03	+	fact	six attack; they are fragile and quick; they call her "prey"; one licks her blood off his knife
+goblins	d1d62a7010	1.03	+	fact	flee out of the broken windows when she holds a knife and stares them down
+goblins	8fd965a3ff	1.12	+	fact	three follow Erin through the grass at a distance; she drives them off by throwing stones
+goblins	70d463976f	1.14	+	fact	three throw stones at Erin from a hill as dusk falls; she is cut and bruised
+goblins	cd02e24dd8	1.15	+	fact	the three dead were two young females who looked like children and an older male who fled
+goblins	eb163654d9	1.15	+	fact	have crimson eyes
+goblins	88d893ebda	1.17	+	fact	over a quarter of traveller deaths on the roads around Liscor are attributed to them
+goblins	b20282cffe	1.18	+	fact	four, thin and ragged, look like starving children; one drops a twig basket
+goblins	1125f7449a	1.18	+	fact	four eat six plates; one offers three tarnished silver coins as payment, which Erin refuses; he says something like "sqwsmsch"
+goblins	212605ecea	Interlude_1.00_R	+	fact	hunt Ryoka with arrows on the plains; a large one in rusty chainmail wielding a short sword also chases her
+goblins	0c4cf72579	1.23	+	fact	a ragged female with a pouch of coin watches Erin leave and thinks "soon"
+goblins	dd2260e8e1	1.24	+	fact	do not grasp "free"; Rags offers coins and Erin agrees to feed them until the money runs out
+goblins	1df5eb8900	1.24	!	state	several Antinium and one Goblin gain levels that night; Erin does not, but the chapter notes her message of [Strategist Level 1!] as one she did not receive
+goblins	a5f8e80681	1.25	+	fact	about forty from another tribe, led by a larger Goblin with a short sword, enter the inn; he smashes a stone Drake-knight chess piece
+goblins	144c0d0a0b-1	1.25	+	fact	attack the nine Goblins from behind, killing several; Erin kills one with a thrown knife and punches others
+goblins	2821c391db	1.06R	+	fact	two groups fighting near the road; the small leader's side uses formations
+goblins	aed93f850d	1.08R	+	fact	a band of twenty to thirty attacks Ryoka; she knocks out several
+goblins	2b3a7fbc72	1.32	+	fact	average four feet tall; seven Goblins with Rags at the table
+goblins	d71184b8e6	1.33	+	fact	loot the adventurers' healing potions, purple and brackish
+goblins	9f0dfe0cab	1.34	+	fact	offspring are always Goblins regardless of partner
+goblins	70880d780c	1.13R	+	fact	two tribes fight; a small Goblin with shining sword and shield leads armored heavy infantry and casts fire
+goblins	d5aa2efa6c	1.45	+	fact	twenty-seven Goblins died; they eat Skinner's body
+goblins	2132cbed66	2.00G	+	fact	call Erin The Destroyer
+goblins	002b8ac48c	2.00G	+	fact	have over twenty words for death and rate threats by probability; avoid the boom tree forest
+goblins	a397016c0b	2.00G	+	fact	rarely level; three-year-old Goblins reach Level 9 [Scavenger] at most; the old Chief was a Level 18 [Warrior] Hob
+goblins	70dc006d12	2.00G	+	fact	every tribe member gained at least two levels after the Skinner fight; over a hundred Goblins charged him
+goblins	41dce983d1	2.00G	+	fact	use slings adopted from the Red Fang Tribe
+goblins	1818bb8da7	2.00G	!	event	reassemble a Dwarven crossbow's remains by passing questions along with punches and build a stone-shot version
+goblins	692c26d84e	2.01G	+	fact	block the cavern with boulders to seal the dungeon
+goblins	fdc71ee896	2.03G	+	fact	[Cook] sub-classes include [Butcher], [Scavenger], [Stewer]; Hobs act as sub-leaders
+goblins	8c64927f87	2.41	+	fact	first crossbows built from Human parts
+goblins	12c9b891a8	3.15	+	fact	hundred armed Goblins seen near Verdun; look like soldiers; Wesle suspects tribal war or the Goblin Lord
+goblins	37771be65e	3.31G	~	belief	believe Chieftain memories and the King's history are shared across generations
+goblins	3db214c02a	4.21E	!	event	found to be hiding near Riverfarm already
+goblins	695547db1f	4.22E	+	fact	fire flaming arrows at the barn and a roof two hours after the assassin dies; Trackers wound one in the dark
+goblins	3563474206	4.23E	+	fact	64 at least, with two Hobgoblins; a group of 23 including one Hob flanks the village, carrying nets and dry wood to burn it
+goblins	8567e518b1	4.23E	+	fact	attack around midnight against wagon barricades and spikes; a [Shaman] scorches Wiskeria's shoulder
+goblins	f65fff69dd	4.32G	~	belief	believed by others to be vermin that always die; no one considers negotiating with them
+goblins	07fa34ab36	4.32G	+	fact	eat their own dead only to survive in famine, and none like it
+goblins	c87c2c8cc8	4.41L	+	fact	hiding food, apparently planning to leave
+goblins	214f8ebc1d	S02_The_Antinium_Wars_Pt.5	+	fact	every Goblin sensed Velan die and many fell to their knees or threw down arms
+goblins	e176b45cbe	5.22G	!	state	camp destroyed in the ambush; riders and archers scatter formations
+goblins	eadd2ed796	5.44	!	event	the five Redfangs and Cave Goblins feel "something new" after the Raskghar fall
+goblins	803e3d20a5	5.46	+	fact	use covert signs; score seven runs through their whole line-up in one inning
+goblins	cc10a3ac64	5.60	!	event	the combined tribes choose to leave the Floodplains, by the slimmest margin
+goblins	f789b36ad2	5.61	+	fact	the Flooded Waters tribe, the Cave Goblins and the Redfangs march back, led by Redscar, Poisonbite, Noears and Spiderslicer, and form a wall in front of Erin
+goblins	7c720bf4c8	6.42E	+	fact	use Laken's iPhone; a Hob plays Viertel vor Sieben 53 times and Seven Nation Army
+goblins	88bc6ecad8	6.47E	+	fact	arrive in barred wagons under [Caravan Master] Dintal with about a hundred guards; they include Tremborag's tribe, Redfang Warriors, Flooded Waters Goblins and Solstice Goblins, plus Ulvama and Pebblesnatch
+goblins	49a2582f7e	7.05P	+	fact	decide unanimously to do nothing with the crates; four groups of survivors are Flooded Waters tribe, Mountain City tribe, Redfangs (barely eight) and Cave Goblins
+goblins	f1479a86df	7.05P	+	fact	build a taller wall with a gate and plan a keep, iron mine and trade
+goblins	60511e11f7	7.05P	!	event	begin building a wall and settlement of their own
+goblins	b28d5ccd76	7.12G	+	fact	wear red war paint on faces and bodies that deters Gargoyles and mostly Eater Goats
+goblins	7b3a22686f	7.12G	~	belief	believe Teriarch might be only a larger Wyvern, not a Dragon
+goblins	8c55fbe6df	7.40ER	+	fact	first Goblin baby born in the Goblinlands, delivered with Ulvama's help; Pebblesnatch builds an oven; Leafarmor and Raidpear are present
+grimalkin	a3e9d50ba6	6.09	+	fact	bulky Drake teacher of "physical magic" who runs apprentices up stairs and praises Erin's "testicles"
+grimalkin	9ecd066847	6.18H	+	fact	Drake [Mage] from Fissival, "physical mage", pariah; challenged Archmage Feor to a duel two years after Ceria left Wistram and nearly shattered Feor's barrier
+grimalkin	b8782ce407	6.31	+	fact	Drake [Sinew Magus], also calls himself the Fist Mage; fought in the First and Second Antinium Wars; can recharge Erin's door with stored mana
+grimalkin	b28b3f6000	6.31	+	fact	lifts a hundreds-of-pounds stone block overhead, casts [Lion's Strength] and [Water Colossus' Grasp]
+grimalkin	898d3f2976	6.32	+	fact	offers one-year apprenticeships; says [Lion's Strength] is Tier 4 or 5 and he would charge nine thousand gold to teach it; created a 15 by 15 foot pocket dimension prototype with fellow Drakes
+grimalkin	d2e4031d7a	6.38	+	fact	[Sinew Magus]; has Pallass weights (barbells, EZ-bar, 50-pound lead plates); plans to put Pallass' soldiers on weights; has a formal rank
+grimalkin	7401b5b2a5	6.38	+	fact	figures out Erin arranged the meeting; agrees to one training session for the Horns of Hammerad, wants more ideas as payment; Erin gives the resistance band idea
+grimalkin	527efd0b8a	6.38	~	belief	calls Erin like a [Senator] or Magnolia Reinhart in manipulation
+grimalkin	060a6f31b0	6.38	!	event	promises to train the Horns once
+grimalkin	9c57673b51	6.39	+	fact	passes Yvlon, Ksmvr and Pisces but names Ceria the weakest link; says Gold-rank needs a Level 30 Skill and he can certify adventurers
+grimalkin	35e920e215	6.39	+	fact	Wistram graduates lack field experience, Wistram has lost craft to Golems; he comes from Fissival; only Archmage Amerys and Viltach respected his views
+grimalkin	0e38ded211	6.39	+	fact	says Cognita, made by Archmage Zelkyr under two hundred years ago, killed two Archmages and fought the Five Families; thinks even the best six mages have a one-in-three chance
+grimalkin	c660e4737c	6.39	~	belief	claims Illphres was a poor master for leaving Ceria no spellbook
+grimalkin	09b4ed04c2	6.39	!	event	agrees to one training consult for the Horns, charged to Erin's account
+grimalkin	9cfa7d761c	6.58	+	fact	strongest [Mage] in Pallass, class [Sinew Magus], knocks out Beza and was coming to tutor Ceria
+grimalkin	b619f08935	6.61L	+	fact	[Sinew Magus] of Pallass; refuses to help with Wistram; says Wistram acts like a nation and out-competes Fissival, the Draconae Scholarium, a Drake institution tied to a Walled City; notes Erin speaks "like a Drake from a Walled C
+grimalkin	08ab48ff77	6.61L	+	fact	says he wants treadmill improvements from Erin and will take on Wistram only for something worth it
+grimalkin	21c48b8221	6.61L	~	belief	says the Wistram team is cleared legally and Pisces committed crimes
+grimalkin	d527d815e9	6.65	+	fact	refuses at first to be Erin's bodyguard, then moves when Kel reports a Creler nest; the Pallass side of the door will not open; Jelaqua in her Raskghar body joins him
+grimalkin	cef258a9d3	6.66H	+	fact	arrives with Jelaqua, Gold-rank adventurers, Embria and the Watch, too late to fight the Adult; Zevara and Embria find fewer than a dozen adventurers standing
+grimalkin	8500845ced	6.67	+	fact	burned the nest and says Crelers evolve faster with more to eat; adults think and retreat if threatened; ranks above adult are Elder (a century) and Ancient, five Ancients are recorded and one killed two Dragons
+grimalkin	a06a1bcc8a	6.67	+	fact	noted that Oteslia once fended off six adults, and that Crelers grow up to adult in at least fifteen years
+grimalkin	4a7d40bfb6	7.02	+	fact	a Drake [Sinew Magus] and "Fist Mage" in Pallass; runs a harsh course mixing weights and essays, certifies students as full [Mages] in one to three years and Silver-rank adventurers
+grimalkin	dd449d6326	7.02	+	fact	has duelled Archmage Feor of Wistram and lost, killed Adult Crelers, and takes Erin's chess-boxing and exercise ideas; weight sets are made by Smith Tirrel and he orders sixty sets with some for Manus and Relc
+grimalkin	b0b1e886b8	7.02	+	fact	notes a Gnoll Wistram student forty years ago, and a Gnoll [Archmage] thousands of years ago; he says Mrsha uses nature magic and is intrigued by Erin
+grimalkin	73ed66d007	7.03	+	fact	throws fifty-pound weights from his estate, kills Wyverns with [Reduce Weight], [Warlock's Leap], [Lightning Bolt], [Gauntlet of Force], [Thunder Step] and [Impact Shockwave], and says the [Cage of Pallass] should have been cast
+grimalkin	d5caeeb1c5	7.03	+	fact	stands on the north wall, finds Watch Captain Rekhassha frozen, kills a young Wyvern by hand and fights the Wyvern Lord, which resists his spells; its frost breath freezes him but [Muscular Restructuring] saves his arm
+grimalkin	b67a363fd4	7.04	+	fact	scales peeled from frostbite, lost muscle; hundreds line up to be his apprentices after the fight
+grimalkin	e44f7cacce	7.04	~	belief	cannot swear Erin's role is coincidence; calls her "a keystone" and says she might one day be like Saliss, "whose?"
+grimalkin	215799c495	7.07	+	fact	[Sinew Magus]; notes the "Erin-chaos effect" in personal notes
+grimalkin	e6b79be406	7.07	+	fact	cannot open the door by force, then stacks [Bound Spell: Siege Fireball], [Salamander's Skin], [Lion's Strength], [Dual Binding: Valmira's Comet], [Haste] and [Thunder Step] to punch it; it vanishes, the wall is undamaged, the flo
+grimalkin	721bcce765	7.07	+	fact	judges the Skill durable but limited to Erin's inn and unhelpful in sudden attacks; guesses Erin is Level 40 and refers her to Pallass' best [Innkeeper] of The Noble's Fancy
+grimalkin	12f7dbe89e	7.11	+	fact	believes Erin's Skill, Mrsha's disappearance and the broadcast day are linked; is building muscle, eats sushi from Lasica and keeps one piece
+grimalkin	b166759953	Interlude_Lifting_Ants	+	fact	sets up a weights room with six benches in a private room of the inn; the inn now has three private rooms, one holding Octavia's stuff
+grimalkin	c192aba875	Interlude_Lifting_Ants	+	fact	apprentices Ferkr, Giren and Terreskil run the stations; Ferkr (Gnoll) demonstrates a bench press with 150 pounds (bar plus two 50 pound weights)
+grimalkin	47215028be	Interlude_Lifting_Ants	+	fact	says charging the inn door's mana cost is easy because Wailant planted a third of his Sage's Grass the day before
+grimalkin	3e4cc249d8	Interlude_Lifting_Ants	+	fact	pays most attendees; presents "weight-based training" and a gymnasium proposal to all Walled Cities by scrying mirror; the Dragonspeaker of Manus and Watch Captains listen; cost figures are forwarded to each city
+grimalkin	38654258ec	Interlude_Lifting_Ants	+	fact	advises the guards not to use healing potions on strained muscles, as it reverses gains
+grimalkin	50398e1a63	Interlude_The_Hangover_After	+	fact	says his digestion cleared the alcohol before sleep; judges Erin's Skills less efficient than those of better inns, citing The Adventurer's Haven where even he cannot cast an offensive spell by the [Law of the Inn]
+grimalkin	daf58ce3a5	Interlude_The_Hangover_After	+	fact	takes steaks, salad, bullhen eggs and other food into a bag of holding and leaves payment; he calls it junk food
+grimalkin	cedf0eda03	7.20	+	fact	warns Erin that poaching Pelt harms Pallass relations; "Pallass would like to be strongly connected"
+grimalkin	9aaa3690dd	Interlude_A_Night_in_the_Inn	+	fact	Grimalkin says the Antinium count is far higher than the treaty allows and that Magnolia's action benefits Izril
+grimalkin	f8e75737fb	7.31	+	fact	[Sinew Magus]; analysed Erin's inconsistencies; concludes she is a time traveller and wonders if from the past or future
+grimalkin	70f6a5f0cf	7.31	~	belief	believes Erin is "the girl from another era" and is unsure whether she came from before or after now
+grimalkin	beed02fe7f	Interlude_A_Meeting_of_Druids	+	fact	casts [Siege Fireball] at the spiders; Maviola counts four who could do the same: Xrn, Saliss, Eldavin, Grimalkin
+grimalkin	65c2c9bfa0	7.38	+	fact	[Sinew Magus] of Pallass; casts [Silence] and probes Erin about being lost in time; Kevin on Dreamleaf deflects him
+grimalkin	dca266049f	7.38	+	fact	pays Leon and Troy with a bag of coins for secret information about Master Felkhr and "flight", offered rooms and artifacts via Chaldion
+grimalkin	3182842186	Interlude_Sand_and_Notes	+	fact	[Sinew Magus] of Pallass; his weight sets have few buyers; Manus is slowly incorporating them; Manus, Fissival, Oteslia and Zeres declined to invest
+grimalkin	d982a732ef	Interlude_Sand_and_Notes	+	fact	records notes on "Project Earth" for Chaldion, speculating a future of devastation
+grimalkin	c29ad6209f	Interlude_Sand_and_Notes	!	event	connects Pryde's lists to a lifting rivalry across the Walled Cities
+grimalkin	b300315e96	7.53	+	fact	[Sinew Magus] and consultant to Pallass' forces; tells Ryoka he knows she is from Earth and offers residence, protection, possibly a magical prosthesis for her hand and a way home
+grimalkin	fe238f6873	7.53	+	fact	slips about Magnolia, implying an Earther from Magnolia's mansion informed Pallass; Ryoka guesses Leon, Galina or Troy
+grimalkin	fe68ae8a22	7.53	~	belief	says "Not from Pallass" when asked if his offer is a threat
+jelaqua ivirith	b7cfbd1e89	2.22	+	fact	pale woman in black chainmail with a three-headed flail and black eyes
+jelaqua ivirith	27e0b018a9	2.22	+	fact	the Halfseekers (Half Freaks), a Gold-rank team of part-humans
+jelaqua ivirith	a36ac671d1	2.22	+	fact	offers Ceria a place in the Halfseekers; they lost members; they want a half-Elf
+jelaqua ivirith	6214feb23a	3.27M	+	fact	Level 33 [Iron Tempest], from [Flailmaster]; uses a two-handed flail
+jelaqua ivirith	62e7b14d9f	3.33	+	fact	shakes Erin's hand; Erin recalls her as "that chest-bursting lady" who made her faint; Erin recognises Moore and Seborn
+jelaqua ivirith	f906675fb6	4.12	+	fact	Selphid whose cheeks turn orange when she blushes; kicks a chair, Moore catches it
+jelaqua ivirith	f7dfc38a0e	4.19	+	fact	calls the dungeon a vengeance dungeon; dungeon types are containment, future generations and vengeance
+jelaqua ivirith	19a89c2ec7	4.19	+	fact	tells young adventurers they will die and not to go down; Halrac says the same
+jelaqua ivirith	eefef8515d	4.19	+	fact	a Selphid, two-handed flail, class [Iron Tempest]; orange cheeks when embarrassed
+jelaqua ivirith	fa4897456c	4.19	~	belief	says the dungeon is built as a trap and not just to hide treasure
+jelaqua ivirith	f27c3ccda9	4.29	+	fact	stabbed through the stomach by Regrika; Typhenous's bolt spells do nothing
+jelaqua ivirith	08170e4caa	4.30	+	fact	Selphid, top of her head sheared off, empty inside; knocked out by Regrika; says she is Rampaging
+jelaqua ivirith	c667c432c8	4.33	+	fact	Selphid whose stitched head top (cut by Regrika) is decomposing; she needs a new body, prefers female, may need Celum; Drakes and Gnolls dislike body use
+jelaqua ivirith	69ca38d5be	4.33	+	fact	Selphids' brains are not needed to control a body; Antinium bodies considered but she is unfamiliar with four arms
+jelaqua ivirith	2366b7d029	4.34	+	fact	sees Headscratcher at the door and cries "Garen?"; Halfseekers beat the Hobs until Erin's shout shakes the floor
+jelaqua ivirith	4bf1384f13	4.34	!	event	stays at the inn despite her hatred of Goblins
+jelaqua ivirith	c5f6462363	4.43	+	fact	hungover after the party; Moore sits on the floor, there being no chair large enough
+jelaqua ivirith	69a9b5073f	5.00	+	fact	arrow-trap barb stuck in her shoulder, likely poisoned; Seborn missed the trap
+jelaqua ivirith	8f226c569a	5.01	+	fact	fights unarmoured with a two-handed flail; takes two arrows in the chest and shoulder
+jelaqua ivirith	0b2ccc201a	5.01	!	event	arrested briefly, then treated as guests under Ilvriss's insistence
+jelaqua ivirith	9fa2d4fe76	5.07	+	fact	body is decaying and she cannot buy a corpse from Celum or Liscor; finds the Redfangs' training reminiscent of Garen
+jelaqua ivirith	b64434af8d	5.08	+	fact	dropped from the air by a giant moth, body broken and paralysed from the neck down but able to talk
+jelaqua ivirith	d336290fbc	5.08	!	state	paralysed, body nearly destroyed
+jelaqua ivirith	96b1328e75	5.13	+	fact	receives a new Drake body, grey-green scales with a scar and a tail, from a junior female Watch [Guardsman] who bled out; Liscor owed her a corpse under Guild law
+jelaqua ivirith	eca8664148	5.14	+	fact	says the Halfseekers do not kill idiots
+jelaqua ivirith	a4f23137ed	5.29	+	fact	Heartflame Breastplate deflects bites and blasts; her hearing damaged by blasts, repaired by her Selphid body; flail dented
+jelaqua ivirith	edb04c1ba9	5.34	+	fact	Halfseekers will team with the Horns of Hammerad while Griffon Hunt works with the Silver Swords; Halfseekers meet Halrac, Zevara and Olesm to plan against monster silos
+jelaqua ivirith	0049af2353	5.35H	+	fact	fought two groups of Raskghar in the city; her Heartflame Breastplate ignites
+jelaqua ivirith	10a01d8b3f	5.35H	+	fact	is fifty-one, has adventured about thirty-three years, six more than Typhenous, and says dungeon sieges are normal
+jelaqua ivirith	8580a56fc7	5.36	+	fact	is unhappy about the competition but says people come first
+jelaqua ivirith	f58dfc2110	5.40	+	fact	the Halfseekers cut through fourteen corridors, meet the armored Raskghar who took Ceria; Moore speared and Jelaqua hit by a trap explosion; her Heartflame Breastplate takes the hit
+jelaqua ivirith	1f166c4cf1	5.44	+	fact	leads the charge and kills the Raskghar in enchanted armor
+jelaqua ivirith	41986b787d	5.45	+	fact	Selphid, Gold-rank; Seborn is a Drowned Man, Gold-rank; they owe Selys Shivertail a cut and eye a suit of armour
+jelaqua ivirith	b0ba10dc45	5.46	+	fact	wants to try a Raskghar body and have Erin store bodies in her basement
+jelaqua ivirith	43778bf303	5.49	+	fact	announce they are done with the dungeon
+jelaqua ivirith	db8795685d	Interlude_Bird	+	fact	wants the armour and Keldrass also wants it; Bevussa hopes she withdraws her claim on the light-spelled shortsword
+jelaqua ivirith	8512d3d6dc	5.52	+	fact	pays Erin to store dead Raskghar bodies in the basement as spare Selphid bodies
+jelaqua ivirith	b4048699b3	5.57	+	fact	walking north with a door in the pass when they meet the Redfangs and Garen; they attack him
+jelaqua ivirith	3fd5e17fc2	5.58	+	fact	Selphid, ran at Garen with a flail; takes spear, arrows and stabs but does not bleed; Garen runs her through three times
+jelaqua ivirith	60f9c08409	5.58	+	fact	tells everyone the inn staff saw a Goblin leave bloodied; Garen ran with the key
+jelaqua ivirith	ad248e0f31	5.58	~	belief	says Halassia threatened Garen but Garen killing is unforgivable
+jelaqua ivirith	f373c5bd2a	5.59	+	fact	wears a Raskghar body; refuses to discuss what happened; Moore and Seborn recover
+jelaqua ivirith	a5929d10b8	5.59	~	belief	says Garen is a terrible liar and may have exaggerated
+jelaqua ivirith	97c4da6785	Interlude_B09_1	+	fact	burn Garen's body, find no key on him, and decide on one more adventure
+jelaqua ivirith	18ff3821f3	6.03	+	fact	offers Numbtongue a place in the Halfseekers; he declines because he belongs at the inn
+jelaqua ivirith	2411711725	6.32	+	fact	Selphid captain of the Halfseekers; the Halfseekers (Moore, Seborn) return through the door while 150 miles from Invrisil
+jelaqua ivirith	0bc22c4b79	6.32	!	event	wake together in bed after a night of drinking, with Jelaqua in a female Raskghar body and Maughin accepting her Selphid nature
+jelaqua ivirith	371a6d777c	6.38	+	fact	in Maughin's ninth-floor Pallass apartment, cooking breakfast and a sandwich; is a Selphid in a Drake body; the Dullahan community treats the pair as a scandal, tolerated in Pallass
+jelaqua ivirith	aa511447bf	6.50I	+	fact	Selphid in a new pale body, dating Maughin; she orders cookies from Erin for a date in Pallass and says she met nobody she clicked with like this in eight years
+jelaqua ivirith	a965f6ec0f	6.58	+	fact	arrives in a Raskghar body and beats Ulinde's host body so the Selphid must be dragged out by her real body
+jelaqua ivirith	d656beac08	7.03	+	fact	a Selphid in a Raskghar body, receives from Maughin a new, larger flail made for that body
+jelaqua ivirith	ef256c86fc	Interlude_Chocolate_Gold	+	fact	Halfseekers, going to clear a giant locust swarm; pays for the Sage's Grass field via a slip redeemable at the Merchant's Guild in Liscor
+jelaqua ivirith	832d1838b1	7.49	+	fact	upgraded to [Steel Tempest]; attends a Dullahan Walking-Waltz with Maughin
+queen of the free antinium	15423693d1	1.24	+	fact	a large female Antinium in a dark cavern; Klbkch calls her "my lady" and "my Queen"; she calls him her Propugnator and champion, and "Klbkchhzeim of the Free"
+queen of the free antinium	4a9ea00c5f	1.24	+	fact	allows Klbkch to take twelve Workers to Erin's inn, wants success, and asks for a sample of acid flies
+queen of the free antinium	b19987abf6	1.25	+	fact	senses it and sends soldiers, whispering "Klbkchhzeim?"
+queen of the free antinium	a1f2e0664e	1.26	+	fact	immobile, bloated and fully insect-like, with glowing orange-red faceted eyes; two guards, nearly twice the size of Klbkch, with spiked gauntlet-like arms
+queen of the free antinium	6aea6a6152	1.26	+	fact	holds Erin accountable for the death of "Klbkchhzeim" and calls him her "Prognugator", saying his death was needless and a failure; he was a match for a hundred Goblins
+queen of the free antinium	af1dfb868d	1.26	+	fact	says three Workers have become Aberrations from the chess experiment and that the Antinium are not free
+queen of the free antinium	c63abee793	1.30	+	fact	busy on a project and orders her envoy to handle the Council
+queen of the free antinium	530249f5e8	1.30	+	fact	tells her Prognugator to kill any free Aberrations he finds
+queen of the free antinium	627c9bdc5a	1.36	+	fact	spoke of "time lost" after Klbkch's death
+queen of the free antinium	49fcd41610	1.42	+	fact	undergoing the Rite of Anastases, hours from completion
+queen of the free antinium	4e7f6b3ec3	1.44	!	event	finishes the Rite and takes control; Soldiers stream back into the city
+queen of the free antinium	9c9a7253ec	2.20	+	fact	leads the Free Antinium hive under Liscor; rival of the Great Queen's order; says Erin is needed but not vital
+queen of the free antinium	d7b075e645	2.20	+	fact	Pawn has levels in [Tactician]
+queen of the free antinium	62b6bf31ef	2.27	+	fact	has argued with Klbkch for years about letting adventurers help with the dungeon; her view changed after Skinner
+queen of the free antinium	a7854d5971	2.27	+	fact	wants at least one Named Adventurer and twice as many Gold-rank ones
+queen of the free antinium	417bb8b87e	2.27	+	fact	may need the Rite of Anastases, which would mean bringing her to another Queen
+queen of the free antinium	36f8ee0a45	3.34	+	fact	hosts Prognugator Tersk and three Armored Antinium, Revalantor Pivr of the Flying Antinium with six, two Silent Antinium soldiers, and Xrn of the Centenium, now Prognugator to the Grand Queen
+queen of the free antinium	fd60b70e21	4.07	+	fact	resurrected and altered Klbkch; lacks resources; reagents can be bought from [Alchemists]
+queen of the free antinium	88405228ee	4.24	+	fact	learns from Klbkch, who learned from Xrn, that the Grand Queen is not trying to create more Queens
+queen of the free antinium	45f8ee9be8	4.24	+	fact	drags herself to sealed laboratory rooms holding failed experiment corpses; she rediscovered the Rite of Anastasis there and Ksmvr was created there
+queen of the free antinium	67644cea5e	4.24	+	fact	starts experiments to create new Queens and champions using her own eggs
+queen of the free antinium	d644b92bce	5.33B	+	fact	speaks through Klbkch by a link that works through rock and water, hears what he hears
+queen of the free antinium	7d84a35272	5.33B	+	fact	tells Zevara the Antinium learned of the dungeon a few months ago and that the Hive is not subject to Liscor's laws; the Hive claims what lies underground is not Liscorian property
+queen of the free antinium	9d80f5c7e1	5.33B	+	fact	has lived in the Hive over a decade; feels isolated, exiled for her goals by her peers
+queen of the free antinium	014c093a85	5.33B	+	fact	eats cooked food prepared by Garry, craving taste after a decade of paste, and likes fried Shield Spider abdomen and roast pork
+queen of the free antinium	923e14d657	5.33B	+	fact	has a sealed airtight chamber for her experiments, with sacks of fluid holding failed creations
+queen of the free antinium	3fe123637e	5.33B	+	fact	spent four years reconfiguring muscle fibre and two on balance to build Klbkch's new form; will not mass-produce it
+queen of the free antinium	fa51847aab	5.33B	+	fact	describes the Flying Queen and Silent Queen's new combat forms; calls the Flying Antinium forms flawed
+queen of the free antinium	a6856db779	5.33B	+	fact	describes alchemy as worthless for her work without rendering
+queen of the free antinium	aafa1a28b0	5.33B	+	fact	declares Bird flawed and says he should not exist, then lifts him and cracks his carapace; he sings and she loosens her grip
+queen of the free antinium	cd500d2421	5.33B	+	fact	names Galuc the Builder as the only comparable Antinium
+queen of the free antinium	258f45cbb5	5.33B	+	fact	gives Bird gold coins in a bag of holding to buy a bow
+queen of the free antinium	c7f22ab5c5	5.33B	~	belief	considers Individuals incomplete, "not true Antinium", not people
+queen of the free antinium	dc3a7b8269	5.33B	~	belief	assumes Bird's mind is broken by an imperfection in the growing stage
+queen of the free antinium	336564db34	5.33B	!	event	contact re-established with the Grand Queen; the Free Antinium are ordered to rejoin the Hives
+queen of the free antinium	48c82a61ca	5.33B	!	event	tells Bird she is pleased with him and wants him to sing daily
+queen of the free antinium	e37f2178bb	5.54	+	fact	tends Bird with Drones, strange Antinium with six feelers; uses blood sacs that are living organ stores
+queen of the free antinium	0e2bbc8de6	Interlude_Pebblesnatch_and_Garry	+	fact	has learned Garry's name and been kinder to him; tells him to bring back the choicest morsels
+queen of the free antinium	264fd4b389	Interlude_Pebblesnatch_and_Garry	+	fact	eats Garry's pizza, sweet potato hamburgers and cake; says chemical imbalances were allowed in Galuc's modified form but do not extend to Queens, so she can eat gluten; she tastes concentrated sugar for the first time
+queen of the free antinium	298a154c76	5.61	+	fact	tells Bird the Antinium will deliberately fail to destroy more than one or two trebuchets, because Klbkch must speak only truths to Drakes using truth-detection spells
+queen of the free antinium	b8a4a387bc	5.61	+	fact	tells Pawn the Painted Soldiers will lead Liscor's citizens into the Hive when it must be defended
+queen of the free antinium	5c328e7fb2	5.62	+	fact	tells the Grand Queen she cannot hear orders when the Painted Soldiers leave to rescue Erin
+queen of the free antinium	20d6b1eaa6	6.29	+	fact	tests Bird and Garry again on the Antinium's purpose; the true answer is revenge on Rhir, and they cannot hear her
+queen of the free antinium	bd2d0edd47	6.29	+	fact	was a Junior Queen on the fleet sent to take Terandria; ships were lost to pursuit, pirates, storms and a Kraken; sixteen Centenium died; fewer than twenty landed on Izril
+queen of the free antinium	7296665849	6.29	+	rel	mentor was the Shaper Queen Bessachidia, who died in the crossing
+queen of the free antinium	e5a073d8d1	6.29	~	belief	claims the Antinium's purpose is vengeance on the deathless thing in Rhir
+queen of the free antinium	7667234e5f	6.62L	+	fact	takes direct control and speaks "Forwards!" in minds; Klbkch kills Flesh Worms and Ghouls, loses a Skill attempt ([Mirage of Cu...]) from the Rite of Anastases
+queen of the free antinium	1222944953	Interlude_Queens_and_Dragons	+	fact	about four decades old; was newly formed when she left Rhir; learned shaping from Bessachidia alongside the Silent Queen
+queen of the free antinium	2149dc251a	Interlude_Queens_and_Dragons	+	fact	claims Bird is not a Prognugator but part of the "Individual and Autonomous Antinium" experimental program that needs no Antinium lives for formation
+queen of the free antinium	882476fd21	Interlude_Queens_and_Dragons	+	fact	has been in exile nearly a decade; sees through Klbkch's eyes; mirrors link her to other Queens
+queen of the free antinium	e1276758c8	Interlude_Queens_and_Dragons	~	belief	believes the other Queens misunderstood Bird and thinks Silent Queen thinks she hides experimental designs
+queen of the free antinium	7d66546135	Interlude_Queens_and_Dragons	!	event	Bird's stand lifts the Free Antinium from neglected exile to courted Hive
+queen of the free antinium	7c2a4ae251	Interlude_Lifting_Ants	+	fact	tells Bird "Go, little bird" when he asks to take Garry
+queen of the free antinium	e1037de7a4	7.39A	+	fact	spends three days in her laboratory while Xrn, Yellow Splatters, Pawn, Belgrade and Purple Smiles run the Hive; Garry's helpers Pisca and Runel are Flying Antinium
+queen of the free antinium	79d2c4445b	7.39A	+	fact	feels this is how Queens of Rhir once lived and feels treated like royalty
+queen of the free antinium	ad5b65444d	7.39A	+	fact	experimenting with creating new Queens, while the Grand Queen has forbidden such attempts
+saliss of lights	725fe0ddd6	6.10	+	fact	Named Adventurer in Pallass arrested naked by the City Watch
+saliss of lights	d3f56afc8a	6.39	+	fact	Named Adventurer, on Grimalkin's list of people who could kill him if he were caught off guard
+saliss of lights	855391400c	7.02	+	fact	a naked Drake [Alchemist] with dusky yellow scales who has his own cell with lab bench, a bed and a toilet; is arrested often for nudity
+saliss of lights	b6d538375e	7.02	+	fact	says he undresses because his Skills protect his scales from spills, and claims nudity is expression against Drake culture
+saliss of lights	7d9435fb7a	7.02	+	fact	knows Xif, Rufelt and Lasica; says Erin is Level 40 [Magical Innkeeper] and he can see basic facts but not Skills, and keeps levels secret
+saliss of lights	1535e0bb4f	7.02	+	fact	his cell door is unlocked and he has keys; guards obey him; he is held for "general indecency" but is allowed to work
+saliss of lights	6484c09e2e	7.02	+	fact	says Erin reached Level 40 before thirty, a feat matched only by the King of Destruction
+saliss of lights	9666dc2882	7.02	+	fact	teases Erin about wallowing, dances (tap, twirl, waltz, disco) up the prison, and she laughs and dances the Cha Cha Slide with him; prisoners riot
+saliss of lights	a01141d76e	7.02	+	fact	the highest-level [Alchemist] in Pallass, perhaps the world; Pallass's only permanent resident Named-rank adventurer; has immunities from the Assembly of Crafts
+saliss of lights	e7aa43d190	7.02	~	belief	claims the guards always put someone opposite him as punishment
+saliss of lights	e557cac38a	7.03	+	fact	tests fire and burning mixtures and lightning potions, fights nude up the staircases, and says he did not hear the alarm because his lab is soundproof
+saliss of lights	d5a849a4ea	7.04	+	fact	dances naked outside the 4th floor Watch House trying to get arrested; no one reacts
+saliss of lights	93b333b97d	7.06	+	fact	enters the inn naked, jokes "noneya business"; sniffs the cake after taking a potion and discovers Mrsha used a Skill
+saliss of lights	04e0b34b6e	7.07	+	fact	Named Adventurer, best [Alchemist] in Pallass; goes about nude; has [Eyes of Appraisal] and reads Erin's level, class and Skills
+saliss of lights	b73891a519	7.07	+	fact	throws Erin a ring of truegold and ruby with a crossed-out eye sigil that blocks [Appraisal]; she wears it beside Ilvriss' ring
+saliss of lights	1037f8fbbf	7.07	!	reveal	reveals he already knew the Skill and learned Erin's level and class
+saliss of lights	b6cabcfac4	7.11	+	fact	Named Adventurer [Alchemist], walks into the bar naked; has Erin's fire and says it burns fuel too fast
+saliss of lights	f315b92c1f	Interlude_Chocolate_Alchemy	+	fact	makes a youth potion for about a week (eight hours, six failures), sells to the Merchant's Guild; can make anti-aging potions of up to two years; uses Erin's fire in the process
+saliss of lights	4474058f5a	Interlude_Chocolate_Alchemy	+	fact	pays for food and trades Erin a Potion of Speed and an Invisibility Potion for her chocolate; says he would likely have given them anyway
+saliss of lights	6cda41ab41	Interlude_Chocolate_Alchemy	+	fact	gave Erin a ring "to bother old Chaldion and Grimalkin" and tries to trade for a faerie flower, offering four, eight, then sixteen potions; Erin refuses
+saliss of lights	e82bf01c97	Interlude_Chocolate_Alchemy	+	fact	visits the inn naked and buys chocolate with gold; Lyonette suggests a towel
+saliss of lights	985ce401e7	Interlude_Chocolate_Alchemy	+	fact	identifies Octavia's baking soda as trona ore and matches as phosphorus and charcoal; says Pallass alchemists will buy recipes under the Assembly of Crafts' registry law
+saliss of lights	9ccacef1d4	Interlude_Chocolate_Alchemy	+	fact	Octavia's mould cultures include a toxic spore mould he says to keep away from kitchens
+saliss of lights	b616b43b42	Interlude_Chocolate_Alchemy	~	belief	suggests Xif made the mistake of thinking Erin had only one special thing, a flower and a flame
+saliss of lights	ecedc382b8	Interlude_Chocolate_Alchemy	~	belief	sees his own "inner-Saliss" and Erin's inner-Erin as kindred, according to Erin's thought
+saliss of lights	e78a5d99ea	Interlude_Chocolate_Alchemy	!	reveal	nearly reveals Lyonette's royal status by calling her a [Princess]; recovers by calling it a Drake joke
+saliss of lights	e3d61f5187	Interlude_Lifting_Ants	+	fact	tests a drop of Ryoka's leftover Haste Potion with a magical condensing test; the crystal produced is larger than his Youth Potion's
+saliss of lights	6758f5c7c4	Interlude_Lifting_Ants	+	fact	teaches Octavia but will not take apprentices; they bargained that she will break Level 30
+saliss of lights	1831adc761	Interlude_Lifting_Ants	+	fact	tells Octavia he will never ask for anything sexual, illegal or wrong; studied in Nerrhavia and rejects master-apprentice romance, "like sulfur and fire"
+saliss of lights	a87fcc9cb6	Interlude_The_Hangover_After	+	fact	drinks a Talent Potion (marked with a musical note) that lets him play any string instrument and gives it to Octavia as well; says he cannot make more
+saliss of lights	701c0160fe	Interlude_The_Hangover_After	+	fact	lists Talent Potions, Blademaster Draughts, Luck Potions, and [Witches]' life-drinking brews; says he and Xif both received some of Erin's fire last night
+saliss of lights	b758860e91	Interlude_The_Hangover_After	+	fact	throws a bottle that catches a lightning bolt; the glass turns black and opaque and he pockets it
+saliss of lights	5372ab9895	Interlude_The_Hangover_After	~	belief	says Erin gives her fire away "for free or too cheap"
+saliss of lights	cb7516ba50	Mating_Rituals_Pt.2	+	fact	teach Octavia an orgasm potion banned in Pallass; Saliss gave Octavia the full dose
+saliss of lights	f87e669f0d	7.17S	+	fact	naked Named Adventurer and [Alchemist] who tricks past 4th Army elites and brings Chaldion a mincemeat pie containing a Potion of Reverse Aging; Chaldion has been de-aged repeatedly, gains two years this time
+saliss of lights	e6547f8dd6	7.17S	+	fact	says only four [Alchemist]s can make Temporary Youth; Erin's fire helped the refining, adding a 6 percent success chance
+saliss of lights	80a7b5cf9f	7.17S	+	fact	is Saliss's other form; she drinks a potion to change shape; her scales change to deep green when fighting the Watch
+saliss of lights	d49c7dc35e	7.17S	+	fact	is Chaldion's grandchild and says her grandfather will not look at her
+saliss of lights	c4ee812c47	7.17S	+	fact	ends the day lying in Erin's hallway, beats Erin in one poker hand by bluffing, and asks Xrn "Is it war?"
+saliss of lights	d45835d1cf	7.17S	+	fact	tells Chaldion Erin is a Level 40 [Magical Innkeeper] with Skills [Immortal Moment] and [Wondrous Fare] and asks "Who is she?" about Xrn; Chaldion promises to find out
+saliss of lights	b9f5467eff	7.17S	~	belief	believes the Walled Cities will hunt Turnscales after Chaldion dies
+saliss of lights	1231626378-0	7.17S	!	event	shown to be one person, a Turnscale
+saliss of lights	cab10cbaf2	7.26	+	fact	Teriarch asks why he hides his true form and wears an illusion; Saliss walks away weeping, as Onieva
+saliss of lights	ff9ba06c32	Interlude_A_Meeting_of_Druids	+	fact	arrives naked, Erin gives him a box labelled "Warning: contains small nuts"; he is angry at Chaldion's riot crackdown and learns Maviola is the young woman
+saliss of lights	6cd11e20c3	Interlude_A_Meeting_of_Druids	~	belief	says Chaldion's forces beat even children in Pallass
+saliss of lights	158f8f4b98	7.37	+	fact	gets samples of Erin's flowers; a Wistram-bound Gnoll [Gardener] sends germination notes
+saliss of lights	1a5fd0a52b	7.38	+	fact	[Layabout], rose and cobalt scales, supported by Saliss and Chaldion; looking with Mirn for a safe place for his bar
+saliss of lights	ee1e9a82fc	7.38	+	fact	claims to be Saliss' cousin, nearly slips "I'm Saliss of Light"
+saliss of lights	38f1acc0bc	7.38	+	fact	suspects Selys knows about Zel's "Turnscale" secret and holds back; considers the inn a possible safe place
+saliss of lights	b8e0f27b31	7.38	+	fact	watches Rose speak of "back home" and leaves for Pallass resolved to tell Mirn
+saliss of lights	3827709284	7.38	~	belief	thinks Zel Shivertail's "secret" was an open secret in high society
+saliss of lights	dbac6d92cc	Interlude_Meetings_and_Friendships	+	fact	naked on Chaldion's couch eating popcorn, is trusted by Chaldion for discretion
+saliss of lights	2f99431ecb	Interlude_Food_and_Growth	+	fact	Named Alchemist; arrives naked; ate thirty-six chocolates in two days and is out
+saliss of lights	74d7346bf1	Interlude_Food_and_Growth	+	fact	introduces himself to Rose, a nervous Human
+saliss of lights	df81065f79	7.49	+	fact	arrives at the inn in work pants, exhausted; puts a glowing potion labelled "Drink me" in Maviola's pocket and demands every flower of Erin's
+saliss of lights	fc99902341	7.51	+	fact	gave Maviola a Potion of Youth made with Octavia's help and Erin's flowers, nearly a hundred flowers for one potion
+saliss of lights	e8c9182015	7.52	+	fact	killed over thirty Raskghar in under a minute during the attack; Palt calls him the most dangerous Named Adventurer for five minutes
+wandering inn	e4fc964013	1.00	+	fact	wooden building on a stone foundation, oak boards, four times the size of a normal house, built for crowds, signboard faded and unreadable
+wandering inn	ac877f98f7	1.00	+	fact	common room dusty and long empty, water drips through cracks upstairs
+wandering inn	645dd013e5	1.01	+	fact	wood walls, beams, floor; long bar counter at the end (about twenty people); door behind the bar to a kitchen with rusty pots, pans and a bucket
+wandering inn	49ecc9b006	1.01	+	fact	second floor reached by a creaking staircase; first upstairs room has curtains and a shuttered window
+wandering inn	48e5129f4b	1.02	+	fact	windows are square holes with shutters, no glass or curtains downstairs
+wandering inn	61a5fb7afc	1.03	+	fact	door has a sliding metal bar; many windows with wooden shutters and cheap latches, some mantles rotted but shutters mostly intact
+wandering inn	3a963a5a95	1.03	+	fact	a skeleton lies in the bed of the last room upstairs at the end of the corridor
+wandering inn	ae839b7e9e	1.06	+	fact	sits a long walk from the stream
+wandering inn	d87f9d77e1	1.07	+	fact	once a small community that died of a plague; it was abandoned nearly three years ago; no law forbids living there
+wandering inn	443b319004	1.12	+	fact	stands on a long gradual incline; Liscor is visible from it, about an hour's walk though Relc and Klbkch said ten minutes
+wandering inn	28f9553bb3	1.16	+	fact	kitchen window faces the mountains; cool air comes down from them
+wandering inn	f119046f86	1.20	!	event	Erin paints the inn's new name on the plaque and plants a sign reading "No Killing Goblins"
+wandering inn	c4f074f489	1.21	+	fact	Erin sleeps at the second table by the bar; Klbkch helped install a new door
+wandering inn	49b3bea37f	1.37	+	fact	about an hour's walk from Liscor
+wandering inn	ed8f27ef33	2.11	+	fact	copper nails, varnish, glass windows with shutters, new kitchen, well, outhouse; Selys organized the possessions with [Receptionist] skills
+wandering inn	ea97d91fd1	2.03G	+	fact	the narrator says Erin returned in a black carriage with ghostly horses; many people then enter and a fight starts
+wandering inn	53151b2b14	2.35	+	fact	built by Antinium with glass windows; Peslas' inn has none
+wandering inn	1737681a97	3.32	+	fact	has a hidden trapdoor basement behind a small storage closet that Lyonette finds
+wandering inn	46888b7a9e	3.33	!	state	becomes magical, with large glowing light orbs and a charged atmosphere
+wandering inn	96cf33e675	Meta_B04_Authors_Note	+	fact	began about five years before the note; e-books follow audiobooks narrated by Andrea Parsneau
+wandering inn	871dcb38ec	4.15L	+	fact	becoming a hangout for adventurers and the only place to get cheap honey besides one Gnoll
+wandering inn	bf80b5ff48	4.19	+	fact	now busy because of the magic food, fast service and the Celum door; Erin's Skills make it three times as attractive as other inns
+wandering inn	c8a50b58f0	4.29	+	fact	rebuilt by the Antinium with a ground floor a third larger, two new second-floor rooms, an entire third floor, a watchtower over Bird's room, and two new outhouses
+wandering inn	1a7ab75270	4.32G	+	fact	Goblin archers fire flaming arrows at it, which fail to ignite; arrows bounce off the glass windows; deemed too close to the city to loot
+wandering inn	b6e0cc01e3	4.40L	+	fact	empty for days; only the Horns and Halfseekers stay; Ishkr has not returned
+wandering inn	2fd14f5610	4.42L	+	fact	music and dancing party includes Goblins, Antinium, Halfseekers, Horns of Hammerad, Octavia, Bird; Guards hear it from outside
+wandering inn	96b7e472b8	5.04	+	fact	spells grow bigger because the inn is mana charged
+wandering inn	e532b185d4	5.08	+	fact	survived the moth assault because of her Skill; walls stayed intact though all windows broke and Bird's watch tower was smashed
+wandering inn	5ec4ee82b9	5.12	+	fact	all windows broken, outhouses and Bird's tower destroyed, moth corpses inside; kitchen and basement undamaged
+wandering inn	d622fec375	5.59	+	fact	Erin's aura keeps Liscor soldiers and guards from opening the door; Ilvriss can enter and chooses not to interfere
+wandering inn	dcb3be92cb	6.02	+	fact	closed to everyone from Liscor except the Horns of Hammerad, the Halfseekers, Lyonette and Mrsha; Olesm failed for three hours to climb the hill
+wandering inn	98be4f4c2d	6.03	!	event	reopens after more than a week closed
+wandering inn	cef52a90a0	6.08	+	fact	five rotating mana stones on the door: Celum, Liscor, Numbtongue's purple stone, an orange stone for the door Griffon Hunt and the Halfseekers carry north, and Pallass
+wandering inn	cba24d748e	6.08	+	fact	a thousand gold richer from the Redfangs' gift but without third floor and Bird's tower
+wandering inn	5c2053809c	6.28	+	fact	third floor and tower are still gone since the Goblin Lord's attack on Liscor; the hill has outhouses and a sign; Erin plans to expand the hill with Antinium labor
+wandering inn	65820d8833	Interlude_Numbtongue_Pt.1	+	fact	the Pallass door is crowded, with Grimalkin acting as a charge for it while Moore and other [Mages] help and Erin checks Celum every thirty minutes
+wandering inn	69ad83c663	Interlude_Numbtongue_Pt.1	+	fact	Jelaqua is attached to a Dullahan, Maughin; the Halfseekers are held two days from Invrisil; Temile stage-manages Players of Celum; Embria joins Grimalkin and Relc with Erin's weights
+wandering inn	9a0f8fd09f	Interlude_Numbtongue_Pt.2	+	fact	five outhouses now, one for half-Giants; Maughin's body leaves the inn while his head stays chatting
+wandering inn	efb8d0fb86	6.38	+	fact	third floor rebuilt, roof tiles being laid; Belgrade assigned the Worker roofer; Ashfire Bees are trapped in a cavern; Apista still lives at the inn
+wandering inn	c4862de3ba	Interlude_Two_Rats	+	fact	crowded for days with guests from Liscor and Pallass and a play on the Grand Theatre stage
+wandering inn	7dd4b12cad	6.56	+	fact	expanded common room holds hundreds; has a [Grand Theatre] stage; about forty guests today
+wandering inn	e2982aaf0c	6.56	+	fact	new meal-order log system run by Lyonette and Ishkr; Erin remains the only [Cook]
+wandering inn	ee34b22f92	6.57	+	fact	has a No Killing Goblins sign, a horror-themed play lineup (Macbeth, Psycho, The Shining), Antinium construction, and a queue at the door
+wandering inn	c004961808	6.59	+	fact	Erin makes a soap-slide and Horns, Relc and Mrsha slide across; Wistram team leaves; Montressa swears they will capture Erin and Pisces
+wandering inn	aaea011894	6.65	!	event	walls blown down and floors collapsed by the Watch's assault, door reopened to Pallass
+wandering inn	0419292f6b	6.67	!	event	ruined; Horns plan to leave for Invrisil
+wandering inn	7b3305392d	6.68	+	fact	collapses into rubble on the hill; rescuers find Erin protected by a beam
+wandering inn	a4f17e9ae4	6.68	!	state	destroyed
+wandering inn	a8489b54ce	7.00	+	fact	rebuilt by Antinium Workers with Belgrade's trap designs and Lyonette; city funds, donations, and Antinium paid for it
+wandering inn	97c229f4bb	7.00	!	event	reopens with Lyonette running it, Erin still absent
+wandering inn	75aafe6726	7.02	+	fact	sees the attack through a scrying orb carried by Tersk and a Drake [Commentator], Noass, and Sir Relz at the magic door
+wandering inn	6e4cebf070	7.03	+	fact	Lyonette, Relc, Selys, Lism, Krshia, Klbkch, Pawn and the Antinium watch; Klbkch forbids Antinium from entering Pallass because it would be an act of war; Olesm fetches Guildmistress Alonna and mages
+wandering inn	16d311a79f	7.04	+	fact	rebuilt with narrow arrow slits, murder holes, walls three times as thick, a trapped entry hallway with two sliding side doors, hidden trapdoor and stone foundations
+wandering inn	110e6dd3ee	7.04	+	fact	second floor only one third done, two stairwells at opposite ends; stables planned; new door to Liscor to sit by the Adventurer's Guild and Mage's Guild
+wandering inn	ad6781d45d	Interlude_Burning_Alcohol	+	fact	only rule shouted by the guests is "No killing Goblins!"
+wandering inn	171b789fe4	7.23LM	+	fact	second floor now complete with many rooms; third floor under renovation with Bird's tower; Lyonette plans larger luxury rooms there
+wandering inn	03483a152c	7.38	+	fact	now part warehouse; the door is moved into the basement to roll barrels of preserved fish (about 2,200 lb) to House Sanito, ordered via Reira's warehouse; Lyonette issues receipts
+wandering inn	34ab4abfe7	7.48K	+	fact	has a TV in the common room using a six-foot mirror enchanted with [Scrying] by Palt; Erin moves it to a viewing room
+witch	f5602350df	4.20E	+	fact	lead the Silver-rank Celestial Trackers; Odveig is a [Macewoman] and nominal leader, Wiskeria a precise-voiced [Witch]
+witch	31a9409524	4.20E	~	belief	may have sent word to Invrisil that Laken is an [Emperor]; she hesitates when asked
+witch	03e3200a55	4.21E	+	fact	explain the Great Goblin Chieftain rumour; Goblins released women outside Merendia's gates after a tribe splintered from a mountain called Dwarfhalls Rest, and the remaining Goblins now raid with Hobgoblins and real weapons
+witch	1f242d2642	4.21E	+	fact	wears spectacles and a pointy hat even indoors
+witch	99eb3d1c64	4.21E	+	fact	removes the arrow and applies a mash
+witch	ebc8270122	4.22E	+	fact	cannot cast fireballs; mixes a poultice of roots, dried bugs and an egg that neutralises Beniar's poison
+witch	65a664c7ae	4.22E	+	fact	joined the Celestial Trackers not two months ago; Jeighya says Odveig formed the group and knows her well; she once pulled Corusdeer fur and summoned a herd
+witch	fd46f32e40	4.22E	+	fact	admits she took Mossbear fur as a precaution while it slept; denies the other incidents and says Odveig insisted on the escort contract; the team sometimes takes Reinhart requests
+witch	e50a0a73d0	4.22E	+	fact	uses [Paralyzing Touch] on Laken to escape
+witch	ed0702e9ac	4.23E	+	fact	gives four in ten odds that a marker-planting party is attacked; Laken orders Durene and the Windfrozen Riders to place them four miles out
+witch	ad8a70172a	4.23E	+	fact	apologizes for casting a spell on Laken, withholding the Mossbear fur and Odveig; says the fur was a precaution to drive the Mossbear off
+witch	4bf397d5b3	4.23E	~	belief	believes the Celestial Trackers are finished and she cannot return to Invrisil
+witch	efea1b2ffa	4.23E	!	state	becomes a Level 4 [General] overnight; Durene gains Lesser Endurance; most villagers level
+witch	9bf6affa5a	4.35E	+	fact	[Witch] and [General] (low-level), spectacles, strong minty tea; casts lightning; secretly spreading Laken's name
+witch	50c45a8b84	5.09E	+	fact	[Witch] and [General], former Silver-rank adventurer; cannot cast [Message]
+witch	788f6601a9	5.21E	+	fact	gathers hellebore and ingredients within a day for a prepared plan; leaves Day 99 with Beniar and riders
+witch	c6038a21df	5.22G	+	fact	poison smoke made of hellebore leaves, charcoal and a white parasitic root, fanned into the camp from cauldrons
+witch	1b201bfadb	5.23G	+	fact	had under 800 soldiers there; the Goblins still number over six thousand
+witch	6036385404	5.30G	+	fact	Laken's general, thinks the Goblins changed leaders and fears a trap, asks him to delay the bombardment
+witch	79fc19f411	5.31G	+	fact	[General] and [Witch] with a pointed hat she tugs when thinking; suspects the tribe is the Redfang tribe and asks Durene to persuade Laken to delay
+witch	8ac99e5831	5.31G	+	fact	receives a [Message] sounding like Laken ("situation has changed") ordering an immediate attack, repeated on follow-up queries
+witch	2b8da2e7a1	5.31G	~	belief	believes the Goblin tribe is Redfang (L264) while Rie reports it as the Flooded Waters tribe
+witch	793abaa353	5.32G	+	fact	casts [Fox Fire] at Pyrite; Noears's lightning forces her back
+witch	852f9a7dd6	5.37G	+	fact	bespectacled [Witch] and newly made [General], given her class by Laken as a gift
+witch	ce4c8cea07	6.33E	+	fact	[Witch] who stopped Beniar's group from killing Durene and tended her early on
+witch	ccbdf7b548	6.34E	+	fact	resigned as [General] and takes blame for the battle; she is Level 12, two good battle Skills, cries on command but says her mother never taught her to mourn
+witch	b80b7f6a40	6.34E	+	fact	eats foraged food and is pelted with rocks by villagers such as Rehanna, whom she lets do it
+witch	ac45c5fac7	6.34E	~	belief	says [Witches] must belong to a coven, and that no [Witch] she knows has [Necromancer] levels
+witch	efa6931dd9	6.36E	+	fact	tells families their dead died heroically; Randil (Level 14 [Warrior], spear) was Agathy and Agelica's kin; Iglief was an [Archer]
+witch	bdbde9c2b3	6.36E	+	fact	is a [Witch] and [General], says she is not above Level 30 as a [Witch], and will not reform the army; Beniar's Darksky Riders lead meanwhile
+witch	2cc01d0f2e	6.36E	+	fact	charms last days, spells hours; brews need ritual, intent, her hair and wrist blood, and cannot be repeated
+witch	f8d57693ce	6.36E	~	belief	says [Witches] cannot make healing potions and that most of Izril and Terandria's witches are Human
+witch	ce8571a290	6.36E	!	event	speaks publicly to Riverfarm for the first time since the battle
+witch	f4216ad412	6.37E	+	fact	accepts the new coven but declares Belavierr "unwelcome, unwanted, and unloved" and denies being her daughter
+witch	b6a6da06e9	6.40E	+	fact	Wiskeria banishes her mother with a three-fold chant and a push; Belavierr is pushed back several steps by unseen force
+witch	1ea5f9a72f	6.40E	+	fact	asks after Ostevien and Belavierr says "Who?"; Califor, Eloise, Hedag and Mavika react to the name
+witch	62e17d0c54	6.40E	+	fact	explains witch types: Hedag, Eloise and Nanette are good; Mavika, Alevica and Belavierr selfish; Califor in between; Belavierr is a [Stitch Witch]
+witch	4a06384a1a	6.40E	+	fact	says Belavierr is her mother and that she has not seen her in thirteen years
+witch	b8bfd85bf9	6.40E	~	belief	says Belavierr could not be beaten and wonders if the Hero of Zethe came back
+witch	65988049fc	6.40E	!	state	joins the coven
+witch	7fb6a60401	6.41E	+	fact	is Riverfarm's General but refuses to reform the army
+witch	2990180c2f	6.41E	+	rel	daughter of Belavierr; calls herself a glorified Hedge Witch; refuses her mother's help; Belavierr names "Ostevien" in an argument
+witch	7532d2bcd6	6.41E	+	fact	says she was a Mage and a Sewer, became a Witch at fourteen and left after seeing her mother "for who she truly was"
+witch	370f229265	6.41E	+	fact	takes General's orders again because "Miss Califor's always right"
+witch	90460a39f9	6.43E	+	fact	says the doll is illusion that works if the viewer wishes, not alive like a String-person, and Belavierr's craft is fair
+witch	1468f76f81	6.43E	+	fact	says Mavika found her after she fled her mother
+witch	f2929a497b	6.43E	+	fact	curses Ryoka in a mild chant (L588-592) and visits Rehanna, who says she is happy and refuses to give up Mihka
+witch	02e8a91573	6.43E	+	fact	her hat grew with her since six and lets her find her mother; she flung it to find Belavierr
+witch	e8e8be7cd5	6.43E	+	fact	tells Belavierr she hates what she does; backstory: Ostevien, the Griffin Prince of Kaliv, exiled by Queen Novakya and cursed never to die
+witch	ef0019a249	6.43E	+	fact	tells Ryoka that Laken met the fae in spring; Ryoka decides to see him and hopes for Ivolethe
+witch	5496e26c0a	6.43E	!	event	tells Belavierr "I hate you"
+witch	446f21a5c1	6.44E	!	state	recoils from her mother after Raim's death
+witch	ed82cfd043	6.45E	+	fact	says Belavierr threatened Ostevien, a friend, and talked Tagil into killing his friends; Belavierr answers they all chose freely
+witch	bf40b475bf	6.45E	+	fact	stabs at Belavierr in a blood charm and an air-blade chant, both fail; Belavierr says she lacks a craft
+witch	4e03e265f7	6.45E	+	fact	calls down lightning on Belavierr with the word "Justice," catches it and sends it back skyward
+witch	bb611f0dbc	6.45E	!	state	vows to become a [Witch] who ends what her mother does, and declares that her craft
+witch	3a0dfbc8be	6.46E	+	fact	asks Califor to be her apprentice; Califor refuses, saying Nanette is her only apprentice and she is "a selfish witch"
+witch	19a5a70bd8	6.47E	!	event	swears an oath to Califor's ghost to keep Nanette safe
+witch	b53a41057a	7.40ER	+	fact	[Witch]-[General]; proposes sinking a poison cauldron that would kill everything for three years; Crelers resist hexes

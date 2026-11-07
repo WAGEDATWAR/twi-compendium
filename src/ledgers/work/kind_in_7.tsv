@@ -1,0 +1,621 @@
+entity	sid	chapter	marker	heuristic_kind	text
+adventurer guild	6251d42338	1.13	+	fact	Liscor's branch is a large taproom-like hall; the Guild lets people report dangerous monsters, post quests and bounties, and adventurers take assignments from a board
+adventurer guild	ebdc970ad1	1.13	+	fact	patrons include Drake warriors, Gnolls in chainmail and one in plate, Antinium, and Drake and Antinium mages in robes with staves or daggers
+adventurer guild	6d996864ad	1.23	+	fact	Liscor's branch has few members, since locals join the army or Watch
+adventurer guild	1238c69568	1.06R	+	fact	offers a copper piece for every four pairs of Goblin ears
+adventurer guild	7222614d1e	1.45	+	fact	guildmaster is an elderly Drake with dusky purple scales and Selys's grandmother
+adventurer guild	872f0e457f	2.03	+	fact	Drake adventurers refuse to enter the Ruins, saying the trapped should have saved themselves
+adventurer guild	aafdb6b5da	2.35	+	fact	pays four silver per Corusdeer antler
+adventurer guild	b843c67e59	3.24	+	fact	takes ten percent of spoils from a dungeon raid; the Horns paid it, plus healer and blacksmith costs, lavish inn stay
+adventurer guild	a03dc6f548	5.27	+	fact	cities can demand adventurers' defense help; city and guild tax artifacts recovered; bounties on Shield Spider shells, Raskghar, Lurkersnatch Fish, slime cores, Dropbat teeth, Corusdeer horns
+adventurer guild	5b6303d9de	5.35H	+	fact	forbids using people or listed species for undead
+krshia	97b0b42488	1.20	+	fact	a female Gnoll shopkeeper; she forgives Erin, smells the blood and oil of her fight, and calls her the human who slew the Goblin Chieftain
+krshia	39ea33679c	1.20	+	fact	says Lism gave Erin a bag on purpose instead of delivery
+krshia	68bf9becca	1.21	+	fact	Gnoll shopkeeper; says Gnolls do not bleed monthly and go into estrus once or twice a year; Drakes and Antinium need no padding
+krshia	90962df637	1.26	+	fact	does not blame Erin and says Klbkch's death is a bad sign for Liscor
+krshia	110ffc24ef	1.31	+	fact	big Gnoll shopkeeper who faces down a guardsman for Erin and wants to host her privately
+krshia	23503af2b1	1.34	+	fact	has a [Spot Deception] skill
+krshia	89e6ea94bd	1.34	+	rel	serves raw chopped meat, "scurry-food"
+krshia	7f55ab4350	1.34	+	fact	swears a Gnoll-wide oath to keep Erin's secret from non-Gnolls
+krshia	fa95d424f1	1.34	!	event	faints at the number eight billion
+krshia	9d12f71528	1.35	+	fact	thinks a spell by a great [Mage] might have brought Erin and that only an [Archmage] could send her back
+krshia	270e67953e	1.35	+	fact	says a trip with a caravan and ship to Wistram would be about sixty gold, while a mage's help is the real cost
+krshia	0d87b22719	1.35	+	fact	tells Tkrn to message the tribes and look for others like Erin; so far they have all been long dead
+krshia	d5684ff1ca	1.35	+	fact	plans to give Erin "fangs to protect herself" rather than set guards
+krshia	71217f2a64	1.35	~	belief	wants to be seen only as a friend but plans to use Erin for Gnoll aims
+krshia	c5451e1bae	1.36	+	fact	Gnoll shopkeeper in the Market Street meeting
+krshia	ca34187a64	1.37	+	fact	Gnoll shopkeeper who sources Erin's orders; her Runner drives a cart and is overworked
+krshia	3ea0ff17c1	1.38	+	fact	Gnoll archers hidden in the grass; Tkrn is the youngest and least experienced
+krshia	f74827744a	1.38	~	belief	three different sides came for Erin tonight, so she is important
+krshia	d400c737d5	1.42	+	fact	Gnoll archer, kills zombies with arrow and dagger
+krshia	327baba43b	2.03	+	fact	has cast iron frying pans for sale and lends healing potions on credit
+krshia	52e2e7f298	2.03	+	fact	says Gnoll kin are coming up the south road
+krshia	f953262439	2.03	!	state	Ryoka tells her those Gnolls are dead, found about forty miles from the city, killed by one cut each
+krshia	696c6b8322	2.03	+	fact	arms herself with a bow and broadhead arrows and howls; other Gnolls answer
+krshia	21a8857277	2.06	+	fact	leads fifteen Gnoll shopkeepers and artisans with bows
+krshia	ec8762849e	2.06	+	fact	says "Blood for blood" to Gazi over killed kin
+krshia	5ff69aa5e2	2.10	+	fact	gives Erin furs and warm clothes
+krshia	04847386aa	2.10	+	fact	prices now much higher; Street Runner too busy to deliver
+krshia	2c929e81f9	2.13	+	fact	hears of the inn explosion from a drunk Relc
+krshia	fa259a76e0	S01_Mating_Rituals	+	fact	has had Drake and human partners and prefers Gnolls
+krshia	6897bc6985	S01_Mating_Rituals	+	fact	bet fifteen copper on whether Erin picks a Drake or a Gnoll first
+krshia	27242d41de	2.20	+	fact	the Silverfang Tribe lost twenty-three spellbooks in the fire, intended for a Gnoll gathering to teach Gnolls magic; her sister is the Chieftain
+krshia	93e5fa5610	2.21	+	fact	tells Erin harbouring the thief breaks the bond between them
+krshia	1882c08f3d	2.33	+	fact	her shop has shrunk to a small stand
+krshia	5c2ae1c26d	2.33	+	fact	says Gnolls in Zel's army will have howled warnings to the tribes
+krshia	7b7e9d1788	2.33	+	fact	tribe had hoped Erin would give them something useful from another world
+krshia	1542541ab1	2.33	~	belief	guarantees Mrsha will be safe, with a flicker of doubt
+krshia	52c217b1d8	2.34	+	fact	leads the Gnolls in Liscor, arrived nearly a decade ago to gather valuables for the Silverfang tribe
+krshia	30bbdc182c	2.35	+	fact	sells small sleds to citizens
+krshia	8780b26ead	2.36	+	fact	says the leveling secret is too cheap for the Silverfang Chieftain to bring to the decennial gathering
+krshia	7c237888ed	2.36	+	fact	the Silverfang tribe received Dwarven-made arms at the last gathering
+krshia	96bb68e99b	2.36	+	fact	says a single-class system would force Gnoll cubs to choose roles early
+krshia	53f948e808	3.05L	+	fact	replies the Gnolls will await the delivery
+krshia	3d86ec0f67	3.27M	+	fact	thinks it is superstition; the Stone Spears were doomed once a Goblin Lord attacked
+krshia	f8addcb742	3.27M	+	fact	pledges "No Gnoll will slay another Gnoll while I live"; awaits something promised from Ryoka
+krshia	d4b236ee23	3.32	+	fact	sells to Lyonette and visits Mrsha but other Gnolls avoid Mrsha; Lyonette is unofficially unbanned from the city
+krshia	4849dc2973	3.37	+	fact	asks Ryoka to return soon for the spellbook promised
+krshia	f37c961abd	3.38	+	fact	explains Liscor's Council includes heads of the Adventurer's, Mage's and Merchant's Guilds, Watch Captain Zevara, and Olesm as chief [Tactician]; the army is mercenary and seldom home
+krshia	aae26bc623	3.38	+	fact	says Lyonette entered Liscor by Zel Shivertail's leave and that the Gnolls will do nothing while the Council is against them
+krshia	70585f6261	3.39	+	fact	negotiates a higher cut than Octavia's proposed 50 percent to sell her potions, citing her high [Shopkeeper] level
+krshia	5fb035c6e3	4.09	+	fact	Gnoll [Shopkeeper] whose clan came to Liscor to earn money and gain something valuable for the tribes; they lost tens of thousands of gold of spellbooks when Lyonette's artifact destroyed her shop
+krshia	c1a78fc689	4.09	+	fact	orders the book guarded by [Warriors] and kept secret; says shopkeepers can tell magical writing from written language and sends Gnolls for translation lenses
+krshia	eaddb5c533	4.18	+	fact	arranges a yew recurve from a [Bowyer] of her tribe for 26 gold, worth hundreds; the price is a favor owed to Ryoka
+krshia	828c9679f7	4.18	+	fact	says Erin Solstice and Ryoka Griffin are of the same tribe
+krshia	e2a0736ee3	4.27H	+	fact	Gnoll [Shopkeeper] who hosts Ryoka with raw meat and plans a celebration at Erin's inn for Brunkr's class
+krshia	9828f441c8	4.28	+	fact	Gnolls celebrate Brunkr's new class [Knight] at the inn; Erin bakes a pink-frosted cake with [Knight] written on it
+krshia	5d9f925282	4.29	~	belief	reports Brunkr was torn apart by a monster; this is the cover story
+krshia	7c3d44d03b	4.31	+	fact	forgives Ryoka but asks not to see her for a while; the Gnolls spread the word that Regrika Blackpaw is a traitor, since Gnolls do not murder each other
+krshia	04dd430882	4.36O	+	fact	Gnoll [Shopkeeper], grieving, absent from her stall; her apartment has a shield and sword leaning against a wall
+krshia	289ec56824	4.43	+	fact	back at a smaller stall at the market's edge; takes orders for suppliers, charges six gold for Erin's list
+krshia	283cfa7bf3	4.43	+	fact	says the city still remembers the Goblin King and she will not visit the inn for now
+krshia	0d245a4be4	4.43	+	fact	knows Lyonette is a [Princess]; learned from Brunkr; forgives her and thanks her for knighting Brunkr
+krshia	f74262786f	4.43	+	fact	Brunkr's shield and sword remain in her apartment
+krshia	4b5671c6f9	4.43	~	belief	believes Regrika is no true Gnoll and will be hunted
+krshia	411bf1a85e	S02_The_Antinium_Wars_Pt.3	+	fact	Gnoll [Shopkeeper] who rejects the book's claim that Gnolls were cowardly
+krshia	ccdc138b8e	5.06M	+	fact	leads the Silverfang Tribe in Liscor and is one of the city Gnolls' leaders; gained a Skill for spotting top-quality goods
+krshia	943af7cca6	5.06M	+	fact	has hidden Gnoll guards watching her apartment
+krshia	221037e960	5.06M	+	fact	keeps a poison-trapped chest with two keys under her bed; inside is a spellbook the Silverfangs plan to give the Meeting of the Tribes
+krshia	b37a85de1c	5.08	+	fact	Gnolls on rooftops with bows defend the city centre
+krshia	4e86dd0406	5.26L	+	fact	street vendor ten years; sister is the chieftain of the Silverfang Tribe; knows Lyonette is a [Princess]
+krshia	20260e2cc7	5.33B	+	fact	Gnoll merchant who helps Bird buy a reflexed composite bow
+krshia	c17c6ca79b	5.34	+	fact	asks when Gnolls will get a place on the stage
+krshia	0efb5df85f	5.34	+	fact	says Raskghar traded their ability to level for savagery and regain intelligence only in moonlight; both moons wax and wane over the next six days
+krshia	512177b2d2	5.34	~	belief	the Raskghar are an ancient offshoot of Gnolls that regain intelligence only under the moon
+krshia	5e7dcf6686	Interlude_Krshia	+	fact	now a [Royal Shopkeeper]; Skills [Imperial Appraiser] (replaces [Quality Scent]) and [Silvertouched Wares] giving every purchase a silver coin's extra value
+krshia	0f938777a0	Interlude_Krshia	+	fact	eats silkap, a traditional Gnoll pork paste; keeps Brunkr's bandages in her living room, her nephew deceased
+krshia	d6508050cc	Interlude_Krshia	+	fact	persuades the council to stay and fight by recounting Gnoll history and the Waning World
+krshia	917a015aec	Interlude_Krshia	+	fact	former apprentice [Shaman]; leads a gathering of magic [Everdawn's Radiance], a Tier 1 spell of courage
+krshia	55b8c34509	6.03	+	fact	tells Erin the Meeting of Tribes is soon and she may take Mrsha; invites Erin south
+krshia	cd91ba24e8	6.17S	+	fact	highly placed in the Silverfang Tribe; Meeting of Tribes is every twenty years; she is preparing a gift
+krshia	b0d7d4682c	6.17S	+	fact	proposes a dungeon entry fee, a monster-parts inventory and request system, Liscor expansion, a rent cap, Antinium building aid, and ending the Goblin bounty
+krshia	91e98404a4	6.17S	+	fact	wants to be the first Gnoll on Liscor's Council and needs Liscor to hold a vote; the Council currently chooses its own members
+krshia	7c9510bfd5	6.17S	+	fact	pick Klbkch's Hive as the funding source; Zevara needs a day or two before approaching him
+krshia	d06c435b22	6.17S	!	event	launch the election push with Selys
+krshia	7e88da0608	6.28	+	fact	Gnoll [Shopkeeper] who proposes an elected Council, an entry tax on adventurers in the dungeon, more funds for Watch Captain Zevara and an expansion of Liscor's walls built by the Antinium
+krshia	dacbc5979e	6.28	~	belief	claims the walls were expanded twice before and are "just stone"
+krshia	eb70f278e4	6.28	!	event	launches the movement for a Liscor Council election
+krshia	2a971d559a	6.29	+	fact	allied to force a Council election with one Council member per district
+krshia	2f720bfc5b	6.29	+	fact	lives in a district with nearly one Gnoll per three Drakes
+krshia	932ff84f13	6.29	!	event	faces Lism Swifttail, who lives in her district, as a rival candidate
+krshia	6a621c25f7	6.30	+	fact	campaigning with candidates Raekea (smith and [Armorer]), Elirr, and Senior Guardswoman Beilmark; four more candidates, one per district
+krshia	3137c90290	Interlude_Two_Rats	!	state	agrees not to call for Calruz's death in her campaign
+krshia	385ecdd161	6.65	+	fact	sells Palt ingredients at a market stall
+krshia	26dbe067f3	6.68	+	fact	drink at Elirr's pet shop to mark the end of the month of Rerrk; the meeting of tribes is about two months away, last held ten years ago
+krshia	b559d3edb4	6.68	+	fact	sits on Liscor's Council; she and Elirr want Mrsha at the meeting of tribes, guarded by the Silverfang tribe
+krshia	496a1a7937	7.07	~	belief	Liscor and Pallass cannot start conflict with a human city
+krshia	d9fea2d726	Mating_Rituals_Pt.2	+	fact	told Selys and Drassi she thinks Erin has not masturbated for months and keeps giving Erin dildos
+krshia	a3a9b0d337	7.16L	+	fact	tells Lyonette they are "tribe-sisters" and have no debts; [Royal Shopkeeper] and [Councilwoman]; she keeps Ryoka's Teriarch spellbook
+krshia	4b5c86d358	7.51	+	fact	both Silverfang Tribe; Meeting of Tribes at the summer solstice, using the Pallass door to save over a month; Vrrow is the scout checking readiness
+krshia	9b693a9026	7.51	+	fact	plans to bring Mrsha secretly to the Meeting; Woven Bladegrass tribe sacked a city before it
+krshia	3deee8747c	7.51	!	reveal	kiss, revealing they are a secret couple
+krshia	02e74f4ee9	7.53	+	fact	uses a pre-programmed teleport scroll to leave Lism's apartment unseen and warns him to mask her scent
+minotaur	d6f4d29b5d	1.02R	+	fact	a minotaur impaled by an ice spike; his human vice-captain with sword and shield and the members Terr, Coblat and Grimsore appear
+minotaur	2c7bb43972	1.04R	+	fact	Minotaur "of the Beriad", leads the Horns of Hammerad, steel battleaxe, plate armor
+minotaur	2c5b8589fc	1.04R	+	fact	says Minotaur females are fiery, and likes Ryoka for it
+minotaur	92b02fea83	1.04R	!	event	falls down the stairs after Ryoka punches him, wrecking the stairwell
+minotaur	06b1cbe412	1.06R	+	fact	runs beside the cart overnight and reeks of sweat
+minotaur	f96cf844ac	1.11R	+	fact	Minotaur, captain of the Horns of Hammerad, impatient, bare-chested
+minotaur	b64f1b308f	1.11R	~	belief	Ryoka will survive the High Passes because she is not a coward
+minotaur	54a1bd89c4	1.12R	+	fact	a "Levelist", the old-fashioned kind; about Level 20
+minotaur	e60fe7cc40	1.12R	+	fact	about 6'7" plus horns, goat legs with cloven hooves
+minotaur	7e8d1610fe	1.12R	+	fact	calls Runners non-warriors, women weaker; tells Garia to move
+minotaur	4d38e1c4e5	1.12R	+	fact	Minotaurs take hits to show disrespect or courtship
+minotaur	354504e5d2	1.12R	+	fact	carries Ceria away and refuses to fight Ryoka
+minotaur	081dd78e69	1.36	+	fact	promises "upon my honor" not to attack guests
+minotaur	ddb75fd2d6	1.37	+	fact	leads the Horns; objects to "Bull Guy", says Minotaurs are not bulls or cattle
+minotaur	56ee421254	1.37	+	fact	eats beef; polite eater; dislikes many questions
+minotaur	fe9de3b94d	1.38	+	fact	planned a death duel with Ksmvr; found the city gates closed
+minotaur	e4bf539f8b	1.39	+	fact	asks Pawn why he did not resist; calls Pawn a slave
+minotaur	7868faa24d	1.40	+	fact	recognizes Gazi and gives her room
+minotaur	a0601a2500	1.40	+	fact	says women must be warriors, calls Toren worthless
+minotaur	aadc24a61b	1.40	+	fact	sole skill [Hammer Blow]; it shatters a waist-high boulder
+minotaur	a1c399be63	1.40	+	fact	will train Erin starting tomorrow, two days before the ruins
+minotaur	c5bed3619f	1.40	+	fact	thinks Ryoka is strong and Erin's music should be protected
+minotaur	0b5f14268e	1.40	~	belief	"the singer must not be silenced"
+minotaur	088ed6bc2e	1.41	+	fact	about 300 pounds, closer to seven feet than six
+minotaur	42bbd8fa3b	1.41	+	fact	Minotaurs practice little magic; [Hammer Blow] exceeds one's limits
+minotaur	4b24331355	1.41	+	fact	says Erin unlocked a skill and is gifted at battle
+minotaur	ee1bcbc9c9	1.41	~	belief	Ryoka fights at her limit and lacks vision
+minotaur	462c9ca8f8	1.01H	+	fact	plans to lure the dead with his voice; Lir casts [Loudness] and [Muffle]
+minotaur	809e20e4b6	1.01H	+	fact	kills a Crypt Lord with [Hammer Blow] and rips off another's head
+minotaur	68af56d93c	1.02H	+	fact	Skinner tears off his arm; the dead swarm him
+minotaur	508418a690	1.02H	!	state	lost under the swarm
+minotaur	b286948bd0	4.37O	+	fact	Minotaur, never found among the crypt dead; missing arm, axe; Olesm suspects he fell into the trap
+minotaur	a56a716c46	4.37O	!	event	possibly alive, according to Olesm and Pisces's evidence
+minotaur	687c9dec3e	5.36	+	fact	finds Ceria's cow drawing and a hair and says her name, then walks back into the dungeon
+minotaur	b88e3235f4	5.36	!	event	alive in the dungeon and on the trail of the Horns
+minotaur	5dd1a08235	5.38	+	fact	one-armed Minotaur with short dark brown fur and a cow's face; commands Raskghar and Cave Goblins in a domed cave with caged Gnolls and Mrsha; plans to conquer the dungeon with Ceria as his teammate
+minotaur	3567573075	5.38	~	belief	the Raskghar are his team and tools, strengthened by the full moon and by the Gnolls
+minotaur	3a1a28224f	5.38	!	reveal	revealed as the Raskghar's Great Chieftain, and insane
+minotaur	ae7f80f5fc	5.39	+	fact	former Captain of the Horns of Hammerad, now leads the Raskghar; right arm missing, rough dirty fur, stinks of blood, has fleas, cracked tooth
+minotaur	938c42415b	5.39	+	fact	believes the Horns survive and that Skinner still lives until Ceria tells him they are dead and Erin killed Skinner with acid jars
+minotaur	af10f0a539	5.39	+	fact	his arm broke Ceria's dagger tip unharmed; he beat a Raskghar who hurt her, then tended her head wound gently
+minotaur	41b81f1169	5.39	+	fact	says the Raskghar are his tribe, he forged the isolated camps together, and he plans an offensive using Ceria's magic; Raskghar are beasts most of the month and regain intelligence only near full moon
+minotaur	e115298b72	5.39	+	fact	moves the Raskghar camp nightly between set locations; carries a magic-edged axe
+minotaur	bc23aa2ce5	5.39	+	fact	ordered a day attack on Liscor, disguising that Raskghar can act in daylight; a team with artifacts was spotted and returned with Ceria and a few Gnolls
+minotaur	bdb285be30	5.39	+	fact	limits the ritual to one Gnoll per day, hits the female who wants more, and gives her command of Dailre's Fist; she calls him Chieftain
+minotaur	2a4cf6e670	5.39	+	fact	threatens to sacrifice another Gnoll each time Ceria disobeys and offers to free a few if she obeys
+minotaur	262653fa8b	5.39	~	belief	says the Horns' mission is still on and the dungeon is half conquered
+minotaur	49d967c6c9	5.39	!	event	shown as insane, lacking his old self, with sporadic lucidity
+minotaur	1f96724d73	5.40	+	fact	moved most Raskghar out of the way, sending kill teams against the Halfseekers; says the dungeon hunts everyone but him and claims he alone has the Skill
+minotaur	1d60ad2817	5.40	~	belief	says adventurers will take months to reach him and he will take the dungeon's heart
+minotaur	9570b6cec1	5.42	+	fact	magic axe of false-gold metal with a green edge; with it he grows a transparent blade three times the head's size and uses [Hammer Blow] and [Gore Splash]
+minotaur	b0085ecc36	5.42	+	fact	says he fell through a trapped floor into a Raskghar graveyard after losing his arm, was captured by Raskghar, killed two sleeping Raskghar including the Chieftain, and was made Chieftain
+minotaur	9f9a87bf6e	5.42	+	fact	says his intellect does not wane with the moon and he forged the Raskghar camps into a disciplined force
+minotaur	8315f6c2c7	5.42	+	fact	asks three times if the other Horns are dead; Ceria says Gerial saved her, Skinner killed him, and Hunt, Corr and Sostrom died and she buried them
+minotaur	cca3102dfd	5.42	+	fact	insists the Horns of Hammerad was his idea and name, and briefly seizes Ceria in a rage
+minotaur	2fcdd1f391	5.42	+	fact	asks if the fallen team members' families were paid; Ceria says Yvlon arranged it
+minotaur	269fee3dd8	5.42	+	fact	points out the monsters become visible when dead or splashed with blood; Gnolls in the cages who drank dungeon water cannot see monsters, while others can
+minotaur	2e272f2d31	5.42	~	belief	concludes the dungeon's water blinds drinkers to monsters and keeps them from fighting each other; says he has been drinking it
+minotaur	f31b51e35d	5.42	~	belief	believes Ceria sees them because she is a half-Elf; Ceria denies half-Elves see through invisibility
+minotaur	edb8db3888	5.42	+	fact	says the city has a monolith in the central plaza topped by three carved heads (Skinner, Snatcher, Stalker), naming the dungeon's boss the Mother of Graves
+minotaur	f091def270	5.42	+	fact	describes Snatcher as causing paralysis, resisting enchanted arrows, and collecting heads on sticks
+minotaur	97ac68930c	5.42	+	fact	says the dungeon is comparable to the one Niers Astoragon conquered before founding the Forgotten Wing Company
+minotaur	43caef04b7	5.42	+	fact	chokes the female, who submits; backhands another Raskghar; says some Gnolls and the white one will be spared depending on Ceria
+minotaur	64c824d281	5.42	+	fact	agrees to send two Gnolls with a ransom letter, written by Ceria, demanding potions and equipment
+minotaur	199912f3b0	5.42	!	event	strikes Ceria with his axe handle and orders the Gnolls carried away
+minotaur	466af23764	5.43	+	fact	names the awakened his vanguard, to bear artifacts, with Nokha leading
+minotaur	fee664a655	5.43	+	fact	beats Ceria for betrayal, carries her to his bed, and stops only when she says "Ryoka would be so proud"
+minotaur	5d3d646b8e	5.43	+	fact	says forty-four Gnolls remain and plans to lead the awakened into the city next
+minotaur	a989a94c62	5.43	+	fact	confesses he knows sacrificing Gnolls is wrong but says only glory and finding the dungeon's heart matter; says he has [Thick Skin] now
+minotaur	fcdeee4cef	5.43	+	fact	agrees to spare the Gnolls with no more sacrifices "for now" in exchange for Ceria's help against the awakened
+minotaur	0ca890b51f	5.43	+	fact	cancels sacrifices that night and orders the awakened to prepare to enter the city, backing down at the sight of a head on a stick
+minotaur	952849a0ea	5.44	+	fact	argue over whether mute means unable to make sounds or unable to speak; Ceria says Pisces read it in a book
+minotaur	557ff59e31	5.44	+	fact	Chieftain of the Raskghar camp, a one-armed Minotaur with an enchanted axe; the awakened chafe at his rule
+minotaur	57386458b7	5.44	+	fact	faces the Horns (Ceria, Pisces, Yvlon, Ksmvr), is set aflame by Ksmvr's Flamecoat Dagger, put out by Ceria's snow and struck down by an [Ice Spike]; he is shackled and taken to the Watch prison
+minotaur	6b26caf0a5	5.44	!	state	loses to the Horns and is taken prisoner
+minotaur	3ccb1e4600	5.45	!	event	held shackled and burnt in prison; Ceria let him live
+minotaur	0f9bb2f3b1	5.54	+	fact	held in a runed cell in Liscor's prison, one-armed, shackled; recognizes Erin
+minotaur	ccbc2bb85a	Interlude_B09_1	+	fact	held in a Liscor magic cell, says "Below. She's still there" and accepts death; Ceria visits
+minotaur	ff956b8659	6.11	+	fact	Minotaur, one-armed (lost the arm to Skinner), exercises daily in a barrier-sealed cell and draws dungeon maps; expects execution under Drake law
+minotaur	7e7fdc5e28	6.11	+	fact	names his lost team Gerial, Hunt, Terr, Marian, Coblat, Grimsore, Sostrom, Barr; does not recall Olesm
+minotaur	a43a03c7ce	6.18H	+	fact	lost an arm, went mad and killed people, is in jail and expected to die
+minotaur	c7178f3937	6.32	+	fact	imprisoned Minotaur; Zevara says Ceria visits him four times a week and she must still schedule his execution; he feels the pull of the dungeon's treasure
+minotaur	7e45b3795e	6.32	~	belief	believes Erin does not visit him because she has not forgotten his crimes
+minotaur	c2caa465ad	Interlude_Two_Rats	+	fact	Silver-rank Minotaur, held in a cell with a magic barrier made to hold Gold-rank prisoners; one-armed
+minotaur	90d9fad64d	Interlude_Two_Rats	+	fact	Skills gained as Prisoner include [Peaceful Rest], [Efficient Metabolism] and [Recall Guilt]
+minotaur	44ce2ea89a	Interlude_Two_Rats	+	fact	says he remembers half of the Raskghar events and the rest was a dream; no magic was found on him
+minotaur	2416ddb6f1	Interlude_Two_Rats	+	fact	asks for a weapon and an honorable death fighting a friend; Ceria cannot
+minotaur	51767d9e89	Interlude_Two_Rats	+	fact	names the rats Haldagaz, Vanquisher of Foes (white) and Rhata, Trident-Guardian of the Harbor of Hammerad (grey)
+minotaur	2cb2685e47	Interlude_Two_Rats	!	state	tortured with spears and burning pokers; healed four times with potions; saved when Zevara arrives
+minotaur	5213d006b0	6.59	+	fact	Bezale of Maweil, a Minotauress, confronts him in his cell, urges suicide with a knife and says the House of Minos will hear of it; Calruz keeps two rats, Haldagaz and Rhata
+minotaur	176f79294d	6.62L	+	fact	prisoner who says the Wistram scan found no spells on him; Zevara promises an Enchanter visit and a legal plan to help him
+minotaur	d6028e39e6	6.65	!	event	released to fight the Creler nest in the inn
+minotaur	158135cdf8	6.67	+	fact	kept alive in a cell, gains the class [Honorbound Prisoner] and Skill [Death Before Dishonor]; Zevara sentences him to hard labour that may mean certain death for the Watch
+minotaur	d9288c2df7	6.67	!	state	new class [Honorbound Prisoner] and sentence of hard labour
+minotaur	510967be4b	Interlude_Burning_Alcohol	+	fact	walks through Liscor under guard, one arm bound to a steel neck collar and magical leg shackles, a punishment detail culling Shield Spiders and Hollowstone Deceivers; he volunteers to enter spider nests unarmed
+minotaur	86ae1120fb	Interlude_Burning_Alcohol	+	fact	titled [Honorbound Prisoner]; says Ceria used to visit him and Zevara still thinks he is innocent
+minotaur	f0b521a1f1	Interlude_Burning_Alcohol	~	belief	says justice would be to execute him; Ceria and Zevara think him innocent, which he sometimes believes
+minotaur	aba6f6a774	7.26	+	fact	alive, a prisoner in Liscor's jail missing one arm, keeps pet rats including Rhata and Haldagaz; Zevara tends his wounds
+minotaur	9de7a49ae8	7.26	+	fact	killed a Face-Eater Moth colony with a rusty axe; Ryoka tells him she has been "Running"
+minotaur	e42ac9dce6	7.47K	+	fact	watch the House of Minos advance in Liscor; Zevara plays chess with Calruz, whose rats Rhata and Haldagaz sit with them
+minotaur	d5776d11a7	7.48K	+	fact	asks Bezale to send a letter to someone with the right to judge; she agrees
+minotaur	1a62d5815a	7.48K	~	belief	believes honor is an ideal to live by, not to die for, and that his imprisonment does not match his crime
+minotaur	9a1fd7e1af	7.52	+	fact	says Raskghar bend iron but not steel and recommends explosives, archers behind a barricade and abandoning the cells if they break out
+numbtongue	f6ed514982	4.34	+	fact	can read some letters from the inn menu; calls olives "Acid flies? Blue fruit?"; Goblins identify potions by color
+numbtongue	8639aa369f	5.14	+	fact	says "Everyone in the world is hunting" the Goblins is nothing new
+numbtongue	270f4885a1	5.14	~	belief	believe five Hobs are worth thirteen regular Goblins but cannot beat an army
+numbtongue	a566b93199	5.15	+	fact	most literate Goblin, reads and speaks the common tongue better than Garen, may write Human and Drake scripts
+numbtongue	8c8c83b88c	5.24L	+	fact	says the Redfang Warriors "Don't need artifact appraisal"
+numbtongue	8efd46afd7	5.29	+	fact	steals the guitar Erin bought and teaches himself notes in the basement
+numbtongue	17172d0156	5.34	+	fact	bursts from the basement, smashes his wooden guitar on a Raskghar, chants "Redfang" and "Goblin" to rouse Headscratcher
+numbtongue	9e32d126bb	5.34	!	event	repairs the broken guitar enough to play, foreshadowed as a Goblin Bard
+numbtongue	e803d0c200	5.35H	+	fact	spits on the cloak, turning it into a saliva cloak
+numbtongue	659f5456c5	5.35H	+	fact	speaks more fluently than any Goblin Pisces had met; refuses to talk until Ilvriss says his name
+numbtongue	1dc369e81d	5.36	~	belief	a lone Goblin dies a slow wandering death
+numbtongue	ac95cd51e5	5.38	+	fact	got his name because as a child he talked so much he bit his tongue
+numbtongue	205caa5dee	5.39	+	fact	agree to find Mrsha and Ceria, abandoning Erin's Plan G
+numbtongue	a9f339291f	5.41	+	fact	his mended guitar shoots lightning; he sings a Redfang song
+numbtongue	507bc7ee4d	5.44	+	fact	five Redfang Hobs lead about forty Cave Goblins and meet the fleeing Gnolls, then hold off the Raskghar
+numbtongue	78b86f81d8	5.44	+	fact	plays a guitar whose claws strike lightning
+numbtongue	49d05349b1	5.46	+	fact	takes thirty Cave Goblins to the meadow including Pebblesnatch
+numbtongue	cda99a6a77	5.53	+	fact	[Bard] Level 25; skills [Electric Chords] and [Lightning Melody] (L34); has called lightning that struck near Badarrow
+numbtongue	530d94389f	5.53	+	fact	plays I See Fire by Ed Sheeran which Erin taught him
+numbtongue	6373efac73	5.53	+	fact	receives a memory of Velan's death by Elia Arcsinger's [Piercing Shot] through the left eye
+numbtongue	211ba53cf8	5.54	+	fact	escapes arrest by shouting about a Raskghar attack and jumping from Liscor's battlements
+numbtongue	351e6fd06a	5.54	+	fact	lures the thieves into an ambush using Cave Goblins and [Lightning Melody], recovers the door in the boat
+numbtongue	436df08a18	5.56G	+	fact	leads over twenty-four thousand Cave Goblins out of the dungeon to the foot of Liscor's walls
+numbtongue	cc70cf3b33	5.56G	!	event	stands before Liscor with the Cave Goblins calling "Redfang!"
+numbtongue	37116744dc	5.57	+	fact	agrees to take the Cave Goblins south and west to the High Passes once the Hobs are released
+numbtongue	a45ad1857a	5.58	+	fact	challenge Garen, are beaten bloody; they say Garen's orders to kill Erin were bad orders and that Rags is true Chieftain
+numbtongue	305d11a08e-1	5.58	!	event	effectively take over the Redfang tribe's leadership
+numbtongue	2c008a357b	5.59	+	fact	leads a Cave Goblin band playing instruments; Antinium waltz; Erin dances Gangnam Style
+numbtongue	8b0cd36ebc	5.61	+	fact	take Erin's flag, saying "Somebody" or Pebblesnatch told them she would fight
+numbtongue	82ee09b5d7	5.62	+	fact	calls lightning by playing his guitar with Cave Goblin musicians
+numbtongue	755d67fe3e	6.02	+	fact	survived a spear through the chest; scar on chest, half his body paler from lightning
+numbtongue	65b853794d	6.02	+	fact	dreams the Goblins walking off a hill into the sky; Garen Redfang, Reiss, Headscratcher, Spiderslicer, Noears and Shorthilt leave, last Pyrite
+numbtongue	92c05979ab	6.02	+	fact	tells Erin the Goblins chose to stay and fight, and that hiding is wrong
+numbtongue	6e47492fcc	6.02	+	fact	asks the Adventurer's Guild to pay bounty ears for the Redfang army he fought; Selys refuses
+numbtongue	ea7f650559	6.02	+	fact	takes a glowing blue gemstone from Pyrite's mouth, cracks his teeth biting it, and gains [Miner] Level 1 and [Durable Picks]
+numbtongue	0dd3ee23a7	6.02	!	state	wakes in the basement alive and silent
+numbtongue	015678e609	6.02	!	state	becomes a [Miner] at Level 1
+numbtongue	b7923b2636	6.03	+	fact	Pyrite's memories include mining, gemstone lore, sword technique from Greydath, secrets such as two keys one held by Garen, and a dungeon lost to all but Goblins
+numbtongue	edf5560b62	6.03	+	fact	gave the Raskghar's fortune to adventurers; carries Pyrite's sack of gold and gems and gives it to Erin
+numbtongue	78c6816d8a	6.03	+	fact	first Goblin song on guitar; reaches [Bard] Level 27 and gains [Song of Rejuvenation]
+numbtongue	cd18816243	6.03	~	belief	believes Rabbiteater and Badarrow may be alive because they were absent from the dream, and perhaps Rags
+numbtongue	6c40936050	6.03	!	event	stays at the inn after being offered to leave with the Halfseekers
+numbtongue	524ebdb77e	6.08	+	fact	goes to mine in the mountains with a personal door stone
+numbtongue	5535dbed4e	6.09	+	fact	replies verbally more; accepts that Mrsha's two-fist sign is a Goblin sign meaning "I'm better than you"
+numbtongue	78efb9641f	6.09	+	fact	carries sword, guitar and pickaxe; rolled wooden slats form a portable door frame with a doorknob and mana stone
+numbtongue	91f6cbd980	6.09	+	fact	uses a lit purple mana stone in the dark to prospect for magical deposits
+numbtongue	b671361891	6.09	!	event	begins prospecting a Rockmite monster cave
+numbtongue	3bda95bb52	6.10	+	fact	spent his childhood in a northern town's sewers and learned speech by eavesdropping at the Mage's Guild; Garen Redfang later saved him
+numbtongue	25c8b2c261	6.10	+	fact	fears no one will listen; wants to talk to Erin at night over a drink
+numbtongue	b168e1851a	6.10	+	fact	Pyrite's memories overwhelm him whenever he touches the blue stone
+numbtongue	0126ac7160	6.10	+	fact	[Electric Chords] makes the guitar crackle; the blue stone did not react to guitar music alone
+numbtongue	bf960da04a	6.10	+	fact	bottles electrified mana sludge in a jar with gloves and a spade
+numbtongue	a19b6ecbe9	6.10	+	fact	sings a Goblin song to the Rockmites and walks past them in peace
+numbtongue	c850c70b29	6.10	+	fact	crunches a blue mana stone, spits viridian liquid into a jar; mix with electrified magicore swells and he throws it at the Floodplains
+numbtongue	8a3864c824	6.10	!	state	reaches [Miner] Level 6 and [Bard] Level 29; gains [Grinder Teeth], [Lightcaller Harmony], [Peaceful Melody]
+numbtongue	48c19d72c9	6.10	!	event	breaks a Pyrite mana stone and learns it produces viridian gas on eating
+numbtongue	c8a22db0c3	6.28	+	fact	Hobgoblin [Bard] with a guitar, can call down lightning; takes a magic door to the orchard; recovering from Rockmite bites
+numbtongue	baa6c91d15	6.31	+	fact	Hobgoblin [Bard], eats toothpaste and unpeeled eggs, says Gnoll smiths likely have fire-resistance Skills prized in Garen's tribe
+numbtongue	3ffd9c4b8a	6.32	!	event	Erin leads him by the hand past the Pallass crowd; Liscor's crowd briefly defends him
+numbtongue	422141d912	Interlude_Numbtongue_Pt.1	+	fact	[Bard] who has Skills [Peaceful Melody] and [Lightning Melody] and can make light with music; he calls down lightning faster under clouds
+numbtongue	c5d3072af1	Interlude_Numbtongue_Pt.1	+	fact	steals a gold nugget from Rockmite nests in the caves; gold-shelled Rockmites then follow him to the sun
+numbtongue	10c989cb8e	Interlude_Numbtongue_Pt.1	+	fact	remembers Pyrite's dream and his own sewer childhood; recites fallen comrades Headscratcher, Shorthilt, Bugear, Grunter, Orangepoo, Rocksoup, Leftstep, Bitefly, Patchhelm, Justrust
+numbtongue	5b133874f2	Interlude_Numbtongue_Pt.1	!	event	realises the inn feels like a cage and hates his cycle of joy and exclusion
+numbtongue	ff35d7ff2c	Interlude_Numbtongue_Pt.1	!	event	bond as last survivors and Numbtongue helps him clear Shield Spiders
+numbtongue	a05cba79c7	Interlude_Numbtongue_Pt.2	+	fact	eats mac and cheese; mixes Acid Flies into it and into ice cream; Yellow Splatters likes both
+numbtongue	536f1c10be	Interlude_Numbtongue_Pt.2	+	fact	confronted by a drunk Drake whose sister and friend were killed by Goblins on a road near their village; he answers that Humans killed his parents, Relc killed his Chieftain, and Embria killed thousands of Goblins
+numbtongue	c1f9f49fb5	Interlude_Numbtongue_Pt.2	+	fact	says Redfangs and the Flooded Waters tribe fought for Erin and to be remembered, not for Liscor, so he wants to enter Liscor
+numbtongue	632a687f66	Interlude_Numbtongue_Pt.2	+	fact	draws Redfang ambush tactics against [Mages] (traps, archers, boulders, Carn Wolf riders, Tripvine bags, beehives); the Antinium use no potions except Klbkch's reserved stores
+numbtongue	d46ee63128	Interlude_Numbtongue_Pt.2	+	fact	takes an iron sword and cuts hands off, as Pyrite's memories guide him; he leaves a [Ruffian] with six teeth broken as a threat
+numbtongue	46c44c3ed3	Interlude_Numbtongue_Pt.2	+	fact	shows Celum's Watch Captain a signed paper naming him a Bronze-rank adventurer; Yellow Splatters bluffs that he is the Prognugator of the Free Antinium's Hive
+numbtongue	ad7a16c72c	Interlude_Numbtongue_Pt.2	+	fact	sings The Ballad of the Redfangs, naming the thirteen sent to kill an innkeeper, the fight at Esthelm where six survived, and Bugear's death
+numbtongue	b871ae9ef5	Interlude_Numbtongue_Pt.2	+	fact	becomes Level 30 Goblin Soulbard, gets Memory - Pyrite, Flooded Waters Tribe, and Skills [A Minute, Reborn] and [Ballad of Bravery]
+numbtongue	2e83218b55	Interlude_Numbtongue_Pt.2	!	state	obtains the class Goblin Soulbard
+numbtongue	9be87315ca	6.38	+	fact	reached [Goblin Soulbard] last night; new Skill [A Minute, Reborn] lets Pyrite act for a minute
+numbtongue	5e5a4f2095	6.38	!	state	becomes a [Goblin Soulbard]
+numbtongue	7bb220e1ec	6.39	+	fact	needs about eight hours between uses of his Skill to call Pyrite; refuses Xif's offer, quotes a million gold
+numbtongue	ff8d2f26c7	6.39	+	fact	carries a steel sword (Shorthilt's), guitar; wants to learn alchemy, gives Octavia mana stones, an emerald, silver, in exchange for potions and lessons
+numbtongue	b8ee139c9d	6.39	+	fact	night watch at Stitchworks; lightning from the sky strikes a [Blackguard], a [Nightstalker] Sister of Chell flees; a man with a children's song tips his hat and walks on
+numbtongue	4a892d18df	6.39	!	state	becomes Octavia's paid employee and guard, sleeping in Stitchworks
+numbtongue	e0972974e1	Interlude_Two_Rats	+	fact	Hobgoblin, snaps a rat's neck and says to kill fast
+numbtongue	a0dd0f4f21	6.56	+	fact	Hobgoblin reading fluently; can become Pyrite for a minute thanks to the [Goblin Soulbard] power, limited uses per day
+numbtongue	91985b5353	6.58	+	fact	fights Beza, is briefly replaced by Pyrite in his body for about one minute, and is strangled until Erin stabs Beza
+numbtongue	712d87f58c	6.62L	+	fact	learning potions from Octavia; she makes a fire-breathing potion that gives him flaming saliva and sets her toilet alight
+numbtongue	c09e435713	6.65	+	fact	gutted by Crelers and thrown out a window by Pyrite; Relc is bitten with Creler poison that healing potions do not cure; Seborn and Moore are badly hurt
+numbtongue	97b98d4f98	6.67	+	fact	recovers in Krshia's apartment on liquids; he cannot be in Liscor officially and Krshia disguises his scent
+numbtongue	2768f87da5	7.04	+	fact	sneaks Bird the Wyvern wing and Firebreath Whiskey; he and Bird become friends
+numbtongue	c155c5f6cd	7.06	+	fact	feeds Bird eggs and chicken despite Bird's punishment, refuses punishment himself, saying "I am not a child" and apologizes only after Erin asks
+numbtongue	08a40f5071	7.06	+	fact	calls on Pyrite's memory via [A Minute, Reborn]; Pyrite deduces Mrsha used the magic door, and Numbtongue rejects Reiss's ghostly offer of help
+numbtongue	181b30b2e7	7.11	+	fact	describes fighting thousands of Crelers at the inn
+numbtongue	08a36c59dc	7.11	!	state	sees Garen, Reiss and the dead Goblins on the hill and learns Rabbiteater and Badarrow are absent
+numbtongue	1a7224e79f	Interlude_Chocolate_Gold	+	fact	go mining for gems and opals ("Pyrite thinks") with picks, potions, guitar and sword
+numbtongue	3d430f3461	Interlude_The_Hangover_After	+	fact	plays an acoustic guitar that sounds electric; covers Don't Stop Believin' by Journey and other songs from Erin's world; refuses to sing
+numbtongue	58cd97e108	Interlude_The_Hangover_After	+	fact	his [Lightning Chords] send lightning bolts down through the Garden dome; at first one bolt, then a barrage fed by the Sage's Grass mana
+numbtongue	5b87cea599	Interlude_The_Hangover_After	!	state	reaches [Goblin Soulbard Level 32!] and obtains [Song - Harmony of Mana]
+numbtongue	758af33e0d	Interlude_The_Hangover_After	!	event	realises first the grass-charged mana and acts as a conduit for it
+numbtongue	b3c04aa434	7.17S	+	fact	tripped Erin into the pond when Mrsha signalled
+numbtongue	b8a07ff1fb	7.19	+	fact	receives six potions from Octavia: Barkskin, Quickened Body, Vanish (14 seconds), Bat's Ear, Jumping, Blast Vial; Octavia is Saliss of Lights' apprentice and her new shop is in the inn
+numbtongue	97a9adb145	Interlude_A_Night_in_the_Inn	+	fact	sits on the garden hill with Pyrite and Reiss (Goblin Lord), refusing Reiss's offer to merge for now; Reiss says [Ladies] work through formality and indirect power
+numbtongue	9f1ec712e6	7.30	+	fact	plays Halo CE on Kevin's laptop, learned the password, shows Erin Peanuts comics
+numbtongue	5dc08f2819	7.30	+	fact	tells Erin she is sometimes a jerk and that she did good things
+numbtongue	1ff31dc91c	7.31	+	fact	keeps weapons close, taught Mrsha to quick-release her wand
+numbtongue	c26adc7609	7.31	+	fact	carries Pyrite's memories; Reiss's voice offers help; Numbtongue refuses Reiss for now
+numbtongue	3dd7d5036d	Interlude_A_Meeting_of_Druids	+	fact	hides a hand crossbow and bolts in a box by the windowsill, acid jars in compartments
+numbtongue	15de1d0170	Interlude_Meetings_and_Friendships	+	fact	temporary Skills [Directional Sound] and [Soul's Armaments: Mundane]; summons a three-minute pickaxe and Pyrite's battleaxe
+numbtongue	c4f219a52e	Interlude_Meetings_and_Friendships	+	fact	go fishing at a pond in the High Passes with Apista, calling themselves the Bee Rescue Team
+numbtongue	268118b218	7.43G	+	fact	reads the Liscorian Gazette and drinks Blue Tea, which turns the tongue blue for about a day
+numbtongue	3955b5fe0e	7.43G	+	fact	refuses to train Mrsha, Visma and Ekirra as [Warrior]s, hitting them until they gave up
+numbtongue	8eff985c4a	7.43G	+	fact	takes up gambling in the inn's new rec room (pool table, card table, bone dice), adding ore or silver to pots to make people friendly
+numbtongue	cc4ae3118e	7.43G	+	fact	strips Nolocks of weapons then throws him out the door to the High Passes; Arcsinger's Bows kill him after he attacks them
+numbtongue	5dcb7211bb	7.43G	!	state	gains [Gambler] Level 4, Sense Trickery, Weak Lucky Draw, [Goblin Soulbard] Level 34, and the memory of Shorthilt, Redfang Tribe
+numbtongue	21cfb96bca	7.50	+	fact	cover "Take on Me" on air with Wesle on drums, Numbtongue in disguised armor playing lightning guitar
+numbtongue	7c416d27f5	7.51	+	fact	owns a Dragonblood crystal sword that astonishes Kilkran; is practicing sword with Lyonette
+numbtongue	770722c15f	7.54	+	fact	has defined abs; finds Fierre's red eyes and pointed teeth appealing as "fine Goblin features"
+olesm swifttail	996b0a9569	1.19	+	fact	a bronze Drake, the shopkeeper's nephew, careful and meticulous; has played over a hundred games and won over two thirds
+olesm swifttail	a630385e30	1.19	+	fact	a [Tactician], the highest-leveled in the city; [Tacticians] can sense a trap as a class skill
+olesm swifttail	a1ce0ff3e7	1.20	+	fact	a Level 22 [Tactician]; no higher-level [Tactician] exists even in the Liscorian army
+olesm swifttail	aec36dec9c	1.24	+	fact	visits with a chess set; is the [Tactician] who liaises with the council, guilds and Watch, and knows of the situation with the Workers
+olesm swifttail	839e8c6f04	1.27	+	fact	says Antinium entered Liscor eight years ago and Klbkch was the first and only Antinium admitted to the Watch
+olesm swifttail	65eb132de5	1.31	+	fact	small young Drake chess player; receives a chess puzzle sent to all known [Tacticians] and chess players on the continent
+olesm swifttail	962d762f11	1.37	+	fact	blue Drake with raindrop-patterned blue eyes; solved Erin's chess puzzle in nearly a week; leveled twice
+olesm swifttail	8fd0291ad6	1.37	~	belief	one skeleton is not worth the food fed to Pisces
+olesm swifttail	d945db9614	1.41	+	fact	[Tactician], Level 24; asks to join the expedition and is refused
+olesm swifttail	dd3b72cda3	1.00H	+	fact	[Tactician] Level 24, hired the day before; first dungeon
+olesm swifttail	210cdab57f	1.01H	+	fact	[Rapid Retreat] saved a group of mages; [Attack Formation] once a day
+olesm swifttail	cedd075c16	1.02H	+	fact	Drakes cremate dead; he cannot read the old tongue; a Necromancer attacked Liscor ten years ago when he was a child
+olesm swifttail	ef9e5ed1d3	2.04	!	event	found alive in another coffin, light blue scales
+olesm swifttail	94cb3b9a7a	2.05	+	fact	hid in coffins three to four days
+olesm swifttail	3dc9623e1d	2.05	+	fact	stabbed a ghoul attacking Ceria and dragged her into a coffin; used a healing potion
+olesm swifttail	681e575963	2.05	+	fact	Zevara's [Tactician]; Drake
+olesm swifttail	c304a0457c	2.10	+	fact	recovering in Watch barracks; the city confiscated Ruins treasure as fine
+olesm swifttail	c6e0dd079c	2.13	!	event	Liscor archives yielded a map of the ruins and other underground buildings; the ruins were a tomb guarded by Skinner
+olesm swifttail	5ff1f66793	2.13	!	event	Skinner's title in the old list is Flesh Worm, Lesser Guardian of the Crypts, and more ruins lie underground
+olesm swifttail	b846372acd	2.15	+	fact	the map and texts were found while seeking Skinner's species
+olesm swifttail	4c92d63908	2.15	+	fact	has gained a few levels
+olesm swifttail	eade200254	2.17	+	fact	leaves Ceria's room in the morning
+olesm swifttail	bb672dc830	2.17	!	state	loses three games to the board's opponent
+olesm swifttail	3d89bb6e65	2.18	+	fact	says there is no gamer class; [Gambler], [Layabout]/[Idler] and [Tactician] are the nearest
+olesm swifttail	f008abf649	2.18	+	fact	writes up Erin's games in notation for what Ryoka calls a possible newsletter
+olesm swifttail	ea972297e1	2.18	+	fact	guesses the unknown player is a [Strategist], a class change like [Spearmaster]
+olesm swifttail	d313b676c9	2.22	+	fact	plays chess with Pawn and Bird in the Hive; they look up as the fight starts
+olesm swifttail	2c7156bd4c	2.26	+	fact	avoids Erin since the game with the unseen player; Erin tells him to play her anyway
+olesm swifttail	4a5c7c8d29	2.00H	!	state	asks to join as a [Tactician]; Pisces, Yvlon and Ceria vote no and he storms out
+olesm swifttail	ba2fc0b32c	2.27	+	fact	teaches chess to Antinium Workers for pay; the highest-level [Tactician] in Liscor
+olesm swifttail	6469cde96e	2.27	!	event	learns of a Goblin Lord in the south; Zel Shivertail clashed with him and retreated; Liscor on alert
+olesm swifttail	6cc74cea60	2.27	+	fact	gives them the Albez map; Pisces reads the name
+olesm swifttail	35a9872d7f	3.05L	+	fact	Drake who delivers supplies, plays chess, mentions Zevara has the dungeon entrance on permanent watch
+olesm swifttail	067c35b769	3.23L	+	fact	sent Erin's chess games, puzzles and notation to major cities; replies misaddressed to "Oresm"; Strategists pay and level from the puzzle
+olesm swifttail	45b4614baa	3.38	!	event	promised an after-lunch visit to the inn to play chess and Go
+olesm swifttail	122162f74a	3.39	+	fact	runs a chess newsletter with over twenty readers, using Erin's puzzles and annotated games; Erin suggests logos, a "Tactician of the Week", crossword and selling at Runner's Guilds; he fears sending it to Niers Astoragon, said to 
+olesm swifttail	8e26205a2f	4.12	+	fact	has corresponded with a [Strategist] of a Walled City who wants to play Erin at chess in Liscor
+olesm swifttail	1d86482b99	4.26M	+	fact	asks about the Antinium's role in a siege; Ilvriss and Zel are reluctant
+olesm swifttail	a67aab4268	4.33	+	fact	young [Strategist] says Goblin Lord will not take Esthelm, whose walls were rebuilt by Antinium
+olesm swifttail	b314204c99	4.36O	+	fact	Level 27 [Tactician] (was Level 22 a few months earlier); Liscor's dedicated [Tactician]; Ilvriss calls him a prodigy and invites him to Salazsar when he becomes a [Strategist]
+olesm swifttail	6ef9813fa8	4.36O	+	fact	wrote a chess newsletter; sent none for two weeks; feels guilty for telling Regrika about Ryoka, leading to Brunkr's death
+olesm swifttail	a315f8b8b8	4.36O	~	belief	thinks the Antinium are the real enemy
+olesm swifttail	0115a39db7	4.36O	!	event	receives Niers Astoragon's letter and ring and puts it on
+olesm swifttail	ea6bc7d3e0	4.36O	!	event	argue over rejection by Ceria; share one moment of joy
+olesm swifttail	361710a53d	4.37O	+	fact	his chess newsletter copied Erin's games and Erin's idea of magazines; Pisces says the fame is really Erin's
+olesm swifttail	003e35e1f2	4.37O	+	fact	both young and rational, bond over politics and resentment of seniority; Pisces knows Germina-Reim incident and Hellios conflict
+olesm swifttail	8c8086b279	4.37O	+	fact	reaches [Tactician] Level 28, gains [Rallying Presence]
+olesm swifttail	55782707ad	4.37O	~	belief	thinks Ilvriss's praise exaggerates; thinks of himself as barely smart
+olesm swifttail	5080ef5c68	4.37O	!	event	reconcile after snowballs and agree to cooperate
+olesm swifttail	5a5e008a47	4.38B	+	fact	Level 28; Ilvriss celebrates him and plans to recommend him in Salazsar
+olesm swifttail	8a7835fa64	4.47	+	fact	gets news by an informant; calls an emergency council; Zevara falls off her chair; Ilvriss reports to a scrying-orb council of sixty Drake nobles in Salazsar
+olesm swifttail	8fff6292e1	5.08	+	fact	downs a second giant moth with lightning
+olesm swifttail	7c6f8a84c1	5.12	+	fact	gains two levels, becomes a Level 30 [Strategist] and learns the army Skill [Vigor of Champions]
+olesm swifttail	bb0a7cf3a4	5.12	+	fact	asks about a war gratuity; the Antinium have no such concept
+olesm swifttail	76caf1215c	5.12	+	fact	hugs Erin, tells her fourteen Antinium-killed moths; says the Antinium never leave the Hive in the flood season
+olesm swifttail	5a4f32a2d8	5.12	!	state	becomes Liscor's [Strategist]
+olesm swifttail	63c99d3dc0	5.13	+	fact	ends the clash with [Rapid Retreat], making the Soldiers withdraw
+olesm swifttail	8e4440977a	5.16S	+	fact	submitted a proposal to station Pisces's undead in the sewers; Tekshia refuses, but Zevara overrules and Selys must supervise Pisces
+olesm swifttail	4c38a7db4e	5.28	+	fact	found a third entrance, a shaft from the crypt to a Raskghar burial chamber
+olesm swifttail	40c710874c	5.29	+	fact	[Strategist]; defines "horde style" vengeance dungeons as built to eradicate trespassers through monster nests
+olesm swifttail	032ceecf33	5.35H	+	fact	arrives with guardsmen and Krshia and hugs Erin; Lyonette feeds them hamburgers
+olesm swifttail	f56027ade5	5.35H	+	fact	argues the captive is worth more alive; Ilvriss realises the Redfang Hobs can translate and sends for Zevara, Embria, Tekshia and Venim
+olesm swifttail	03338e5d94	5.44	+	fact	calls Erin the best chess player in the world, better than Niers Astoragon, and says she killed Skinner
+olesm swifttail	87eddeb8a6	5.46	+	fact	commentators and umpires, quarrel over the speaking crystal
+olesm swifttail	93b75c94c1	5.49	+	fact	now a [Strategist]; killed a Raskghar in the dungeon; wrote the official report of Liscor's victory
+olesm swifttail	3cf2b24149	5.52	+	fact	Drake [Strategist] of Liscor; delivers analysis from Zeres and five other strategists that Tyrion Veltras is pushing the Goblins into Drake lands
+olesm swifttail	6fe32e8c42	5.52	+	fact	sees Tyrion's army four days from Liscor and rains about to stop
+olesm swifttail	cce63c6861	5.52	+	fact	realizes from an unsigned fan letter's underlined sentence "He has trebuchets" that the walls can be breached
+olesm swifttail	a90cefa94a	5.53	+	fact	calls a city alarm; says the Goblin Lord will attack Liscor with Humans giving him a way in; confiscates Erin's door under military law and arrests the five Hobs
+olesm swifttail	0c59b0b6e8	5.54	+	fact	loses his temper, shames Errif live through Eltistiman's scrying orb, and Drakes riot; Oteslia, Zeres and Manus pledge troops
+olesm swifttail	76f8b5cc62	5.56G	+	fact	notes the water has fallen to valleys and mud, hindering Humans' trebuchets and Antinium tunnelling; Klbkch silent
+olesm swifttail	861fdeb7d7	5.57	+	fact	sees about twenty-four thousand Cave Goblins camp outside Liscor and chant "Redfang"
+olesm swifttail	9e78261b0b	5.59	+	fact	reads the second force as dissidents from a Goblin tribal dispute; Zevara, Embria and Ilvriss expect Erin to be their draw
+olesm swifttail	9772a9b765	5.62	+	fact	fire from the walls at Reiss' army, including [Valmira's Comets] and a scroll nova
+olesm swifttail	cd9de644fc	6.11	+	fact	now a full [Strategist], paid an extra gold and six silver per week; publishes a chess and Go magazine
+olesm swifttail	e93bed4fb1	6.11	!	event	sends his magazine by sealed Courier to Niers Astoragon and others
+olesm swifttail	c1f0c7c0b0	6.21D	+	fact	his chess newsletter from Liscor suggests Goblins as irregular adventurers, cancelling the ear bounty, and analyzes the Siege of Liscor and Painted Soldiers
+olesm swifttail	e9f480cd43	6.28	+	fact	Drake [Strategist], writes a chess/Go newsletter; his latest edition analyzed the Siege of Liscor and proposed peace with Goblins, provoking furious letters, some with poison and hexes
+olesm swifttail	7b9151cb87	6.28	+	fact	decides to write a clarification newsletter, include Raskghar notes and a Go tutorial; leaves for Pallass with Pisces to find books
+olesm swifttail	1e775d13ce	6.28	!	event	moves from despair to resolve after finding supportive letters
+olesm swifttail	274244fa3c	6.30	+	fact	warns Zevara the Hive could overwhelm Liscor and each expansion adds two Antinium per new resident
+olesm swifttail	b101717f1e	6.30	+	fact	Lism Swifttail is his uncle who helped raise him
+olesm swifttail	15b9e01a35	6.30	+	fact	publishes a second newsletter attached to the election issue; it goes to cities with [Strategists]
+olesm swifttail	b34f435aa0	6.30	~	belief	quotes Klbkch as saying "to him, we are all dust"
+olesm swifttail	718ee20a68	6.30	!	event	sides with Lism after a clash with Zevara and Erin's table over Numbtongue, and helps him plan the counter-campaign
+olesm swifttail	bee7b91ab6	6.31	~	belief	his newsletter and Lism's rally imply the Antinium may attack Liscor
+olesm swifttail	13476ef24c	6.49	+	fact	[Strategist] of Liscor, briefs the Council; reports Manus's [Infiltrators] hit lands of nobles who sieged Liscor, covered as "Wyverns migrating north"
+olesm swifttail	9bf090c36c	6.49	~	belief	thinks the Antinium hoped to claim the dungeon for themselves
+olesm swifttail	158ff8884f	6.59	+	fact	says Palt told him Pisces was freed after a trial but hunted for later crimes; says Wistram paid a three thousand gold fine instantly
+olesm swifttail	18bea29f36	7.03	+	fact	Relc uses [Triple Thrust] on Wyverns; Olesm takes command of Kel's sector as Liscor's [Strategist]; the Flamewardens follow, Keldrass wearing the Heartflame Breastplate
+olesm swifttail	87419e080b	Interlude_A_Night_in_the_Inn	+	fact	feels unwelcome in Erin's inn after the election; overhears Montressa and Beza not recognizing him
+olesm swifttail	224f1ed97a	7.23LM	+	fact	lost his spark after the break with Erin; chess magazine stopped; keeps the Ring of Sight from Niers; Zevara assigns Beilmark and five Gnolls and Humans as Hexel's guards
+olesm swifttail	a6e579660f	7.23LM	+	fact	vetoes any action against the Free Antinium as Liscor's [Strategist], argues Liscor was left underfunded on purpose, and demands full funding; the Council and Zevara back him; Ilvriss grants the budget with oversight
+olesm swifttail	003f995514	7.23LM	+	fact	doubles his salary; reaches [Strategist] Level 33 and Skill [Instantaneous Barrage (Phantom Arrows)]; Maviola reaches [Lady Firestarter] Level 49 and Skill [Conjure Fast Fireball]
+olesm swifttail	cb0b1e5c1d	7.23LM	~	belief	believes the Walled Cities may have deliberately left Liscor weak as a sacrifice
+olesm swifttail	448297c315	7.23LM	~	belief	believes he is a fraud riding Erin's coattails
+olesm swifttail	6ec537e1ec	7.23LM	!	state	ends his slump, vetoes anti-Antinium measures, secures Liscor's budget and becomes lovers with Maviola
+olesm swifttail	9869f01017	7.24	+	fact	two days after meeting; she has moved into his apartment; Olesm's Liscorian Gazette circulates
+olesm swifttail	9342f3ee16	7.30	~	belief	offers to take Maviola to the Healer of Tenbault or Saliss; she laughs and says she will not leave today
+olesm swifttail	082f84cad5	7.51	~	belief	suspects the surrender is a trap and that these are not all the Raskghar
+olesm swifttail	0112b19c34	7.52	+	fact	interrogates a Raskghar under truth stones; Nokha left many moons ago taking "strong" with her, with a sword and magic, and told them to surrender when both moons were full
+yvlon	d477dc29ee	1.11R	+	fact	blonde woman in polished silver armor, captain of the Silver Spears, Silver-rank
+yvlon	4cab60adbc	1.11R	+	fact	her family trades in silver with large mines; minor aristocracy; distantly related to the Reinharts
+yvlon	44e0b647e6	1.11R	+	fact	once beat five bandits barehanded after losing her sword
+yvlon	0189d20300	1.12R	+	fact	fights in plate, offers Ryoka the first strike; blocks a spinning wheel kick, draws blood with a gauntlet
+yvlon	abbfaf6ca9	1.12R	+	fact	Silver Spears fight with any weapon or barehanded
+yvlon	e00bbe0ec7	1.12R	+	fact	says Magnolia told her Ryoka has no levels or classes
+yvlon	00a0089216	1.38	+	fact	run to Liscor and back in under thirty minutes; the gate guard saw no one
+yvlon	5c24083dff	1.00H	+	fact	gives the pledge that each member gets a share and families are not left penniless
+yvlon	8851f22d24	1.02H	+	fact	sees Ceria and flees
+yvlon	8a17b65397	1.45	+	fact	catatonic, half her face torn, in the Adventurer's Guild
+yvlon	350128a5f1	2.05	+	fact	Ryoka tells Ceria she is comatose
+yvlon	a2769e1f7c	2.11	+	fact	the only silver-rank adventurer of note left
+yvlon	c805f551c1	2.18	+	fact	awake, scarred, blames herself; about eight survivors scattered and the Watch seized the equipment
+yvlon	1ec6ff85b6	2.21	+	fact	tall, golden-haired former Silver-rank Captain; the left half of her face was ripped away by Skinner; refused healing potions as penance
+yvlon	708268830d	2.22	+	fact	appears healed, in silver armor
+yvlon	63806120b4	2.00H	+	fact	hand mirror from her mother, spelled so it only reflects a Byres, backed with pure silver
+yvlon	4f11782105	2.00H	+	fact	the left-face scar is faintly visible again after the healing potion restored the skin
+yvlon	f796f424b3	2.00H	+	fact	has moved into a cramped room kept for struggling adventurers at the Adventurer's Guild
+yvlon	6f38f4e958	2.00H	+	fact	plate armour, a longsword by a Level 32 [Blacksmith], and a shield; wears [Knight] gear but is only a [Warrior]
+yvlon	33e7169a03	2.00H	+	fact	the Silver Spears are dead, including their Captain
+yvlon	7aabd7311d	2.00H	+	fact	has no activatable Skills but strong swordplay
+yvlon	3557da53ce	3.02H	~	belief	local adventurers at Esthelm treated them with sympathy or contempt over the crypt deaths
+yvlon	be562ea976	3.07H	+	fact	under the spell speaks as Ylawes Byres, [Swordsman] and heir, and as Yelen Byres, a noblewoman
+yvlon	82f7ef9d15	3.07H	!	event	silver sword shatters the guardian's gem but melts, fusing her silver armor to her arms
+yvlon	5c7e4dd1f6	3.08H	+	fact	melted silver fused to her arms; she can still flex them; takes off the rest of her plate armor
+yvlon	621f6a90e8	3.08H	+	fact	compares her arms to Dullahans; says "Father would be proud"
+yvlon	66668e3ab2	3.08H	!	event	each moved by the cheering crowd; Ceria imagines her old teammates beside her
+yvlon	d62d0a3f02	3.10	+	fact	Healer cannot remove the black and silver metal; a [Blacksmith] can cut away the outer metal with an enchanted dagger but not the parts bonded to bone
+yvlon	0b1f897d51	3.10	+	fact	raised among nobles, polite mask is "the mark of a Byres"; silver was her family's colors and fortune
+yvlon	96aa487f4a	3.10	+	fact	dreams of Skinner, a crawling monster with crimson eyes, and undead striking her friends
+yvlon	444865e48f	3.10	+	fact	calls Magnolia "Aunt Magnolia"; Byres house is a branch of the Reinhart family, subservient
+yvlon	40e01a2db3	3.24	+	fact	replaces plate with leather; arm metal sanded; wants a master-class healer or spell for her arms
+yvlon	26ec3429ed	3.25	+	fact	considers killing Pisces for making Toren; Ceria and Erin persuade her not to; Erin says Pisces saved her twice, once against Acid Flies and once with undead against Skinner
+yvlon	c343d5e3ca	3.25	+	fact	her brother Ylawes has a Dwarf in his team (the Silver Swords); she says he is overprotective and a better adventurer
+yvlon	c31791b66b	3.25	!	event	Yvlon's grudge against Pisces persists
+yvlon	17fdcca739	3.30	+	fact	blonde with metal fused into her arms; surname Byres
+yvlon	f4872153e8	3.32	+	fact	asks to avoid using her name or group name in Esthelm because of her brother; wears a cloak over her hair
+yvlon	6dc141be93	3.32	+	fact	raised by rich-family tutors, could not cast [Light]; has an older brother and sister
+yvlon	d7b8ae97f2	3.34	+	fact	says Ylawes will drag her home; her house is a minor Izril house with each generation an adventurer or warrior and names starting with Y
+yvlon	9386970817	4.10	+	fact	has metal fused into her forearms from defending the group against a fire construct; hates necromancy
+yvlon	ce66309039	4.24	+	fact	is a Level 26 [Wounded Warrior] after being a Level 22 [Warrior]; she tells no one
+yvlon	9f4ba3f075	4.27H	+	fact	takes a request near Esthelm to kill three adult male bears; Halrac advises checking for Mothbears and rabies, Jelaqua mentions Brainshrooms
+yvlon	81591dfa6b	4.27H	+	fact	uses the mordhau technique with her enchanted pommel to crack the Creler's shell
+yvlon	be10cae7b1	4.27H	+	fact	has the Skill [Ignore Pain] and cannot feel her arm; Pisces re-sets the bones around fused iron
+yvlon	edd7ed41cd	4.27H	+	fact	her arms have iron fused into the flesh; Pisces cannot replace the bone with bear bone
+yvlon	55348ad357	4.27H	+	fact	Level 26 [Wounded Warrior]; her family serves justice as [Knights] and she tolerates Pisces only
+yvlon	468b7c24c9	4.27H	!	state	discloses her new class and her pain Skill to the team
+yvlon	a26bc95a84	4.45	+	fact	refuses to go north; her arms were injured in Albez with metal in her bones; has a weight-enchanted sword; her older brother wants to bring her home
+yvlon	b7faf6b044	5.12	+	fact	all levelled in the battle
+yvlon	baeb700219	5.27	+	fact	wake screaming from dungeon nightmares; Ceria casts [Silence] on their room nightly
+yvlon	ae5817c010	5.35H	+	fact	has the [Ignore Pain] Skill and felt nothing when her shield arm broke; her old armour metal is fused to her bones; she forgot to activate her Forceshield Buckler
+yvlon	6605a327dd	5.35H	+	fact	asks Pisces to reinforce both her arms with a bone lattice and splint; he agrees, saying it can be removed
+yvlon	99162e3658	5.35H	+	fact	points out that dead Raskghar and Goblins are not on the banned-species list from Selys, so Pisces can use their bones
+yvlon	518a5ac174	5.35H	!	event	gets bone reinforcement in both arms, kept secret between her and Pisces
+yvlon	e38be7aaba	5.40	+	fact	bound to her bed by Falene's sleep-then-binding spell, armored under blankets; Ylawes and Dawil left her a sandwich
+yvlon	0b0ba152f0	5.40	+	fact	frees herself when Ksmvr cuts the bindings with her enchanted sword, as Pisces advises
+yvlon	4002fe439a	5.45	+	fact	wears her gauntlets and vambraces without other armour; her arms look bigger
+yvlon	00f5613c8e	5.45	~	belief	believes Calruz's actions were not the Calruz she knew; Ceria saw "the heart of the dungeon"
+yvlon	f25bd34a04	5.52	+	fact	tell Selys the Raskghar hoard was a gift from Goblins, so not taxable by the Adventurer's Guild, since the Redfangs were not yet registered
+yvlon	2b979140d3	5.59	+	fact	argue about joining Tyrion's army; Yvlon refuses
+yvlon	7ade6919e9	5.60	+	fact	stays, says if Liscor falls they will take Erin south, and regrets not thanking Ylawes
+yvlon	b574439ce5	6.18H	+	fact	[Wounded Warrior]; wears gauntlets and arm armour at all times; arms damaged and numb
+yvlon	6e42ac2c18	6.18H	+	fact	say the dead were cremated and families got all remaining money
+yvlon	f0ce1bff76	6.19H	+	fact	breaks down in the cell over losing her old team, says she sometimes forgets their names and faces and no longer dreams of them
+yvlon	ba09b71bfa	Interlude_Embria	+	fact	Silver-rank adventurer; fights Embria with a wooden longsword; her sword is a Sword of [Weight]
+yvlon	483eeaaaa2	6.39	+	fact	Level 28 [Wounded Warrior]; Skills [Keener Edge], [Lesser Strength], an armor-lightening Skill; her enchanted sword has [Weight]; Pisces' bone reinforcement protects her arms
+yvlon	7b0cbe097c	6.52K	+	fact	hides an infection under the metal arm guards fused to her skin where it is red and swollen
+yvlon	a53701fb56	6.56	+	fact	spars daily with Ksmvr; uses [Crescent Cut], a curving sword Skill good against blockers; wears mismatched enchanted steel
+yvlon	3cc2c42a80	6.56	+	fact	arms were melted by a fire elemental at Albez; Pisces reinforced the bone with artificial pieces; metal now infects the flesh; she can [Ignore Pain]
+yvlon	79ac54a34c	6.56	+	fact	Silver Spears were Maisé, Veronika, Dalia, Samite and herself; she alone survived the crypt
+yvlon	7781d8bdbf	6.56	!	event	reconciles somewhat with the northern teams and is invited to a captains' drink
+yvlon	5a00717338	6.57	+	fact	dislocates an arm in the fight without feeling pain and brawls Beza one-handed until Montressa casts [Binding Cords] and Palt [Soporific Dust]
+yvlon	423fd791b9	6.57	!	state	taken by the Wistram party; Ceria sealed in the box, Alais wakes later to find them gone
+yvlon	91970cb9db	6.59	+	fact	her arm bones were grafted with Pisces's bone supports and the flesh is infected; she cannot feel it, and Ceria is angry she was not told
+yvlon	e2ea63fce9	6.62L	+	fact	arms still infected from metal supports; the Healer said exertion might provoke or cure it; Pisces hopes to remove metal from the bone at Level 40
+yvlon	45e980c5f1	6.64	+	fact	her arm skin is infected again where it meets the metal; a Gnoll [Healer] warns a healing potion can feed the infection
+yvlon	30a721caad	6.64	+	fact	family Byres has five members (parents, Ylawes, Yvlon, her older sister Ysara); Ysara is an [Armored Merchant] in the north and a gifted swordswoman
+yvlon	a0f5794fbf	6.64	+	fact	tells Montressa's team 'Stay away from my team' after they rescue her and walks through them
+yvlon	e5fe12a440	6.66H	+	fact	remembers the horde of undead and the Silver Spears and says 'Horns of Hammerad! Stand and fight!'; the adventurers form lines around her, and she says 'Go'
+yvlon	85fd8b22e5	6.66H	+	fact	her Sword of Weight rebounds off the Adult's head three times; the Adult then severs her right arm below the shoulder
+yvlon	f2788bbc76	6.66H	+	fact	tries to rejoin her severed arm; Pisces fuses the bone, a healing potion heals the skin, but the arm stays weak
+yvlon	96fbfab120	6.66H	+	fact	uses the sword-trick 'murder-strike' (mordhau) to crack a juvenile Creler's underbelly and hits the Adult's head repeatedly
+yvlon	10d87b3dd6	6.66H	+	fact	reads Beza's [Lion's Strength] scroll, rides the Adult's head and cuts a tunnel into its brain; her sword breaks
+yvlon	822bde77ec	6.66H	+	fact	wakes in the broken inn at level 32, class change from [Wounded Warrior] to [Silversteel Armsmistress] with arms of silver and steel and the Skill Armform (Duelist)
+yvlon	94b567a105	6.66H	+	fact	lifts her broken Sword of Weight with her right arm as if it were light
+yvlon	64a3f2fcb0	6.66H	!	state	loses her right arm, later wakes as a Level 32 [Silversteel Armsmistress] with silvery metal arms
+yvlon	e3a1d6a8df	6.67	+	fact	[Armsmistress], her [Crescent Cut] becomes the sword art [Sword Art: Curve of the Moon] with extended reach; [Armform] gives duelist and Razorkind forms with armour-like arms and blade fingers
+yvlon	3ca1bf6c74	7.20	+	fact	Gold-rank [Silversteel Armsmistress], silversteel arms replaced her crippled ones about a month ago; third daughter of House Byres, brother Ylawes; says Magnolia Reinhart is her aunt by relation
+yvlon	b4de7fa232	7.20	+	fact	invokes House Byres and Magnolia to stop a Watch arrest of Ksmvr, then regrets pulling rank
+yvlon	fbe07282fa	7.26	+	fact	has new arms and is a [Silversteel Armsmistress]; Ceria's eyes look different to Ryoka
+yvlon	4f8d4630e1	7.37	+	fact	her village's people recognize her as House Byres; her father Yitton, mother Shallel (a former Terandrian Guildmistress of the Scrivener's Guild), sister Ysara, brother Ylawes; House Byres mines silver
+yvlon	64d4aa566c	7.45	+	fact	worries her silvery arms make her feel part-Golem; says the Horns plan to investigate a dead village Pisces wants
+yvlon	8b84346ec5	7.45	~	belief	says Yderigrisel will come back in the House's hour of need, though it already came and died
+zevara	5ae8d0a2d6	1.26	+	fact	a female Drake with light-blue scales, yellow eyes and a scar on her left face; calls Klbkch the fourth-strongest Guardsman and says the Watch will stop patrolling Erin's area
+zevara	882827f19b	1.42	+	fact	Drake, Captain of the Watch of Liscor
+zevara	ab6dc427b7	1.42	+	fact	breathes fire as a Drake
+zevara	7f8942f490	1.42	+	fact	calls Az'kerash only as "the Necromancer"; says the Necromancer would have brought giants, wights and ghosts
+zevara	b96274c5d1	1.42	~	belief	believes Erin is the human "who got Klbkch killed"
+zevara	803fda404f	1.44	+	fact	Watch has over four hundred guardsmen for a city of over ten thousand civilians
+zevara	b8a97c304c	1.45	+	fact	is a throwback/dragon's child and demands the humans pay
+zevara	0c59003647	2.02	+	fact	attends to see the human who "killed that freak"
+zevara	a0d155fd16	2.02	+	fact	Erin once called her a dragon
+zevara	3791459b67	2.03	+	fact	refuses to send Relc and Klbkch, says they owe nothing to non-citizens and she will not lose Klbkch again
+zevara	5fdff9f265	2.03	+	fact	eyes light purple
+zevara	62aca015a6	2.03	+	fact	can breathe fire
+zevara	939e472ca5	2.05	!	state	arrives with guardsmen to take Ruins treasure; tells Olesm she would have helped had she known
+zevara	5061c8f1d5	2.06	+	fact	loves Olesm, narration says she dies without telling him
+zevara	88d4492cbf	2.15	+	fact	worried whether the ruins are a magical dungeon
+zevara	aeb4e7f853	2.16	+	fact	demands the singing stop; has a loud voice
+zevara	6f905a4f01	2.22	+	fact	Drake Watch Captain; has [Dangersense]; breathes fire until she is dizzy; [Barrier of Air] stops it
+zevara	4c348d4d2f	2.26	+	fact	visits off-duty to sit with Olesm; Ceria also courts Olesm
+zevara	cd572ef165	2.00H	+	fact	leads about eighty Watch guards; loses a few soldiers
+zevara	2f04787888	2.35	+	fact	appears as "Watch Captain Zevarra"
+zevara	dd4d7df465	3.21L	+	fact	has been Watch Captain six years; reports on Antinium movement to all Walled Cities; notes Klbkch has looked different for nearly ten years
+zevara	434f5e1a34	3.21L	~	belief	suspects the Antinium are not truly Liscor's enemies, and wonders what can be done if they are
+zevara	ad2114c768	4.09	+	fact	Watch Captain intervenes, says bearing arms and abducting a Human would cause an incident
+zevara	13e984161d	4.10	+	fact	fines Erin four gold coins for striking Ilvriss, payable to Klbkch, and leaves; Pisces predicted this from reading Drake law
+zevara	524aa150ff	4.10	+	fact	a Watch Captain can be overruled in military matters only by a rank equal to or above [Colonel], not by a foreign lord
+zevara	b772d2f134	4.30	+	fact	Watch Captain; arrives with Klbkch, Relc and sixty Guardsmen to learn from Zel that Imenet and Regrika killed Brunkr
+zevara	d7e230a248	4.34	+	fact	Drake Watch Captain; comes with Relc and guards to expel the Goblins, wants them gone from area
+zevara	1965bd96c0	4.34	~	belief	suspects the Redfang Hobs may be spies or a Goblin ploy; says one Hob outmatches a Silver-rank team
+zevara	1c0c9d48bf	5.01	+	fact	Captain of Liscor's City Watch
+zevara	58490a43da	5.02	+	fact	secretly meet via the door; three Watch Captains of Pallass agree war is unacceptable
+zevara	973d503ae3	5.03	+	fact	calls Erin's inn an autonomous holding within Liscor's radius of authority
+zevara	ce8f19d44c	5.03	+	fact	blows smoke from her mouth when angered
+zevara	807cf28318	5.03	~	belief	says Goblins are monsters and wants them hidden to avoid a mob
+zevara	71a53bfe7c	5.05	+	fact	worries about the dungeon; knows nothing of the Antinium's decade-long silent war below the city
+zevara	26c1ffecd9	5.05	+	fact	peace with Pallass was also meant to win a Walled City's help against the dungeon threat
+zevara	2d07ce9842	5.07	+	fact	carries a candle for Olesm, the city's best [Tactician]
+zevara	7e3131a679	5.08	+	fact	breathes fire to clear moths from the wall; Olesm uses command scrolls
+zevara	3079897cb0	5.12	+	fact	levelled twice after the battle but gained no Skill
+zevara	1581e4266e	5.12	+	fact	secretly reports on the Antinium to other Drake cities and refers to Pawn as an Antinium Individual
+zevara	bcd80adde0	5.13	+	fact	surname Sunderscale, an Oldblood Drake who breathes fire and smoke
+zevara	1e3effacfe	5.13	+	fact	argues with Embria, says the Antinium treaty has held nearly a decade and Liscor's army did not arrive for the battle; asserts she commands all military matters in her city
+zevara	aeb63e70fc	5.16S	+	fact	tells Erin the city will reserve her door to ferry Zel's body from Celum, as Magnolia had it preserved and transported
+zevara	50b05dee3c	5.16S	+	fact	realises this makes Selys heir to the Heartflame Breastplate and any artifacts he had on him
+zevara	676f30b0b6	5.18S	+	fact	says the thugs were to receive forty thousand gold pieces; calls the plan shoddy and panicked
+zevara	165ed1dac8	5.18S	+	fact	advises Selys to sell to Wistram or the army as the safest option
+zevara	961639c139	5.18S	~	belief	suspects Ilvriss could influence Selys because he belongs to Salazsar
+zevara	2636d4f557	5.28	+	fact	pays Erin for the damage; says the play is not offensive; wants a [Message] to Liscor's Mage's Guild if anything dangerous is found; reveals a Silver-rank team caused the moth attack
+zevara	fd42309e4a	5.33B	+	fact	received a commendation for the siege of Face-Eater Moths
+zevara	1e1f8bfbc4	5.38	+	fact	[Illumination] lights shine from the east wall at the Watch's backs; Olesm has a Ring of Sight and spots Antinium Workers with bows entering the inn
+zevara	a050aaf20b	5.38	+	fact	reports that Lord Tyrion Veltras attacked at Dwarfhalls Rest and Ellia Arcsinger the Kingslayer was hired against the Goblin Lord
+zevara	57ec71a4b2	5.38	!	event	learns Antinium Workers have bows
+zevara	52dc000574	5.39	+	fact	refuses to send Watch into the dungeon; says Erin's alarm saved dozens of guardsmen
+zevara	70e616f864	5.52	+	fact	Watch Captain; says Liscor can hold against a hundred thousand Goblins with the Antinium, who number more than the official three hundred Soldiers
+zevara	1ecdbf5b73	5.52	~	belief	confident Liscor cannot fall to Goblins
+zevara	c63831380f	Interlude_Krshia	+	fact	confiscates the Celum mana stone; Olesm and Embria carry it to the armoury
+zevara	f058811d72	Interlude_Krshia	+	fact	warns Beilmark not to cast again without telling her
+zevara	935350db9d	5.57	+	fact	reads the chant as a parley request and proposes freeing the Hobs in exchange for the Goblins moving south
+zevara	072766967b	5.59	+	fact	orders barricades and a [Fireball] scroll at the door
+zevara	1f6ebb60a4	5.60	+	fact	orders the adventurers to defend Liscor under Drake law and confiscates the magic door
+zevara	88e9bf6ec9	6.02	~	belief	assume the city's victory means Erin will soon recover
+zevara	c3bd1c64b0	6.08	~	belief	thinks Erin's inn money is plentiful enough to pay nearly fifty gold
+zevara	0aa8acf9aa	6.17S	+	fact	Oldblood female Watch Captain; supports the idea, needs money for Watch upgrades, and expects the Council to threaten her post
+zevara	65ca37be95	6.17S	+	fact	pick Klbkch's Hive as the funding source; Zevara needs a day or two before approaching him
+zevara	f8a642d1a8	6.17S	!	event	launch the election push with Selys
+zevara	235edfeb11	6.29	+	fact	Watch Captain, light blue scales; has known Drassi since Drassi was a hatchling and logged eleven noise complaints about her
+zevara	9c3290ec50	6.29	+	fact	allied to force a Council election with one Council member per district
+zevara	da1b26aaa4	6.30	+	fact	tells the Watch at the barracks she is acting as a private citizen and will swear it on a truth spell; the Council refused her budget three times
+zevara	e13e9cf0ef	6.30	~	belief	says Klbkch is trustworthy and that one Hive making peace removes one-sixth of the Grand Queen's armies
+zevara	b5e15839b5	6.30	!	event	wavers publicly when asked about Lism's budget promise
+zevara	8be4e6be3d	6.32	+	fact	tests Calruz with a blue truth stone that stays blue, then rolls Lism's bottle into his cell
+zevara	0ec101ff00	6.32	+	fact	gives herself less than a week to find a Wistram-certified [Mage] or [Healer] to examine Calruz
+zevara	6d368d818e	Interlude_Two_Rats	+	fact	says Calruz is held because they are unsure he was in control of himself; holds jurisdiction over his fate
+zevara	3f728b50e7	Interlude_Two_Rats	+	fact	arrests Ulkel and everyone present, uses [Lawbreaker's Enemy], breathes fire, and says no justice was done
+zevara	b1dd5196b4	6.49	+	fact	tells the Council the Watch Captain can refuse Council orders and holds prisoners, so the Minotaur vote is tabled; the briefing counts about 9,000 Soldiers and 24,000 Workers in the Hive and lists Silent, Twisted, Armored and Flyi
+zevara	95a5a9e7ea	6.49	~	belief	believes Klbkch will disobey the Grand Queen at the decisive moment
+zevara	e41cdd57ec	6.49	!	event	wins nearly her full budget and plans to put the prisoner (the Minotaur) to use
+zevara	5eb9994746	6.58	+	fact	sees through Palt's [Soothing Presence] and charm by biting her tongue and kicking her toe; she keeps a tin whistle and a pig-faced charm that turns to a fury mask when someone casts on her
+zevara	ee943a9cc5	6.58	+	fact	uses a command scroll tied to the wall spells to hit Montressa's hill with a comet; Montressa's barriers hold
+zevara	2747734894	6.58	~	belief	says Pisces has no bounty and no record in Liscor, that he paid his bounty
+zevara	a6c984ac4c	6.59	+	fact	tells the Wistram team to obey Liscor's law, that The Wandering Inn counts as part of Liscor, and that she rejects Wistram's bounty on Pisces; she breathes fire at Isceil for an insult about her breath
+zevara	c40411b597	6.59	~	belief	claims Ksmvr, Yvlon and Selys are entitled to part of the fine
+zevara	5f79484ca5	6.62L	+	fact	rejects Lyonette's cookie bag as a bribe then pays four silver and keeps them; Lyonette has paid 19 gold of her artifact fine; Zevara receives Isceil's tonic and visits Calruz in jail daily
+zevara	b70bb30286	6.65	+	fact	frees the captive Minotaur Calruz and gives him a battleaxe to draw the Crelers; he charges in shouting 'Death before dishonor!'
+zevara	f0be09b5e7	7.01	+	fact	held Liscor against Skinner, the Raskghar, Face-Eater Moths and the Goblin Lord's army
+zevara	474e2f118f	7.16L	+	fact	Watch Captain; two Senior Guards, Sheikhe and Laven, found dead in a Shield Spider nest; Bearclaw questioned twice and beat truth spells; Mr. Soot missing
+zevara	eaed4689e7	7.16L	~	belief	official story is the Senior Guards met a Hollowstone Deceiver
+zevara	0a1356462b	Interlude_A_Night_in_the_Inn	+	fact	Grimalkin says the Antinium count is far higher than the treaty allows and that Magnolia's action benefits Izril
+zevara	a078406e6d	7.27	+	fact	screams at Erin for twenty minutes; Rufelt and half the Council also react
+zevara	3d99dedb32	7.28	+	fact	resets "Days Since Crazy Human Incident: 0"
+zevara	586884a882	7.29B	+	fact	listens to the broadcast and calls for Senior Guardsman Relc
+zevara	65c2b2a307	7.30	+	fact	strips Relc of Senior Guardsman rank for the Golden Triangle (800 signed up, L317); transfers him to Cellidel; he may resign
+zevara	4f53c0c4fa	7.31	+	fact	loses control of mobs; Workers beaten and homes of Golden Triangle members burned
+zevara	035d7e5163	7.38	+	fact	uses [Freeze, Criminal] on Erin outside the Watch House; keeps a "Days Since Crazy Human Incident" calendar reset from 8 to 0
+zevara	c6c7c263a4	7.38	+	fact	says the Watch needs a jail upgrade, watch towers and enchanted arms; says Liscor's economy was based on its army
+zevara	b41a245fc8	7.38	~	belief	says Liscor's economy needs to look outside the city
+zevara	946862ba18	7.47K	+	fact	watch the House of Minos advance in Liscor; Zevara plays chess with Calruz, whose rats Rhata and Haldagaz sit with them
+zevara	e29d8c1f66	7.52	+	fact	requested six hundred Antinium Soldiers to patrol Liscor and hold the walls
+zevara	996509af0d	7.52	+	fact	moves Raskghar only to cells that hold them since none can use Skills; follows Calruz's advice on the bars
+zevara	af956cf0f2	7.52	!	event	privately thanks Erin ("Thank you, Erin Solstice") and lets her through

@@ -16,12 +16,12 @@ Status legend: [x] done, [~] in progress, [ ] not started.
 One block per chapter in the format of `src/Chapter_Notes/README.md`. Order = reading order (seq 1..510). Also appended while reading: `ledgers/aliases.tsv`, `ledgers/open_questions.md`, `ledgers/entities_seen.tsv`.
 Gate 1: every chapter has a block; verify_notes.py reports zero dangling cites; all census terms >=15 occurrences are covered (entity, alias or stoplist).
 
-## Phase 2: entity ledger
+## Phase 2 (DONE 2026-11-06, Gate 2 passed): entity ledger
 Merge notes into `ledgers/facts.jsonl` (entity, kind, text, cite, seq). Resolve aliases, split homonyms. Phase 2 items:
 - [x] 2.1 `extract_facts.py`: parse notes into `ledgers/facts.jsonl` (13,077 facts), group by canonical entity via the alias map, split joint-subject "A and B" facts across both entities (307); writes `entities.tsv` and `entity_report.txt`
 - [x] 2.2 (DONE: all 2,601 entities reviewed; folds/splits and all 766 older alias pairs independently verified; 130+15 rejected merges left unmerged) resolve `alias_conflicts.tsv`, split homonyms, fold surname/title variants (Ryoka vs Ryoka Griffin)
 - [x] 2.3 (strict rule live: 0 of 2,010 census terms >=15 uncovered; 271 gaps decided in `coverage_decisions_gap.tsv`, 145 as fact-less manual entities) strengthen `check_coverage.py`: a census term counts as covered only if it resolves to a canonical entity in the entity ledger (or is stoplisted / a bracket term), not merely because it appears in some note line; turn the `entity` rows in `coverage_decisions.tsv` into real ledger entities
-- [~] 2.4 (kinds classified by heuristic, `kind_source: heuristic`; supersession links not started) classify fact kinds (`fact`/`rel`/`event`/`belief`/`reveal`/`state`) and set `seq` per fact; supersession links for retcons
+- [x] 2.4 (DONE: all 13,136 facts reviewed by agents; 5,959 kind changes; 293 facts carry 340 supersession links, 0 invalid; `fact_kinds.tsv`, `merge_kind_decisions.py`) classify fact kinds (`fact`/`rel`/`event`/`belief`/`reveal`/`state`) and set `seq` per fact; supersession links for retcons
 - [x] 2.5 entity-ledger report and orphan-fact check (0 orphan facts; `entity_report.txt`; every entity with >=15 facts or 2+ chapters is a row in `entities.tsv`)
 Gate 2: each entity with >=15 facts or 2+ chapters has a file; no orphan facts.
 

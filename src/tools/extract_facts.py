@@ -176,6 +176,19 @@ for f in facts:
 for i, f in enumerate(facts, 1):
     f["id"] = "F%05d" % i
     del f["k0"]
+# reviewed kinds and supersession links (ledgers/fact_kinds.tsv, written by merge_kind_decisions.py)
+fk = {r["sid"]: r for r in read_tsv("fact_kinds.tsv")}
+sup_by = collections.defaultdict(list)
+for f in facts:
+    r = fk.get(f["sid"])
+    if r:
+        f["kind"] = r["kind"]; f["kind_source"] = "reviewed"
+        sup = [x for x in r["supersedes"].split("|") if x]
+        if sup:
+            f["supersedes"] = sup
+            for a in sup: sup_by[a].append(f["sid"])
+for f in facts:
+    if f["sid"] in sup_by: f["superseded_by"] = sup_by[f["sid"]]
 with open(os.path.join(LED, "facts.jsonl"), "w", encoding="utf-8", newline="\n") as o:
     for f in facts: o.write(json.dumps(f, ensure_ascii=False) + "\n")
 

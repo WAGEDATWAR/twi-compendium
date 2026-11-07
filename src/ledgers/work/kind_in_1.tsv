@@ -1,0 +1,621 @@
+entity	sid	chapter	marker	heuristic_kind	text
+bird	15a804dcfa	1.44	+	fact	Worker who revives Erin with her healing potion; wounded
+bird	33834e512e	2.11	+	fact	one of the four survivors of the battle with Skinner
+bird	e5a8dbca39	2.36	+	fact	now minder of the Antinium Workers who visit the inn
+bird	80fb2d4a90	4.07	+	fact	Antinium Individual with a short bow and homemade arrows; shoots birds, drinks raw eggs, claims to provide 261% of an average Worker's food value
+bird	33195c88ff	4.07	+	fact	his sack held birds dead two weeks; Erin tells him to bring only fresh birds and offers to cook them
+bird	038187f5ae	4.07	+	fact	the five surviving Antinium who protected Erin from undead
+bird	b50a24fe22	4.11	+	fact	arrive through the door looking for Erin; Bird carries a dead pterodactyl-like bird
+bird	4b9451f9c0	4.12	+	fact	accepts the job as Erin's guard on Klbkch's orders
+bird	34e78e283e	4.12	+	fact	reveals Pawn was assigned to combat duty and wanted to talk to Erin in case he died
+bird	10ac62dd9a	4.12	!	state	becomes Erin's guard
+bird	786f0cbff4	4.18	+	fact	Antinium who shoots birds and eats them raw
+bird	86ab591dbf	4.18	+	fact	wants a very high tower to shoot birds from
+bird	46c2c2cdff	4.24	+	fact	a permanent fixture of the inn, sits on the roof where the third floor and new wing are being built
+bird	3fbd5155e7	4.29	+	fact	new bow; wants to hunt birds from the tower; argues with Pawn about social obligations
+bird	02da338265	4.30	+	fact	hurls a bucket of outhouse feces at Regrika, who rages and chases him out the door; Bird survives
+bird	d81c787e94	4.33	+	fact	Antinium at the inn's watchtower, [Eagle Eyes], [Long Range Shot], [Homing Shot]; shoots at Hobgoblins despite sign "not to kill Goblins" saying it names no Hobgoblins
+bird	95af421feb	4.33	!	state	possibly killed, falls off the inn tower roof
+bird	cec0f6a623	4.34	+	fact	shot by Badarrow, healed by Lyonette's potions; an arrowhead lodged in his carapace; resumes with curving arrows
+bird	f0dca607d8	S02_The_Antinium_Wars_Pt.5	+	fact	tells Erin to "be shush" during the story
+bird	1c2d7b6e2c	5.00	+	fact	asked by Erin to guard against Drakes; chased off four at night
+bird	2520d5f3d7	5.03	+	fact	Antinium Worker, [Hunter], keeps a crude bow Erin gave him; sleeps against a wall because Antinium cannot sleep on beds
+bird	74fed60dcb	5.03	+	fact	hopes to hunt "fish-birds" and sings of rain; forgets to close the tower door, flooding the third floor
+bird	6041d704dc	5.04	+	fact	prefers high places; welcomes extra guards and eats popcorn ("bird bait")
+bird	3658ab063a	5.06M	+	fact	eats "bird babies" (scrambled eggs); later kills eight birds in an hour guarding Mrsha
+bird	15e861184d	5.07	+	fact	shoots moths from the inn tower; thinks there could be "too many birds"
+bird	28fdbb69aa	5.08	+	fact	left bleeding by moths, his tower door and bow broken; Badarrow smashes a healing potion on him; he fights on with a spare crude bow
+bird	bf78b5d6b3	5.14	+	fact	gets a new bow-using Skill that works on his old crude bow and has a cooldown; his fine bow was broken by the moths
+bird	bbbd81b92a	5.14	+	fact	used his wages as bird bait; Erin plans to save for a new bow
+bird	fd9d5b01d6	5.33B	+	fact	[Hunter] who sits in his tower above the inn, learned [Piercing Shot], waits for water birds; his old bow broke
+bird	faa0ff3bcf	5.33B	+	fact	told by Erin to come down for food at least twice a day; cannot eat bread
+bird	5ff9f2d677	5.33B	+	fact	plays chess to draw a crow on the board, and says no to Erin's chess invitations, though he sometimes wins
+bird	08b8260673	5.33B	+	fact	refuses to stay and refuses to be fixed, promises to return with a bird and sing
+bird	cb911e1170	5.33B	+	fact	reaches [Singer] Level 7 and obtains the Skill [Soothing Melody]
+bird	4e39c86e5f	5.33B	!	state	levels as [Singer] and obtains [Soothing Melody]
+bird	209019b414	5.34	+	fact	bought the highest-quality bow in Krshia's cousin's shop with a large budget given by the Antinium Queen after her interview of him
+bird	248bf2e355	5.34	+	fact	sees Raskghar and Cave Goblins swimming up from the water toward the inn and raises the alarm; uses a [Homing Shot]
+bird	1b53f4c17b	5.38	+	fact	does not understand why he shot at Halrac, then rocks repeating "I'm sorry" when told he could have killed him
+bird	add9538eda	5.38	!	state	learns he nearly killed Halrac
+bird	f90113ee42	5.39	+	fact	shot at Raskghar; blames himself over Mrsha, then goes alone into the dungeon calling for Mrsha and Ceria
+bird	e6c42f82d0	5.40	+	fact	found trapped under a dead Face-Eater Moth with his leg crushed after killing many monsters with his bow and knife, sings a song about no birds underground
+bird	03fef7821a	Interlude_Bird	+	fact	Antinium Worker and [Hunter]; says he is two years old and will be three in fall; has his own room and a tower; uses a bow from his Queen
+bird	b347f6959e	Interlude_Bird	+	fact	was assigned to the inn by Revalantor Klbkch for security and a purpose he cannot disclose
+bird	c22ee0fd76	Interlude_Bird	+	fact	Workers with names are Individuals; those without who say bad things about the Queen are Aberrations, killed by Klbkch or Soldiers
+bird	c5f3d8e5e3	Interlude_Bird	+	fact	named after Henry Edward Bird, a Human chess player who invented Bird's Opening and Bird's Defense
+bird	ddc813b604	Interlude_Bird	+	fact	believes in "water birds" and has not seen any
+bird	5465b5dda7	Interlude_Bird	~	belief	believes bats and moths are birds, and Garuda are birds because they have wings
+bird	30a174b1c5	Interlude_Bird	!	event	receives Bevussa's green and blue feather and keeps it under his pillow
+bird	92d7af22b7	5.53	+	fact	loosing arrows from the inn tower, fires [Piercing Shot] at Greydath's left eye
+bird	49a017b367	5.53	+	fact	loses both left arms and shoulder; healing potions cannot close the wound; says "I am dying"
+bird	b1067163b3	5.53	!	event	critically injured, carried to the Hive
+bird	132d590620	5.54	+	fact	Antinium have no arteries or closed circulation, so potions cannot stop his bleeding
+bird	34852d0def	5.54	+	fact	learns to cry by saying "Waah"; the Free Queen cradles him
+bird	f9d08a0b79	5.54	!	event	survives but badly maimed and crying
+bird	99a79b56aa	Interlude_Pebblesnatch_and_Garry	+	fact	lies propped on pillows (his "fortress of fluff" from Erin) with his damaged left side covered in green healing substance; he lives in the Queen's chambers
+bird	313e8538fb	Interlude_Pebblesnatch_and_Garry	+	fact	asks Garry to promise twice, because Erin told him double promises are better
+bird	3e3ee741c7	Interlude_Pebblesnatch_and_Garry	+	fact	cannot eat gluten; is given one small piece of cake anyway
+bird	93746f3f5f	5.62	+	fact	tells the Free Queen "I hear laughter. They're laughing. And so are you."
+bird	0a330fb801	6.29	!	state	hears the Free Queen's thoughts and says Bessachidia's name; Queen calls him a True Antinium and spares him but says she will dissect his body after he dies
+bird	da9082828c	6.58	+	fact	returns whole with four arms, two legs, a new carapace and a new bow, and shoots Montressa, Isceil and Beza; says his tower was blown up by a Goblin with a sword
+bird	6c23c77797	6.58	!	state	returns to The Wandering Inn
+bird	bce56c105a	6.59	+	fact	builds his own tower on the unfinished roof and shoots bats
+bird	7ba7b573cf	6.59	!	state	returns home to the inn
+bird	c94f73e89c	6.61L	+	fact	Antinium Worker, [Bird Hunter] and [Singer]; has a tower of planks on top of the unrebuilt inn; Skills [Lure Song], [Prey Sense], [Long Range Shot], [Homing Shot], [Piercing Shot]; shoots with four arms and misses a 300-foot bird
+bird	e66542dc44	6.61L	+	fact	Garry asked to be employed as a [Cook] but the Queen refused
+bird	828716eea1	6.65	+	fact	shoots Crelers from his tower, escapes by leaping off the roof and sounds the alarm for his Hive
+bird	2701b76117	6.67	+	fact	furious that his tower is broken, strikes Ksmvr, then apologizes; Erin tells him they can rebuild
+bird	470044213e	7.00	+	fact	sits in a ramshackle tower on the inn roof
+bird	5200585afd	7.01	+	fact	a [Bird Hunter] Worker with a bow in his ramshackle tower; he asks the Workers for a tower twice the height of the city
+bird	ce8cea4904	7.03	+	fact	leaves the inn, shoots Wyverns with [Homing Shot], [Long-Range Shot] and [Piercing Shot], and blinds the Wyvern Lord, which flees south with about three hundred left
+bird	4f59506bf0	7.03	!	reveal	revealed standing on a dead Wyvern eating a charred wing; the world sees an Antinium in a Walled City
+bird	ca591a917b	7.03	!	state	claims to be "Prognugator of the Free Antinium", says the death of a Prognugator means war and asks "is it war?", repeating a lie from Ksmvr; Klbkch tells the room he is lying and nobody believes him
+bird	4872520b9e	Story_2_Tersk_and_Dekass	+	fact	on top of his tower, says life is very sad today as the big birds are gone
+bird	bf57156b10	7.04	+	fact	stood on a dead Wyvern surrounded by archers, Grimalkin, Chaldion, Duln and Saliss, asks "Is it war?"; Noass and Sir Relz broadcast it
+bird	f6f4430667	7.04	+	fact	carries a severed Wyvern wing and tries to eat it; has a Level 8 [Tactician] class; owns a Fortress of Fluff in his new room and Bevussa's feather
+bird	63997688b7	7.04	+	fact	punished with no hunting or eating birds, including eggs, for a week; he tantrums with fake "Waaah" crying, then Erin calls him "Knight" and he calms and apologizes
+bird	752a7cd69b	7.04	!	event	first named in the world's security briefings as "Bird the Hunter"
+bird	222b5fbc38	7.06	+	fact	has five days left of his week-long no-birds punishment; Erin and Lyonette extend it for the plate; Bird beats Olesm at chess in a pattern shaped like a bird
+bird	844bc91852	7.07	+	fact	says "I belong here" among the Worker statues and calls them family; says Pawn, Anand, Garry and Belgrade should see it
+bird	b47ab3baee	Interlude_Chocolate_Gold	+	fact	go mining for gems and opals ("Pyrite thinks") with picks, potions, guitar and sword
+bird	254c49d189	Interlude_Chess_and_Ships	+	fact	has memorised every chess opening Erin knows
+bird	a6477407dc	Interlude_Chocolate_Alchemy	+	fact	lets Mrsha shoot a bow and goes on daily trips with Numbtongue and sometimes Octavia
+bird	2f01593b78	Interlude_Lifting_Ants	+	fact	feeds goat's cheese and salami to Archer B12, an Autonomous Worker who works on the inn's second floor with eleven others
+bird	533794adee	Interlude_Lifting_Ants	+	fact	leads Pawn, Yellow Splatters, Belgrade, Garry, Painted Antinium, Tersk and Dekass out of the Hive to the hill statues; the statues are plain stone without paint
+bird	e9406d03e6	Interlude_Lifting_Ants	!	event	calls Klbkch stupid and not his father, says "I am quitting my Hive", and declares "Klbkch does not rule me"
+bird	1c02cba62d	Interlude_Lifting_Ants	!	event	says the Free Queen told him she would kill him if he returned and thanks her
+bird	226ffce79c	Interlude_The_Hangover_After	+	fact	flies for fourteen seconds later that day
+bird	6f017713ae	Mating_Rituals_Pt.2	!	event	has fulfilled his obsession and eaten a bird, is not banned any more
+bird	b7d59b8c6e	Interlude_A_Meeting_of_Druids	+	fact	tower on the roof, Antinium Archers eat fufu; says good is a feeling that lasts after happy is gone
+bird	fd9ef4ad6d	Interlude_Meetings_and_Friendships	+	fact	go fishing at a pond in the High Passes with Apista, calling themselves the Bee Rescue Team
+bird	82d3d7d865	7.48K	+	fact	makes birdhouses, begs for a ballista to hunt Wyverns, and mutters that he will build one himself
+bird	45ce6bbf71	7.51	+	fact	holds first place on the Liscor archery range
+bird	6a37e3a431	7.52	+	fact	stays in his tower at full vigilance, holding bow and arrows in all four hands, and eats only when Erin feeds him
+erin solstice	f34f2ac93e	3.15	!	event	doubts the choice, unsure if it was a mistake given Drake prejudice
+erin solstice	83dae0c537	3.16	+	fact	crepes, French toast and bacon draw crowds a week after she introduced crepes; other Celum inns copy her recipe
+erin solstice	ed42859fc4	3.16	+	fact	knows hamburgers and music from her world were popular in Liscor because they were new
+erin solstice	8233a599ad	3.16	+	fact	has [Unerring Throw], which Wesle identifies when she hurls a spoon
+erin solstice	f286f03605	3.16	+	fact	Level 6 [Singer] with [Perfect Recall] that works on songs, plays and artistic texts
+erin solstice	a44aa7c1e3	3.16	+	fact	as a child wanted to be an astronaut, then a chess player, then a chess commentator
+erin solstice	bca6bb293c	3.16	+	fact	says she once planned a greenhouse near her inn without glass per Ryoka
+erin solstice	755049d2eb	3.16	~	belief	says back home anyone could be a celebrity in Hollywood
+erin solstice	81b2de75d2	3.16	!	state	reaches [Innkeeper] Level 29 and gains [Skill - Crowd Control]
+erin solstice	1107819b90	3.16	!	event	flips a table in anger at their ignorance of plays
+erin solstice	193a5a73aa	3.24	+	rel	serves pizza and runs the kitchen; helps run the inn; Miss Agnes and four barmaids staff it
+erin solstice	0bac74be57	3.24	!	event	orders Pisces to sever the mana link to Toren immediately and says goodbye
+erin solstice	91feb6f47d	3.25	+	fact	sad at ending Toren; hopes he might still be alive; sees Ceria cold at breakfast
+erin solstice	8e4c9a0639	3.25	+	fact	leads actors in Frozen with Jasi as Elsa; Ceria casts snow and cold effects
+erin solstice	28b48e2a26	3.25	+	fact	wants the door as a treasure; the Horns give it to her
+erin solstice	8e0ac7198e	3.25	+	fact	realises the stone and a second door create a portal; Pisces and Ceria tune it; the stone is left at the Frenzied Hare
+erin solstice	a951536248	3.25	+	fact	makes popcorn with butter, salt and yeast
+erin solstice	f92075cd9d	3.25	!	state	leaves Celum with the Horns of Hammerad bound for Liscor
+erin solstice	dbd9503927	3.25	!	event	owns the enchanted door; Pisces's deduction yields a working portal door to the Frenzied Hare
+erin solstice	b5fc54c377	3.30	+	fact	remembers a house in Michigan and parents who play chess badly; cooks biscuits and gravy before dawn
+erin solstice	5b37f6c302	3.30	+	fact	wants baking powder and baking soda; pays Octavia 3 gold and 8 silver to experiment, after Octavia haggles up from 2
+erin solstice	1be832c413	3.30	+	fact	promised not to ship letters or deliveries through the door; threatened the city with the Horns's displeasure
+erin solstice	7178a90dd3	3.30	~	belief	Ryoka had kept the identity of her client secret; Erin guesses Teriarch is the "mysterious client"
+erin solstice	5d00ef1dc9	3.32	+	fact	carries "blue soup" of Corusdeer horn; makes the eater very hot even with cold protection; plans to sell it
+erin solstice	ee1e0bd99f	3.32	!	state	returns to the Wandering Inn, with Mrsha and Lyonette's hug
+erin solstice	59e30511f1	3.33	+	fact	apologizes and hugs Lyonette; finds her inn clean and organized, except that her flower boxes had gone unwatered
+erin solstice	36d8c62acb	3.33	+	fact	teaches the inn Macbeth's witch chant and offers to teach Go; knows Shogi but not the kanji
+erin solstice	8a1d6dcb73	3.33	!	state	reaches [Innkeeper] Level 30 and changes to the class [Magical Innkeeper]; gains [Skill - Inn: Magical Grounds] and [Skill - Inn: Field of Preservation]
+erin solstice	ca4c96e993	3.34	+	fact	Level 30 [Magical Innkeeper]; says her inn now holds ambient mana, boosting spells to about double casts and acting like a leyline
+erin solstice	0341af4fe8	3.34	+	fact	says friendship is made by giving something, as in a time, trust or help; cares about strangers because "they're people"
+erin solstice	b96260af6a	3.34	+	fact	asks the mages how many people the portal door could move: 16 to 30 bodies a day, or over a hundred with all mages and potions
+erin solstice	acf87d2472	3.34	+	fact	teaches Esthelm a version of "Jingle Bells" with a bell, harp and flute, mentioning Christmas
+erin solstice	ea72f398c0	3.38	+	fact	arrives in Liscor before dawn after leaving Esthelm; Termin wants a meal in return; a second Goblin army burnt a town fifty miles north
+erin solstice	5071dcf86d	3.38	+	fact	announces Christmas to Lyonette and Krshia; plans a Secret Santa party for two days later where everyone gives gifts to two others
+erin solstice	8a7c9d6e1e	3.38	+	fact	promises that part of Lyonette's pay goes to Krshia's shop
+erin solstice	1e6ed43503	3.38	+	fact	messages Ryoka via the Mage's Guild clerk; replies come in minutes because Ryoka is at the Invrisil Mage's Guild; two-way conversation costs extra
+erin solstice	51bc2bfd76	3.38	+	fact	asks Ryoka to return for Christmas and to bring Reynold; tells her to call Magnolia Scrooge and says Ressa is cool
+erin solstice	12edb2f521	3.38	+	fact	[Dangersense] warns of the crab; she resolves they always carry seed cores and go together
+erin solstice	840068e7c5	3.38	+	fact	fights Brunkr using [Minotaur Punch], cleans his arm, spoons honey over it, bandages it and tells him to repeat it all day
+erin solstice	b79c9624be	3.38	+	fact	says on Earth there is no magic and diseases are treated by medicine; promises to come back "with a saw" if honey fails
+erin solstice	2c0e990209	3.38	~	belief	tells Brunkr honey has antibodies
+erin solstice	09a8208ac7	3.39	+	fact	Skill tells her when cooking is done like an egg timer; Lyonette and Erin hide diced mushroom in Revi's sandwich
+erin solstice	b8ec911c14	3.39	+	fact	asks Octavia to make "matches" with red phosphorus and sulfur, and to find penicillin mold; will let her sell the magical soups
+erin solstice	df92532c8d	3.39	+	fact	wants a healing-potion slime idea written down; closes the Frenzied Hare (Agnes on holiday with her sick husband)
+erin solstice	7e755b1d0f	3.39	+	fact	unsure she has a Christmas tree; plans gifts to be assigned secretly the next day
+erin solstice	b2a29ba998	3.39	!	event	introduces Go to Liscor, which spreads among Drakes, Gnolls and Antinium
+erin solstice	516018f53e	3.41	+	fact	places gifts in a corner of the inn; hangs mistletoe from Krshia (white berries); Jelaqua kisses Typhenous, Revi kisses Pisces, and the inn starts testing kissing skill with cherry stems
+erin solstice	9a794d34c1	3.41	+	fact	sings Silent Night to Lyonette and Mrsha, burns the mistletoe, and blows out the candle at midnight
+erin solstice	cb080bb4ca	3.42	+	fact	cooks sour soup, Drake dumplings, Gnollish kebabs, hamburgers, pizza, popcorn, ribs, fries and fluffy bread for the party
+erin solstice	065094bbf6	3.42	+	fact	sings "Jingle Bells", "Don't Stop Believing" (Journey), "Silent Night", and breaks down on "Home for the Holidays"
+erin solstice	279637944a	3.42	!	state	breaks down crying publicly for her lost home
+erin solstice	9ed1703c73	Interlude_B04_1	+	fact	wakes at dusk alone in her empty inn; her guests have left her to rest in the city and Lyonette's grub is gone too
+erin solstice	26f0a8429d	Interlude_B04_1	+	fact	receives a palm-sized white silvery coin that weighs almost nothing, left by the men, which she keeps in Lyonette's coin jar and later in her pocket
+erin solstice	1577234719	Interlude_B04_1	+	fact	wakes to find the kitchen's food completely gone; snow stopped; two moons visible
+erin solstice	baa8017355	Interlude_B04_1	!	event	refuses the three gifts and keeps the white coin
+erin solstice	ae063a992d	4.07	+	fact	Level 30 [Magical Innkeeper], owner of The Wandering Inn
+erin solstice	2c05408580	4.07	+	fact	sells magical soups ("defense soup", "Scale Soup") outside the Liscor Adventurer's Guild, showing a knife cannot cut a soup-drinker; she stabs a black-scaled Drake adventurer to show it
+erin solstice	d6c968858e	4.07	+	fact	the soups last about six days, expired ones cause vomiting and "bad poops"; a Bark Potion costs seventeen gold; she charges one gold
+erin solstice	9117d72dab	4.07	+	fact	carries a big coin she will not explain, "a secret"
+erin solstice	f293848c95	4.07	!	event	discovers her soups sell at far below market, and lies not about their side effects
+erin solstice	b309c91931	4.09	+	fact	returns with Griffon Hunt, the Halfseekers and the Horns of Hammerad, throws frying pans, one hits Ilvriss on the head; greets Ryoka with "Hi Ryoka. What's up?"
+erin solstice	fa8e3f46f0	4.09	!	event	reunite
+erin solstice	7a8b4e9a15	4.10	+	fact	says she has a new Skill, unexplained, upon being told raw beef sits out
+erin solstice	b6cf853d86	4.10	+	fact	cannot talk during the party; Ryoka sleeps in a room with Mrsha and Lyonette, who tells her about Christmas
+erin solstice	0a4d4cc960	4.11	+	fact	tells Ryoka that Lyonette was likely starving while Erin was away and visited only by Olesm
+erin solstice	f7ba93cdad	4.11	+	fact	tells Ryoka she "killed Toren" by having Pisces cut his mana supply, after hearing he attacked travelers
+erin solstice	f8d925564f	4.11	+	fact	tells of Esthelm, talking to Pawn about Christianity, helping run Agnes' inn, a magical door, and an acting troupe with Wesle and Jasi at the Frenzied Hare doing Othello
+erin solstice	be60d92007	4.11	+	fact	is angry Agnes would not help Jasi; Ryoka says Agnes is an ordinary woman
+erin solstice	8fac5013f8	4.11	+	fact	plans to hire staff and asks Safry and Maran, both [Barmaids]; plans to ask Klbkch for the Antinium to build a third floor or second wing
+erin solstice	c84b4f4ec3	4.11	+	fact	is a [Magical Innkeeper] with [Field of Preservation]; runes on her pantry would cost about forty gold and only slow spoilage
+erin solstice	29072bef46	4.11	+	fact	asks about hiring Garry; wants to meet Laken and Durene
+erin solstice	094e59ecce	4.11	+	fact	met Teriarch in his Human [Mage] form on the road, taught him Angry Birds; he was looking for Ryoka
+erin solstice	404e219756	4.11	+	fact	discusses the plays she taught the troupe: Romeo and Juliet, Pygmalion, Hamlet, Frozen
+erin solstice	a0fddfe466	4.11	+	rel	serves "Defense Soup"; Relc called it Scale Soup
+erin solstice	131855d2fe	4.11	~	belief	says Teriarch is "weird, like you said, but sort of nice"
+erin solstice	77843eaab3	4.11	!	event	reconcile after being apart and agree to meet again
+erin solstice	0dcb9b2ade	4.12	+	fact	her magical food gives one effect at a time, lasting hours, spoils quickly, needs [Wondrous Fare]; makes Scale Soup and Corusdeer Soup and turns them into patties
+erin solstice	edafd9b833	4.12	+	fact	plans a third floor, a longer second floor, a 10-foot larger common room and a roofless watchtower "Bird's Nest" for guard Bird
+erin solstice	25a13b8730	4.12	+	fact	offers one silver and six copper coins per hour plus bonuses; Safry says she can start tomorrow
+erin solstice	40d0e8ee76	4.12	~	belief	speculates Pisces could fuel the door with his own mana
+erin solstice	5a287e0251	4.12	!	event	hires Maran and Safry; commissions Klbkch to expand the inn
+erin solstice	6d0767a50d	4.14L	+	fact	hired Safry, Maran, Drassi (Selys' friend) and Ishkr (introduced by Krshia)
+erin solstice	225f29710c	4.14L	+	fact	advertises magical food to Liscor adventurers; has pre-cooked days of food on Ryoka's suggestion
+erin solstice	1105160b6a	4.14L	+	fact	has [Advanced Crafting]; builds a first thurible from two spaghetti colanders, a basin, string and cinnamon over a coal
+erin solstice	58a7d45ae7	4.14L	+	fact	says she talked to Klbkch, and Pawn believes his unit will not fight again
+erin solstice	57dfeeacf8	4.14L	+	fact	scolds Maran and Safry in public and names Lyonette as the source, so they glare at Lyonette; Ryoka says that was a mistake
+erin solstice	661912aaa4	4.15L	+	fact	speaks to Ryoka about "bicycle", "light bulb" and "antibiotics"; brings back a mossy mold to give to Brunkr, grown with mana potions after Octavia's work
+erin solstice	46499408f3	4.15L	+	fact	uses the Skill [Crowd Control] by accident to silence the inn
+erin solstice	3823d351f4	4.15L	+	fact	rules that Lyonette is in charge of staff, saying level does not matter where she comes from
+erin solstice	f0d7b4adf1	4.15L	+	fact	fires Safry and Maran, refuses to pay for the day, and drives them out with [Inn's Aura]; they flee through Octavia's shop and break glass
+erin solstice	1397428e58	4.18	+	fact	Level 30 [Magical Innkeeper] at the start of the chapter; refuses to pay Agnes, Maran or Safry or to apologise
+erin solstice	0f637c0f5d	4.18	+	fact	threatens the innkeepers with Pisces, a [Necromancer] living in her basement, and Bird, her security; they flee through the Celum door
+erin solstice	7789a6b3ea	4.18	+	fact	says she hired Maran and Safry for more pay than Agnes gave and fired them as lazy, cowardly jerks; Timbor offered them places at his inn
+erin solstice	90cc3b8f66	4.18	+	fact	resumes the game, moving her king in front of the knight; the opponent's grudging replies show they doubted it was her
+erin solstice	a92b19a11e	4.18	+	fact	wins the first game in six minutes with a trap set a month earlier, loses the second, then plays the London System
+erin solstice	fc98d52f31	4.18	+	fact	plays all day, many games, ending near midnight; sends "I'm sorry" and receives "I know. You are forgiven."
+erin solstice	524ff172d0	4.18	+	fact	explains the Tennison Gambit from the Reti Opening; says Anand uses the wings and usually beats Belgrade
+erin solstice	de2bf44a5a	4.18	+	fact	buys a collar and leash for the bee from Krshia's cousin who breeds dogs
+erin solstice	79bdd9ff66	4.18	+	fact	shows the ancient coin to Krshia, who finds it smells of old earth and cannot be scratched by good steel
+erin solstice	0155cd1a2a	4.18	+	fact	takes potions and alchemical items from Octavia for 15 gold, cancelling the debt for the match idea; asks for a healing slime
+erin solstice	01f5f735e2	4.18	~	belief	feels uneasy that something bad is coming from the northeast and prepares
+erin solstice	db6bb12cad	4.18	!	state	reaches [Magical Innkeeper] Level 31
+erin solstice	9cc2f619ec	4.18	!	event	reconciles with the chess opponent
+erin solstice	d129b7d4a0	4.18	!	event	Brunkr, Krshia and Bird now owe or hold favors from the bow deal
+erin solstice	5b5a1a97f6	4.19	+	fact	sells walnuts as her newest "cool stuff"
+erin solstice	7345dcb676	4.19	+	fact	wants to discuss healing slimes with the Gold-rank teams and serves lasagna and spicy fish
+erin solstice	aa0aa9406c	4.24	+	fact	makes a slime from a mana stone and existing slime, with help from Typhenous and Octavia, to try to produce healing slimes
+erin solstice	2959dc5b0d	4.24	+	fact	has put up a sign saying not to kill Goblins, buried in snow, because she does not believe all Goblins are evil
+erin solstice	63d64dcfc7	4.24	+	fact	fight each other physically after Ryoka says Erin is good at killing; Mrsha bites in and Lyonette douses both
+erin solstice	df4e7e865b	4.24	+	fact	has a file with the Watch, noting an unauthorized inn, suspected Antinium ties, disorderly conduct and the death of a Watch member
+erin solstice	cd2d4175bd	4.24	+	fact	frees the healing slime when she sees it is afraid, dumping it out of the window; she lies to Typhenous and Octavia that healing slimes are impossible
+erin solstice	2d2061974c	4.24	+	fact	decides to send a stone to Pallass for Zel Shivertail instead of Invrisil first, hiring Hawk, who will run it that night
+erin solstice	5b0b818fdf	4.24	!	event	gives up on healing slimes and spares the slime
+erin solstice	5cf8ed3661	4.24	!	event	reconcile after their fight
+erin solstice	3dbf708b9f	4.28	+	fact	plays chess against Imenet (Az'kerash), wins the first game using hypermodern play, then wins one and loses one of three more
+erin solstice	bf476d210d	4.29	+	fact	grieves numbly, remembering Klbkch's death, the Horns presumed dead and killing the Goblin Chieftain
+erin solstice	081d001496	4.29	+	fact	as an [Innkeeper] she can tell the two never liked any of her food, steak, casserole, beer or cake
+erin solstice	1467ebb137	4.29	+	fact	concludes Brunkr was murdered because he promised not to enter the dungeon
+erin solstice	e3341b1583	4.29	+	rel	serves Regrika and Imenet a steak made of ground bones, bones soaked in pig's blood and mana potions, marrow glue and strong poison from Octavia; they eat it and praise it
+erin solstice	d973cd1e28	4.29	+	fact	notes Regrika never mentioned Mrsha's white fur, which every Gnoll knows; says Regrika's smile gave away the lie like Mrsha's
+erin solstice	54b1ab1056	4.29	!	event	exposes Regrika and Imenet at the inn; Regrika attacks and kills Ulrien
+erin solstice	56f2d3931d	4.30	+	fact	uses [Minotaur Punch] repeatedly on Regrika until both hands break
+erin solstice	1a03e99840	4.31	+	fact	injured right hand bandaged; reaches [Magical Innkeeper Level 32!] and gets Skill [Inn: Reinforced Structure]
+erin solstice	3488eba030	4.31	+	fact	tells Ryoka not to come back for at least a day
+erin solstice	0d7be390c4	4.33	+	fact	new Skill [Reinforced Structure] kept the inn undamaged; she tests window with hammer and [Minotaur Punch], which cracks it slightly
+erin solstice	778d668c82	4.33	+	fact	says anyone with 20+ combat class levels could break the glass; Regrika still could break walls
+erin solstice	095c11e141	4.33	+	fact	says luck saved everyone but Ulrien and she cannot rely on it again; Ryoka left some of her gold behind
+erin solstice	f9f73e3c57	4.34	+	fact	carries a knife and vials; a fire vial explodes in a goat's face; Octavia's acid vial; [Minotaur Punch] sends a goat flying
+erin solstice	d5fc702634	4.34	+	fact	bows to the Goblins in thanks, invites them to the inn for free food, offers potions and spaghetti with olives
+erin solstice	ecb5f07d05	4.34	+	fact	asks if they know Rags; all five react, recognizing Erin as Rags's human friend; they do not know where Rags is
+erin solstice	9ab80563bd	4.34	+	fact	promises sanctuary; the Redfang warriors will sleep in the basement; Horns of Hammerad get second-floor rooms from her finished upgrade
+erin solstice	18d7c298c9	4.34	+	fact	Octavia's door to Celum opened twice and people fled seeing the Goblins; word spread to both cities
+erin solstice	a021d6b05a	4.34	+	fact	replants her sign in the snow: "no killing Goblins" is her inn's one rule
+erin solstice	18a9e250e0	4.34	~	belief	believes anyone who cries is a person, and that Goblins are more than monsters
+erin solstice	3dd07c0363	4.34	!	event	names the five Hobs and takes them in, shaking Headscratcher's hand
+erin solstice	4a496a7207	4.39G	~	belief	believes Rags is keeping her head down and smart
+erin solstice	dd5d8f8b37	4.40L	+	rel	serves eggs, bacon, cheese and hot honey milk to the Antinium; the Goblins and Antinium meet: Purple Smile blocks Yellow Splatters from attacking
+erin solstice	01f309dd77	4.40L	~	belief	thinks the Goblins are afraid and lost, not hostile
+erin solstice	0ccb04848f	4.41L	+	fact	buys a guitar she cannot play to bond with the Goblins; they think it a weapon
+erin solstice	08695d68ea	4.42L	+	fact	chills the inn with a command voice, stamps for a tremor, makes the Antinium and adventurers freeze; threatens to break arms
+erin solstice	1cc9d41355	4.42L	+	fact	holds Badarrow's hands and tells the Redfang Hobs about Mrsha's tribe; says "I knew you were like me"; Badarrow smiles
+erin solstice	5f43285a30	4.42L	+	fact	tells Mrsha that hating Goblins isn't wrong but hating all Goblins isn't right; Mrsha may hate them but not hurt them; "everyone deserves a first one [chance]"
+erin solstice	cf2a69cf15	4.42L	+	fact	sings songs from home with Ishkr, Numbtongue on bowl drum, Headscratcher chorus; Numbtongue memorizes lyrics and can sing; takes the guitar afterward
+erin solstice	423521adfc	4.42L	~	belief	believes people's souls show in their eyes, and Goblins are people
+erin solstice	7533846f04	4.43	+	fact	Skills [Loud Voice] and [Inn's Aura]; resists Ilvriss's command Skill
+erin solstice	d19225a94d	4.45	+	fact	her coin from a guest is pure mithril (nearly); Dawil says mithril is too malleable for weapons, better in alloys; steel is as good
+erin solstice	eb5676ee45	4.45	+	rel	serves Ilvriss Faerie Flower ale made with three drops of faerie flower nectar; it gives dreams
+erin solstice	1f4b02e91d	4.45	+	fact	reaches [Magical Innkeeper] Level 33
+erin solstice	467b5f05e6	4.45	!	state	Level 33 [Magical Innkeeper]
+erin solstice	ba28c4e94b	4.47	+	fact	hosts bedtime story night in the Liscor Hive with popcorn, hot milk and honey for the Antinium
+erin solstice	12207005d6	5.00	+	fact	sleeps in her kitchen; brushes teeth with simple local toothpaste
+erin solstice	736a538c29	5.00	+	fact	has a keg of Firebreath Whiskey
+erin solstice	6110a60993	5.00	+	fact	[Advanced Cooking] warns of the prep time for pork belly; she makes pork belly sandwiches with mayonnaise and milkshakes
+erin solstice	afdda7f778	5.00	!	event	step through the door to Pallass and are stranded with the door recharging for a day
+erin solstice	03c8a1c926	5.01	+	fact	floods the door's mana by hopping through it repeatedly and throws chairs
+erin solstice	95025604c5	5.02	+	fact	faked stupidity as tactic, then sprang chess-like surprises; mentions F7 and acting dumb with Ylawes
+erin solstice	e5b06d76b1	5.02	+	fact	has [Alcohol Immunity] or similar; drinks milk
+erin solstice	8007beb5c9	5.02	!	event	Pallass-Liscor crisis defused: she signs the residency papers
+erin solstice	6b64d1d7cd	5.03	+	fact	pays eighteen gold of the twenty-six gold fee for Pallass paperwork; the Watch Captains cover four
+erin solstice	0a49802594	5.03	+	fact	money in the safe lasts about a week after the payment
+erin solstice	bbaa857c09	5.03	+	fact	her aura heats the air around her when angry
+erin solstice	aef0b6e396	5.03	+	fact	vows the Redfangs are guests, not prisoners, and will get third-floor rooms
+erin solstice	255437d48d	5.03	!	event	launches a money-making plan involving the Antinium and Selys
+erin solstice	19a7fb897d	5.04	+	fact	deal for two coppers per gold coin of Octavia's matches plus free matches for Erin; matches were Erin's and Ryoka's idea
+erin solstice	39053b94f1	5.04	+	fact	idea came after Venim suggested paying the Halfseekers to guard the inn
+erin solstice	96d3d4abcd	5.04	+	fact	reaches [Magical Innkeeper] Level 34 and gains [Skill - Inn: Grand Theatre]; common room becomes two to three times larger with a stage
+erin solstice	df86dd692f	5.04	~	belief	says Wesle's clients will respect the Hobs because they guard against threats
+erin solstice	acb57a922c	5.06M	+	fact	cooks glazed sausages and a Classic American Breakfast; uses baking powder from Octavia
+erin solstice	fa1983a45d	5.07	+	fact	tells Hobs apart; Badarrow is grumpy and loves bows, Headscratcher is the emotional leader who cried at the play
+erin solstice	af4cb9c86f	5.07	+	fact	Shorthilt is a silent sword-maintenance snob; Numbtongue is the one who can really talk and knows both plays by heart
+erin solstice	87c57dc89a	5.07	+	fact	Rabbiteater is a hard worker with no defining feature, "a Hufflepuff"; Erin was a Gryffindor
+erin solstice	b22235da84	5.07	+	fact	[Field of Preservation] keeps cooked food fresh for weeks; soufflés excepted
+erin solstice	2d8964cb7c	5.07	+	fact	now stocks wines from Wales and Sasil (a Drake village south of the Blood Fields); names wines by colour
+erin solstice	5f84353fd2	5.07	+	fact	[Grand Theatre] triples the common room into a dark theatre hall with a stage
+erin solstice	bbeccaf49f	5.07	+	fact	sends Lyonette, Mrsha and Drassi through the door to Octavia and stays to fight
+erin solstice	1c45e3397f	5.07	!	reveal	reveals Grand Theatre to the guests
+erin solstice	47abc81358	5.08	+	fact	skill [Minotaur Punch] punches through a moth
+erin solstice	994d47e1a0	5.08	+	fact	opens the door to Pallass and drags it outside so viewers see; punches a Drake who doubts her
+erin solstice	eaec90505e	5.08	!	event	dungeon moth stomped, ending
+erin solstice	c5ed5eeb33	5.12	+	fact	levelled to Level 35 [Magical Innkeeper] with no new Skill
+erin solstice	cfbc7387c2	5.12	+	fact	Moore and Seborn took the paralysed Jelaqua into the city; no one died at the inn
+erin solstice	5d6a59041f	5.12	+	fact	cooks enchiladas with [Field of Preservation] food; wants to fry moths for a promotion but moth larvae put customers off
+erin solstice	9e81a0b040	5.12	+	fact	plans to use the door to connect to Liscor and rebuild the inn with Antinium help; Pisces will place the Liscor door in a spot inside the city
+erin solstice	2dd38c46a2	5.12	+	rel	serves Painted Soldiers stew at the inn; they eat on the floor
+erin solstice	d35d69aa99	5.13	+	rel	serves cakes decorated with Goblin faces; Embria spears one in the eye and eats it
+erin solstice	b93985ee5d	5.14	+	fact	pops popcorn in a pot with butter and salt; no yeast needed
+erin solstice	4c49350d12	5.14	+	fact	pays the Redfangs silver and a gold coin each, their first wages; she says her earlier unpaid employee was never paid
+erin solstice	5b900a9afe	5.14	!	event	pays wages for the first time to the Goblins
+erin solstice	90fac463c4	5.15	+	fact	arrives underwater with Ksmvr's ring that lets the wearer breathe water, saves Headscratcher and Badarrow
+erin solstice	bdb37a1c9b	5.15	+	fact	tells the Redfangs they should be adventurers, Goblin adventurers
+erin solstice	373d7c00df	5.15	!	event	the idea of Goblin adventurers is first said aloud to the Hobs
+erin solstice	e38e33cd87	5.24L	+	fact	her [Grand Theatre] Skill is active almost always, giving a huge room; Players of Celum stage multiple plays a day there
+erin solstice	888c7af482	5.25L	!	state	arrives at the Hive and kneels beside Pawn
+erin solstice	5d89385a2b	5.26L	+	fact	tells Pawn "I love you like the son I don't plan on having"
+erin solstice	1eb10027e7	5.26L	+	fact	knows Lyonette is a [Princess]; learned it from someone, maybe Ryoka, unsure
+erin solstice	6bd584aa02	5.27	+	fact	fish flakes from Quillfish with flour, breadcrumbs, spicy Gnoll sauce and chive mayonnaise; Headscratcher grabs the fish bare-handed
+erin solstice	3fa0ef8faa	5.27	+	fact	calls her magic food, offers boat, escort and map purchase, and posts a 50-gold reward for information about Calruz
+erin solstice	df4027c065	5.27	+	fact	uses [Bar Fighting] and [Minotaur Punch]
+erin solstice	fafe5d2a0b	5.28	+	fact	sells Scale Soup, which acts like a lesser [Barkskin] so Revi's stitch-flesh resists unenchanted blades
+erin solstice	c960399e0d	5.29	+	fact	Ilvriss possibly cancelled her aura during the riot; Lords have aura Skills
+erin solstice	0d21d7c8b3	5.29	+	fact	rescues Gemhammer and the Pride of Kelia with three boats of Hobgoblins and ropes
+erin solstice	d616e43a5b	5.33B	+	fact	makes pretzels with cheese sauce and fish flakes for the Antinium; pays Bird in silver and bronze coins; her aura practice is for the play
+erin solstice	ffaff7713f	5.34	+	fact	boycott has dragged into its fifth day; Drakes show up daily to boo and complain rather than avoid the inn
+erin solstice	8b65dd3e0e	5.34	+	fact	has fewer than fifty people in an inn she thinks holds six or seven times that; employs ten regular staff plus a contract with the Players of Celum
+erin solstice	f2a694be8f	5.34	+	fact	can suppress the Drakes' aggression with her aura by concentrating, so they only boo
+erin solstice	74bd88f240	5.34	+	fact	hugs the Redfang Warriors, who had risked their lives testing the artifacts
+erin solstice	ce5b783c2b	5.34	+	fact	recasts the play with Montagues as Drakes and Capulets as Humans, Relc as Romeo and Lyonette as Juliet; Drakes then fight over the role, and she concludes the objection is sexist rather than about species
+erin solstice	0e316f288a	5.35H	+	fact	opens the door to Pallass, and Venim comes through with eight Drakes in yellow armour
+erin solstice	b6476ae1f6	5.35H	~	belief	werewolves change each full moon, spread by bite, and are weak to silver
+erin solstice	2b22d2e508	5.36	+	fact	sells Corusdeer soup that keeps people warm and a skin-toughening dish, now called Scale Salad, at a discount to adventurers
+erin solstice	06ef86fdac	5.36	+	fact	threw a kitchen knife and a frying pan at Raskghar to no effect and could not use her aura from fear
+erin solstice	a9b64a0ece	5.36	+	fact	sketches a bear trap but springs (coiled) do not exist as far as Lyonette and Rabbiteater know
+erin solstice	792c5653f3	5.36	+	fact	has [Reinforced Structure] and [Advanced Crafting] Skills
+erin solstice	7ec2a88831	5.36	+	fact	cancels the play for the night; considers hiring Golems for lasting defence and rules out Toren
+erin solstice	fc5a2ffa9b	5.36	+	fact	uses her aura to stop the Hobs and says they will regret it, then asks for ten minutes
+erin solstice	d8615d28cf	5.36	+	fact	plays chess with Headscratcher, calling her opening Bird's Opening and From's Gambit, and says she is probably the best chess player in the world
+erin solstice	448414bd6b	5.36	+	fact	teaches that life is not chess; hurls a cracked board across the inn; proposes shogi-like capture-and-convert, turning Pebblesnatch into an informant
+erin solstice	493bf0ee67	5.36	!	event	persuades the Redfangs to spare Pebblesnatch and keep her as a possible ally
+erin solstice	40edf0be85	5.38	+	rel	serves Gambler's Manicotti, a cheese-stuffed pasta where some pieces hold super-hot spice, marked on plates; Moore gets a spicy one
+erin solstice	6fbb1a8f56	5.38	+	fact	ground floor windows get outside shutters built with the Hobs and Pebblesnatch; adding to the inn does not trigger [Reinforced Structure]; Bird's tower door has a bar
+erin solstice	ac7a35c5ed	5.38	+	fact	tells Zevara she keeps the captured Cave Goblins; Zevara warns any Goblin entering Liscor will be killed
+erin solstice	99a20c2b15	5.38	+	fact	buys three bear traps, found through the Adventurer's Guild; Numbtongue says they fail against Gargoyles and Eater Goats and only anger Carn Wolves
+erin solstice	bc4d640496	5.38	+	fact	her [Dangersense] rings before the attack; Lyonette explains it can miss high-level or stealthy threats
+erin solstice	0c4562419e	5.38	+	fact	realises the Raskghar stay intelligent while the moon is in its cycle, visible or not, and raises the alarm
+erin solstice	4aa2c56b46	5.39	!	event	abandons Plan G to ask the Hobgoblins to go into the dungeon
+erin solstice	0e0e248be9	5.41	+	fact	wakes Joiah Kellisman, the best [Blacksmith] in Celum, buys his five best swords, and orders two two-handed steel flails for Jelaqua, paying with a bag of gold; buys a recurve bow from another shop
+erin solstice	c152bd4b2a	5.41	+	fact	says her inn's door cannot be taken to Pallass because it cannot handle the magic there
+erin solstice	4c1b132cd3	5.41	+	fact	gives Badarrow the recurve bow, hands each Hob a steel sword and two healing potions, a stamina potion and a Tripvine bag, and asks them to find Mrsha and Ceria, not to kill Calruz if possible
+erin solstice	12fd634764	5.41	+	fact	knocks out a Cave Goblin attacking with a knife, then wins them with fried potatoes, with Pebblesnatch offering a potato and lighting the fire
+erin solstice	049c867f09	5.41	+	fact	gets hungry and angry after nine hours without eating and remarks she nearly used [Minotaur Punch]
+erin solstice	79fecd63d4	5.41	+	fact	calls the adventurers over, holds them back with her aura, and a Cave Goblin takes her hand
+erin solstice	4aa92b127b	5.41	!	event	abandons holding the Goblins by force and wins them over with food
+erin solstice	9d1f41f523	5.43	+	fact	waits at the inn door with a white mana stone attached; Painted Soldiers and Pawn sit with her
+erin solstice	c7e31e9753	5.43	+	fact	cannot sleep, the plan had Hobs left behind for fear of friendly fire; the plan failed
+erin solstice	8a4202ee70	5.43	+	fact	resumes her unfinished chess game with her mysterious opponent, playing both sides, opening with the Alekhine Defense
+erin solstice	2fbf379343	5.43	+	fact	describes her plan as having one moving part, trust, and does not reveal it; Pisces proposes flooding the camp through the door
+erin solstice	c2068fa241	5.43	+	fact	wants to speak to Zevara, Ilvriss, Embria, and optionally Olesm and Venim
+erin solstice	fdcadc7404	5.44	+	fact	asks Pebblesnatch to help, saying her name is part of the plan, and gives her something from her pocket
+erin solstice	9d0d72634b	5.44	+	fact	climbs the walls to recruit Relc and Embria, then shouts up to Ilvriss and Olesm to join her plan
+erin solstice	7adadc5a70	5.44	+	fact	uses purple, dark brown and black mana stones to open the door onto three sides of the camp
+erin solstice	382158de18	5.44	+	fact	reaches Level 36 [Magical Innkeeper]; obtains [Natural Allies: Goblins] and [Inn - Local Landmark: Liscor]
+erin solstice	e46eab901f	5.44	!	state	reaches Level 36 and gains two skills
+erin solstice	666dd4ff63	5.45	+	fact	cooked a huge breakfast incl. goose-egg poached eggs, bacon, pancakes, Yellets, fish congee
+erin solstice	06bae1096f	5.45	+	fact	orders blocks of solid wood bats, an oversized version and a custom grip from two Celum [Carpenters] and leather from a tanner
+erin solstice	dcf031390f	5.45	+	fact	sets the magic door in a frame in a meadow north of Celum, ten minutes from the northern gate, so sunlight reaches the inn
+erin solstice	da3f8a7a67	5.46	+	fact	baseball bats and oversized log-bat for Moore, mitts, pillows as bases; hot dogs, popcorn and sausage-dogs for food
+erin solstice	2988b8702d	5.46	+	fact	her dad took her to some baseball games; had a neighborhood team about the Players' level; she prefers chess
+erin solstice	87fb773218	5.46	+	fact	tells Ceria she is "really good at killing people" and feels bad though she would do it again
+erin solstice	65fb336c76	5.46	~	belief	claims a rule makes a ball beyond a fence a home run
+erin solstice	f73d53ecde	5.46	!	event	plans a championship with cake and ice cream as the prize
+erin solstice	b4a0286f87	5.49	+	fact	has the trait [Local Landmark] per Krshia; Liscor citizens now thank her on the street
+erin solstice	1057572b48	5.49	+	fact	pays Krshia gold for a boat load of food for the Goblins; Gnoll teens thank her
+erin solstice	c62cb3c2cb	5.49	+	fact	the inn plays The Hubris of the Raskghar nightly and will stage The Glass Menagerie
+erin solstice	8341e76cc4	5.49	+	fact	declines a share, having been paid
+erin solstice	80dc9f5b8d	5.49	!	event	calls it "Hufflepuff takes the lead"
+erin solstice	3ddd7debd0	Interlude_Bird	+	fact	does not know alcohol well (cannot find lager, grabs wine barrel)
+erin solstice	e07506f79f	5.52	+	fact	breakfast from her cupboards kept fresh by [Field of Preservation]; magic door mana stones are color-coded: red for the Redfang cave, green for Liscor, blue for Celum, yellow for another
+erin solstice	49c22fb22b	5.53	+	fact	has [Immunity: Alcohol] and does not drink; teaches Pebblesnatch to cook with a chef's hat
+erin solstice	430dbc92c0	5.53	+	fact	the Wandering Inn's tower is destroyed and the door has red, green and blue mana stones
+erin solstice	7c72b1cff2	5.53	!	event	magic door to be confiscated
+erin solstice	2d94ca7b28	5.54	+	fact	uses [Minotaur Punch] (she has only two left) on Olesm and a Gnoll guard; Relc taps her out and arrests her
+erin solstice	ef2b47012c	5.54	+	fact	tells Headscratcher "It's not your fault what other people do" and wishes time would stop
+erin solstice	59cc40d37f	5.54	!	event	jailed with the four Hobs and Calruz
+erin solstice	947858e873	5.56G	+	fact	still in jail, eats and trades her sausage with Headscratcher
+erin solstice	739aa08def	5.57	+	fact	spends one night in jail where she got the other prisoners to sing; mocks Olesm with "I can't go back"
+erin solstice	82126ef52a	5.57	+	fact	refuses to talk to the Goblins until Zevara agrees to release the Hobs and return their gear
+erin solstice	774e399c05	5.57	+	fact	promises to send a magic door with them and says "I'm not leaving. Not yet."
+erin solstice	de372057e8	5.58	+	fact	teeth broken by Garen's punch; Pisces mends them with enamel
+erin solstice	4bc2392562	5.59	+	fact	has [Lesser Endurance]; wears dental caps made by Pisces from bear teeth; sleeps in the kitchen despite offered rooms
+erin solstice	ab818290c6	5.59	+	fact	senses the Goblins coming and sees them from the ruined tower
+erin solstice	c24d7cb241	5.59	+	fact	uses her aura to make Thunderfur sit; asks guests to follow inn rules: no fighting, no peeing indoors
+erin solstice	f5b91dea8c	5.59	+	fact	[Magical Innkeeper Level 37!]
+erin solstice	bea9b9f7dd	5.59	!	state	reaches Level 37 as [Magical Innkeeper]
+erin solstice	b83a29de1f	Interlude_Pebblesnatch_and_Garry	+	fact	hugs Garry, calls him her favorite Worker, and says she was never much of a cook at home, mostly microwaving and boiling water
+erin solstice	c5913292d3	Interlude_Pebblesnatch_and_Garry	+	fact	is trying ramen, sushi, pumpkin pie and a turducken for Relc
+erin solstice	42dc5c90fb	Interlude_Pebblesnatch_and_Garry	~	belief	claims she is not that good a cook, a [Chef] but mostly an [Innkeeper] with unfocused Skills
+erin solstice	0adb70fb85	5.60	!	event	decides "Someone has to try" and starts making a white flag from a bed sheet
+erin solstice	ba9f7c3846	5.61	+	fact	wakes on the thirteenth day to [Dangersense] and makes waffles with the last Ashfire Bee honey; the adventurers and Lyonette, Mrsha and Apista eat together
+erin solstice	4a9b79b43b	5.61	+	fact	walks toward the Goblin army with a bed-sheet white flag shouting "Peace! I want a truce! Parley!", observed by the world
+erin solstice	68e305507d	5.61	+	fact	asks the five Redfangs for a favor; Headscratcher raises his axe and the Goblins answer "Yes"
+erin solstice	ad040eddbc	5.62	+	fact	fights with frying pans, knives and Octavia's alchemy; kills a Hob with [Minotaur Punch] and a knife, her second Goblin killed
+erin solstice	f12d0b6d5f	5.62	+	fact	buries Reiss and the others and receives a [General] class prompt that she cancels
+erin solstice	db0cc4e975	5.62	~	belief	says they might be characters in a game
+erin solstice	a341c216f0	5.62	!	state	class prompt Warrior to General, General Level 6, cancelled
+erin solstice	a74daf88bd	6.02	+	fact	curled on the floor for six days, weeping, barely eating; Mrsha stopped eating when she did
+erin solstice	e860376bc5	6.02	!	event	weeps in public in Liscor and hugs Pawn, Halrac and Krshia
+erin solstice	8219e96d60	6.03	+	fact	nearly twenty-one, trusts four people above all: Lyonette, Mrsha, Numbtongue and Bird
+erin solstice	17fc73204a	6.03	+	fact	still has [Immortal Moment] in memory; the inn feels too small and she cannot stay in it
+erin solstice	5755a90d83	6.03	+	fact	tells the three she is from Earth, describes cars, planes, the internet, running water, firearms and wars
+erin solstice	b644000576	6.03	+	fact	says Ryoka is also from Earth; a BlackMage wants them to gather in Wistram; someone is hunting them
+erin solstice	f8374a0236	6.03	+	fact	was a chess player on Earth and remembers little technical detail
+erin solstice	94ed1b9ac0	6.03	~	belief	wonders if Ryoka is right about hiding Earth knowledge
+erin solstice	c3bf02ab0a	6.03	!	event	names Lyonette, Mrsha, Numbtongue "family"
+erin solstice	9f759a8cef	6.09	+	fact	avoids Liscor friends since the battle; hates Pallass for not helping; goes alone, intending to see the Walled Cities
+erin solstice	fe063663a1	6.09	+	fact	threatens to kick Venim if Numbtongue is hurt
+erin solstice	6218d30309	6.09	!	event	learns Venim will kill any Goblin who enters Pallass
+erin solstice	ddabd17357	6.09	!	event	recruited by Lasica and Rufelt into a campaign against the Protectorate
+erin solstice	6fb9f6c498	6.10	+	fact	records a long list of notes in blotched handwriting; says she is a Level 2 [Warrior] and was a chess player
+erin solstice	34b2175c96	6.10	+	fact	is invited to return to Tails and Scales any time
+erin solstice	6b5cd6e410	6.10	!	event	finishes the day more cheerful and laughing, telling Lyonette about Pallass
+erin solstice	3fe7b19d30	6.11	+	fact	resumes plays with new actors and holds auditions
+erin solstice	1947c1d213	6.13K	+	fact	goes to Pallass because her kitchen knife dulled; Drake guards on the magic door; Selys, Mrsha and Calruz's adventurers at the inn
+erin solstice	309e804b6e	6.28	+	fact	does cartwheels learned in gym class; is on a break from running the inn, which Lyonette now manages
+erin solstice	ae5520846f	6.28	+	fact	Skills named include [Alcohol Immunity], [Lesser Endurance], [Quick Recovery], [Wondrous Fare], [Field of Preservation]
+erin solstice	b664e4971d	6.28	+	fact	realizes Rags' tribe must have eaten the blue fruits as well
+erin solstice	b6e7aa4ac6	6.28	+	fact	reproduces Go and chess games for Olesm; her magical chessboard shows no new opponent moves, then a pawn moves later
+erin solstice	747594e116	6.28	!	state	starts selling blue fruit juice and returns to tending daily life; flashes of the mother memory when called "Mom"
+erin solstice	9c71a018ad	6.30	+	rel	serves lemonade; Lyonette says lemons are native to Baleros and Oteslia grows them
+erin solstice	74407e6622	6.30	!	event	declares "Oh, it is on."
+erin solstice	fca3083509	6.31	+	fact	sleeps in the first room by the stairs on the second floor; her kitchen bed is gone
+erin solstice	93551e3903	6.31	+	fact	carries the kitchen knife from Maughin's smithing contest; it cuts through fish bones
+erin solstice	1ed3d368f4	6.31	+	fact	keeps fish fresh with [Field of Preservation]
+erin solstice	65b5ed44dd	6.31	!	event	Maughin and Grimalkin's parade draws the entire Market Street crowd away from Lism's debate
+erin solstice	be2ca58467	6.31	!	event	moves her magic door through Pallass with Relc and Grimalkin to show Liscor's citizens the forges
+erin solstice	157dec02db	6.32	+	fact	sells pizza slices for one silver and ice cream at four silver; claims Liscor has had pizza for months
+erin solstice	de27f6bcbf	6.32	+	fact	uses [Loud Voice] and [Crowd Control] to halt a panic when Pallass' crowd sees Pawn and Belgrade
+erin solstice	a6d9f00a79	6.32	!	event	gets Rufelt and Lasica to adopt Krshia's cause and plans a Unitail-Liscor trade link
+erin solstice	d0ed7f0f40	6.32	!	state	reaches [Magical Innkeeper] Level 38 and gains [Inn: Partial Reconstruction]
+erin solstice	3766cf9d47	Interlude_Numbtongue_Pt.1	+	fact	invites Numbtongue to dinner on the repaired third floor with Lyonette and Mrsha; he lies that he is just going out
+erin solstice	185b4343ce	Interlude_Numbtongue_Pt.1	~	belief	calls "nobble" a word, though it is already underworld slang
+erin solstice	bc02c468b8	Interlude_Numbtongue_Pt.2	+	fact	tells Lyonette to give Pallass' share of the ice cream, worth six gold, to the Painted Soldiers as Numbtongue has made a friend
+erin solstice	e7db3b27db	Interlude_Numbtongue_Pt.2	+	fact	is considering selling the Antinium drink Rxlvn, which Yellow Splatters says is potent and arguably poison
+erin solstice	2e2e77b4ad	Interlude_Numbtongue_Pt.2	+	fact	arrives with Relc, Grimalkin, Maughin, Jelaqua, Keldrass and Senator Errif and shouts down Celum's [Mayor] ("I am the consequences")
+erin solstice	f68c214ca3	6.38	+	fact	[Partial Reconstruction] rebuilds broken items in seconds; her limit is about three tables, ten roof tiles and five chairs before it stops; it fixed a roof tile job for an Antinium Worker
+erin solstice	5a22f5635d	6.38	!	event	sells one Faerie Flower and earns 220 gold
+erin solstice	960ae5e5e2	6.38	!	state	loses a chess game to Chaldion for the first time to someone face to face
+erin solstice	29109eb290	6.39	+	fact	proposes hot tubs for the new inn after seeing the tub; plays Go with Chaldion, who wins three of eight
+erin solstice	ab01ef506b	Interlude_Two_Rats	+	fact	stops Krshia's debate by shouting for Calruz to live, threatening to close the door to Pallass if Krshia promises torture
+erin solstice	88de881403	Interlude_Two_Rats	+	fact	speaks that torturing Calruz makes people no better than the Raskghar
+erin solstice	f5c93a235a	Interlude_Two_Rats	+	fact	asks the inn to protect Mrsha and the Goblins on her next level and gains Level 39 in her sleep; says she wants Level 40 next
+ryoka griffin	a0da8706d5	4.10	!	event	learns Zel is an ally of Ilvriss, has her statements tested with a truth detector
+ryoka griffin	038ff88ecb	4.10	!	event	decides to act after Lyonette tells her about Christmas
+ryoka griffin	0ceec09c99	4.11	+	fact	bars Olesm from telling Erin about a Walled City communication about chess, since no one will die from waiting
+ryoka griffin	6978019ab9	4.11	+	fact	as a child hid in a closet two days to avoid formal events, until police came to take her parents' statement
+ryoka griffin	34a9e22896	4.11	+	fact	suggests Toren may still be alive via a mana potion or another master; Erin will listen for news of a skeleton
+ryoka griffin	d417f0b657	4.11	+	fact	Magnolia spirited her away at Ocre; Ressa, her [Maid], is a [Ninja] who threw a star at ambushing Goblins and fought assassins; Magnolia owns a death-ray ring
+ryoka griffin	1caf52beb7	4.11	+	fact	proposes cooking in bulk and reheating; suggests the inn's mana run a bigger door, heating/cooling runes, or water distillation runes, and a link to Invrisil
+ryoka griffin	a233dfc068	4.11	+	fact	tells Erin of the three visitors at the campfire and throwing her fingers into the fire; Erin shows the white coin and explains it came for food, not the gifts
+ryoka griffin	f4e0963901	4.11	+	fact	heard a horn at her fire; says she has never heard the name Tamaroth and plans to ask Klbkch and Teriarch
+ryoka griffin	221b2b5cab	4.11	+	fact	wants to become a Courier, reach First Landing and go to Wistram; Ivolethe will teach her something
+ryoka griffin	9a47d35dcb	4.11	~	belief	treats the Toren as a horror-movie monster who may not be dead
+ryoka griffin	3bd79746de	4.11	!	event	reconcile after being apart and agree to meet again
+ryoka griffin	72d851d72b	4.11	!	event	realizes the three visitors and Erin's coin are likely connected
+ryoka griffin	121fb09230	4.12	+	fact	pays a Guild receptionist two gold coins, reflecting a 5% Guild fee on a pretend forty-gold delivery for Erin
+ryoka griffin	2694f18b7b	4.12	+	fact	arranges to visit Garia's family farm with Fals and Mrsha in a day or two
+ryoka griffin	6287fff3c4	4.12	+	fact	borrows Pisces to test the door's mana use, with Typhenous, Moore and Pisces' mug as a second anchor
+ryoka griffin	087e1ecd06	4.12	+	fact	calculates the door could carry over fifty people to the inn and back before running out
+ryoka griffin	43b3a9567e	4.12	+	fact	runs the marker mug out five miles, feels nauseous after teleporting, and nearly addresses Moore by another name, "Ha-"
+ryoka griffin	66b43ea8c8	4.12	+	fact	offers to pay for the expansion from the Horns' payment for the Invrisil run, leaving her over a thousand gold
+ryoka griffin	11c3b8a833	4.14L	+	fact	asks Pawn to stop praying; Pawn rebuts with the question of what to give someone with one day to live; Ryoka concedes "I'm wrong"
+ryoka griffin	958d5b95b9	4.14L	+	fact	names a living god she fears in this world, though she does not say who; Pawn infers that a god exists from her and Klbkch's fear
+ryoka griffin	d00dd2af00	4.14L	+	fact	teaches Pawn Islam, Judaism, Catholic and Protestant differences, Mormons and Quakers, and mentions Buddhism, Sikhism, Shinto and Zoroastrianism
+ryoka griffin	df4127edb1	4.14L	+	fact	notes Maran and Safry came from Agnes' inn and says she may "do something about this"
+ryoka griffin	1f5ec0bf2a	4.14L	!	event	concedes to Pawn that Antinium need faith, and offers to teach him the world's religions
+ryoka griffin	332f9fc8c1	4.15L	+	fact	reveals she sat invisible all day using Pisces' [Invisibility] and lists Safry and Maran's faults
+ryoka griffin	0da28895f0	4.15L	+	fact	finds Lyonette, gives her a coat, says Moore is levitating Mrsha at the inn
+ryoka griffin	486751d72b	4.15L	+	fact	tells Lyonette she is too capable for a [Barmaid] and guesses she is a [Princess], asking her to keep it secret
+ryoka griffin	b9ea1dc428	4.15L	+	fact	shows the light-and-sound spell she invented, [Flashbang], and advises Lyonette to learn magic and the sword
+ryoka griffin	2980058265	4.15L	+	fact	will take Mrsha to Garia's family and stay a day or two
+ryoka griffin	337d28e3da	4.15L	~	belief	says Safry and Maran are "good, but not great" like Agnes
+ryoka griffin	e623b980e9	4.17	+	fact	dreads visiting friends' homes; recalls the Stone Spears tribe being slaughtered and her fingers being bitten off, and thinks the Goblin Lord and the Necromancer are coming
+ryoka griffin	9fc7cebefd	4.17	+	fact	carries Mrsha in a Gnoll child-basket from Celum after Safry and Maran were fired
+ryoka griffin	02b93a5a01	4.17	+	fact	shows Wailant boxing-style moves, names Muay Thai Kickboxing and Karate, and offers to teach Garia; mentions Calruz and Minotaurs
+ryoka griffin	2da6058c13	4.17	+	fact	spar after dinner, her kick sobers him up
+ryoka griffin	752b94baae	4.17	+	fact	teaches Garia and Fals punching, breathing and knee strikes (hiza-geri) as martial arts; Mrsha copies; Ryoka's iPhone is out of power and needs Pisces' [Repair]
+ryoka griffin	0f45bfe8c1	4.17	+	fact	performs handsprings, backflips, a standing cork (Tricking) and a quadruple gainer; sees the wind and is carried up ten feet by it before landing face-first and knocked out
+ryoka griffin	c5050eb8d3	4.17	!	event	sees the wind and is lifted by it, her first success at faerie magic
+ryoka griffin	cd13118b62	4.17	!	event	begins teaching Garia martial arts and is earning a rapport with Garia's parents
+ryoka griffin	367ba124c2	4.24	+	fact	wakes in a bad mood with a beetle on her toothbrush; her toothpaste is a sage, salt and pepper blend Octavia sells
+ryoka griffin	19c9400137	4.24	+	fact	attended anger management after her second arrest, refused therapy and pills, and spiked her father's drinks with Xanax when he forced them
+ryoka griffin	71d6cde54d	4.24	+	fact	fight each other physically after Ryoka says Erin is good at killing; Mrsha bites in and Lyonette douses both
+ryoka griffin	923bc0fefc	4.24	+	fact	arrested by Liscor's guard for kicking Welsca into another's tub; a purple-scaled fake [Guardsman] in Ilvriss's service threatens Erin with the Assassin's Guild, and Ryoka kicks him
+ryoka griffin	1b67ed84a8	4.24	~	belief	fears Frost Faeries can tell the future
+ryoka griffin	5d09ca454a	4.24	!	event	reconcile after their fight
+ryoka griffin	46cc600a77	4.27H	+	fact	tells Krshia and Brunkr that Lyonette is a [Princess] and that knighting Brunkr is how he got the class
+ryoka griffin	714d44f3c9	4.27H	!	event	attacked and seized by Venitra posing as Regrika
+ryoka griffin	67720295be	4.28	~	belief	tells Az'kerash the Dragon posted an open request which she took for the pay
+ryoka griffin	7cc61c6a13	4.29	+	fact	writes a note, leaves her belt pouches and bag of holding in her room, and runs through the door to Celum
+ryoka griffin	db5153906b	4.29	!	event	cannot move her legs when she tries to leave, then runs anyway
+ryoka griffin	941782d469	4.30	+	fact	runs barefoot, in shorts and a t-shirt, taking potions (the ninth done by L381), leaving belt pouches and bag of holding behind
+ryoka griffin	8bdb3c09cc	4.30	~	belief	accuses Teriarch of not protecting her friends from the consequences of his letter
+ryoka griffin	e4f2de3a23	4.30	!	state	says Az'kerash's name to Teriarch and dies when her heart bursts from the [Word of Death]
+ryoka griffin	88930fa126	4.31	+	fact	tells Erin her note blamed herself because the killers came for her over something she saw while on a delivery, and refuses to name the person protecting her
+ryoka griffin	6d3f07eced	4.31	+	fact	suggests Magnolia Reinhart may know of Az'kerash
+ryoka griffin	dcebee0bab	4.31	+	fact	leaves with an iPhone and earbuds playing It's Time by Imagine Dragons and runs north for Celum; Erin watches her go
+ryoka griffin	c9be4411c7	4.31	!	event	revived by Teriarch after dying
+ryoka griffin	23dfd6157f	4.31	!	state	leaves Liscor, travelling north
+ryoka griffin	1e6870eb5e	Interlude_B09_1	+	fact	is a City Runner in Reizmelt staying at the Huntress' Haven and hears the news
+ryoka griffin	97fdf28303	Interlude_B09_1	~	belief	says "Good thing I wasn't there to make it worse"
+ryoka griffin	7de6141da5	6.00	+	fact	lodges at The Huntress' Haven in Reizmelt; has stayed two weeks, now called the Wind Runner
+ryoka griffin	0c0bfab8ae	6.00	+	fact	uses wind at her back as Ivolethe's last gift; first rule is that the wind is not her friend and has moods
+ryoka griffin	2979430b8e	6.00	+	fact	the wind is stronger where she is and follows her; her mood affects it; she cannot truly control it
+ryoka griffin	a5dcac5245	6.00	+	fact	uses [Runner's Wind], a rare Skill, as her cover for the wind
+ryoka griffin	af36d0779a	6.00	+	fact	left Liscor because she was too weak and destructive against Az'kerash and Venitra; has run a month and a half
+ryoka griffin	a1c9ec3685	6.00	+	fact	her iPhone is dead and she trusts no [Mage] to repair it
+ryoka griffin	a3d9e83418	6.00	+	fact	is missing two fingers on her right hand
+ryoka griffin	47104b2b48	6.00	+	fact	refuses to return to Liscor until she can be useful
+ryoka griffin	f742cba6f0	6.00	+	fact	the Reizmelt Runner's Guild sends emergency adventurer requests to her first
+ryoka griffin	254616c36a	6.00	+	fact	sandstorm of dirt, flour and Octavia's smokescreen powder choked the frogs; Dassa died and the rest lived
+ryoka griffin	1a6ef36901	6.00	!	state	gains standing with Reizmelt adventurers and a paying fee after the Pithfire rescue
+ryoka griffin	1a763bf403	6.01	+	fact	asked to be added to Courier listings; carries a gold bar to the Mage's Guild in Baepr against a hundred-gold bounty from the Silversmithers
+ryoka griffin	bfa36e769c	6.01	+	fact	dust storm and caltrops drive off [Bandits] on the Baepr road; her charm blocked a [Sleep] spell
+ryoka griffin	66e69b6297	6.01	~	belief	tells Fierre vampire stories from Earth without saying where she is from
+ryoka griffin	e377838fa9	6.01	!	event	holds the Ivolethe figurine for the first time
+ryoka griffin	0c799418a6	6.25	+	fact	dreams of Mrsha, the Horns of Hammerad, Periss, the Stone Spears tribe, Brunkr, Ulrien, Zel Shivertail, Valceif Godfrey and Ivolethe, blaming herself and Teriarch's request
+ryoka griffin	f5295870ed	6.25	+	fact	keeps a small ice figurine by her bed; touching it helps ground her
+ryoka griffin	eb9fc9322c	6.25	+	fact	has two missing fingers on her right hand
+ryoka griffin	83904d3f5a	6.25	+	fact	nicknames used in Reizmelt include Braggart (Alber), Wind Runner (Madain, townsfolk, children); wind blows harder near her
+ryoka griffin	97a427b78f	6.25	+	fact	describes her mood days as "a type of sickness" in the head and feels kinship with Madain
+ryoka griffin	5d22ecd14d	6.25	+	fact	reputation grew after the rescue of the Pithfire Hounds; she is first on Alime's emergency list after Couriers
+ryoka griffin	69d01df9ba	6.25	+	fact	brings Lupp's corn and milk to Kamine and then corn, bread and tarts to Madain, who slams the door; next morning he thanks her gruffly
+ryoka griffin	8718881812	6.25	+	fact	watches the Daquin game via a mirror (scrying) with Fierre
+ryoka griffin	1443110397	6.25	!	event	has an emotionally low day without lashing out, marks it as a small victory
+ryoka griffin	0c8b565541	6.25	!	event	gets her first personally requested delivery, from Sir Molte
+ryoka griffin	c480a7ac63	6.26	+	fact	summons a wind that affects only Bethal, then a gust, then calls a larger storm holding the ice figurine and addressing Ivolethe
+ryoka griffin	fe0f26e159	6.26	+	fact	runs seventy-nine miles to Walta's Runner's Guild in under five and a half hours, drinking multiple stamina and healing potions; passes the qualifying speed for a Courier
+ryoka griffin	39ba28ceba	6.26	+	fact	outran three ambush parties; the Pithfire Hounds wiped out the first
+ryoka griffin	51d80bd74f	6.26	~	belief	thinks Bethal's aura resembles Teriarch's command more than Magnolia's charm
+ryoka griffin	358e6b8d2d	6.26	!	event	delivers Bethal's message by Runner, not spell, and qualifies for Courier speed
+ryoka griffin	31c69d0bb6	6.35	+	fact	stays at the Rose's Retreat in Walta run by Miss Iglesias Theroben, after her now-famous run from Reizmelt to Walta for Lady Bethal Walchaís
+ryoka griffin	6015a27a71	6.35	+	fact	feels the wind raging and uncontrollable that day, which she thinks is a [Weather Mage] or someone controlling it
+ryoka griffin	c359475fa9	6.35	!	event	accepts the Riverfarm request, owing Laken and wanting to see the trouble he hinted
+ryoka griffin	6b7eea886b	6.36E	+	fact	pass eight burned ruins on the road; Charlay carries a dagger and two wands and uses dust clouds
+ryoka griffin	e2e37196d1	6.36E	!	event	sees Alevica fly; this shakes her
+ryoka griffin	8f569ad887	6.40E	+	fact	delivers low-grade potions to Rie, who is the real recipient; Prost says Ryoka ran through the winter blizzard to bring food
+ryoka griffin	4180f88a2a	6.40E	+	fact	Laken's message hinted at trouble and used German words; Ryoka has no plan
+ryoka griffin	ccd6827645	6.40E	+	fact	speaks for the farmers politely to Mavika and bows; Mavika calls her "wind's child" and says Belavierr pointed her out
+ryoka griffin	98b31c992b	6.40E	~	belief	suspects a traitor manipulated Laken into attacking the Goblins; Durene told her last night
+ryoka griffin	88a803fb61	6.40E	!	event	asked by Durene for ideas from the other world and offers a pesticide thought
+ryoka griffin	99c96a4d5c	6.41E	+	fact	ate rat meat (Frostwing's food) in omelettes with Charlay and got violent stomach sickness
+ryoka griffin	33d0e4b087	6.41E	+	fact	offers to visit anyone within about twenty miles of Riverfarm free of charge and makes villagers wash hands with her soap
+ryoka griffin	2af940d127	6.41E	+	fact	propose a Runner's Guild in Riverfarm for communication; Rie agrees to convert a warehouse and write to Filk's guild
+ryoka griffin	7b6e1fd05d	6.41E	+	fact	runs the settlements next day; meets a Fisher in the marsh, an Archer on a watchtower, and Melon the Farmer (pitchfork Skill, three families under his roof); sees burned homes including Kayla's
+ryoka griffin	d89eb96764	6.41E	+	fact	proposes free food, wood, nails and escort to Riverfarm for outlying families and compares Rie's argument to Magnolia Reinhart
+ryoka griffin	138683cfce	6.41E	!	event	tells Durene to decide for herself instead of relying on others
+ryoka griffin	cf6f02a12f	6.43E	+	fact	argues Rehanna's trade is her right, then asks if Durene would trade parts of her life to be Human; Durene throws a pillow
+ryoka griffin	bbe8a2e6eb	6.43E	+	fact	tells Wiskeria that she sees her own mother in Belavierr
+ryoka griffin	21cd4f6d7f	6.43E	+	fact	tells Belavierr she should change; Belavierr hurls her with clothes into the river
+ryoka griffin	48d111ac3d	6.45E	~	belief	wonders whether Magnolia Reinhart or the Circle of Thorns is behind the drought, then dismisses Magnolia
+ryoka griffin	357ece70bf	6.46E	+	fact	names the smoke-fed cloud a pyrocumulonimbus and realizes fire is set at many points so flight is a trap
+ryoka griffin	f34c1976ce	6.46E	+	fact	calls the wind and runs ahead of the fire tornado, which turns and follows her away from Riverfarm until it burns out; she survives badly burned
+ryoka griffin	3f7c33a2c7	6.47E	+	fact	punches Laken in the stomach for the Goblins and Liscor; Laken says he did not know the siege target and tens of thousands of Goblins died
+ryoka griffin	65a419ea71	6.47E	+	fact	suspects Lady Rie of being the traitor at Lancrel and a member of the Circle of Thorns
+ryoka griffin	11a7309309	6.47E	!	event	raises her right hand with the missing fingers toward Belavierr's deal, ending on a sigh
+ryoka griffin	528748575d	6.60	+	fact	ate a bug while running; has run for days with the dog Mousey from Lord Gralton's kennels
+ryoka griffin	8d55174836	6.60	+	fact	tells Fierre she turned, not stopped, a tornado of fire, and that the wind has become easier to ask since what she saw
+ryoka griffin	d47fca9602	6.60	~	belief	calls Belavierr a monster, true to herself, who loved only her daughter
+ryoka griffin	94f72e7e74	6.60	!	event	gives Mousey to the Pithfire Hounds and cannot stop herself saying "I hate dogs"
+ryoka griffin	7046fe28bf	6.60	!	event	Fierre has found the address of a Bronze-rank Human team backed by Magnolia Reinhart that Ryoka wants to meet; she holds it for later
+ryoka griffin	3179745292	6.68	+	fact	lunches with Fierre at the Huntress' Haven; Madain says Alber left the night before
+ryoka griffin	608131073e	6.68	+	fact	arrives in Laiss as the Wind Runner of Reizmelt and is stopped at the door by a [Maid]; Bekia, a seven-foot Gnoll [Maid], lets her in
+ryoka griffin	b411ac2e80	6.68	+	fact	offers nearly all her gold to borrow the guests' electronics for two weeks, aiming for the High Passes
+ryoka griffin	b6ed3d28d6	6.68	+	fact	knocks out an [Assassin] with punches with Alber's help, then takes the Earth guests out of the city toward Reizmelt and the Wandering Inn
+ryoka griffin	3abad1920d	6.68	!	event	sends Magnolia's Earth guests toward the Wandering Inn after the assault
+ryoka griffin	cb62eb00a5	Interlude_Dancing_and_Brawling	+	fact	eats unpopped popcorn kernels; made the popcorn herself in Madain's kitchen and can still cast normal magic to warm it
+ryoka griffin	15432895c6	Interlude_Dancing_and_Brawling	+	fact	ejected from the Mage's Guild after shouting; thinks about sending Erin a [Message] and gold and asking about Mrsha
+ryoka griffin	92bd09f8c7	Interlude_Dancing_and_Brawling	+	fact	believes she brings death and left Mrsha behind with Erin for safety
+ryoka griffin	39e71bc434	Interlude_Burning_Alcohol	+	fact	sent a dictated [Message] to Erin apologising, promising to return after changing, warning people like her are coming to the inn, and sending gold for Mrsha
+ryoka griffin	0901a81b60	Mating_Rituals_Pt.2	+	fact	explains sexuality terms to Fierre in her office; stops before sex with Fierre because her "bad days" ruin relationships
+ryoka griffin	c52ea81756	7.23LM	+	fact	called the Wind Runner of Reizmelt who can command the wind; hired adventurers to escort the Earthers south
+ryoka griffin	b9120ec87c	7.24	+	fact	lives in Reizmelt as the Wind Runner of Reizmelt, watching children race wheeled sail-carts in wind she summons; keeps friends Fierre, Alber, the Pithfire Hounds, Runner's Guild staff
+ryoka griffin	8fcd519a33	7.24	+	fact	fewer powers than at Riverfarm; can't conjure the wind-and-fire tornado; hid Earthers' laptops and devices in her bag of holding
+ryoka griffin	e2fcdd63e7	7.24	+	fact	tells Lupp that Belavierr offered to help her reach Ivolethe, with a deadline before the Summer Solstice, and she told the Witch to "eat shit"; she needs 'something better than a [Witch]'
+ryoka griffin	3e3b3535d3	7.24	+	fact	boards an overnight carriage south, vouched by Alime of the Runner's Guild; driver Olat warns Alevica the [Witch] has attacked carriages
+ryoka griffin	6e1e0434ba	7.24	~	belief	believes sending the Earthers to Liscor may hurt them and that she endangers friends
+ryoka griffin	46f53d9dee	7.24	!	state	leaves Reizmelt south; ambushed by the Bloodfeast Raiders
+ryoka griffin	dbe19fa7a8	7.25	+	fact	her bag of holding is loaded with sand and caltrops; the raiders take her iPhone and miss the other electronics hidden in Teriarch's bag of holding
+ryoka griffin	d9b5534561	7.25	+	fact	warns a merchant caravan, a farmer and riders to flee; the raiders kill the merchant and burn his wagon
+ryoka griffin	21af3edad4	7.25	+	fact	uses wind to knock two raiders from the sky, cannot make herself kill with it, and is shot through the right shoulder by an arrow
+ryoka griffin	4a0faef70f	7.25	+	fact	breaks through the memory wipe to recall that one raider flew with wings, so a Drake, meaning an Oldblood Drake; the receptionist says only six members had been identified, all Human
+ryoka griffin	6648f6f7c7	7.25	+	fact	her third wish is that Teriarch watch The Hobbit from Kevin's laptop with her; he tears up at the Halflings, which he calls Tamaroth's
+ryoka griffin	ea3f611be5	7.25	+	fact	uses wind to lift Celum's children in parachutes, and is called Wind Runner by a child
+ryoka griffin	8544767096	7.25	~	belief	believes the raiders came because of her iPhone
+ryoka griffin	2ab1fc4f31	7.25	!	event	identifies a Drake among the raiders
+ryoka griffin	012dcdd1e9	7.25	!	state	returns to Celum to help rather than run, and reconciles with Erin
+ryoka griffin	28ace03071	7.26	+	fact	returns to The Wandering Inn after running in shame from Liscor; Erin hugs her and refuses to let go, then drags and carries her
+ryoka griffin	6359088137	7.26	+	fact	holds a bit of ice that does not melt; missing two fingers on her right hand
+ryoka griffin	88b0cf9ab2	7.26	!	state	returns to the inn after leaving Liscor, reunites with Mrsha and Calruz
+ryoka griffin	7a1007b0a3	7.27	+	fact	tells Erin and Mrsha about a Vampire in Reizmelt, keeps a tiny panacea vial for Fierre, and must return there
+ryoka griffin	66f5cb3d2a	7.27	+	fact	builds a wind with Mrsha and a bedsheet parachute; Bird, Felkhr and Antinium plan jumps afterwards
+ryoka griffin	547708acde	7.27	+	fact	tells Teriarch she has an [Emperor] (Laken Godart), who owes her a favor; the fae came for his gathering, so a second makes the third such party
+ryoka griffin	897237980c	Interlude_The_Gecko_of_Illusions	+	fact	identifies the Golden Triangle as a Ponzi/pyramid scheme
+ryoka griffin	0ad7c47ae2	Interlude_The_Gecko_of_Illusions	+	fact	sits with Relc for hours, solving puzzles, and tells him "You did the right thing"
+ryoka griffin	a2acd1eb1b	7.28	+	fact	slept with Relc the night after the ambush; says it was the third time she has had sex since coming to this world
+ryoka griffin	e4b236326c	7.28	+	fact	leaves a small ice statue of Ivolethe under Mrsha's pillow and promises to return after the Summer Solstice
+ryoka griffin	79bb01b699	7.28	+	fact	the Runner's Guild lets her approach requesters for Courier-level dangerous deliveries, citing Alime's notes on her file
+ryoka griffin	ef467c3782	7.28	+	fact	meets Fierre's advice (Innovative, magical, dislikes Magnolia, fond of pretty faces) before seeing Ieka
+ryoka griffin	8d69f66625	7.28	~	belief	believes the wind could turn on her if she tried to fly
+ryoka griffin	25cd6d6eb7	7.28	!	event	asks Ieka and Delanay for aid as the first of her Summer Solstice requests
+ryoka griffin	0f7f4dfedc	Interlude_A_Meeting_of_Druids	+	fact	carries a Panacea vial from Teriarch; plans to return for Mrsha; headed to Reizmelt for the Archmage of Izril's party
+ryoka griffin	6952f73319	Interlude_A_Meeting_of_Druids	!	event	flees the Silver Swords when Ylawes says someone wants to speak to her; Erin had sent them
+ryoka griffin	6297c9d642	7.37	+	fact	sends letters via Bezale and the Mage's Guild; her Reizmelt stay is at Mad Madain's Huntress' Haven, where the Silver Swords (Ylawes, Dawil, Falene) lodge after kidnapping her
+ryoka griffin	2712c1258a	7.37	+	fact	plans to deliver for Lady Ieka to the Archmage of Izril in First Landing by the Summer Solstice, needing a Scroll of Dispel Magic
+ryoka griffin	6bede322dd	7.37	~	belief	hints that Fierre's illness has other causes besides being a Vampire
+ryoka griffin	dd0649a799	Interlude_Carriages_and_Conversations	+	fact	carries a jar of garlic mixed with oil and water made after Fierre kidnapped her
+ryoka griffin	4d01041c37	Interlude_Carriages_and_Conversations	+	fact	is delivering Lady Ieka's message so the Archmage can convene the Fae at the Summer's Solstice
+ryoka griffin	a41dafc122	Interlude_Carriages_and_Conversations	+	fact	plays Texas Hold'em with magical cards; calls herself Alelle and Fierre "Fanni"
+ryoka griffin	5543dd285d	Interlude_Carriages_and_Conversations	+	fact	spend three days in the coach, then cross by boat to the island at sunset
+ryoka griffin	cb81e5f0ab	7.41	+	fact	previously delivered for the Horns of Hammerad, ran the High Passes and reached the Necromancer; is doing this for Lady Ieka's help
+ryoka griffin	0137477f60	7.41	+	fact	carries a [Detect Magic] amulet, an arrow-deflecting ring, caltrops, tripvines and six jars of Erin's acid; her trump card is a bundle of cloth for gliding
+ryoka griffin	85d431f76b	7.41	+	fact	can sense and command wind, learned to call it stronger since the fire at Riverfarm; Teriarch gave insights
+ryoka griffin	53a0810742	7.41	+	fact	finds the fake by sending a handkerchief-parachute that passes straight through it
+ryoka griffin	06ddb3a567	7.41	+	fact	uses wind to roll her bag of holding into her cell, then to push an enchanted sword to Salamani, who scrapes the barrier runes away
+ryoka griffin	93865f8aa7	7.41	+	fact	Fierre and Salamani free the cells; they loot Gold-rank gear, scrolls, wands, potions; bags of holding must not be near each other
+ryoka griffin	9ca29293a8	7.41	+	fact	decide the trap is a bad delivery, retreat out of the mansion, then drunkenly burn the isle and shout messages until Valeterisa appears with about a hundred shadow familiars, golems and a shadow maw
+ryoka griffin	3e0c563778	7.41	!	event	Fierre bit her neck during the insanity but healing closed the wound; Ryoka jokes about being a Vampire
+ryoka griffin	53f4231c9c	7.42M	+	fact	considers the delivery won; one more noble for the Summer Solstice party, then she can meet her friend who died
+ryoka griffin	51890a62bd	7.44	!	state	becomes widely known as Wind Runner of Reizmelt for waking the Archmage of Izril
+ryoka griffin	abdf9c1607	7.44	!	event	fails the Courier test but Mihaela certifies her as a City Runner and promises to break the legs of those who question it
+ryoka griffin	56a40366f3	7.45	+	fact	lists every action Fierre took, since Fierre took panacea three days ago and it made her stronger and faster, then more sensitive to garlic and sun
+ryoka griffin	d975619bfd	7.45	+	fact	finds black silver in Fierre's vomit via a lens microscope and concludes the well water is silver-poisoned
+ryoka griffin	1921768571	7.45	+	fact	saves Fierre with boiled water, distilled water, charcoal and washing, then gives blood; Fierre bites her neck and it tingles pleasantly
+ryoka griffin	f098c0a635	7.45	!	event	realizes the Vampire "curse" is silver poisoning caused by House Byres' wells
+ryoka griffin	259bcb4f73	7.49	+	fact	touched the wind, which seized her and slammed her down with Fierre and Rivel; she cracked ribs and Rivel's arm broke and healed
+ryoka griffin	676296baa4	Interlude_Experiments_in_Golems	+	fact	Reizmelt people cheer her as the Wind Runner for waking the Archmage of Izril and ask for autographs
+ryoka griffin	96fb059f62	Interlude_Experiments_in_Golems	+	fact	travel to Invrisil to see Lady Ieka; Ryoka's anti-enchantment necklace blocks Salamani's [Haste] until removed
+ryoka griffin	e40c861ecb	Interlude_Experiments_in_Golems	~	belief	wonders if House Byres had good reasons for poisoning Vampires
+ryoka griffin	46e46ca76d	7.52	+	fact	with Fierre and Salamani over two thirds of the way to Invrisil; reads Mrsha's letter that the Raskghar left the dungeon and Nokha is not among them
+ryoka griffin	f0702e9b02	7.52	+	fact	arrives at the inn with Fierre and Salamani and hugs Mrsha
+ryoka griffin	094c11e0ef	7.53	+	fact	arrived late, has [Twofold Rest], and sat quietly with Mrsha at dawn
+ryoka griffin	d42d9cf80b	7.53	+	fact	tells Grimalkin Magnolia let the Earthers go because they were useless, and refuses to go to Pallass
+ryoka griffin	99940f156b	7.53	~	belief	claims whichever Earther informed Pallass knew nothing of value
+ryoka griffin	3b3101432a	7.54	+	fact	makes her bed, considers dyeing her hair with Octavia's magical dyes, then dismisses it
+ryoka griffin	1535b97d0d	7.54	+	fact	realises she missed Mrsha's birthday
+ryoka griffin	00352e109e	7.54	+	fact	says Mihaela Godfrey, Guildmistress of First Landing, already tested and failed her
+ryoka griffin	9641c2ff4b	7.54	!	event	stops insisting Earth knowledge must be hidden and tells Erin she approves of the bicycle and patenting it
+ryoka griffin	2a4f4d73bd	7.54	!	state	asks Earthers (not Leon or Troy) into the inn for a new discussion; Fierre is left out and hurt
+ryoka griffin	44f6288db0	7.55E	+	fact	the Elusive Lot link a call to the inn; the Elusive Lot listen in and rate its security six out of ten
