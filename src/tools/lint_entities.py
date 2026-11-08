@@ -89,25 +89,27 @@ def lint(path, errs, warns, claims):
             spans_by_ch.append((e, spans))
         if not ok:
             continue
+        blobs = []
         for e, spans in spans_by_ch:
             L = lines(e)
             nl = len(L)
-            blob = " ".join(" ".join(L[max(0, a - 1 - WIN):min(nl, z + WIN)]) for a, z in spans)
-            nb, sb = norm(blob).replace(",", ""), squash(blob)
-            miss = []
-            for n in re.findall(r"\d[\d,]*", body):
-                n = n.replace(",", "").strip()
-                if n and not re.search(r"(?<!\d)%s(?!\d)" % re.escape(n), nb):
-                    miss.append(n)
-            for q in re.findall(r"[“\"]([^”\"]{3,})[”\"]", body):
-                if squash(q) not in sb:
-                    miss.append('"%s"' % q[:30])
-            for br in re.findall(r"\[([^\]]{2,40})\]", body):
-                if squash(br) not in sb:
-                    miss.append("[%s]" % br)
-            if miss:
-                warns.append(f"{tag}: Ch{e['id']} window lacks {', '.join(miss)} :: {body[:70]}")
-                break
+            blobs.append(" ".join(" ".join(L[max(0, a - 1 - WIN):min(nl, z + WIN)]) for a, z in spans))
+        blob = " ".join(blobs)  # a claim is checked against all of its cites together
+        nb, sb = norm(blob).replace(",", ""), squash(blob)
+        miss = []
+        for n in re.findall(r"\d[\d,]*", body):
+            n = n.replace(",", "").strip()
+            if n and not re.search(r"(?<!\d)%s(?!\d)" % re.escape(n), nb):
+                miss.append(n)
+        for q in re.findall(r"[“\"]([^”\"]{3,})[”\"]", body):
+            if squash(q) not in sb:
+                miss.append('"%s"' % q[:30])
+        for br in re.findall(r"\[([^\]]{2,40})\]", body):
+            b2 = squash(br)
+            if b2 not in sb and not (b2.endswith("s") and b2[:-1] in sb):  # plural of a bracket term
+                miss.append("[%s]" % br)
+        if miss:
+            warns.append(f"{tag}: {', '.join(e['id'] for e, _ in spans_by_ch)} window lacks {', '.join(miss)} :: {body[:70]}")
         claims.append({"file": rel, "line": ln, "section": head, "kind": kind, "text": body,
                        "cites": cites, "seq": max(c["seq"] for c in cites)})
 
