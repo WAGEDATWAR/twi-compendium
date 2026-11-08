@@ -4,14 +4,17 @@ Decision files: src/tools/cache/verify/*.tsv, tab-separated, header
 verdict: OK | FIX | DROP.  FIX replaces the whole bullet with new_bullet (must end with a cite group);
 DROP deletes the bullet.  orig_prefix = first 40 characters of the original claim text (after '- ');
 a decision is skipped (and reported) if the line no longer starts with it.  Lines are applied bottom-up.
-Run: python -I src/tools/apply_verification.py [--dry]   then lint_entities.py."""
+Run: python -I src/tools/apply_verification.py [--dry] [tag ...]   then lint_entities.py."""
 import csv, glob, os, re, sys, collections
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, "..", ".."))
 CITE = re.compile(r"\(Book \d+, Ch\S+ L[\dL,\- ]+(?:; Book \d+, Ch\S+ L[\dL,\- ]+)*\)\s*$")
 dry = "--dry" in sys.argv
 dec = collections.defaultdict(list)
+tags = [a for a in sys.argv[1:] if not a.startswith("--")]  # e.g. v04 v05 ; none = all decision files
 for p in sorted(glob.glob(os.path.join(HERE, "cache", "verify", "*.tsv"))):
+    if tags and os.path.splitext(os.path.basename(p))[0] not in tags:
+        continue
     for r in csv.DictReader(open(p, encoding="utf-8-sig"), delimiter="\t", quoting=csv.QUOTE_NONE):
         if r.get("verdict") in ("FIX", "DROP"):
             dec[r["file"]].append(r)
