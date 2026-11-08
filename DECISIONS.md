@@ -12,3 +12,5 @@ Locked choices and provisional answers. `locked` (change only with a new entry) 
 | D-006 | Change history lives in root `CHANGELOG.md` (replaces `Appendices/Change_Log.md` from the structure doc) | provisional |
 | D-007 | Remote is `https://github.com/WAGEDATWAR/twi-compendium`, branch `main`; push only when the user asks | locked |
 | D-008 | Verifier warnings (entity not near cite) are advisory; only format errors (no cite, cite beyond file, id/seq mismatch, missing `S:`) fail the run | provisional |
+| D-009 | Phase 3 files follow `ENTRY_FORMAT.md`: every claim is one bullet ending in a cite group; claim `seq` is derived as the highest seq among its cites (no hand-written seq); checked by `tools/lint_entities.py`. Topic files live at the root as `NN_*.md`, entity files under `Entities/` | locked |
+| D-010 | Foundation files (primer, levels/classes/skills, magic, cosmology, species, creatures) are written by parallel agents, one file per agent, each claim read in `Source_Text` with `rd.py` before it is written; the ledger facts are seeds, not sources | provisional |
