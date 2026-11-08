@@ -20,6 +20,10 @@ Project: **The Wandering Inn Compendium**, a cited, spoiler-cuttable reference f
 - `python -I src/tools/merge_notes.py`: merge `Chapter_Notes/parts/*` into `bNN.md`.
 - `python -I src/tools/verify_notes.py`: writes `src/ledgers/verify_report.txt`; exit 1 on hard errors.
 - `python -I src/tools/merge_ledgers.py`: rebuild merged alias and open-question ledgers.
+- `python -I src/tools/lint_entities.py [--emit] [file ...]`: lint Phase 3 entry files (see `ENTRY_FORMAT.md`); `--emit` writes `ledgers/entry_claims.jsonl`.
+- `python -I src/tools/show_claims.py <file> [lo [hi]]`: claims beside their cited text (for verification). `apply_verification.py [--dry] [tag ...]` applies decisions from `tools/cache/verify/*.tsv`.
+- `python -I src/tools/make_foundation_work.py`: seed packets for foundation files (cache, gitignored).
+- Source text: clone `WAGEDATWAR/twi-source` and copy `Book_*` into `src/Source_Text/` (gitignored, D-001).
 
 ## Pitfalls seen
 - Note files may start with a UTF-8 BOM; read with `utf-8-sig`.

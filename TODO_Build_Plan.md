@@ -27,6 +27,12 @@ Gate 2: each entity with >=15 facts or 2+ chapters has a file; no orphan facts.
 
 ## Phase 3: entity files and topic files
 Primer, cosmology/system (levels, classes, skills, Names, gods, dungeons), species, nations/cities, organisations, characters, items, events/wars, timeline per volume. Written once to the entity rules in the structure doc; each claim cited.
+- [x] 3.1 entry format (`ENTRY_FORMAT.md`) and `lint_entities.py` (cites checked against the text, claim seq derived)
+- [x] 3.2 foundations drafted and independently verified: 01 primer, 02 levels/classes/skills, 03 magic, 04 cosmology/gods/Names/dungeons, 05 core species, 06 other species, 07 creatures (1,903 claims; second-pass gaps in DEF-029..DEF-035)
+- [ ] 3.3 nations, cities and regions; organisations (guilds, Wistram, companies, Five Families, armies)
+- [ ] 3.4 characters (entity files from `facts.jsonl` plus the text; large entities need supersession links across pieces, DEF-028)
+- [ ] 3.5 items, events/wars, timeline per volume; entity files for the `entity` rows in `coverage_decisions.tsv` (DEF-014, DEF-018)
+- [ ] 3.6 foundations pass 2 (DEF-029..DEF-035) and open-question resolution (DEF-036)
 
 ## Phase 4: verification
 verify2-style automated pass (quotes/numbers within +-2 lines of cite), independent re-read of sampled chapters, lint (headers, links, cite validity, one-home-per-fact).
