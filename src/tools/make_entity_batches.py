@@ -6,6 +6,8 @@ gets a batch of its own; fact-less entities count as 8 facts) and writes, for ea
   src/tools/cache/entities/<tag>_NN.md       packet: per entity, its ledger facts as bullets (show_claims.py can display them)
 and appends rows to src/tools/cache/entities/manifest.tsv (batch, key, display, etype, facts, target path).
 Target path: Entities/<TypeDir>/<Slug>.md.  --skip-done leaves out entities whose target file already exists.
+An entity with more than N facts is split into chronological parts (cut at chapter boundaries); each part is its own
+batch and is written to Entities/<TypeDir>/<Slug>/Part_<k>_Books_<a>-<b>.md.
 Packets are seeds: the writer must verify every claim against the chapter text."""
 import csv, json, os, re, sys, unicodedata
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -45,6 +47,37 @@ for r in sel:
     r["_path"] = p
 if "--skip-done" in sys.argv:
     sel = [r for r in sel if not os.path.exists(os.path.join(ROOT, r["_path"]))]
+import math
+parts = []  # (row, facts_subset or None, label) for oversized entities
+def split_big(r):
+    fs = sorted(by.get(r["key"], []), key=lambda f: (f["seq"], f["id"]))
+    k = math.ceil(len(fs) / MAXF)
+    target = len(fs) / k
+    chunks, cur_c = [], []
+    for f in fs:
+        cur_c.append(f)
+        if len(cur_c) >= target and len(chunks) < k - 1 and (not cur_c or True):
+            chunks.append(cur_c); cur_c = []
+    if cur_c: chunks.append(cur_c)
+    # move chunk boundaries so a chapter is never cut in two
+    for i in range(len(chunks) - 1):
+        while chunks[i + 1] and chunks[i] and chunks[i][-1]["seq"] == chunks[i + 1][0]["seq"]:
+            chunks[i].append(chunks[i + 1].pop(0))
+    return [c for c in chunks if c]
+exp = []
+for r in sel:
+    if int(r["facts"] or 0) > MAXF:
+        ch = split_big(r)
+        d, s_ = os.path.dirname(r["_path"]), os.path.splitext(os.path.basename(r["_path"]))[0]
+        for i, c in enumerate(ch, 1):
+            r2 = dict(r); a, z = c[0]["book"], c[-1]["book"]
+            r2["_path"] = f"{d}/{s_}/Part_{i}_Books_{a}-{z}.md"
+            r2["display"] = f"{r['display']} (part {i} of {len(ch)}: Books {a}-{z})"
+            r2["facts"] = str(len(c)); r2["_facts"] = c; r2["_part"] = (i, len(ch))
+            exp.append(r2)
+    else:
+        exp.append(r)
+sel = exp
 W0 = 8  # a fact-less (manual) entity must be researched in the text: count it as W0 facts when packing
 batches, cur, n = [], [], 0
 for r in sel:
@@ -64,7 +97,7 @@ for i, b in enumerate(batches, 1):
     with open(os.path.join(OUT, name + ".md"), "w", encoding="utf-8", newline="\n") as fh:
         fh.write(f"# BATCH {name}\n\nEach `##` block is one entity. Bullets are ledger facts (seeds, NOT sources), in reading order.\n")
         for r in b:
-            fs = sorted(by.get(r["key"], []), key=lambda f: (f["seq"], f["id"]))
+            fs = r.get("_facts") or sorted(by.get(r["key"], []), key=lambda f: (f["seq"], f["id"]))
             fh.write(f"\n## ENTITY: {r['display']}\n")
             fh.write(f"<!-- key: {r['key']} | type: {r['etype'] or 'other'} | facts: {len(fs)} | chapters: {r['chapters']} | books: {r['books']} | write to: {r['_path']} -->\n")
             fh.write(f"<!-- also called: {(r['aliases_known'] or '').replace('|', '; ')} | raw forms: {(r['forms'] or '').replace('|', '; ')} -->\n")
