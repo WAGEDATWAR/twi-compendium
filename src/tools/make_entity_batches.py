@@ -1,6 +1,6 @@
 """Build entity-file work packets for Phase 3 (D-010/D-011).
   python -I src/tools/make_entity_batches.py <tag> <etype[,etype...]> [--max-facts N] [--min-facts M] [--skip-done]
-Selects ledger entities of those etypes that need a file (needs_file Y/M, or >=15 facts, or >=2 chapters),
+Selects (and skips any already in manifest.tsv) ledger entities of those etypes that need a file (needs_file Y/M, or >=15 facts, or >=2 chapters),
 orders them by first appearance, packs them into batches of at most N facts (default 260; an entity larger than N
 gets a batch of its own; fact-less entities count as 8 facts) and writes, for each batch,
   src/tools/cache/entities/<tag>_NN.md       packet: per entity, its ledger facts as bullets (show_claims.py can display them)
@@ -37,6 +37,10 @@ for r in ents:
     nf, nc = int(r["facts"] or 0), int(r["chapters"] or 0)
     if not (r["needs_file"] in ("Y", "M") or nf >= 15 or nc >= 2) or nf < MINF: continue
     sel.append(r)
+man_path = os.path.join(OUT, "manifest.tsv")
+if os.path.exists(man_path):  # an entity already packed in an earlier batch (any tag) is never packed again
+    have = {r["key"] for r in csv.DictReader(open(man_path, encoding="utf-8"), delimiter="\t")}
+    sel = [r for r in sel if r["key"] not in have]
 sel.sort(key=lambda r: (int(r["first_seq"] or 0), r["key"]))
 used, rows = {}, []
 for r in sel:

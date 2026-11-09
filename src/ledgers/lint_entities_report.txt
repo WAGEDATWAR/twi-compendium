@@ -1,4 +1,4 @@
-files 7  claims 1903  errors 0  warnings 4
+files 305  claims 6096  errors 0  warnings 4
 
 == ERRORS ==
 
@@ -6,5 +6,5 @@ files 7  claims 1903  errors 0  warnings 4
 == WARNINGS ==
 01_World_Primer.md:161: 4.12 window lacks 536, 8, 2 :: Pisces and Moore report the door can send someone of Ryoka's general w
 03_Magic.md:212: 4.12 window lacks 536, 8, 2 :: Pisces and Moore, speaking for the mages, say the door can send someon
-06_Species_Other.md:63: 7.37 window lacks 18 :: Ylawes Byres, of the family that hunted vampires, dines with Ryoka and
-07_Creatures_and_Monsters.md:52: 5.07 window lacks 7 :: Rock Crabs are still seen on the Floodplains of Liscor in Book 7.
+Entities/Items/Door.md:7: 4.12 window lacks 536 :: After Ryoka's testing, the mages Typhenous and Moore calculated that t
+Entities/Items/Door.md:8: 4.12 window lacks 8, 2 :: The door exhausts its magic after such a teleport and needs roughly 8.

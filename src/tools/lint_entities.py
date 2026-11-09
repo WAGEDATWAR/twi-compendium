@@ -97,7 +97,8 @@ def lint(path, errs, warns, claims):
         blob = " ".join(blobs)  # a claim is checked against all of its cites together
         nb, sb = norm(blob).replace(",", ""), squash(blob)
         miss = []
-        for n in re.findall(r"\d[\d,]*", body):
+        nbody = re.sub(r"\b\d+(?:st|nd|rd|th)\b", " ", re.sub(r"\bBook \d+\b", " ", body))  # "Book 7" labels and ordinals ("5th Wall") are not claims about numbers
+        for n in re.findall(r"\d[\d,]*", nbody):
             n = n.replace(",", "").strip()
             if n and not re.search(r"(?<!\d)%s(?!\d)" % re.escape(n), nb):
                 miss.append(n)
