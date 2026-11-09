@@ -1,0 +1,40 @@
+# Jasi
+> Type: person | First appears: Book 3, Ch3.15
+> See also: Wesle, Grev, Erin Solstice, Agnes, Numbtongue, Players of Celum
+## Overview
+- Jasi is a young female Drake of Celum who works as a [Washer] and later becomes the star actress of the Players of Celum. (Book 3, Ch3.15 L365; Book 3, Ch3.16 L474)
+- Jasi is one of perhaps two or three Drakes in Celum. (Book 3, Ch3.15 L367)
+- Jasi was abandoned as a child and raised by a Human father and mother, and has lived in Celum all her life. (Book 3, Ch3.15 L394)
+- Jasi has never been to Liscor or anywhere with other Drakes. (Book 3, Ch3.15 L390)
+## Book 3
+- Jasi and Grev live in a squalid hut by the city walls that belonged to their parents. (Book 3, Ch3.15 L370)
+- Grev is one crime away from being exiled from Celum. (Book 3, Ch3.15 L351)
+- {belief} Jasi begged Erin not to hurt Grev, calling him just a child. (Book 3, Ch3.15 L338)
+- Jasi begged on her hands and knees for Erin not to report Grev, who is the only family she has left. (Book 3, Ch3.15 L397-398)
+- Jasi cannot sew or cook well, and says she would like to learn a craft and start a small business. (Book 3, Ch3.16 L82,L239)
+- Jasi says that if she could, she would travel to Liscor to learn what Drakes are like. (Book 3, Ch3.16 L257)
+- {belief} Jasi insisted that Celum is quite a good city to live in. (Book 3, Ch3.16 L276-277)
+- Jasi and Wesle played Romeo and Juliet in Erin's inn, and their stage kiss looked real to Erin. (Book 3, Ch3.16 L463-470)
+- On stage they were no longer the low-level [Guardsman] and the impoverished Drake [Washer]. (Book 3, Ch3.16 L474)
+- Wesle and Jasi are the highest-level [Actors], who had gained a few Skills. (Book 3, Ch3.24 L223)
+- Wesle and Jasi are the stars of the troupe, and all the cast take a share of the profits. (Book 3, Ch3.25 L97,L175)
+- Grev carries the bag of coins and the props. (Book 3, Ch3.25 L96,L175)
+## Books 4 to 7
+- The Celum actors rehearsed My Fair Lady, and Jasi asked to buy a gift for Grev. (Book 4, Ch3.39 L289,L296)
+- Jasi said she did not know Drakes to buy for and suggested putting down the handsome Pisces. (Book 4, Ch3.39 L303)
+- Jasi has changed from timid to poised, wears shimmering magical crystal bracelets that radiate chill, and has an inner poise. (Book 7, Ch5.04 L191-194)
+- Jasi has an actor's mask and plays Zevara in The Battle of Liscor, in which Humans wear fake tails. (Book 7, Ch5.14 L50,L68-69)
+## Skills and the Players of Celum
+- {state} Jasi is a Level 24 [Actress]. (Book 14, Ch6.63P L132)
+- Her Skill [Performance Supplies: 5 Gold] lets her summon five gold pieces' worth of supplies before a performance. (Book 14, Ch6.63P L439)
+- Her Skill [Eidetic Memory] lets her visualise a script moments after reading it. (Book 14, Ch6.63P L719)
+- Jasi played Lady Elisial, a Drake who became a [Noblewoman] in Terandria, and used [Audience Charge] to draw energy from the audience. (Book 14, Ch6.63P L717,L729-730)
+- The audience went wild at the end of the play. (Book 14, Ch6.63P L737)
+- {state} Later, Jasi reaches Level 25 as an [Actress] in the final lines of the chapter. (Book 14, Ch6.63P L828)
+- {belief} Jasi guesses that Erin may come from an old village in Terandria where people live cut off. (Book 14, Ch6.63P L81)
+- The Players of Celum, including Jasi, Wesle, Grev, Emme and Kilkran, cancelled their performance because of the riots. (Book 18, Ch7.31 L39,L93)
+- Jasi sang "Take on Me" on air with Wesle and a disguised Numbtongue playing lightning from the guitar strings. (Book 19, Ch7.50 L1384-1388)
+- Jasi has a [Perfect Imitation] Skill that lets her act differently. (Book 19, Ch7.50 L941-942)
+- Jasi found her old street in Celum gone and was mobbed by people seeking her autograph. (Book 19, Ch7.50 L890,L1026)
+- Numbtongue, in anonymous armour, caught up with Jasi after she fled the crowd and revealed himself. (Book 19, Ch7.50 L944-956)
+- Jasi met Agnes at the Frenzied Hare. (Book 19, Ch7.50 L995-998)
