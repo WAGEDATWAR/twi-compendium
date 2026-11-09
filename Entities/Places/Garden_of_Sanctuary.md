@@ -1,0 +1,37 @@
+# [Garden of Sanctuary]
+> Type: place | Also called: Garden of Sanctuary; magic garden | First appears: Book 15, Ch7.07
+> See also: The Wandering Inn, Erin Solstice, Mrsha
+## Overview
+- The [Garden of Sanctuary] is a Skill of Erin's, and Mrsha is the first to find the door into it. (Book 15, Ch7.07 L201)
+- The garden is a domed, circular room of dark brown wood covered with vines, reached through a door that vanishes behind the visitor. (Book 15, Ch7.07 L144-146,L148)
+- The door to the garden can appear anywhere in the inn, and Mrsha sees it near the kitchen's door. (Book 15, Ch7.07 L575)
+- Erin can enter the garden by stepping backward toward any wall, and can exit through any door she names, such as the kitchen. (Book 15, Ch7.07 L591-594)
+- Erin says the Skill is based on her magic door, and she would never have gotten it without that door. (Book 15, Ch7.07 L595)
+- Palt tells Erin that the Skill is an Inheritance Skill that only one or a few people get at a time, and that an [Empress] first owned it. (Book 19, Ch7.52 L164,L166)
+- {belief} Palt says the garden was a secluded refuge for those of royal classes and the most secure place he can name. (Book 19, Ch7.52 L167,L170)
+## Description
+- A circular opening in the dome lets bright light fall into the garden, and Mrsha sees blue sky and clouds that look like the sky above Liscor and a mountain of the High Passes. (Book 15, Ch7.07 L149,L172-174)
+- Soft grass covers the ground, and the garden is large enough to hold a small hill and is divided into different spots. (Book 15, Ch7.07 L144,L155)
+- A shaded part has loamy soil, a stone with huge mushrooms and a ring of small purple mushrooms in the grass. (Book 15, Ch7.07 L153,L157)
+- A meadow of every flower color except black, with wheat and full-grown grass, lies on a plateau in the middle. (Book 15, Ch7.07 L162-163,L165)
+- A clear pond with smooth stones and sand at its base sits against the wall, and Mrsha guesses it is fed by rainwater. (Book 15, Ch7.07 L169-170,L174-175)
+- A moving fog wets a dense jungle zone at the base of the hill with sycamores, fronds and burr-bushes. (Book 15, Ch7.07 L186-190)
+- The other side of the hill is arid, with yellow grass and an acacia tree with small thorns. (Book 15, Ch7.07 L194-197)
+- Mrsha concludes that the garden has zones of marsh, arid, tropical and temperate. (Book 15, Ch7.07 L199-200)
+- There are no bugs, fish or other living things in the garden except plants and the visitor. (Book 15, Ch7.07 L160,L164,L179)
+- Klbkch reports that the tropical area has a number of plants indigenous to Baleros but nothing harmful, only some thorns. (Book 15, Ch7.07 L412)
+- Saliss finds many mundane plants in the garden. (Book 15, Ch7.07 L414)
+- Mrsha's [Druid] class tells her she is safe in the garden. (Book 15, Ch7.07 L151)
+- {event} Moore raises an [Earthen Spire] under Zevara and Olesm, who climb through the opening in the dome and appear on the inn's roof. (Book 15, Ch7.07 L400,L406-409)
+- A speaker concludes from this that the garden is a secret room, letting in sunlight and probably rain but not enterable any other way. (Book 15, Ch7.07 L410)
+## Uses
+- {reveal} Numbtongue is led by Mrsha up a foggy hill to see Goblins Erin had known, including Bugear, Headscratcher and Shorthilt. (Book 16, Ch7.11 L1151-1157)
+- Spiderslicer, Noears and Eater of Spears are also among the Goblins on the hill, together with Garen Redfang on a Carn Wolf. (Book 16, Ch7.11 L1160-1161)
+- Reiss sits at a stone table with a hole in his chest, as he looked when Erin saw him die. (Book 16, Ch7.11 L1165-1167)
+- {event} Erin, Numbtongue, Lyonette, Mrsha and Bird plant seed cores in each biome and plant cocoa, carrots, cucumbers, potatoes and wheat. (Book 16, Ch7.17S L36,L51-53,L61-62)
+- Mrsha uses her wand to make the garden's plants grow. (Book 16, Ch7.17S L64)
+- Erin hopes the garden will provide free blue fruits, chocolate, faerie flowers and apple trees. (Book 16, Ch7.17S L69)
+- {event} When Erin offers the garden for the night, it holds Mrsha, Lyonette, Pawn with Antinium, Ekirra and other Gnoll families, Visma, Kevin, Rose, Joseph, Imani, Troy, Leon and Galina. (Book 19, Ch7.52 L43-47)
+- Bezale and Montressa ward their rooms in the inn instead, and half the Players of Liscor sleep in the garden with friends or family. (Book 19, Ch7.52 L49-50)
+- Bird refuses to leave his tower because he does not need to sleep. (Book 19, Ch7.52 L46)
+- Erin tells Palt the garden cannot support everyone because it is too small, and that if the inn goes, so does it. (Book 19, Ch7.52 L172)

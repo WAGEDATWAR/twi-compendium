@@ -1,0 +1,46 @@
+# Order of Seasons
+> Type: org | Also called: the Order; Knights of the Seasons | First appears: Book 11, Ch6.22D
+> See also: Talia Kallinad, Belavierr, Ser Raim, Hunter's Guild of Noelictus, Kallinad, Terandria
+## Overview
+- The Order of Seasons is one of the most iconic [Knight] orders of Terandria, made of four factions, one for each season, with vast ranks and famous deeds. (Book 12, Ch6.42E L439)
+- Lady Talia Kallinad is a [Summer Knight] of the Order of Seasons, and the Titan is told that her order arrives at Daquin harbor along with the Kallinad army and banners of a dozen other noble houses. (Book 11, Ch6.22D L1043)
+- The Order's long-time allies include a number of nations and noble houses, and over a hundred of its Knights answered House Kallinad's call for aid. (Book 12, Ch6.42E L439)
+## Structure
+- Four Seasons operate from the Order's headquarters in Terandria, near Kallinad lands, in the southeast on a coastal area famed for shipping wealth. (Book 12, Ch6.42E L463)
+- The headquarters is a fortress-keep of four quarters, one for each season, with neutral ground at the center. (Book 12, Ch6.42E L438)
+- The Order built its home in a forest where a half-Elven empire once stood, and noble houses and even royalty send aspiring [Knights] or children to join it. (Book 12, Ch6.42E L464)
+- At least two thousand Seasonal [Knights] are in the headquarters at any time, and far more are abroad fighting in armies, crusading or serving elsewhere. (Book 12, Ch6.42E L465)
+- Each Season has its own Grandmaster, and a Knight answers to her own Season's Grandmaster but may be commanded by senior members of other Seasons. (Book 12, Ch6.42E L465)
+- Knight-Commander Calirn can command even the Grandmasters in the stronghold as first among equals. (Book 12, Ch6.42E L465-466)
+- Calirn is a [Winter Knight], and the Grandmasters are Fall's Sentinel, the Summer's Champion Ser Greysten, the Spring's Warden and the Winter's Watcher. (Book 12, Ch6.44E L320-322,L326-328)
+- By protocol, the Winter's Watcher stays elsewhere when the other Grandmasters meet in the war room, so that one remains should they all fall. (Book 12, Ch6.44E L322)
+- Knights of Spring are the most plentiful and mostly new [Knights] who fight en masse in wars, and Summer Knights are the pinnacle of martial might who crusade to other continents or slay terrible monsters. (Book 12, Ch6.42E L526-527)
+- Autumn Knights are scholars or [Knights] who take to magic more than most, and the younger members joke about them as 'Fall Knights' for their weaker combat. (Book 12, Ch6.42E L450)
+## At Daquin
+- Sir Kelm, an Autumn Knight, was the highest-level and most senior [Knight] to lead the Order at Daquin. (Book 12, Ch6.42E L449-450)
+- Sir Kelm says the Order underestimated the games at Daquin and could claim a victory, though Calirn might object to the perceived failings of the Order. (Book 12, Ch6.42E L448)
+- Talia says House Kallinad paid all the costs of the Order's hundred Knights at Daquin, that Kallinad generously supports the Order, and that recordings show the Order facing the Iron Vanguard in a victory. (Book 14, ChInterlude_Talia L92,L94)
+## The hunt for Belavierr
+- Belavierr is one of the few named enemies of the Order, and the Stitch Witch has killed many of its Knights. (Book 12, Ch6.42E L500,L520)
+- The Order of Seasons and the Guild of Hunters are listed as pursuing Belavierr, who is wanted in Terandria. (Book 12, Ch6.41E L1424)
+- {event} A [Broker] tells the Order, under a truth spell, that he has credible knowledge of where the Stitch Witch is, and Calirn summons the Grandmasters. (Book 12, Ch6.42E L519,L545)
+- Calirn says a ship could not catch the Stitch Witch, and that he would not pit a lance of Knights of Spring or Summer against her. (Book 12, Ch6.42E L523-529)
+- {event} Fierre learns that the Order has raised its bounty twice, offering four hundred gold coins for someone to verify Belavierr is at the place named. (Book 12, Ch6.42E L675)
+- Fierre learns that three people who tried to inform the Order of Seasons died. (Book 12, Ch6.42E L676)
+- {event} Calirn orders the Fall's Sentinel to prepare his Season for a grand ritual spell and tells Ser Raim to return in haste, requesting the Hunter's Guild's best experts to go with him. (Book 12, Ch6.42E L559)
+- Talia sees black-clad Hunters of Noelictus with crossbows and swords racing toward the Order's keep around a single man in the colors of summer, and she meets Ser Raim. (Book 12, Ch6.42E L617-619,L621)
+- {event} The Autumn Knights call on the grand ritual, and a rift opens above Riverfarm. (Book 12, Ch6.43E L1502-1508)
+- {event} Through the rift Ryoka sees ranks of Knights in the colors of the seasons, with Calirn bellowing to Belavierr and Ser Raim and six Witch Hunters stepping into Riverfarm. (Book 12, Ch6.43E L1509-1517,L1522-1523)
+- Ser Raim declares that the Hunter's Guild of Noelictus and the Order of Seasons ordain Belavierr's death. (Book 12, Ch6.43E L1530)
+- A Witch Hunter fires crossbow bolts tipped with silver. (Book 12, Ch6.43E L1533)
+- {event} Calirn tells Ser Raim that reinforcements are coming, that he has three days to claim the Stitch Witch's head, and that the Order is about to be assailed by Kaliv. (Book 12, Ch6.44E L403)
+- {event} Calirn orders the Fall's Sentinel to send reinforcements through the ritual, and Dame Talia then leads Knights dressed in spring and summer colors in a charge at Riverfarm. (Book 12, Ch6.44E L409-410,L441-443)
+- Thirty-two of the Order line up in the stronghold to be armed with plain steel and silver. (Book 12, Ch6.44E L399)
+- Belavierr threatens the Order of Seasons with ruin if it harms her daughter, and says she has never considered the Order her foes. (Book 12, Ch6.44E L1025,L1030)
+- {event} The Order's forces are attacked by Kaliv's Griffin Queen, and the Winter's Watcher stands against the Griffins. (Book 12, Ch6.44E L1037-1041)
+## After Riverfarm
+- {state} After Belavierr survives, Calirn lowers his head and turns away. (Book 12, Ch6.44E L1096)
+- Dame Talia leads the surviving Spring and Summer Knights, most of them younger than Ryoka, after her seniors fell, and her orders are that the Order will not make the Stitch Witch an enemy. (Book 12, Ch6.45E L92-93,L101)
+- {event} Nineteen Knights, thirteen of Spring and six of Summer, ride in retreat across Izril after the Hunters were betrayed and Ser Raim died. (Book 14, ChInterlude_Talia L12-15)
+- The Knights have been ordered to avoid pursuing Belavierr and to return home. (Book 14, ChInterlude_Talia L15)
+- Ser Lorell names the fallen Dame Essa, Ser Valliad, Ser Zahil and Ser Pitres, and Dame Ingrela says she would resign her arms if the Spring's Warden demanded. (Book 14, ChInterlude_Talia L34-36)
