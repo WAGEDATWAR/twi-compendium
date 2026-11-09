@@ -1,0 +1,33 @@
+# Tkrn
+> Type: person | Also called: none | First appears: Book 1, Ch1.35
+> See also: Krshia, Erin Solstice, Zevara, Jerci, Mrsha, Watch of Liscor
+## Overview
+- Tkrn is a Gnoll [Guardsman] of Liscor's City Watch who is assigned to the city gates. (Book 1, Ch1.35 L197)
+- Tkrn carries a sword at his waist and a shield buckled to one arm, and is dangerous even without them. (Book 1, Ch1.35 L227)
+- Tkrn is a junior [Guardsman] who grew up in Liscor and like most city Gnolls is under Krshia's unofficial command. (Book 7, Ch5.06M L125; Book 9, ChInterlude_Krshia L56)
+- Tkrn calls Krshia his aunt. (Book 9, ChInterlude_Krshia L54)
+- Tkrn has the Skill [Eagle Eyes]. (Book 2, Ch2.11 L19)
+## Book 1-2
+- {event} Tkrn is among seven Gnolls who lie hidden in the grass with bows to watch Ksmvr and the Soldiers outside Liscor. (Book 1, Ch1.38 L185)
+- Tkrn is the most junior and most inexperienced of the Gnolls with Krshia, and flattens his ears in embarrassment at a mistake. (Book 1, Ch1.38 L190)
+- {event} During the undead attack on Liscor, Tkrn reports to Captain Zevara that the streets are closed off but larger creatures are out there. (Book 1, Ch1.42 L67-69)
+- Tkrn reports the Southern Gates are closed with archers shooting at climbing undead, but guards on the north walls have fled. (Book 1, Ch1.42 L72)
+- Tkrn is on duty at the gates when Erin stumbles past. (Book 2, Ch2.10 L44)
+- Tkrn says he saw from the walls with [Eagle Eyes] that Erin's inn was broken. (Book 2, Ch2.11 L19)
+- {event} Tkrn brings Erin a bouquet of smelly orange flowers as the first Gnoll suitor, saying he has heard she seeks a mate. (Book 2, ChS01_Mating_Rituals L327-337)
+- {event} Tkrn gives Erin a cheap carved wooden ring, believing it is what Humans have before they mate. (Book 2, ChS01_Mating_Rituals L347-350)
+- {belief} Erin suspects Krshia put Tkrn up to courting her. (Book 2, ChS01_Mating_Rituals L352)
+- {belief} Erin reports that Krshia said Tkrn was marking her inn so other Gnolls knew he was courting her. (Book 2, ChS01_Mating_Rituals L452)
+- {event} Tkrn herds a distressed girl out of the gates, and his face is blank and impassive. (Book 2, Ch2.20 L93)
+- Zevara, Captain of the Watch, watches Tkrn move the girl farther from the gates. (Book 2, Ch2.20 L127)
+## Later (Books 7-14)
+- {event} Tkrn comes to tip Krshia off about an auction of fresh meat from cows put down after injury. (Book 7, Ch5.06M L125-127)
+- {event} Caught napping on duty, Tkrn tells Krshia the door in Erin's inn was stolen and recovered. (Book 9, ChInterlude_Krshia L53,L61-64)
+- Tkrn says the thieves broke the connection to Pallass, and Olesm told Zevara a mana stone was broken. (Book 9, ChInterlude_Krshia L64-67)
+- Tkrn says Pallass cannot send reinforcements directly without the mana stone and would have to march an army north. (Book 9, ChInterlude_Krshia L69)
+- {state} After Liscor's election Tkrn is in disgrace for being party to the torture and attempted murder of Calruz, though he tried to halt it. (Book 14, Ch6.61L L505-506)
+- Tkrn is the only [Guard] involved who is not fired. (Book 14, Ch6.61L L506-507)
+- Tkrn tried to stop the torture and execution and protected Mrsha, which is the only reason he still has a job according to Zevara. (Book 14, Ch6.61L L507)
+- {state} Krshia appealed his case, and Tkrn's pay is almost nothing for a month, demoted to the lowest-level [Guardsman] on his last chance. (Book 14, Ch6.61L L508)
+- Tkrn tells the rookie Jerci that the special protocols for the inn are a joke played on rookies. (Book 14, Ch6.61L L725-728)
+- Tkrn says no one goes to the inn with trouble without a full squad, and usually Relc is sent in. (Book 14, Ch6.61L L728)
