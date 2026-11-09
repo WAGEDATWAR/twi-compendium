@@ -1,13 +1,48 @@
 # Wesle Salkis
-> Type: person | Also called: Mister Salkis; Wesle Salkie; Fuzzylips | First appears: Book 7, Ch5.04
-> See also: Players of Celum, Jasi, Erin Solstice
+> Type: person | Also called: Wesle; Mister Salkis; Wesle Salkie; Fuzzylips | First appears: Book 2, Ch2.37
+> See also: Players of Celum, Jasi, Grev, Erin Solstice
 ## Overview
 - Wesle Salkis was a competent, slightly resigned low-level [Guardsman] in Celum before becoming a confident [Actor] who leads the troupe of Celum's actors with his co-star Jasi. (Book 7, Ch5.04 L84)
 - Erin learns that Wesle's last name is Salkis, and everyone seems too shy to call him by his first name. (Book 7, Ch5.04 L161)
 - Wesle signs people's arms with a sticky, oil-based marker like charcoal that an [Alchemist] in the city made for the troupe. (Book 7, Ch5.04 L97,L116-117)
 - He tells Erin that the Players of Celum, as they call themselves for now, owe her a huge debt and have taken on many new [Actors] and a warehouse to practise in. (Book 7, Ch5.04 L121)
+## Celum Guardsman
+- {fact} Erin nicknames a Celum gate [Guardsman] "Fuzzylips", and his real name is Wesle. (Book 2, Ch2.37 L320,L327)
+- He leads Erin through Celum's streets to Stitchworks, an [Alchemist]'s shop, after the earlier ambush. (Book 2, Ch2.37 L320-323)
+- Wesle is terrified of bugs, and he says merchants rarely travel far south because dealing with non-humans is unprofitable. (Book 2, Ch2.37 L325-326)
+- Wesle dates the loss of trade with the south to before the Second Antinium War, which he links to the Necromancer. (Book 2, Ch2.37 L326)
+- Wesle has a deep hatred of the Antinium, shared by most Humans. (Book 2, Ch2.37 L327)
+- Agnes says Erin visits Wesle practically every day. (Book 3, Ch3.15 L256-257)
+- Wesle says every city's [Guardsmen] have been working around the clock since Esthelm, trying to learn when and where the Goblins will attack. (Book 3, Ch3.15 L279-281)
+- A large map pinned to the City Watch barracks wall is dotted with colored pins centered on a red cross over Esthelm. (Book 3, Ch3.15 L282)
+- {belief} Wesle says he wanted to be an adventurer but is not a born fighter and is not brave enough to go searching for evil. (Book 3, Ch3.16 L250-252)
+- He says he would have liked to be a [Knight] who fought monsters and wielded a flaming sword, or one that cuts through steel. (Book 3, Ch3.16 L254)
+- Wesle and Jasi both insist that Celum is a good city, and Wesle looks upset when Erin doubts it. (Book 3, Ch3.16 L275-278)
+## The first plays
+- {event} Wesle plays Romeo opposite Jasi's Juliet in Erin's staged Romeo and Juliet, and their stage kiss looks close to genuine. (Book 3, Ch3.16 L463-471)
+- Erin thinks that, in the roles, Wesle the low-level [Guardsman] and Jasi the [Washer] become something larger than themselves. (Book 3, Ch3.16 L474)
+- {fact} Wesle and Jasi are the [Actors] with the highest levels, and they already have a handful of Skills. (Book 3, Ch3.24 L223)
+- A [Guardsman] with a fuzzy mustache plays Hamlet at the Frenzied Hare each night and is nearly dead on his feet afterward. (Book 3, Ch3.24 L218,L223)
+- Other troupes imitate Romeo and Juliet and perform it in other cities, while Wesle's troupe stays at the Frenzied Hare. (Book 3, Ch3.24 L221-222)
+- Wesle and Jasi are the stars of the troupe, many of whose other members are from the Watch. (Book 3, Ch3.25 L96-97)
+- Wesle strokes his non-existent mustache when excited. (Book 3, Ch3.25 L96)
+- {state} Wesle quits his job as a [Guardsman], saying he earns far more as an actor and likes it better. (Book 4, Ch3.30 L190,L193)
+- He wants to form a troupe that goes from city to city to perform. (Book 4, Ch3.30 L193)
+- {event} Wesle says the troupe's fame began about a month earlier, with requests to perform in other cities for the [Mayor]. (Book 7, Ch5.04 L109)
+- He says it all started with a [Washer] and a [Guardsman] in an inn, and says the story could be a play. (Book 7, Ch5.04 L131)
+- {event} For The Battle of Liscor, Wesle plays the Drake Wall Lord Ilvriss, who roars at the audience and the moths. (Book 7, Ch5.14 L111)
+- In the same play, Jasi plays Watch Captain Zevara, and Humans wear fake tails and painted scales to play Drakes. (Book 7, Ch5.14 L66-69)
+- Wesle has acquired an actor's mask. (Book 7, Ch5.14 L50)
+- {event} Wesle returns to Erin's inn, hears of the battle against the Raskghar, and the Players decide to make it into a play. (Book 9, Ch5.46 L343-350)
 ## Later
 - Wesle is the lead [Actor] of the Players of Celum and one of the two original performers. (Book 14, Ch6.63P L25)
 - Erin nicknamed him 'Fuzzylips' for the thin mustache he has since shaved off. (Book 14, Ch6.63P L59)
 - {state} He is a Level 26 [Method Actor], and he is a former [Watch Captain] of Celum. (Book 14, Ch6.63P L134,L535)
 - {state} Later, Wesle has passed Level 30, and his class is now [Famed Method Actor], a rare class; his Skill [Everyday Prop] lets him produce any everyday prop that vanishes after use. (Book 19, Ch7.50 L632-641)
+- {fact} Wesle has the Skill [Method Acting], which lets him copy a person's talent at a level a number of levels below his own. (Book 14, Ch6.63P L123,L137,L439)
+- He copies ten levels below himself for a familiar activity and fifteen or twenty levels below for magic. (Book 14, Ch6.63P L137)
+- He shadows high-level [Servers] to copy their talent for serving. (Book 14, Ch6.63P L123,L137)
+- Wesle flicks his fingers and shoots about eight stinging sparks across a table, but gains no new spells. (Book 14, Ch6.63P L141-145)
+- He cannot copy a very high-level person unless he stays in character, and he says he can copy a Level 16 [Bladesman]. (Book 14, Ch6.63P L145-148)
+- Wesle still wears the sword from his days in Celum's City Watch. (Book 14, Ch6.63P L146)
+- {event} Wesle is among the Players of Celum who come to The Wandering Inn when riots cancel the evening's play. (Book 18, Ch7.31 L39,L93)
