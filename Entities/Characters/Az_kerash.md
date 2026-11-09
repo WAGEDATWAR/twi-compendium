@@ -30,6 +30,9 @@
 - Az'kerash calls Zelkyr his friend and says neither of them ever finished the secret of creating life. (Book 13, Ch6.51A L625)
 - Az'kerash says Zelkyr made creations to love him and later forsook love for something greater than Truestone. (Book 16, ChMating_Rituals_Pt.2 L426-435)
 - Az'kerash says he loved a woman like no other, and she died about a century ago. (Book 16, ChMating_Rituals_Pt.2 L445-448)
+- {fact} Ceria says the Necromancer attacked the continent with his legions ten years before, and that even in Wistram she heard of the devastation he wrought. (Book 1, Ch1.06R L45)
+- {fact} Gerial says no one found the Necromancer's body, so he is probably still around, though he has not been seen since. (Book 1, Ch1.06R L50)
+
 ## First meeting with Ryoka (Book 2)
 - {event} Az'kerash tells Venitra to observe armies near his castle, mark where the dead fall, and kill any who enter. (Book 2, Ch2.24 L24)
 - Az'kerash is creating something no species has ever dreamt of overhead in his chamber while Venitra attends him. (Book 2, Ch2.24 L4-5)
