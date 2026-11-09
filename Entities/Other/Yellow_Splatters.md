@@ -1,0 +1,41 @@
+# Yellow Splatters
+> Type: person | Also called: Sergeant Yellow Splatters; the Painted Sergeant | First appears: Book 5, Ch4.29
+> See also: Pawn, Purple Smile, Painted Antinium, Numbtongue, Free Antinium
+## Overview
+- Yellow Splatters is a Painted Antinium Soldier and [Sergeant] who commands about forty Soldiers. (Book 6, Ch4.40L L25,L31)
+- Pawn introduces Yellow Splatters to Erin as a Soldier who is apparently more important than the others, but Pawn refuses to say why and calls it a secret for now. (Book 5, Ch4.29 L80)
+- He is a Level 12 [Sergeant] with the Skills [Tough Carapace] and [Power Strike]. (Book 6, Ch4.40L L25-27,L89)
+- He is an inch or two taller than other Soldiers, with a slightly larger body. (Book 6, Ch4.40L L62)
+## Pride and conflict (Book 6)
+- {belief} Yellow Splatters holds that eating aboveground and seeing the sky are pointless compared with fighting to save lives. (Book 6, Ch4.40L L150,L158)
+- {event} He deliberately overturns his bowl of food in Erin's inn, and every Soldier except Purple Smile pushes back their bowl and follows him out. (Book 6, Ch4.40L L148-155)
+- {event} When Pawn orders him to stop sparring in the barracks, Yellow Splatters pushes Pawn aside, and the Soldiers turn their backs on Pawn to follow their [Sergeant]. (Book 6, Ch4.40L L172-176)
+- {belief} Yellow Splatters decides that Purple Smile is unfit to be a [Sergeant], and he grows furious when Purple Smile hands a bowl of food to a Worker. (Book 6, Ch4.41L L52,L158,L207-208)
+- {event} He flips the table and attacks Purple Smile, relying on being bigger and stronger and having [Tough Carapace], but Purple Smile dodges and deflects his blows. (Book 6, Ch4.41L L209-214)
+- {state} Yellow Splatters realises he was wrong, that the Antinium needed to stare at the sky more than they needed more training, and he reads a wordless picture book about a Drake child with a magic sword. (Book 6, Ch4.42L L190-199)
+- Pawn tells the two Soldiers that fewer Painted Soldiers will be needed for fighting and relieves them of duty; Yellow Splatters thinks of how foolish he has been. (Book 6, Ch4.42L L240-241)
+- Pawn admits that some of the fault was his and Purple Smile's for not telling Yellow Splatters what they were doing. (Book 6, Ch4.42L L243)
+- {state} Yellow Splatters understands that he is one of many, with a team and a family, and not a lone leader. (Book 6, Ch4.42L L264-266)
+## Painted Sergeant
+- {rel} Pawn names Purple Smile and Yellow Splatters, both [Sergeants], to oversee the chess games and the training and emergencies while he consults Erin. (Book 8, Ch5.25L L25-27,L193)
+- Klbkch tells the Free Queen that there may now be seven Individuals, with Yellow Splatters and Purple Smile the two Soldiers who show great promise. (Book 8, Ch5.33B L303-304)
+- Bird sees Yellow Splatters reading a book while Purple Smile does something like dancing. (Book 8, Ch5.33B L420)
+## Death and return
+- {event} Yellow Splatters refuses at first to fight for Erin against the Goblin Lord, then chooses one hundred of the Painted Soldiers, the oldest, none more than three years old, who follow him out of the Hive in disobedience of their Queen's orders. (Book 9, Ch5.62 L346,L360-366)
+- {state} Yellow Splatters returns in a taller, larger body with a permanent yellow carapace and a deep, commanding voice, built by a despairing Queen, and announces that he perished in battle against the Goblin Lord with his hundred Soldiers and was brought back to life. (Book 11, Ch6.29 L1013-1020,L1025)
+- {state} The Painted Soldiers, three hundred strong, follow him out of Liscor's gate to clear Shield Spider nests, and he pulls off the leg of a matriarch spider as large as two wagons to use as a club. (Book 11, Ch6.30 L68-72,L86-90)
+- He speaks fluently with a deep, commanding voice, and two of his four arms end in five-fingered Worker-style hands that he uses with a spoon. (Book 11, Ch6.30 L173-176,L216-217)
+- {state} Yellow Splatters tells Numbtongue that he was brought back by his Queen's will and that of the other Soldiers through the Rite of Anastases, an Antinium secret. (Book 12, ChInterlude_Numbtongue_Pt.1 L617-631)
+- {event} Numbtongue tells Yellow Splatters that being the last one is hard, and the Hobgoblin then helps him clear Shield Spiders. (Book 12, ChInterlude_Numbtongue_Pt.1 L673-684)
+## Later
+- Yellow Splatters tells Numbtongue that he and his Soldiers can eat wheat although it is uncomfortable. (Book 12, ChInterlude_Numbtongue_Pt.2 L20)
+- Yellow Splatters says that he and Numbtongue are not friends, since the concept is foreign to Antinium and he has not studied it under Revalantor Klbkch. (Book 12, ChInterlude_Numbtongue_Pt.2 L114-122)
+- He stays at the inn and lets the forty-nine other Soldiers there rotate in so that all may enjoy the experience. (Book 12, ChInterlude_Numbtongue_Pt.2 L148-152)
+- {state} He says he is stronger than before his death thanks to the Free Queen, having lost all but six levels in dying and regained five, and he intends to reach Level 20 within the month. (Book 12, ChInterlude_Numbtongue_Pt.2 L335)
+- Yellow Splatters says he must be the strongest and make the Soldiers stronger with kindness, because he failed once before. (Book 12, ChInterlude_Numbtongue_Pt.2 L338)
+- {belief} Asked by Numbtongue whether he is really the Prognugator of the Hive, Yellow Splatters calls it a convenient fact and answers "Perhaps" when it is called a lie. (Book 12, ChInterlude_Numbtongue_Pt.2 L816-821)
+- Dekass, a Prognugator, regards the strange [Sergeant] as inferior despite his voice, and notes that Yellow Splatters insisted other Workers and Soldiers be served first. (Book 15, ChStory_2_Tersk_and_Dekass L13,L23)
+- {belief} Yellow Splatters tells Bird that heaven exists and that all Antinium who perish should believe in it. (Book 16, ChInterlude_Lifting_Ants L690-691)
+- {state} Yellow Splatters applies to Zevara to replace Klbkch on the Watch, describing himself as a Prognugator of the Free Antinium and a Soldier, and Zevara considers him on a provisional basis. (Book 17, ChInterlude_The_Gecko_of_Illusions L992-1005)
+- Yellow Splatters guards Erin and says he has checked every twenty minutes with Purple Smiles and Belgrade, who are deployed in Liscor. (Book 19, Ch7.52 L52-54)
+- About forty Painted Antinium are in the inn and two squads are in the Garden. (Book 19, Ch7.52 L58)

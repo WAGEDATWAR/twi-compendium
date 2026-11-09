@@ -1,0 +1,48 @@
+# Foliana
+> Type: person | Also called: Three-Color Stalker; Commander Foliana; Lady Foliana; Lady Stalker | First appears: Book 5, Ch4.25N
+> See also: Niers Astoragon, Forgotten Wing Company, Perorn Sadiluc, Peclir Im
+## Overview
+- Foliana is a Squirrel Tribe Beastkin known by the title Three-Color Stalker, the leader of the Forgotten Wing Company, Niers's boss and oldest friend. (Book 5, Ch4.25N L27)
+- Foliana is the world-famous assassin Three-Color Stalker and head of the Forgotten Wing Company, one of the Four Great Companies of Baleros. (Book 8, ChInterlude_Niers L6)
+- Three-Color Stalker is a [Rogue] of the highest order, a legend few have ever seen, whose talents make most [Assassins] envious. (Book 5, Ch4.25N L85)
+- Magnolia Reinhart calls Three-Color Stalker one of the most deadly [Rogues] in existence, better at slaying enemy [Commanders] than most conventional [Assassins]. (Book 6, Ch4.44M L93,L96)
+- Foliana is a [Rogue] who hides, steals things and has no sense of personal privacy, and she is in charge of the company without managing it, which is Niers's job. (Book 14, ChInterlude_Foliana L83-86)
+## Appearance and abilities
+- Her pupils are three colours, bright red-pink, deep yellow and clear green, set in a single iris, and the rest of her is so unremarkable that she fades into her chair. (Book 5, Ch4.25N L35-36)
+- Foliana can turn invisible if she chooses, and Niers explains that this is a Skill mixed with her own talent, not magic, so a [Mage]'s warning devices do not catch it. (Book 8, ChInterlude_Niers L8; Book 5, Ch4.25N L199)
+- Later her fur is greying, with dark stripes of colour down her sides. (Book 14, ChInterlude_Foliana L21)
+- She is exceptionally high-level and can vanish at will, and the staff assigned to wait on her and Niers are screened for phobias and heart defects because three earlier staff members died of heart attacks. (Book 14, ChInterlude_Foliana L36-37)
+- Foliana steals compulsively: she took Peclir's seal and Niers's comb, and she takes students' inkpots, lunches and grapes. (Book 14, ChInterlude_Foliana L42,L82,L250-252)
+## Eating habits
+- Foliana eats muffins, tea bags and candle wax. (Book 5, Ch4.25N L27; Book 6, ChS02_The_Antinium_Wars_Pt.4 L81,L103)
+- She eats Damcli Noodles, a Dullahan favourite that resembles spaghetti with meatballs, and has a third bowl of it. (Book 8, ChInterlude_Niers L12-14,L68)
+- She dislikes oysters but eats them for days when they are a target's favourite food. (Book 10, Ch6.07D L503-505,L509-511)
+- When Three-Color Stalker eats a target's favourite food, it is understood that she is aiming for that person; Niers says she does it to show off and warn her target. (Book 10, Ch6.07D L511,L514)
+- {belief} It is rumoured that she has killed thousands and eats her victim's favourite food first. (Book 13, ChInterlude_The_Titans_Question L124)
+- When she eats the same kind of food for days on end she is marking her prey, and the pattern can run from a single meal to weeks or months. (Book 14, ChInterlude_Foliana L103-104)
+- A blackberry jam biscuit prepares her for a contract. (Book 14, ChInterlude_Foliana L116-118)
+- Foliana snacks on walnuts dipped in honey while watching a broadcast, which is a favourite snack and not a contract. (Book 16, Ch7.11 L8)
+## With Niers
+- Magnolia Reinhart sends Foliana letters every month, and she receives a letter and a muffin with blueberries, which she eats despite Niers's fear of poison. (Book 6, Ch4.47 L338,L345-353)
+- Foliana refused to take the Forgotten Wing Company across the sea to Izril against the Goblin King because she dislikes water, and she reasoned she would die before she scratched him. (Book 6, ChS02_The_Antinium_Wars_Pt.4 L104-111)
+- She bargained companies into crossing the sea to Izril with an offer of a muffin made of gold, plus a few baskets. (Book 6, ChS02_The_Antinium_Wars_Pt.4 L114-118)
+- It is Niers's and Foliana's custom to take a very hot bath after a campaign, naked, as water hot enough to scald kills leeches and parasites. (Book 8, ChInterlude_Niers L17-19)
+- Foliana reads Niers's secret note, finds it obvious and good, and runs off invisible with it to show his students. (Book 8, ChInterlude_Niers L210-226)
+- {belief} Foliana tells Niers he is lonely and afraid to meet someone like himself in case he is disappointed. (Book 8, ChInterlude_Niers L110-119)
+- Niers says Foliana is a better leader than he is in a way, that no one can predict how the company will jump with her at its head, and that they have known each other for over fifty years. (Book 13, ChInterlude_The_Titans_Question L520,L523)
+- {rel} Asked by Niers whether she wants children or another life, Foliana answers that she does not, because the citadel, the city and the company are all hers. (Book 14, ChInterlude_Foliana L722-725)
+- Foliana says squirrels are born deaf and blind and that she would be a poor mother. (Book 14, ChInterlude_Foliana L426)
+- Foliana keeps multiple rooms of her own, including one with magically grown grass and trees that Archmage Nailihuaile was paid to enlarge, where she lies in a hammock. (Book 16, ChInterlude_Chess_and_Ships L105-108)
+- Foliana sips from Niers' tea cup and says she is on holiday while he works. (Book 17, ChInterlude_Strategists_at_Sea_Pt._1 L56,L78)
+## Public history and events
+- {event} Speaking to a crowd, Foliana recounts that the Gambler of Fates, Queravia, landed at Zaland, killed Grandmarshal Sorolat and defeated Three-Color Stalker, and that a Fraerling, the Forgotten Wing's second-in-command, brought the companies together to break her; one survived. (Book 5, Ch4.25N L475-486)
+- {event} Foliana adds that an army from Rhir broke the Lord of the Skies and his tribes and that a Minotaur fleet humbled the King of Destruction's forces at sea. (Book 5, Ch4.25N L488)
+- Niers describes himself as a former Named Adventurer and second-in-command of one of the Great Companies of Baleros. (Book 5, Ch4.25N L453)
+- Ken says the Forgotten Wing Company is considered fragile because people think it would fall apart if the Titan and Three-Color Stalker died. (Book 10, Ch6.06D L630-637)
+- {event} In Wil Kallinad's scene, Foliana erases his memory of Niers' answer with an [Erase Memory] scroll, eats the paper he wrote on, and hands him a letter that explains. (Book 13, ChInterlude_The_Titans_Question L955-956,L965-966)
+- {event} Foliana hires a room for seven students at a brothel, the Scaleless Sight, and she and her two companions throw buckets of cold water on guests. (Book 14, ChInterlude_Foliana L556,L675-676)
+- Foliana says peace in her city and company is hers. (Book 14, ChInterlude_Foliana L660-662)
+- {event} At the brothel, a Naga from the Assassin's Guild in Izril, posing as an employee, intends to plant a gauntlet with five glowing orbs; Foliana kills her. (Book 14, ChInterlude_Foliana L685,L687,L694-695)
+- {event} Foliana hides the Naga's corpse in her bag of holding, pours a potion over the blood, and sends a [Message] to Peclir Im about the Dullahan. (Book 14, ChInterlude_Foliana L697-700)
+- {event} Foliana watches the world's broadcast in front of a scrying mirror while Niers goes back to his chess game. (Book 16, Ch7.11 L6-8)
+- {event} Foliana and Niers wait four days on flying carpets over the battlefield, then drop alchemical weapons that break the Dullahan lines before the Bannermare charges at Tulm the Mithril. (Book 19, Ch7.44 L75-81)
