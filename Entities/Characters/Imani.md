@@ -1,0 +1,42 @@
+# Imani
+> Type: person | Also called: Miss Imani | First appears: Book 2, Ch2.30
+> See also: Rose, Joseph, Kevin, Palt, Erin Solstice, Mrsha, Crelers
+## Overview
+- Imani is a young woman from Nigeria who comes to this world from Earth and later works as a [Cook] at The Wandering Inn. (Book 19, Ch7.53 L52,L55)
+- Imani arrived with a different group of people from the airport than Joseph and the others she later travels with. (Book 2, Ch2.30 L246)
+## Arrival and trauma
+- Imani ran into monsters when she and the others appeared, and Joseph says she was the only one who got away. (Book 2, Ch2.30 L250)
+- Joseph says Imani stayed in a small village until Lady Magnolia found her. (Book 2, Ch2.30 L250)
+- Imani says the monsters were Crelers. (Book 2, Ch2.30 L253)
+- Imani tells Erin that they all died, then cries, and Erin holds her. (Book 2, Ch2.30 L264-266)
+- Imani says her group appeared right next to Tunnel Crawlers, ran, and made a call for help that no one answered. (Book 14, Ch6.68 L750)
+- Imani says the big rocks stopped the Crelers climbing, but she was the only one that made it. (Book 14, Ch6.68 L753)
+## Travelling with the Earthers
+- Imani is standing with Joseph and the other Earthers when they run out of coin in Invrisil. (Book 17, Ch7.20 L1132)
+- Joseph sells his sword to rent an inn, while Rose accuses Ryoka of taking their electronics. (Book 17, Ch7.20 L1138,L1159)
+- Imani's stomach rumbles when Maviola El offers the group a meal. (Book 17, Ch7.20 L1193)
+- Imani and the others follow Maviola after a short huddle. (Book 17, Ch7.20 L1195-1200)
+- Imani breaks into screaming hysterics at the inn, crying that she wants to go home, and Joseph shouts at her to stop. (Book 17, Ch7.23LM L1049-1052)
+- Rose explains that Imani was attacked by Crelers, that her group was killed, and that she still has nightmares. (Book 17, Ch7.23LM L1055)
+- The Earthers have run out of the calming tonic Imani needs. (Book 17, Ch7.23LM L1055-1056)
+- Erin mouths the word eaten to Lyonette, indicating the Crelers ate Imani's group. (Book 17, Ch7.23LM L1058-1059)
+- Mrsha takes Imani's hand and leads her into the [Garden of Sanctuary], where she feels safe. (Book 17, Ch7.23LM L1096-1105)
+- The seven Earthers have been at the inn for roughly a week, but Imani is not among those in the kitchen that morning. (Book 17, Ch7.26 L77,L96)
+## At The Wandering Inn
+- Imani makes fufu, and Palt the Centaur secretly casts [Remove Fear] on her. (Book 18, Ch7.30 L574,L600)
+- Imani practically rules the kitchen when Erin is not using it, and has learned to deal with Mrsha by offering treats. (Book 18, Ch7.38 L335)
+- Imani is one of the inn's two resident [Cooks], with Palt, and is less nervous than usual. (Book 18, Ch7.39A L11)
+- Imani withholds Dekass's fries until he tries her new croissant. (Book 18, Ch7.39A L28-34)
+- Erin is told Imani can be surprisingly stubborn and has been feeling better of late. (Book 18, Ch7.39A L37)
+- Imani makes bessara, a spiced bean dip, which she says is good for cold weather. (Book 19, Ch7.49 L85-86)
+- Imani and Palt have taken over the kitchens from Erin. (Book 19, Ch7.49 L85)
+- Imani finds Erin's Shadow Loaf sucking the light out of the kitchen and not going stale on the windowsill. (Book 19, Ch7.51 L245-251)
+- Erin hides the Shadow Loaf in the [Garden of Sanctuary], and Imani notices. (Book 19, Ch7.51 L257-258)
+- Imani has the Skill [Minor Accident Prevention], which she got at Level 10. (Book 19, Ch7.53 L53,L57)
+- [Minor Accident Prevention] stops bits of eggshell in food, spilled drinks and a dropped pan. (Book 19, Ch7.53 L53-57)
+- Imani drinks Dreamleaf water of lemon, Dreamleaf and sugar from Palt to calm herself. (Book 19, Ch7.53 L42-48)
+- Palt has also given Imani sleeping draughts for her trauma from the Creler attacks. (Book 19, Ch7.53 L50)
+- Imani orders avocados and other vegetables from Earth via Oteslia and the Pallass bazaar. (Book 19, Ch7.53 L76-77)
+- Imani cooks mandazi with coconut milk, and a breakfast dish of rice, beans, eggs and avocado spread. (Book 19, Ch7.53 L314-315)
+- {reveal} Erin tells Fals that Imani survived a bad Creler attack, not the one at the inn, with friends. (Book 19, Ch7.54 L870)
+- Imani takes potions that stop her dreaming altogether to stop the nightmares. (Book 19, Ch7.54 L873)
