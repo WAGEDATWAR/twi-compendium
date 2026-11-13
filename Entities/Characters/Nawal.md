@@ -1,0 +1,43 @@
+# Nawal
+> Type: person | Also called: Nawalishifra Tannousin; Nawal of the Tannousin clan | First appears: Book 7, ChInterlude_Flos
+> See also: Flos, Trey Atwood, Teres Atwood, Orthenon, Allaif, Silmak, Bezha, Hesseif, Daiton, Naq-Alrama steel
+## Overview
+- Nawalishifra Tannousin, called Nawal, is a [Blacksmith] of Clan Tannousin and wears a veil. (Book 7, ChInterlude_Flos L309-312; Book 15, Ch7.10K L238)
+- Nawal is the only [Blacksmith] in her clan worthy of the class, in a clan where few women swing a hammer. (Book 7, ChInterlude_Flos L312)
+- Nawal is the only one of her father's students who learned enough to shape Naq-Alrama steel. (Book 7, ChInterlude_Flos L361)
+- {belief} Nawal's people hold that women are impure and that metal develops defects if a woman shapes it. (Book 7, ChInterlude_Flos L364-365)
+- Nawal's father forbade her from shaping blades and claimed to have made each blade himself with her help. (Book 7, ChInterlude_Flos L365-366)
+- Nawal's father died the year before from a failing heart, after forging fewer than ten blades a year for the clan. (Book 7, ChInterlude_Flos L359)
+- Nawal's brother Allaif makes extravagant promises and flatters buyers, and he lands the clan in trouble. (Book 7, ChInterlude_Flos L341; Book 10, Ch6.13K L535)
+- Nawal is prickly, and her sharp tongue irritates Teres Atwood. (Book 15, Ch7.10K L242-244)
+## The oath to Flos
+- Nawal sells Naq-Alrama ingots at the bazaar and snaps at a buyer for not understanding that the steel is magical and enchantable. (Book 7, ChInterlude_Flos L309-310)
+- {event} Nawal swears to forge Flos's master a blade sharper than any he has seen, with her brother Allaif's body at her feet. (Book 7, ChInterlude_Flos L441-442)
+- Nawal swore the oath about three weeks before her arrival, and Flos sent a bag of holding full of gold by Courier to her clan. (Book 10, Ch6.13K L18-19)
+- Nawal's clan debated the offer for three days before deciding she must go to Reim, woman or not. (Book 10, Ch6.13K L19)
+- Nawal arrives at Reim's palace with a caravan of Tannousin warriors and clanswomen and clansmen after weeks of travel. (Book 10, Ch6.12K L737)
+- Nawal is the only clan member skilled enough to work Naq-Alrama metal flawlessly, and her tribe would suffer Flos's wrath if she fails. (Book 10, Ch6.12K L748)
+- Nawal tells Trey Atwood that the clan has come to forge the King of Destruction a blade unlike any he has seen. (Book 10, Ch6.12K L763)
+- {belief} Nawal expected Flos's palace to be vast, with silk beds and long carpets, and is disappointed by its plainness. (Book 10, Ch6.13K L383-389)
+- Gazi tells Nawal that she sees ruin after two decades of despair and asks her to hold her judgment until she has seen Flos. (Book 10, Ch6.13K L413)
+- Nawal says she will forge Flos blades of Tannousin steel that can cut through any spell, and vows not to disgrace her tribe. (Book 10, Ch6.13K L103-105)
+- This is the first blade of Naq-Alrama steel Nawal forges unaided, and she is young and low-level for the work. (Book 10, Ch6.13K L101)
+## The forge against Daiton
+- Nawal insults Master Daiton's work and spits on the idea that he is a master smith worthy of Flos's forges. (Book 10, Ch6.13K L530)
+- Nawal says she can forge a better blade than Daiton within a day, and that Daiton challenged her to prove it. (Book 10, Ch6.13K L538)
+- Silmak draws a circle around the anvil, and inside it there is no air, as Daiton and Trey discover. (Book 10, Ch6.13K L610-615)
+- Nawal hammers the metal inside the circle for exactly forty-four seconds, then steps out to breathe before returning. (Book 10, Ch6.13K L650,L661)
+- Nawal quenches the sword once in oil and says it is done. (Book 10, Ch6.13K L918-919)
+- Ulyse's four [Mages] enchant Nawal's sword with Strength, and Ulyse judges the blade pure enough to hold an enchantment. (Book 10, Ch6.13K L946-955)
+- Orthenon says Flos has heard of the bet and wants to see both swords. (Book 10, Ch6.13K L962-965)
+- Silmak tells Flos the Tannousin could never supply an army, since they forge a single masterpiece blade slowly. (Book 10, Ch6.14K L170)
+## Later
+- Nawal travels with Flos's march north and sketches a weapon for him, complaining of the light. (Book 15, Ch7.10K L244-245)
+- Nawal warns that Naq-Alrama steel shatters when it breaks, so an ill-designed blade could shatter under Flos's strength. (Book 15, Ch7.10K L309)
+- Nawal is Clan Tannousin's best [Smith] yet is younger than her elders, who often ignore her or give orders as advice. (Book 19, Ch7.46K L214-215)
+- Nawal tells Lord Venith and Lady Maresar that Naq-Alrama steel is worked only by blue moon and noon sun, and that work proceeds slowly. (Book 19, Ch7.46K L217)
+- Her aunt Bezhavil, Silmak and Hesseif stand behind Nawal and let her lie. (Book 19, Ch7.46K L216)
+- Bezhavil proposes blaming Nawal's youth and inexperience as a female smith for the delay. (Book 19, Ch7.46K L236)
+- {reveal} The first hammer blow shatters an ingot like glass because a seam of air runs through the metal. (Book 19, Ch7.46K L250-254)
+- Nawal smashes the other flawed ingots in despair and says her father's pride has killed them. (Book 19, Ch7.46K L258-262)
+- {belief} Nawal suspects her late father forged the flawed ingots and left them to be sold as metal, not a finished blade. (Book 19, Ch7.46K L259-261)

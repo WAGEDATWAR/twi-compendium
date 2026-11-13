@@ -1,0 +1,37 @@
+# Wrymvr the Deathless
+> Type: person | Also called: Wrymvr; Wrymvr of the Centenium; Prognugator Wrymvr; the Deathless | First appears: Book 6, ChS02_The_Antinium_Wars_Pt.3
+> See also: Klbkch, Xrn, Twisted Queen, Anand, Antinium
+## Overview
+- Wrymvr is a Prognugator of the Antinium Hives and a member of the Centenium, known to other races as Wrymvr the Deathless. (Book 6, ChS02_The_Antinium_Wars_Pt.3 L131,L158; Book 17, ChInterlude_A_Night_in_the_Inn L23)
+- Xrn calls Wrymvr different from herself and Klbkch, since each of the three was created for a different role. (Book 6, ChS02_The_Antinium_Wars_Pt.3 L133)
+- Wrymvr was created to defend the Grand Queen and to be undefeatable. (Book 6, ChS02_The_Antinium_Wars_Pt.3 L133)
+- Xrn calls Wrymvr a fool but says he is strong, and treats the history's praise of his strength as accurate. (Book 6, ChS02_The_Antinium_Wars_Pt.3 L136)
+## The Second Antinium War
+- In the Second Antinium War the Grand Queen released Wrymvr from his role as protector, and he was unleashed against the Drakes. (Book 6, ChS02_The_Antinium_Wars_Pt.3 L136)
+- Wrymvr led an Antinium army against an army from Pallass in the war's second battle, which overran the Drake formations in minutes. (Book 6, ChS02_The_Antinium_Wars_Pt.3 L148)
+- Wrymvr rampaged unchecked behind Drake lines and actively hunted Drake commanders during battle. (Book 6, ChS02_The_Antinium_Wars_Pt.3 L158)
+- Multiple armies tried and failed to slay Wrymvr, which earned him the title of Deathless. (Book 6, ChS02_The_Antinium_Wars_Pt.3 L158)
+- Wrymvr arrived with the Flying Antinium in the battle where Klbkch tried to save a Queen, and Xrn says his arrival saved the Queen. (Book 6, ChS02_The_Antinium_Wars_Pt.3 L111-114,L123)
+- In that battle the other Flying Antinium glided down like grasshoppers, but only Wrymvr truly flew, screeching wordlessly. (Book 6, ChS02_The_Antinium_Wars_Pt.3 L114)
+- After Tallis the Stormbreaker's victories, the Grand Queen ordered Klbkch, Wrymvr and Xrn to break the Goblin King's might at any cost. (Book 6, ChS02_The_Antinium_Wars_Pt.4 L55)
+- Wrymvr slew a Goblin Lord in personal combat, further damaging the Goblin King's leadership. (Book 6, ChS02_The_Antinium_Wars_Pt.5 L108)
+## Later appearances
+- At the Antinium council of Queens, the Twisted Queen says Wrymvr will slay Magnolia Reinhart if she can wage war with her Skills. (Book 17, ChInterlude_A_Night_in_the_Inn L18-19)
+- The Twisted Queen tells Klbkch that Wrymvr wishes to speak with him and asks him to visit the Twisted Antinium. (Book 17, ChInterlude_A_Night_in_the_Inn L21)
+- Wrymvr is one of the oldest Centenium, made before Xrn, who was among the last. (Book 18, Ch7.39A L1160)
+- Wrymvr's base form is an Elder Creler, modelled on one of the Antinium's greatest foes from a dark place. (Book 18, Ch7.39A L1161-1164)
+- Wrymvr's body has changed greatly since Klbkch last saw him, which is his power. (Book 18, Ch7.39A L1159,L1172)
+- Wrymvr drops from where he was watching, and the Twisted Antinium flee his presence. (Book 18, Ch7.39A L1156)
+- Anand takes Wrymvr for an Elder Creler and attacks, but his sword bounces off the armor until Klbkch stops him. (Book 18, Ch7.39A L1163-1170)
+- Xrn had called Wrymvr unstable, unchanging, rude and violent, and Klbkch thinks that was an understatement. (Book 18, Ch7.39A L1168)
+- Wrymvr has never died, not even at the battle where Xrn lost her life, and he survived the depths of the sea when no other Centenium did. (Book 18, Ch7.39A L1172)
+- Wrymvr has no mercy for other Antinium, since his role was to accompany War Queens into battle and protect them. (Book 18, Ch7.39A L1173)
+- Wrymvr screams from multiple mouths, spraying venom, then speaks to Klbkch through the link all Antinium share. (Book 18, Ch7.39A L1175-1177)
+- Wrymvr cannot speak aloud, since his mouths were not designed for it, and talks only to Xrn, Klbkch and the other Queens by link. (Book 18, Ch7.39A L1187-1188)
+- Wrymvr says the Twisted Antinium's guards did not attack, because the spire of minds attacks all and only Wrymvr frightens them. (Book 18, Ch7.39A L1182)
+- Wrymvr and Klbkch laugh together, and Wrymvr's laughter sounds like hissing, clicking and muted shrieks. (Book 18, Ch7.39A L1193)
+- Wrymvr, Klbkch and the Twisted Queen debate how the Antinium could cross the sea to Terandria. (Book 19, Ch7.48K L766-776)
+- Klbkch asks Wrymvr whether he could kill the Illusionist, and Wrymvr answers yes through the link. (Book 19, Ch7.48K L765-768)
+- At the council a sending states there is no way to win at sea against experts and that only Wrymvr has survived the depths. (Book 19, Ch7.48K L782)
+- A sending after Wrymvr echoes Klbkch's frustration says that magic cannot steal Wrymvr, so he would be alone if teleported. (Book 19, Ch7.48K L788-789)
+- Wrymvr projects an image of Minotaur weapons destroying wooden ships. (Book 19, Ch7.48K L778-779)
