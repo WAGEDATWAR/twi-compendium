@@ -1,0 +1,52 @@
+# Venith
+> Type: person | Also called: Venith Crusland; Lord Venith | First appears: Book 5, Ch4.01K
+> See also: Flos, Maresar, Calac, Orthenon, Trey
+## Overview
+- Venith Crusland is a [Lord] and a vassal of Flos who once rode with him as a companion. (Book 5, Ch4.01K L631-634)
+- Venith wears light silver chainmail and carries a shield on his back and a sword at his side. (Book 5, Ch4.01K L629)
+- Venith has dark, brownish hair and a stern, set face. (Book 10, Ch6.12K L46)
+- Venith's wife Maresar is a former [Bandit Lord], and his only son is Calac. (Book 10, Ch6.12K L46; Book 5, Ch4.05K L51)
+## Abilities and class
+- Venith's Skill [Flawless Defence] makes him nearly invincible when defending, as Flos acknowledges. (Book 5, Ch4.02K L295)
+- Venith fights with a shield and a sword kept close to his body, making quick, precise cuts. (Book 5, Ch4.02K L299)
+- Venith says he has not put down his sword for twenty years, unlike Flos. (Book 5, Ch4.02K L297)
+- Venith is so high-level that civilians armed with knives, clubs or stones cannot harm him. (Book 10, Ch6.12K L52)
+- Venith says he was a [Warrior] before becoming a [Lord], and that he is now a [Lord of Battle], which he calls hardly a unique class. (Book 15, Ch7.09K L52)
+- {belief} Venith says he could barely hold back Flos when Flos held a poor steel sword, and would last under half a dozen blows against Orthenon, Mars or Gazi. (Book 15, Ch7.09K L52)
+## History and the oath
+- {event} In a flashback, a young Venith attacks Flos, who has eight thousand gold on his head dead and twice that alive, and lies beaten after five minutes. (Book 5, Ch4.02K L34,L46)
+- {event} Flos lets Venith take his mare and leave, telling him to come back when he has a better reason for fighting. (Book 5, Ch4.02K L81-82)
+- {event} Venith wrote to Flos the day Calac was born, and Flos drank to the boy's health. (Book 5, Ch4.02K L133)
+- {event} In another flashback, Venith strikes the slumped Flos in the throne room when Flos says he is finished as King after Queravia and Tottenval die. (Book 5, Ch4.02K L445-455)
+- {state} Venith swore an oath to take arms against Flos should he ever wake from his slumber. (Book 5, Ch4.02K L98)
+- Venith says he swore an oath to save and protect his people, because Flos abandoned his kingdom while every army cut them down. (Book 5, Ch4.02K L404)
+- Venith claims Flos broke his own oath long ago, and says he owes him nothing. (Book 5, Ch4.05K L57)
+- Calac says Venith told him all his life that Flos was a fool, an oathbreaker and a coward who abandoned his kingdom. (Book 5, Ch4.05K L58)
+## The duel at Manimar
+- {event} Venith rides into the village of Manimar with an army and tells Flos he has come for his head. (Book 5, Ch4.01K L629-636)
+- Venith has ruled the villagers of Manimar as their [Lord] for twenty years, and angrily insists they are his subjects, not Flos's. (Book 5, Ch4.02K L105-106)
+- {event} Venith duels Flos and is forced to rely on his shield as Flos proves stronger. (Book 5, Ch4.02K L295-301)
+- {event} Venith strikes Flos in the face when Flos offers him a hand, saying he has not forgotten the day Flos turned his back on him. (Book 5, Ch4.02K L463-466)
+- Venith's wife Maresar tells him she is taking half their retainers to serve Flos, since Flos is her King too. (Book 5, Ch4.02K L494-497)
+- Venith rides away from Manimar after the duel, every inch of his body hurting. (Book 5, Ch4.02K L476)
+## The Hellios ambush and return
+- {event} A messenger from Hellios tells Venith the coalition plans to ambush Flos, and that his oath only requires him to stand aside. (Book 5, Ch4.05K L2-5)
+- Venith calls the ambush plan dishonorable and the act of a coward, saying Hellios should besiege Flos's capital instead. (Book 5, Ch4.05K L11,L15)
+- The messenger says the coalition would crush Flos and burn Reim if the ambush fails, and that killing Flos first would save lives. (Book 5, Ch4.05K L13)
+- Venith knows the ambush force waits in the foothills west of Reim for Flos to ride out to save refugees attacked by raiders. (Book 5, Ch4.05K L31-32)
+- Venith's own patrols had clashed with the Hellios party, which had not covered its tracks well. (Book 5, Ch4.05K L17-18)
+- {event} Venith lets the Hellios party of eighteen go, bound by his oath and the hurt of his wife leaving. (Book 5, Ch4.05K L2,L9,L28)
+- Calac confronts Venith for hiding behind oaths, and Venith concedes dishonorable acts have no excuse yet cannot say why he does not stop the Hellios men. (Book 5, Ch4.05K L48,L68-71)
+- {state} Calac leaves Venith's keep to ride to Flos, and Venith rides after him with his retainers. (Book 5, Ch4.05K L72,L512)
+- {event} Venith charges the army pursuing Orthenon's forces four miles from Reim, shouting in Flos's name and laughing as he fights. (Book 5, Ch4.05K L512-526)
+- {state} Venith returns to Flos's side: at the gates Flos embraces him and calls him his vassal. (Book 5, Ch4.05K L556-561)
+- Venith stands with Maresar beside him, shield and sword raised, after Flos embraces him. (Book 5, Ch4.05K L563)
+## Later service
+- {state} Venith and Maresar are assigned to Ger by Orthenon a month earlier, when its citizens would not tolerate Flos's armies. (Book 10, Ch6.12K L52)
+- Venith keeps order in Ger with Maresar's bow covering half the city from the Seat of Ger. (Book 10, Ch6.12K L42,L52)
+- Venith dislikes Orthenon, though the King's Steward has his grudging respect. (Book 10, Ch6.12K L61)
+- Calac stays in Reim with Orthenon, because Venith refused to let him come after his previous failure. (Book 10, Ch6.12K L60-63)
+- {state} Later, Flos leaves Venith in charge of managing Hellios, Reim and Germina in his absence, taking Orthenon and Mars with him. (Book 15, Ch7.09K L28)
+- Trey judges Venith unflappably loyal once he returned to his King, and not like the formal Orthenon. (Book 15, Ch7.09K L28-29)
+- Venith says Orthenon dislikes Maresar because she was a [Bandit Lord] and Orthenon hates criminals. (Book 15, Ch7.09K L34-36)
+- {event} Venith brings five thousand of Reim's soldiers to Khelt's border and tries to cross it in search of Trey. (Book 17, Ch7.21KQ L384-385)
