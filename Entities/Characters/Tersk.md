@@ -1,0 +1,51 @@
+# Tersk
+> Type: person | Also called: Prognugator Tersk | First appears: Book 3, Ch3.23L
+> See also: Pivr, Xrn, Klbkch, Pawn, Free Antinium, Belgrade
+## Overview
+- Tersk is a Prognugator of the Armored Antinium who greets Klbkch as a fellow Prognugator on the Hive delegation's arrival. (Book 3, Ch3.23L L398)
+- Tersk is a big two-armed Antinium with proper hands who wears steel plate armor and carries a shield and mace. (Book 3, Ch3.23L L399-402)
+- Tersk has no antennae under his helmet, so he signals his Soldiers by striking his mace against his shield. (Book 5, Ch4.13L L188,L202-203)
+- Tersk describes the Armored Antinium as the sole Hive to use steel and metal to reinforce their bodies and to fight with weapons in formation. (Book 5, Ch4.13L L206)
+- Tersk is older than Dekass, the other Armored Prognugator who accompanies him in Book 15. (Book 15, ChStory_2_Tersk_and_Dekass L98,L101)
+
+## Xrn's delegation and the Free Antinium (Books 3-5)
+- Tersk brings three other Armored Antinium to Liscor, all as tall as he is and in armor, armed with swords and a spear. (Book 3, Ch3.23L L402)
+- Tersk meets Pawn in the Free Antinium Hive and has two of his Soldiers carrying a greatsword and a spear brought in as examples. (Book 5, Ch4.13L L186-187,L202-205)
+- Tersk says he did not enter the dungeon himself because his safety matters to his Hive. (Book 5, Ch4.13L L263)
+- {belief} Tersk considers Pivr a failure of the Prognugator class who does not deserve the title of Revalantor. (Book 5, Ch4.13L L267)
+- Tersk reports that his Queen calls Klbkch the most stable and trustworthy of the three remaining Centenium. (Book 5, Ch4.13L L270)
+- Tersk says his Queen told him Hives on Rhir sometimes had as many as thirty Prognugators each. (Book 5, Ch4.13L L277)
+- Tersk admits that Klbkch and Xrn would know more than he does about the time before the Antinium crossed the ocean. (Book 5, Ch4.13L L279)
+- {state} Tersk has not worn his armor for a while, and sits at the Free Antinium table without it, eating bee soup that spills on his bare chest. (Book 5, Ch4.15L L623-624)
+- Tersk confides that the Armored Antinium lack the metal to outfit all their Soldiers and use monster hides and bark for Workers and some Soldiers, a secret his Queen would not want told. (Book 5, Ch4.15L L630)
+- Tersk asks for the recipe for Erin's bee soup, believing his Queen will rejoice at it. (Book 5, Ch4.15L L636)
+- Tersk tells Pawn he will regret leaving, but must go because his Hive has to know what the Free Antinium have done. (Book 5, Ch4.15L L634)
+
+## The Antinium Wars history book (Book 6)
+- Tersk holds the history book in shock as it describes an entire Antinium army destroyed by a Goblin, and snatches it back from Pivr's acid. (Book 6, ChS02_The_Antinium_Wars_Pt.4 L22,L32)
+- Tersk had not known the history of the Second Antinium War in any great detail. (Book 6, ChS02_The_Antinium_Wars_Pt.4 L22)
+
+## The assault on Liscor (Book 9)
+- Tersk stands with three other Prognugators in thick steel armor as Xrn briefs the Antinium army before the attack on Liscor. (Book 9, Ch5.60 L388)
+- Tersk knows why the Antinium want a city, remembering the strange city and what he learned there, while the other Prognugators are confused. (Book 9, Ch5.60 L398)
+- Tersk thinks of Pawn and wonders whether the Worker is as excited as he is. (Book 9, Ch5.60 L399)
+
+## Return with Dekass (Books 14-15)
+- Tersk and Dekass walk Liscor's streets in disguise without their customary steel armor, being subtle. (Book 14, Ch6.68 L392)
+- Tersk is a little taller than Dekass, as befits his higher status. (Book 14, Ch6.68 L392)
+- Tersk tells Dekass they are a personal greeting from the Armored Queen and a warning, and that his wish to visit Liscor is also personal. (Book 14, Ch6.68 L397)
+- Tersk asks a young Drake for directions to the nearest Antinium location or to Revalantor Klbkch of the Free Antinium, claiming they are normal Workers. (Book 14, Ch6.68 L402-403)
+- {event} Tersk notes that the access tunnel is done and that he and Dekass are the first visitors to the city, with more to come. (Book 14, Ch6.68 L411)
+- Tersk and Dekass are hosted by the Free Antinium as the first visitors to use the new passage meant to link them to the other Hives. (Book 15, ChStory_2_Tersk_and_Dekass L9)
+- Two Antinium in disguise tell Lyonette they are ordinary Workers, then ordinary Soldiers, while one whispers "Nearly perfect infiltration" and the other answers "Thank you, Tersk". (Book 15, Ch7.00 L620-630)
+- Tersk had talked nonstop to Dekass about the food of the inn, which Dekass fears might be poisoned. (Book 15, ChStory_2_Tersk_and_Dekass L40)
+- Tersk and Dekass say they are ordinary Antinium and ask Drassi to see her supply of liquids. (Book 15, ChStory_2_Tersk_and_Dekass L74)
+- Tersk tells Dekass the Free Antinium are weak in shell and number, but have morale and an understanding of living that escapes the Armored Antinium. (Book 15, ChStory_2_Tersk_and_Dekass L99,L102)
+- Tersk and Dekass pay for their drinks in gold from a bag of holding issued for the mission. (Book 15, ChStory_2_Tersk_and_Dekass L108-111)
+- {event} Tersk's secret scrying orb is compromised by Wistram's alert just before the Wyvern attack on the inn. (Book 15, ChStory_2_Tersk_and_Dekass L113)
+
+## Staying in Liscor (Book 18)
+- Tersk and Dekass show up at the inn every day, eating and then leaving, and have been doing so for weeks. (Book 18, Ch7.39A L47,L50)
+- Tersk and Dekass are ordered and allowed to frequent the inn, try new foods, watch plays and ask questions. (Book 18, Ch7.39A L146)
+- Xrn gave the Antinium visitors her anti-food-poisoning charm on a wooden amulet. (Book 18, Ch7.39A L42)
+- Tersk looks content and bloated, casually talking with Belgrade, while Erin wonders what he does all day. (Book 18, Ch7.39A L51-52)

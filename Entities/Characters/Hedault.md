@@ -1,0 +1,38 @@
+# Hedault
+> Type: person | Also called: Mister Hedault; Master Hedault | First appears: Book 4, Ch3.36
+> See also: Ryoka Griffin, Ivolethe, Horns of Hammerad, Montressa, Pelt, Reynold
+## Overview
+- Hedault is an [Enchanter] of Invrisil, barely thirty, with a pale cast to his skin, pale orange hair and a missing left ring finger. (Book 4, Ch3.36 L293-294)
+- Hedault has a nervous tic of tapping an object twice with his left finger. (Book 4, Ch3.36 L294)
+- Hedault's wards keep all words in his home private, even from powerful mages. (Book 4, Ch3.36 L302)
+- Reynold says Hedault's services are recognized as the best in the city and that he never reveals information given in confidence. (Book 4, Ch3.36 L304)
+- Hedault later has thinning hair, spectacles and a precise manner, and taps his wrist twice. (Book 18, ChInterlude_A_Meeting_of_Druids L816; Book 19, Ch7.51 L956,L958)
+- Hedault specializes in analysis and alteration, figuring out what an enchantment does and repairing or altering it. (Book 18, Ch7.38 L592-593)
+- Hedault is precise, careful and pedantic and dislikes chaos, and the Horns of Hammerad and the inn have grown on him only as moss grows on a moist surface. (Book 18, Ch7.38 L594-595)
+- Hedault only sees visitors between dawn and sunset. (Book 4, Ch3.37 L3)
+
+## Meeting Ryoka (Books 4-10)
+- Hedault offers to explain the qualities of the Horns of Hammerad's magical items to Ryoka in his work room. (Book 4, Ch3.36 L291-299)
+- Hedault says some of his artifacts are competent examples of his craft or purchases for study, and he may sell a small selection. (Book 4, Ch3.37 L7-9)
+- Hedault agrees to Ryoka's deal after Ivolethe says the wand's core is a seed of a tree that stood ten thousand winters, calling it living magic. (Book 4, Ch3.40 L551-557)
+- Ryoka asks for armor and weapons for four adventurers, wands, a robe, a spellbook, rings and two hundred gold pieces for the wand. (Book 4, Ch3.40 L528)
+- Hedault says he will give what the friends need and write down a debt to Ryoka Griffin that they can call on by message. (Book 4, Ch3.40 L562)
+- Hedault carves an image of Ivolethe in Everfrozen Ice for Ryoka, signing the note as [Enchanter] of Invrisil. (Book 10, Ch6.01 L718-719,L768)
+- Hedault probably charged Ryoka only a small fortune as a favor. (Book 10, Ch6.01 L768)
+
+## Dungeon treasure and the inn (Books 17-19)
+- Hedault blacklists Yvlon and Ksmvr for interrupting him, then relents when they name Ryoka Griffin and the Horns of Hammerad. (Book 17, Ch7.20 L944,L953-960)
+- Hedault agrees to appraise both the Horns' and Griffon Hunt's dungeon treasure at dawn the next day. (Book 17, Ch7.20 L972-976)
+- Hedault has a wand of ironwood with which he feels the enchantment in the magic door. (Book 18, ChInterlude_A_Meeting_of_Druids L856-859)
+- Hedault identifies the magic door as the work of Warmage Thresk of Albez, with a crude alteration to his teleportation trap. (Book 18, ChInterlude_A_Meeting_of_Druids L840)
+- Hedault's first pass through the inn ends up enchanting Numbtongue's guitar, which fascinated him. (Book 18, Ch7.37 L28)
+- Hedault has been trying to limit the draw of the inn's runes on mana with Montressa, setting several basic enchantments. (Book 18, Ch7.37 L35)
+- Hedault arrives forty minutes after a request through Montressa du Valeross and casts [Impact Shield], [Second Skin: Film Weave] and [Invisibility] outside the door. (Book 18, Ch7.38 L596-597)
+- Hedault says pure metals hold enchantments well and could halve a thirty-pound block of Pelt's pure steel and nearly reduce it to a third. (Book 18, Ch7.38 L771)
+- Hedault will enchant a saddle with a [Cushion] spell and suggests a Ring of Feather Impact. (Book 18, Ch7.38 L800)
+- Hedault says one final test of a true [Enchanter] in most Terandrian academies is making a block of mithril float on his breath alone. (Book 18, Ch7.38 L810)
+- Hedault tells Lism and Krshia that any city has a limit to the enchanted defenses it can maintain, because of mana draw. (Book 19, Ch7.51 L954-957)
+- Hedault says Liscor's wall enchantments will eventually draw more than ambient mana as it grows, though it is not near that size yet. (Book 19, Ch7.51 L962)
+- Hedault lists four ways to bypass the limit: Sage's Grass, Magicore, magical herds and [Mages]. (Book 19, Ch7.51 L973)
+- Hedault says Invrisil is spared by lacking walls, its many mages and its ley line, and that the Walled Cities bypass the limit by means lost to time. (Book 19, Ch7.51 L965-969)
+- Montressa and Bezale count Hedault among their clients. (Book 19, Ch7.50 L470)
