@@ -1,0 +1,55 @@
+# Pryde Ulta
+> Type: person | Also called: Lady Pryde; Lady Pryde of House Ulta; Lady of Pride; Pryde | First appears: Ch6.27M
+> See also: Magnolia Reinhart, Wuvren, Grimalkin, Belavierr, Erin Solstice
+## Overview
+- Lady Pryde Ulta is the [Lady] of House Ulta, a close friend of Magnolia Reinhart who considers herself no one's inferior. (Book 14, ChInterlude_Talia L385)
+- Pryde is a tall woman with black hair, high cheekbones and an imperious posture and voice. (Book 14, ChInterlude_Talia L341)
+- Pryde has orange pupils that flash when she is furious. (Book 11, Ch6.27M L663)
+- Ultase is the largest city of the Ulta lands and was founded by Pryde's ancestors. (Book 14, ChInterlude_Talia L386)
+- The people of Ulta share Pryde's belief that pride is a virtue above all others, and the Ulta region includes a population of nudists. (Book 14, ChInterlude_Talia L393,L397)
+- Pryde once imported a Griffin in the hope of riding it around, and always seeks an edge to establish her superiority over her fellow nobles. (Book 14, ChInterlude_Talia L401)
+- Later, Pryde wears a stylised bob cut with blonde hair that has dusky threads, having consented to an Earth-style haircut. (Book 17, Ch7.20 L1311,L1318)
+## Skills and abilities
+- Pryde crushes a pinned [Assassin] with the Skill [Ego is Weight], which doubles the gravity on him until his crossbow snaps. (Book 11, Ch6.27M L665-669)
+- Pryde uses [Pride is Weight] to crush an Ogre Chieftain with gravity that grows stronger the closer he gets to her. (Book 14, ChInterlude_Talia L349-351)
+- Pryde survives three blows from an Ogre Chieftain's hammer with [Pride is Unbreakable], and the Ogres' morale breaks. (Book 14, ChInterlude_Talia L352-362)
+- Pryde's ego, spent in battle, returns as she is cheered after the Ogre fight. (Book 14, ChInterlude_Talia L385)
+- Pryde's [Pride is Weight] drags Grimalkin's reaching hand down, and Grimalkin identifies it as a gravity Skill. (Book 17, Ch7.20 L1344-1346)
+- Pryde has the Skill [Compressed Muscle], which Grimalkin calls a [Lady]'s Skill that he has not seen in years. (Book 17, Ch7.23LM L806-807)
+- Pryde says [Compressed Muscle] was a gift from her mother and that House Ulta has always been in high physical shape. (Book 17, Ch7.23LM L809)
+- Pryde says she keeps fit without magic or an aura, and that she has ensured House Ulta's retainers follow a strict training regimen. (Book 17, Ch7.23LM L803-804)
+- Pryde lifts a weights bar with over two hundred pounds on it and does two squats in front of Grimalkin. (Book 17, Ch7.23LM L798-799)
+## Assassin attack
+- Pryde, in the middle of her city, is attacked by four [Assassins] who leap from a rolling wagon but are pinned by her aura. (Book 11, Ch6.27M L663-665)
+- Pryde angrily demands to know how many [Assassins] were sent to Magnolia, Zanthia, Wuvren and Bethal, and tells the Guildmaster to take the contract himself. (Book 11, Ch6.27M L664-666)
+- The citizens of Pryde's city descend on the four immobilised [Assassins], and Pryde afterwards touches her subjects' hands and brows. (Book 11, Ch6.27M L671)
+## Ogre raid
+- Pryde dismounts and faces an Ogre Chieftain who threatens her lands, telling him he deserves death for what he has done. (Book 14, ChInterlude_Talia L338-342)
+- Pryde mocks the Chieftain's lewd threats, saying he is too unsightly to be a consort, and he is killed after his Ogres begin to fall to her [Archers]. (Book 14, ChInterlude_Talia L346,L363)
+- Pryde's dress is shredded across the chest when the Chieftain's first blow lands, and she mocks him with "Too much woman to handle, Ogre?" (Book 14, ChInterlude_Talia L353-354)
+- Pryde rides home to Ultase with a cloak covering her, then wears the cloak over her shoulders and refuses to have her dress repaired. (Book 14, ChInterlude_Talia L384-387,L390)
+- Pryde tells her retainer Beshard that shame is not something she feels for her body, and says a [Lady] is a [Lady] naked or clothed. (Book 14, ChInterlude_Talia L389-392)
+- Pryde admits she briefly considered making the Ogres her vassals, and says Wuvren claims to have charmed a Troll once. (Book 14, ChInterlude_Talia L398-400)
+- Beshard, a Chandrarian Stitch-man, has served Pryde for eight years and still finds her people's attitude to nudity disconcerting. (Book 14, ChInterlude_Talia L393)
+## Confrontation with Belavierr
+- Pryde slaps Belavierr across the face and tells her to begone, breaking one of the rules the [Ladies] had agreed to. (Book 16, Ch7.18M L1100-1103)
+- Pryde holds a grudge against most of the assembled [Ladies], and the narration describes her as still a girl and defined by her pride. (Book 16, Ch7.18M L966)
+- Belavierr tells Pryde that pride is fleeting and that she does not know how small she is, then strikes her down while she is still invoking her greatest Skill, which is cut off mid-name. (Book 16, Ch7.18M L1106-1109)
+- Pryde lies in the earth with her head lolling, alive but with her ego extinguished, and Wuvren and Zanthia lift her up. (Book 16, Ch7.18M L1109-1112)
+## At Erin's inn
+- Pryde arrives at the Wandering Inn in an Earth-style yellow satin tracksuit, with Wuvren and Magnolia in similarly modern dress. (Book 17, Ch7.20 L1311-1317)
+- Pryde has a clash with Grimalkin, who uses half a dozen spells to push her back a step, and she says he is not bad. (Book 17, Ch7.20 L1346-1350)
+- Pryde offers eighty thousand gold pieces for the inn's magic door and says she has other objects she wishes to buy. (Book 17, Ch7.23LM L634)
+- Pryde's aura gathers around her, brushes off Erin's aura and begins to overpower the [Innkeeper], and Lyonette notes that someone has taught her. (Book 17, Ch7.23LM L651)
+- Pryde's aura immobilises Yvlon, Ksmvr, Pisces and Ceria, and an observer says she has control, potency and manifestation. (Book 17, Ch7.23LM L672-674)
+- Pryde stumbles back a few steps when Erin manifests her aura, and then answers with a locked contest of auras. (Book 17, Ch7.23LM L677-679)
+- Pryde has experience, a more powerful class and a more distinguished aura than Erin, but Erin is fighting in her own inn. (Book 17, Ch7.23LM L685-686)
+- Pryde and Erin advance on one another as Pryde activates [Pride is Unbreakable], until Lyonette pushes Erin aside and sends her after Rose's group. (Book 17, Ch7.23LM L690-702)
+- Pryde fails to squash Lyonette, who curtsies as the inn's [Manager] and [Head Barmaid], and Pryde remarks that Lyonette has politeness and a spine. (Book 17, Ch7.23LM L706-711)
+- Pryde places an order for multiple weight sets while Grimalkin cleans blood off his scales. (Book 17, Ch7.23LM L1020)
+## Weightlifting rivalry
+- Pryde was one of the few people to actually order Grimalkin's weight sets, and House Ulta later sends him lists of bench-press numbers. (Book 18, ChInterlude_Sand_and_Notes L356-360)
+- Pryde has nearly sixty people on her lists by the end of the week, with the top entry four hundred and eleven. (Book 18, ChInterlude_Sand_and_Notes L359,L361)
+- Grimalkin copies the numbers into a master list and posts it at Erin's weight-room, and the next day Pryde sends a list topped by Human, male, 500. (Book 18, ChInterlude_Sand_and_Notes L394-396)
+- Pryde does not cede anything to Drakes, and Grimalkin posts her list, which brings an immediate demand for proof. (Book 18, ChInterlude_Sand_and_Notes L397-398)
+- Pryde declares that it is possible to break one thousand pounds without magic and aims for a Human-only record. (Book 18, ChInterlude_Sand_and_Notes L402)
