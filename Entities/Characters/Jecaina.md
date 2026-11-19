@@ -1,0 +1,38 @@
+# Jecaina
+> Type: person | Also called: Jecaina Leysars; Jecaina of Jecrass; Princess Jecaina; Dueling Princess; Duelist Princess | First appears: Ch6.15K
+> See also: Raelt, Geril, Mars, Flos, Perric, Lyfelt
+## Overview
+- Princess Jecaina of Jecrass is a young [Fencer] in her twenties, brash, confident, beautiful and long-legged, who dresses for sparring or travel. (Book 10, Ch6.15K L116-117)
+- Jecaina has hazel-green hair, which some Jecrass bloodlines can turn, inherited from her mother, who is Raelt's half-sister. (Book 10, Ch6.15K L120; Book 15, Ch7.08K L239)
+- Jecaina carries a slim enchanted [Fencer]'s blade and a silver bell that she never goes without. (Book 10, Ch6.15K L118; Book 15, Ch7.08K L239-240)
+- Jecaina's mother abandoned her after a tryst gone wrong, so Raelt, technically her uncle, raised her as his adopted daughter. (Book 10, Ch6.15K L136-137)
+- Everyone in Jecrass knows the story, but only Jecaina brings up her heritage. (Book 10, Ch6.15K L138)
+- Jecaina is the sole known heir to the throne of Jecrass. (Book 16, Ch7.13K L469)
+## Admiration for Flos
+- Jecaina asks Raelt to see the King of Destruction's letter, and Raelt rebukes her mildly for missing breakfast. (Book 10, Ch6.15K L115,L119)
+- Jecaina argues that the King of Destruction could be a powerful ally, since Jecrass never wronged him and several of his Seven are with him. (Book 10, Ch6.15K L149)
+- Raelt, who disagrees, notes her eyes shining as the [Dueling Princess] speaks of Flos. (Book 10, Ch6.15K L150)
+- Jecaina wants to go to Terandria, and she begs to ride to Reim and meet Flos herself. (Book 15, Ch7.08K L244)
+- Jecaina shows Raelt a recording crystal by the Queen of Pop and calls her the greatest [Singer] in ten thousand years. (Book 15, Ch7.08K L248-251)
+- {event} Geril has Jecaina locked in the palace vaults, guarded by General Lael's [Soldiers], so she cannot escape to join the camp. (Book 15, Ch7.08K L408-411)
+- {event} Jecaina arrives at Flos' camp demanding an audience and challenges Teres, then Mars the Illusionist, to a duel for entry. (Book 15, Ch7.10K L160-165,L194)
+- Jecaina asks for one minute of duelling against Mars to earn an audience with Flos. (Book 15, Ch7.10K L194)
+- Jecaina moves quickly enough that Teres barely sees her, and strikes at Mars' shoulder with her foil. (Book 15, Ch7.10K L216)
+- Mars notices Jecaina's silver bell and calls her a [Fencer]. (Book 15, Ch7.10K L218-219)
+- {event} Mars catches Jecaina's lunge barehanded and defeats her with a headbutt, dropping her face-first. (Book 15, Ch7.10K L224-227)
+## The war with Reim
+- {event} Jecaina rides after Raelt during the march to Levrhine and asks if he will attack it. (Book 16, Ch7.13K L469-470)
+- Raelt tells Jecaina the bell is a test: it should not ring when worn by an expert, because a ring means unnecessary movement. (Book 16, Ch7.13K L487,L495-498)
+- Jecaina learns she earned her bell by defeating a [Fencer], and she goes crimson at Raelt's explanation. (Book 16, Ch7.13K L487,L499)
+- {state} Later, Jecaina brawls with Nerrhavia's [Master Charioteers] after they make remarks she objects to, and she is scraped and bruised. (Book 19, Ch7.46K L616-617)
+- {state} Later, Jecaina has stopped wearing her silver bell and carries a copy of Raelt's dueling sword. (Book 19, Ch7.46K L664)
+- Raelt, who feels he has failed his adopted daughter, takes her to the practice courts. (Book 19, Ch7.46K L661-663)
+- {event} Jecaina fights a Gold-rank team from Medain, the Silvereyed Sables, and is dropped by arrows, one in the leg and two sleeping arrows. (Book 19, Ch7.46K L1017,L1063-1064)
+- {state} Jecaina is kidnapped, hog-tied in a wagon by the adventurers while Raelt's army approaches. (Book 19, Ch7.46K L1258)
+- {state} Jecaina kills an enemy [Knight] with [Fencer's Riposte] in a gap between helmet and armour, her first kill of a person. (Book 19, Ch7.47K L273-278)
+- Jecaina realises she has killed a woman and is grabbed immediately afterwards. (Book 19, Ch7.47K L278-279)
+- {state} Jecaina is netted by one of Medain's Golden Ranks and dragged before High King Perric. (Book 19, Ch7.47K L303-308)
+- Perric greets her as Princess Jecaina and says she has inconvenienced him. (Book 19, Ch7.47K L309)
+- {state} Raelt is captured while she escapes, and Geril tells her she must ride because Jecrass needs its [Queen]. (Book 19, Ch7.47K L409-413)
+- Jecaina blames herself for her father's capture, and Geril tells her to go. (Book 19, Ch7.47K L414-416)
+- Geril dies covering her flight. (Book 19, Ch7.47K L418)

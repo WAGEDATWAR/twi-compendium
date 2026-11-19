@@ -1,0 +1,30 @@
+# Salii
+> Type: person | Also called: Salii of Pomle | First appears: Ch6.15K
+> See also: Orjin, Peki, Nsiia, Fetohep, Iratze
+## Overview
+- Salii is a Drake woman who appeared in Pomle one day, found Orjin and began acting as his secretary, and no one stopped her. (Book 18, ChInterlude_Sand_and_Notes L84)
+- Salii carries a clipboard and is a [Secretary]; one scene calls her Pomle's Drake [Receptionist]. (Book 13, Ch6.52K L555; Book 16, ChInterlude_Dancing_and_Brawling L221)
+- Salii is high-level and once blocked a wind-slash with her clipboard. (Book 18, ChInterlude_Sand_and_Notes L85)
+- Salii can copy any object of a secretarial nature once per day, which is how she makes paper and sometimes ink. (Book 18, ChInterlude_Sand_and_Notes L85)
+- Salii says she can copy any material she wants once a day. (Book 10, Ch6.15K L603)
+- Salii has a [Memo] Skill that works like a free [Message], with limited range, and her messages are priority-delivered even to monarchs. (Book 18, ChInterlude_Sand_and_Notes L252-254)
+- {reveal} Salii says she comes from Zeres, where she organised everything for its commanders and was the best [Secretary] in Zeres and perhaps Izril. (Book 18, ChInterlude_Sand_and_Notes L295)
+- {reveal} Salii wants to become the highest-levelled [Secretary] in the history of the world, and says her level is higher than Orjin's. (Book 18, ChInterlude_Sand_and_Notes L302,L306-307)
+## Pomle
+- {event} Salii copies the Emperor of Sands' letter, since their silencing spells cannot stop a [Secretary]'s Skills, and gives it to Orjin. (Book 10, Ch6.15K L599-601)
+- Salii, clutching her clipboard like a shield, stands behind Orjin when he ends the fight among the rulers. (Book 10, Ch6.15K L553)
+- Salii leads Tiqr's refugees to temporary camps, introducing herself and Orjin. (Book 13, Ch6.52K L555-558)
+- Salii tells Orjin that Pomle will run out of food if more refugees arrive. (Book 13, Ch6.52K L575)
+- Salii says she can feed the refugees by trading, scavenging and organisation, calling herself the greatest [Secretary] in all the Walled Cities. (Book 13, Ch6.52K L579-582)
+- Salii tells Orjin that the King of Destruction is speaking to the Empress of Beasts by communication spell on the eve of Tiqr's fall. (Book 13, Ch6.53K L534)
+- Salii calculates that Pomle has taken in over sixty thousand of Tiqr's citizens. (Book 13, Ch6.53K L557)
+- Salii warns Orjin that the Windcaller's Wrath is a cult. (Book 16, ChInterlude_Dancing_and_Brawling L223-226)
+- {belief} Salii says that if the water runs out Pomle dies, and with the new arrivals it would last 67 days. (Book 18, ChInterlude_Sand_and_Notes L145)
+- Orjin says the water had run low before, and that some of Pomle's warriors would have to leave for a time. (Book 18, ChInterlude_Sand_and_Notes L143)
+- Salii has ordered healing potions from Nerrhavia in bulk with funds from Pomle's treasury, a vault she holds the key to. (Book 18, ChInterlude_Sand_and_Notes L98-100)
+- Salii pays Trader Melkhit, a Stitch-Man, with a bag of gold for a shipment of hundreds of healing potions. (Book 18, ChInterlude_Sand_and_Notes L104-105)
+- Salii charged refugees who stayed a fee to buy land around the oasis and to compensate the [Martial Artists] who had to move. (Book 18, ChInterlude_Sand_and_Notes L119)
+- Salii runs a betting arena, with an announcer named Raul reading levels, classes and odds into a scrying mirror. (Book 18, ChInterlude_Sand_and_Notes L179,L186-188)
+- Salii avoided Wistram for the scrying network and went to Nerrhavia and Khelt instead, because Wistram likes controlling everything. (Book 18, ChInterlude_Sand_and_Notes L189-192)
+- The arena's scrying network has about three hundred viewers, and the pot for one fight was fifty-nine gold, sixteen silver and two copper. (Book 18, ChInterlude_Sand_and_Notes L192-197)
+- Salii says Fetohep of Khelt watches and usually bets thousands of gold pieces, and he paid for the condensation stone. (Book 18, ChInterlude_Sand_and_Notes L199)
