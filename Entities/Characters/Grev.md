@@ -1,5 +1,5 @@
 # Grev
-> Type: person | Also called: none | First appears: Book 2, Ch2.37
+> Type: person | Also called: Grev Redigal | First appears: Book 2, Ch2.37
 > See also: Jasi, Wesle Salkis, Players of Celum, Erin Solstice
 ## Overview
 - Grev is a scrawny, underfed boy in Celum who looks no more than thirteen years old. (Book 2, Ch2.37 L180)
@@ -34,3 +34,10 @@
 - He says rats are never noticed and strike rarely, and viners are gangs as big as the Watch, like the Sisters. (Book 14, Ch6.63P L575)
 - He says Celum's Brothers and Sisters both got wiped out in the bad job with Miss Erin's inn. (Book 14, Ch6.63P L575)
 - {event} Grev is among the Players of Celum who arrive at The Wandering Inn when riots cancel the evening's play. (Book 18, Ch7.31 L39)
+## Players of Celum, Books 14-16
+- Grev Redigal is Jasi's younger brother, a [Street Rat], who once tried to lead Erin Solstice into a mugging. (Book 16, Ch7.15R L1038)
+- Grev has left Celum's crime behind and is Emme's left hand, managing and assisting the [Actors], though Emme says he is too weak to be her right hand. (Book 14, Ch6.63P L101)
+- Grev is short and no longer scrawny, well fed and well dressed, and he has not abandoned all his old ways. (Book 14, Ch6.63P L232)
+- Grev marks Jasi and the inn with his [Waypoint] Skill so he can guide her and Rima back through a huge city. (Book 14, Ch6.63P L449-450)
+- Grev is low-level because he is a child, but puts his few Skills to good use. (Book 14, Ch6.63P L450)
+- Grev tells Halrac's party that the Players are part of Miss Erin's crew and will flip when they see them. (Book 16, Ch7.15R L1038-1039)

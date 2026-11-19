@@ -38,6 +38,12 @@
 - {event} Hooded, Lism visits the inn the night before the election, advises Rufelt and Lasica to consider adopting a child since Liscor has children needing homes, and says he will tax the inn if elected. (Book 12, ChInterlude_Rufelt L363-381)
 - Lism tells Rufelt he came to see the inn because his nephew talks about it so much, and says he will do what is right for Liscor but disagrees with Silverfang about what that is. (Book 12, ChInterlude_Rufelt L374-379)
 ## Councilman, Books 13-19
+- {event} Lism proposes a surcharge of one silver on every Shield Spider body so Liscor takes a cut of the trade, estimating it adds five thousand gold after the culling. (Book 13, Ch6.49 L427-444)
+- Lism says a fully-grown, unscratched Shield Spider corpse fetches eleven silver, and that Liscor lacks the industry to process the silk. (Book 13, Ch6.49 L429,L434)
+- Olesm tells the Council the annual cull kills three or four thousand Shield Spiders on average, about double that this year. (Book 13, Ch6.49 L442-443)
+- Later, Lism settles for demanding that the Merchant's Guild owe Liscor two silver pieces per Shield Spider corpse instead of checking its records. (Book 13, Ch6.49 L896-903)
+- Lism relaxes at Teliv Witherscale's laugh and agrees that Teliv will be present at the negotiations, first with Klbkch, then the Guildmasters, then Esthelm. (Book 13, Ch6.49 L1020,L1027)
+- {event} Lism and Jeiss try to persuade Guildmistress Tekshia to congratulate the Horns, but she refuses and takes more cake. (Book 14, Ch6.67 L215-219)
 - {event} Lism concedes the Council cannot resist Wistram's mages, saying they have been outmanoeuvred like a Level 50 [Merchant] with thugs, but he moves to send Hawk to Fissival's Draconae Scholarium to ask about replacing Wistram's services and to co-sign Zevara's complaint. (Book 13, Ch6.59 L147-150,L170-174)
 - Lism sits with Olesm at the inn instead of pestering Drassi about Erin. (Book 15, ChStory_2_Tersk_and_Dekass L68)
 - {rel} Lism started the [Carers] initiative, which pays volunteers to check on vulnerable residents across Liscor and which he has run for years; Krshia helps organise it. (Book 19, Ch7.51 L907-919)

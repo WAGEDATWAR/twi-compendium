@@ -1,5 +1,5 @@
 # Jasi
-> Type: person | First appears: Book 3, Ch3.15
+> Type: person | Also called: Jasi Redigal | First appears: Book 3, Ch3.15
 > See also: Wesle, Grev, Erin Solstice, Agnes, Numbtongue, Players of Celum
 ## Overview
 - Jasi is a young female Drake of Celum who works as a [Washer] and later becomes the star actress of the Players of Celum. (Book 3, Ch3.15 L365; Book 3, Ch3.16 L474)
@@ -38,3 +38,11 @@
 - Jasi found her old street in Celum gone and was mobbed by people seeking her autograph. (Book 19, Ch7.50 L890,L1026)
 - Numbtongue, in anonymous armour, caught up with Jasi after she fled the crowd and revealed himself. (Book 19, Ch7.50 L944-956)
 - Jasi met Agnes at the Frenzied Hare. (Book 19, Ch7.50 L995-998)
+## Class Changes and Background, Books 14-19
+- Jasi Redigal is a Drake [Actress] and the older sister of Grev Redigal. (Book 14, Ch6.63P L9)
+- Jasi remembers working as a [Washer] to provide for her younger brother Grev, scrubbing until her claws bled. (Book 14, Ch6.63P L42)
+- Jasi became a barmaid for a few days at Erin's inn, and then an [Actress], because of Erin. (Book 14, Ch6.63P L43)
+- {state} Jasi reaches Level 25 as an [Actress], meets the conditions to become a [Lead Actress], and gains [Perfect Imitation] and [Refinement by Accolade]. (Book 14, Ch6.63P L828-831)
+- {state} Later, Jasi is a Level 30 [Famed Lead Actress] with [Refinement by Accolade], [Audience Charge], [Perfect Imitation] and [The Actor's Shadow]. (Book 19, Ch7.50 L642-648)
+- Jasi's [The Actor's Shadow] makes a shadow-Jasi of any species that can perform a second role. (Book 19, Ch7.50 L646-648)
+- Jasi can produce ten gold coins' worth of make-up for free with every performance. (Book 19, Ch7.50 L643)
