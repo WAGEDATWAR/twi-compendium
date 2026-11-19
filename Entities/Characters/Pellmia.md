@@ -1,0 +1,27 @@
+# Pellmia
+> Type: person | Also called: Lord Pellmia | First appears: Book 8, Ch5.32G
+> See also: Tyrion Veltras, Welca Caveis, Rags, Gilam, Kilmet
+## Overview
+- Lord Pellmia is a [Lord] of Izril, broader in the shoulder and gut than Tyrion, with a mustache, and rides a white stallion. (Book 8, Ch5.37G L244)
+- Pellmia is probably fifteen years older than Tyrion, close to sixty, but looks like a young man in the evening light. (Book 8, Ch5.37G L367)
+- Pellmia has lived over sixty years, survived both Antinium Wars and fought Goblins on his land. (Book 9, Ch5.47G L508)
+- Pellmia has the Skills [Second Wind] and [Far Riders], which restore vigor and let slow horses outdistance horses without Skills. (Book 8, Ch5.32G L445; Book 9, Ch5.48G L126,L177)
+- Pellmia has a son, Gilam, and an old companion named Kilmet. (Book 9, Ch5.47G L466,L472-475)
+## Cavalry Command (Books 8-9)
+- {event} Pellmia leads a second cavalry force in a wedge charge on the Goblin army, using [Second Wind], with Welca Caveis at his side. (Book 8, Ch5.32G L441-445)
+- {event} Pellmia reports that his charge scattered the Goblins around Pyrite's city on the first attack. (Book 8, Ch5.37G L246)
+- Pellmia says he did not assault the city because of the Goblins' many pikes and crossbows, and he has been rationing healing potions to the wounded. (Book 8, Ch5.37G L246)
+- Pellmia carries out Tyrion's orders while guessing at what Tyrion has planned. (Book 8, Ch5.37G L366)
+- Pellmia leads over five thousand mounted Humans sent by Tyrion who pursued Rags' tribe for three days. (Book 9, Ch5.47G L28)
+- Rags judges Pellmia a Lord whose Skills revitalize his forces and make them move faster than normal. (Book 9, Ch5.47G L30)
+- Pellmia has promised Tyrion that he will reach the meeting spot by the sixth day. (Book 9, Ch5.47G L288)
+- {belief} Pellmia wonders why Tyrion spent so much effort on a tribe of under ten thousand, and guesses Tyrion cares more about the [Emperor]. (Book 9, Ch5.47G L327)
+- Pellmia has his men dismount and run beside their horses, restoring them with [Second Wind], and runs too after putting his armor in his bag of holding. (Book 9, Ch5.48G L177,L180)
+## The Fire and Resignation (Book 9)
+- {event} Pellmia is burned in a forest fire the Goblins set, and a [Healer] applies poultice to his skin and warns he needs it reapplied. (Book 9, Ch5.47G L463-464)
+- {event} Pellmia refuses Gilam's demand for a hundred [Knights] to retrieve his stolen horse Olli, since the Goblins spared him. (Book 9, Ch5.47G L479-493)
+- Pellmia puts Gilam under Kilmet's authority in the vanguard and says the duty to Tyrion changes nothing. (Book 9, Ch5.47G L499-504)
+- {event} The spared Gilam makes Pellmia doubt his certainty about Goblins, and he thinks of the small Chieftain's size. (Book 9, Ch5.47G L507-508)
+- {state} Pellmia resigns his command to Tyrion, saying the Chieftain could have killed Gilam and did not. (Book 9, Ch5.48G L422,L426,L433)
+- Pellmia tells Tyrion that his legacy is more uncertain than he hoped, since Gilam is not the man he wanted. (Book 9, Ch5.48G L431)
+- {state} Later, Pellmia accepts Tyrion's request to command the infantry instead, with Gilam kept safe in the rear. (Book 9, Ch5.48G L438-443)

@@ -1,0 +1,27 @@
+# Keldrass
+> Type: person | Also called: Captain Keldrass; Keldrass of the Flamewardens | First appears: Book 8, Ch5.38
+> See also: Bevussa, Grimalkin, Numbtongue, Pyrite, Erin Solstice, Ceria Springwalker
+## Overview
+- Keldrass is the captain of the Flamewardens, a Gold-rank adventuring team, and an Oldblood Drake. (Book 8, Ch5.38 L137; Book 9, Ch5.46 L490)
+- Keldrass cannot control his flames as well as some other Oldblood Drakes, so he speaks in short bursts to avoid immolating people. (Book 8, Ch5.38 L137)
+- Keldrass snorts a plume of fire when angry. (Book 12, ChInterlude_Numbtongue_Pt.2 L970)
+- Keldrass served in the army, and Grimalkin believes he taught Keldrass's unit then. (Book 15, Ch7.04 L565)
+- Keldrass grew up when the Necromancer's armies came south and hit Pallass. (Book 14, Ch6.62L L1045)
+## The Dungeon and the Inn (Books 8-9)
+- {event} Keldrass calls a meeting of adventurer team leaders about working together on the dungeon. (Book 8, Ch5.38 L137)
+- Keldrass heads for Erin's inn to negotiate dungeon artifacts, and tells Bevussa the Flamewardens want the armor. (Book 9, Ch5.46 L490-498)
+- Bevussa's Wings of Pallass want the invisible bow, a shortsword or a wind staff. (Book 9, Ch5.46 L500)
+- Keldrass defends the Tailless Thief's food, where the adventurers stay. (Book 9, Ch5.46 L511-512)
+- {state} Keldrass is jailed for a day after a brawl over the lottery at the Adventurer's Guild, in the cell beside Bevussa's. (Book 9, Ch5.54 L281-285)
+## Goblins and Pyrite (Books 12-14)
+- Keldrass wears armor taken from the Raskghar and carries a mace. (Book 12, ChInterlude_Numbtongue_Pt.2 L967)
+- {belief} Keldrass argues that Erin undermines the rule of law by after a Goblin and an Antinium Soldier killed two dozen Humans in a Human city. (Book 12, ChInterlude_Numbtongue_Pt.2 L968-971)
+- Keldrass says adventurers who did the same would be arrested, and that he is supporting the system that keeps Drake society running. (Book 12, ChInterlude_Numbtongue_Pt.2 L971,L985)
+- {belief} Keldrass says Goblins as a whole cannot be reasoned with, and that an earlier Drake was not wrong to be wary since Goblins killed his family. (Book 12, ChInterlude_Numbtongue_Pt.2 L989)
+- {event} Numbtongue, speaking as Pyrite, tells Keldrass a story of a mining Goblin and tosses a gold nugget at his feet with the word "fetch". (Book 12, ChInterlude_Numbtongue_Pt.2 L1007,L1028-1030)
+- Keldrass wants the nugget despite his unease, since the gold is gold. (Book 12, ChInterlude_Numbtongue_Pt.2 L1025-1026)
+- Keldrass snorts dismissively when Earlia mentions the Golden Goblin legend. (Book 12, ChInterlude_Numbtongue_Pt.2 L1075)
+- Keldrass says he cannot sit across from the Hobgoblin and dislikes that Erin tolerates a [Necromancer]. (Book 14, Ch6.62L L1011,L1013)
+- {belief} Keldrass tells Bevussa that Nailren says the Gnolls on his team suspect Mrsha carries a Skill or a curse that attracts bad luck. (Book 14, Ch6.62L L1050)
+- Bevussa slaps Keldrass with a wing for arguing the luck theory. (Book 14, Ch6.62L L1051)
+- Keldrass tells Ceria that the Horns are the 1268th Silver-rank team to kill an Adult Creler, as Miss Shivertail looked up. (Book 14, Ch6.67 L331-335)
