@@ -1,0 +1,742 @@
+batch	key	display	etype	facts	path
+places_01	blighted kingdom	Blighted Kingdom	place	0	Entities/Places/Blighted_Kingdom.md
+places_01	claiven earth	Claiven Earth	place	0	Entities/Places/Claiven_Earth.md
+places_01	drath	Drath	place	0	Entities/Places/Drath.md
+places_01	earth	Earth	place	0	Entities/Places/Earth.md
+places_01	elbe	Elbe	place	0	Entities/Places/Elbe.md
+places_01	ger	Ger	place	0	Entities/Places/Ger.md
+places_01	izril	Izril	place	0	Entities/Places/Izril.md
+places_01	kingdom of pheislant	Kingdom of Pheislant	place	0	Entities/Places/Kingdom_of_Pheislant.md
+places_01	levrhine	Levrhine	place	0	Entities/Places/Levrhine.md
+places_01	merreid	Merreid	place	0	Entities/Places/Merreid.md
+places_01	noelictus	Noelictus	place	0	Entities/Places/Noelictus.md
+places_01	savere	Savere	place	0	Entities/Places/Savere.md
+places_01	watch house	Watch House	place	0	Entities/Places/Watch_House.md
+places_01	wishdrinks	Wishdrinks	place	0	Entities/Places/Wishdrinks.md
+places_01	zeikhal	Zeikhal	place	0	Entities/Places/Zeikhal.md
+places_01	wandering inn	The Wandering Inn	place	58	Entities/Places/The_Wandering_Inn.md
+places_01	stream	Stream	place	2	Entities/Places/Stream.md
+places_01	kitchen	The kitchen	place	5	Entities/Places/The_kitchen.md
+places_01	liscor	Liscor	place	48	Entities/Places/Liscor.md
+places_01	liscor market	Liscor market	place	2	Entities/Places/Liscor_market.md
+places_01	celum	Celum	place	19	Entities/Places/Celum.md
+places_01	high passes	High Passes	place	7	Entities/Places/High_Passes.md
+places_01	liscor bathhouse	Liscor bathhouses	place	2	Entities/Places/Liscor_bathhouses.md
+places_01	bloodfields	Bloodfields	place	9	Entities/Places/Bloodfields.md
+places_01	liscor floodplains	Floodplains	place	5	Entities/Places/Floodplains.md
+places_01	ruins of albez	Ruins of Albez	place	5	Entities/Places/Ruins_of_Albez.md
+places_01	wistram	Wistram	place	31	Entities/Places/Wistram.md
+places_01	ruins of liscor	Ruins of Liscor	place	12	Entities/Places/Ruins_of_Liscor.md
+places_01	esthelm	Esthelm	place	14	Entities/Places/Esthelm.md
+places_01	market street	Market Street	place	5	Entities/Places/Market_Street.md
+places_01	antinium hive	Antinium Hive	place	10	Entities/Places/Antinium_Hive.md
+places_01	first landing	First Landing	place	4	Entities/Places/First_Landing.md
+places_02	tailless thief	Tailless Thief	place	6	Entities/Places/Tailless_Thief.md
+places_02	chandrar	Chandrar	place	2	Entities/Places/Chandrar.md
+places_02	drake cities	Drake cities	place	2	Entities/Places/Drake_cities.md
+places_02	zeres	Zeres	place	2	Entities/Places/Zeres.md
+places_02	liscor dungeon	Liscor dungeon	place	6	Entities/Places/Liscor_dungeon.md
+places_02	frenzied hare	Frenzied Hare	place	4	Entities/Places/Frenzied_Hare.md
+places_02	riverfarm	Riverfarm	place	32	Entities/Places/Riverfarm.md
+places_02	baleros	Baleros	place	2	Entities/Places/Baleros.md
+places_02	albez	Albez	place	2	Entities/Places/Albez.md
+places_02	reinhart manor	Reinhart manor	place	2	Entities/Places/Reinhart_manor.md
+places_02	tremborag city	Goblin stronghold	place	3	Entities/Places/Goblin_stronghold.md
+places_02	invrisil	Invrisil	place	6	Entities/Places/Invrisil.md
+places_02	rhir	Rhir	place	10	Entities/Places/Rhir.md
+places_02	reim	Reim	place	9	Entities/Places/Reim.md
+places_02	windrest	Windrest	place	3	Entities/Places/Windrest.md
+places_02	elvallian	Elvallian	place	2	Entities/Places/Elvallian.md
+places_02	pallass	Pallass	place	41	Entities/Places/Pallass.md
+places_02	jessal highlands	Jessal Highlands	place	2	Entities/Places/Jessal_Highlands.md
+places_02	oteslia	Oteslia	place	5	Entities/Places/Oteslia.md
+places_02	salazsar	Salazsar	place	2	Entities/Places/Salazsar.md
+places_02	hellios	Hellios	place	3	Entities/Places/Hellios.md
+places_02	dwarfhalls rest	Dwarfhalls Rest	place	4	Entities/Places/Dwarfhalls_Rest.md
+places_02	talenqual	Talenqual	place	3	Entities/Places/Talenqual.md
+places_02	tails and scales	Tails and Scales	place	2	Entities/Places/Tails_and_Scales.md
+places_02	jecrass	Jecrass	place	6	Entities/Places/Jecrass.md
+places_02	pomle	Pomle	place	5	Entities/Places/Pomle.md
+places_02	daquin	Daquin	place	2	Entities/Places/Daquin.md
+places_02	reizmelt	Reizmelt	place	2	Entities/Places/Reizmelt.md
+places_02	tiqr	Tiqr	place	6	Entities/Places/Tiqr.md
+places_02	manus	Manus	place	5	Entities/Places/Manus.md
+places_02	illivere	Illivere	place	2	Entities/Places/Illivere.md
+places_02	khelt	Khelt	place	4	Entities/Places/Khelt.md
+places_02	garden of sanctuary	[Garden of Sanctuary]	place	8	Entities/Places/Garden_of_Sanctuary.md
+places_02	medain	Medain	place	2	Entities/Places/Medain.md
+places_02	goblinhome	Goblinhome	place	4	Entities/Places/Goblinhome.md
+places_02	golden triangle	Golden Triangle	place	2	Entities/Places/Golden_Triangle.md
+places_02	ailendamus	Ailendamus	place	6	Entities/Places/Ailendamus.md
+places_02	sadomere	Sadomere	place	3	Entities/Places/Sadomere.md
+places_02	hectval	Hectval	place	4	Entities/Places/Hectval.md
+places_02	5th wall	5th Wall	place	2	Entities/Places/5th_Wall.md
+places_02	archmage mansion	Archmage's mansion	place	2	Entities/Places/Archmage_s_mansion.md
+orgs_01	bloodtear pirates	Bloodtear Pirates	org	0	Entities/Organisations/Bloodtear_Pirates.md
+orgs_01	brothers of serendipitous meetings	Brothers of Serendipitous Meetings	org	0	Entities/Organisations/Brothers_of_Serendipitous_Meetings.md
+orgs_01	centrists	Centrists	org	0	Entities/Organisations/Centrists.md
+orgs_01	crafters	Crafters	org	0	Entities/Organisations/Crafters.md
+orgs_01	dawn concordat	Dawn Concordat	org	0	Entities/Organisations/Dawn_Concordat.md
+orgs_01	house kallinad	House Kallinad	org	0	Entities/Organisations/House_Kallinad.md
+orgs_01	house reinhart	House Reinhart	org	0	Entities/Organisations/House_Reinhart.md
+orgs_01	libertarians	Libertarians	org	0	Entities/Organisations/Libertarians.md
+orgs_01	razorshard armor	Razorshard Armor	org	0	Entities/Organisations/Razorshard_Armor.md
+orgs_01	strongheart family	Strongheart family	org	0	Entities/Organisations/Strongheart_family.md
+orgs_01	ullsinoi	Ullsinoi	org	0	Entities/Organisations/Ullsinoi.md
+orgs_01	undersea crews	Undersea Crews	org	0	Entities/Organisations/Undersea_Crews.md
+orgs_01	wellfar family	Wellfar family	org	0	Entities/Organisations/Wellfar_family.md
+orgs_01	wiskeria adventurer team	Celestial Trackers	org	0	Entities/Organisations/Celestial_Trackers.md
+orgs_01	liscor watch	Liscor Watch	org	8	Entities/Organisations/Liscor_Watch.md
+orgs_01	adventurer guild	Adventurer's Guild	org	10	Entities/Organisations/Adventurer_s_Guild.md
+orgs_01	goblin tribe	Goblin tribe	org	2	Entities/Organisations/Goblin_tribe.md
+orgs_01	runner guild	Runner's Guild	org	12	Entities/Organisations/Runner_s_Guild.md
+orgs_01	liscor army	Liscor's army	org	4	Entities/Organisations/Liscor_s_army.md
+orgs_01	ceria, yvlon, ksmvr (and pisces)	Horns of Hammerad	org	53	Entities/Organisations/Horns_of_Hammerad.md
+orgs_01	adventurers	Adventurers	org	14	Entities/Organisations/Adventurers.md
+orgs_01	five families	Five Families	org	4	Entities/Organisations/Five_Families.md
+orgs_01	liscor adventurer guild	Liscor Adventurer's Guild	org	3	Entities/Organisations/Liscor_Adventurer_s_Guild.md
+orgs_01	america group	America Group	org	3	Entities/Organisations/America_Group.md
+orgs_01	rags tribe	Rags's tribe	org	2	Entities/Organisations/Rags_s_tribe.md
+orgs_01	rags tribe, per lady rie	Flooded Waters tribe	org	15	Entities/Organisations/Flooded_Waters_tribe.md
+orgs_01	red fang tribe	Red Fang Tribe	org	7	Entities/Organisations/Red_Fang_Tribe.md
+orgs_01	free antinium	Free Antinium	org	5	Entities/Organisations/Free_Antinium.md
+orgs_01	empire of sands	Empire of Sands	org	2	Entities/Organisations/Empire_of_Sands.md
+orgs_01	griffin hunt (pun on griffons that hunt griffins)	Griffon Hunt	org	29	Entities/Organisations/Griffon_Hunt.md
+orgs_01	stone spears	Stone Spears	org	4	Entities/Organisations/Stone_Spears.md
+orgs_01	house byres	House Byres	org	4	Entities/Organisations/House_Byres.md
+orgs_01	goblin army	Goblin army	org	5	Entities/Organisations/Goblin_army.md
+orgs_01	gnoll tribes	Gnoll tribes	org	4	Entities/Organisations/Gnoll_tribes.md
+orgs_01	walled cities	Walled Cities	org	6	Entities/Organisations/Walled_Cities.md
+orgs_01	celum watch	Celum Watch	org	4	Entities/Organisations/Celum_Watch.md
+orgs_01	celum adventurer guild	Celum Adventurer's Guild	org	2	Entities/Organisations/Celum_Adventurer_s_Guild.md
+orgs_01	celum adventurers	Celum adventurers	org	2	Entities/Organisations/Celum_adventurers.md
+orgs_01	magehammer company	Magehammer Company	org	2	Entities/Organisations/Magehammer_Company.md
+orgs_02	raverian fighters	Raverian Fighters	org	5	Entities/Organisations/Raverian_Fighters.md
+orgs_02	horns	Horns	org	7	Entities/Organisations/Horns.md
+orgs_02	redfang tribe	Redfang Tribe	org	9	Entities/Organisations/Redfang_Tribe.md
+orgs_02	redfang warriors	Redfang Warriors	org	44	Entities/Organisations/Redfang_Warriors.md
+orgs_02	goblin lord army	Goblin Lord's army	org	4	Entities/Organisations/Goblin_Lord_s_army.md
+orgs_02	silver swords	Silver Swords	org	11	Entities/Organisations/Silver_Swords.md
+orgs_02	halfseekers	Halfseekers	org	26	Entities/Organisations/Halfseekers.md
+orgs_02	rustangmarder	Rustängmarder	org	2	Entities/Organisations/Rustangmarder.md
+orgs_02	parasol stroll	Parasol Stroll	org	5	Entities/Organisations/Parasol_Stroll.md
+orgs_02	vuliel drae	Vuliel Drae	org	11	Entities/Organisations/Vuliel_Drae.md
+orgs_02	gravetender fist	Gravetender's Fist	org	5	Entities/Organisations/Gravetender_s_Fist.md
+orgs_02	united nations company	United Nations company	org	8	Entities/Organisations/United_Nations_company.md
+orgs_02	windrest villagers	Windrest villagers	org	2	Entities/Organisations/Windrest_villagers.md
+orgs_02	liscor council	Liscor Council	org	6	Entities/Organisations/Liscor_Council.md
+orgs_02	gold-rank adventurers	Gold-rank adventurers	org	4	Entities/Organisations/Gold_rank_adventurers.md
+orgs_02	redfang hobs	Redfang Hobs	org	5	Entities/Organisations/Redfang_Hobs.md
+orgs_02	house walchais	House Walchaís	org	2	Entities/Organisations/House_Walchais.md
+orgs_02	rose knights	Rose Knights	org	6	Entities/Organisations/Rose_Knights.md
+orgs_02	chosen	Az'kerash's Chosen	org	2	Entities/Organisations/Az_kerash_s_Chosen.md
+orgs_02	redfangs	Redfangs	org	2	Entities/Organisations/Redfangs.md
+orgs_02	actors rehearsing macbeth	Players of Celum	org	22	Entities/Organisations/Players_of_Celum.md
+orgs_02	unseen empire	Unseen Empire	org	3	Entities/Organisations/Unseen_Empire.md
+orgs_02	liscor 4th company	Liscor 4th Company	org	2	Entities/Organisations/Liscor_4th_Company.md
+orgs_02	painted soldiers	Painted Soldiers	org	5	Entities/Organisations/Painted_Soldiers.md
+orgs_02	high command	High Command	org	2	Entities/Organisations/High_Command.md
+orgs_02	skywalker company	4th Company	org	2	Entities/Organisations/4th_Company.md
+orgs_02	zel relatives	Zel's relatives	org	4	Entities/Organisations/Zel_s_relatives.md
+orgs_02	kidnappers	Kidnappers	org	2	Entities/Organisations/Kidnappers.md
+orgs_02	gemhammer	Gemhammer	org	5	Entities/Organisations/Gemhammer.md
+orgs_02	reiss army	Reiss's army	org	2	Entities/Organisations/Reiss_s_army.md
+orgs_02	pride of kelia	Pride Of Kelia	org	2	Entities/Organisations/Pride_Of_Kelia.md
+orgs_02	bevussa team	Wings of Pallass	org	6	Entities/Organisations/Wings_of_Pallass.md
+orgs_02	flamewardens	Flamewardens	org	5	Entities/Organisations/Flamewardens.md
+orgs_02	brotherhood of serendipitous meetings	Brotherhood Of Serendipitous Meetings	org	2	Entities/Organisations/Brotherhood_Of_Serendipitous_Meetings.md
+orgs_02	sisters of chell	Sisters of Chell	org	3	Entities/Organisations/Sisters_of_Chell.md
+orgs_02	reiss' army	Reiss' army	org	2	Entities/Organisations/Reiss_army.md
+orgs_02	levil team	Pithfire Hounds	org	3	Entities/Organisations/Pithfire_Hounds.md
+orgs_02	house veltras	House Veltras	org	2	Entities/Organisations/House_Veltras.md
+orgs_02	bushrangers	Bushrangers	org	8	Entities/Organisations/Bushrangers.md
+orgs_02	rustless guard	Rustless Guard	org	4	Entities/Organisations/Rustless_Guard.md
+orgs_03	serpent hunters	Serpent Hunters of Clais	org	2	Entities/Organisations/Serpent_Hunters_of_Clais.md
+orgs_03	bloodfeast raiders	Bloodfeast Raiders	org	8	Entities/Organisations/Bloodfeast_Raiders.md
+orgs_03	assassin guild	Assassin's Guild	org	3	Entities/Organisations/Assassin_s_Guild.md
+orgs_03	coven	Coven	org	4	Entities/Organisations/Coven.md
+orgs_03	circle of thorns	Circle of Thorns	org	10	Entities/Organisations/Circle_of_Thorns.md
+orgs_03	order of seasons	Order of Seasons	org	8	Entities/Organisations/Order_of_Seasons.md
+orgs_03	nerrhavia	Nerrhavia	org	3	Entities/Organisations/Nerrhavia.md
+orgs_03	khelt army	Khelt army	org	2	Entities/Organisations/Khelt_army.md
+orgs_03	wistram team	Wistram team	org	7	Entities/Organisations/Wistram_team.md
+orgs_03	reim army	Reim's army at Jecrass border	org	3	Entities/Organisations/Reim_s_army_at_Jecrass_border.md
+orgs_03	gentlemen callers	Gentlemen Callers	org	4	Entities/Organisations/Gentlemen_Callers.md
+orgs_03	jecrass army	Jecrass army	org	2	Entities/Organisations/Jecrass_army.md
+orgs_03	players	Players	org	2	Entities/Organisations/Players.md
+orgs_03	bodies of fellden	Bodies of Fellden	org	2	Entities/Organisations/Bodies_of_Fellden.md
+misc_01	aberrations	Aberrations	other	0	Entities/Concepts/Aberrations.md
+misc_01	antinium wars	Antinium Wars	event	0	Entities/Events/Antinium_Wars.md
+misc_01	bastion-general	Bastion-General	title	0	Entities/Titles/Bastion_General.md
+misc_01	bastion-general quiteil	Bastion-General Quiteil	other	0	Entities/Characters/Bastion_General_Quiteil.md
+misc_01	bastion-general zavarial	Bastion-General Zavarial	other	0	Entities/Characters/Bastion_General_Zavarial.md
+misc_01	black tide	The Black Tide	other	0	Entities/Concepts/The_Black_Tide.md
+misc_01	bronze-rank adventurers	Bronze-rank adventurers	concept	0	Entities/Concepts/Bronze_rank_adventurers.md
+misc_01	chief warrior	Chief Warrior	title	0	Entities/Titles/Chief_Warrior.md
+misc_01	council of liscor	Council of Liscor	other	0	Entities/Organisations/Council_of_Liscor.md
+misc_01	depth captain	Depth Captain	title	0	Entities/Titles/Depth_Captain.md
+misc_01	desk sergeant	Desk Sergeant	title	0	Entities/Titles/Desk_Sergeant.md
+misc_01	dragonspeaker	Dragonspeaker	title	0	Entities/Titles/Dragonspeaker.md
+misc_01	firebreath whiskey	Firebreath Whiskey	item	0	Entities/Items/Firebreath_Whiskey.md
+misc_01	gargoyle	Gargoyle	other	0	Entities/Creatures/Gargoyle.md
+misc_01	god	God	other	0	Entities/Other/God.md
+misc_01	gorgon	Gorgon	other	0	Entities/Species/Gorgon.md
+misc_01	hamlet	Hamlet	other	0	Entities/Works/Hamlet.md
+misc_01	hemp	Hemp	other	0	Entities/Concepts/Hemp.md
+misc_01	knight-commander	Knight-Commander	title	0	Entities/Titles/Knight_Commander.md
+misc_01	macbeth	Macbeth	other	0	Entities/Works/Macbeth.md
+misc_01	manticore	Manticore	other	0	Entities/Creatures/Manticore.md
+misc_01	named-rank adventurers	Named-rank adventurers	concept	0	Entities/Concepts/Named_rank_adventurers.md
+misc_01	potion of youth	Potion of Youth	item	0	Entities/Items/Potion_of_Youth.md
+misc_01	prime minister	Prime Minister	other	0	Entities/Titles/Prime_Minister.md
+misc_01	revalantor	Revalantor	title	0	Entities/Titles/Revalantor.md
+misc_01	river wardens	River Wardens	title	0	Entities/Titles/River_Wardens.md
+misc_01	senior guardsman	Senior Guardsman	title	0	Entities/Titles/Senior_Guardsman.md
+misc_01	sharphorns	Sharphorns	concept	0	Entities/Concepts/Sharphorns.md
+misc_01	siren	Siren	title	0	Entities/Titles/Siren.md
+misc_01	true antinium	True Antinium	concept	0	Entities/Concepts/True_Antinium.md
+misc_01	yellats	Yellats	item	0	Entities/Items/Yellats.md
+misc_01	rock crabs (hollowstone deceivers)	Rock-crab	other	4	Entities/Creatures/Rock_crab.md
+misc_01	gecko of liscor	Relc	other	138	Entities/Characters/Relc.md
+misc_02	healing potion	Healing potions	item	11	Entities/Items/Healing_potions.md
+misc_02	amentus fruit	Amentus fruit (the blue fruit)	item	2	Entities/Items/Amentus_fruit_the_blue_fruit.md
+misc_02	law of liscor	Law of Liscor	concept	2	Entities/Concepts/Law_of_Liscor.md
+misc_02	liscor guards	Liscor guards	other	2	Entities/Organisations/Liscor_guards.md
+misc_02	goblin child	Goblin child	other	3	Entities/Organisations/Goblin_child.md
+misc_02	chess	Chess	concept	2	Entities/Concepts/Chess.md
+misc_02	messenger seals	Messenger Seals	item	2	Entities/Items/Messenger_Seals.md
+misc_02	runners	Runners	class	6	Entities/Classes/Runners.md
+misc_02	king	The King	other	4	Entities/Characters/The_King.md
+misc_02	queen of the free antinium	Free Queen	other	56	Entities/Characters/Free_Queen.md
+misc_02	minotaur	Calruz	other	103	Entities/Characters/Calruz.md
+misc_02	preservation runes	Preservation runes	item	2	Entities/Items/Preservation_runes.md
+misc_02	aberration	Aberration	concept	2	Entities/Concepts/Aberration.md
+misc_02	cleric	[Cleric]	class	2	Entities/Classes/Cleric.md
+misc_02	magic tiers	Tier Magic	concept	2	Entities/Concepts/Tier_Magic.md
+misc_02	message spell	Message spell	spell	3	Entities/Spells/Message_spell.md
+misc_02	ksmvr	Ksmvr	other	91	Entities/Characters/Ksmvr.md
+misc_02	skeleton	Skeleton	other	5	Entities/Characters/Skeleton.md
+misc_02	archmages	Archmages	title	4	Entities/Titles/Archmages.md
+misc_02	illumination	[Illumination]	spell	2	Entities/Spells/Illumination.md
+misc_02	princess	Princess	other	3	Entities/Characters/Princess.md
+misc_03	spellbooks	Spellbooks	item	4	Entities/Items/Spellbooks.md
+misc_03	expedition	Expedition	event	5	Entities/Events/Expedition.md
+misc_03	knight	Knight	other	7	Entities/Characters/Knight.md
+misc_03	aaron vanwell	BlackMage	other	18	Entities/Characters/BlackMage.md
+misc_03	chat	Chat	other	9	Entities/Concepts/Chat.md
+misc_03	courier	Couriers	other	4	Entities/Concepts/Couriers.md
+misc_03	hamburger	Hamburgers	item	2	Entities/Items/Hamburgers.md
+misc_03	hobgoblin	Hobgoblin	other	2	Entities/Creatures/Hobgoblin.md
+misc_03	antinium listeners	Listeners	other	3	Entities/Creatures/Listeners.md
+misc_03	chessboard	Chessboard	item	3	Entities/Items/Chessboard.md
+misc_03	faerie flowers	Faerie flowers	item	5	Entities/Items/Faerie_flowers.md
+misc_03	selphid	Selphid	other	5	Entities/Creatures/Selphid.md
+misc_03	americans	Americans	other	7	Entities/Organisations/Americans.md
+misc_03	demon soldier	Demon soldier	other	2	Entities/Creatures/Demon_soldier.md
+misc_03	garen red fang	Garen Red Fang	other	7	Entities/Characters/Garen_Red_Fang.md
+misc_03	kerash	Kerash	other	2	Entities/Characters/Kerash.md
+misc_03	magnolia reinhart carriage	Lady Magnolia's carriage	other	2	Entities/Items/Lady_Magnolia_s_carriage.md
+misc_03	goblin lord	Goblin Lord	other	36	Entities/Characters/Goblin_Lord.md
+misc_03	goblin shaman	Goblin [Shaman]	title	2	Entities/Classes/Goblin_Shaman.md
+misc_03	goblin king	Velan the Kind	title	22	Entities/Characters/Velan_the_Kind.md
+misc_03	hobgoblin spirit speaking through numbtongue	Pyrite	other	68	Entities/Characters/Pyrite.md
+misc_03	errant traveller	Errant Traveller	item	2	Entities/Items/Errant_Traveller.md
+misc_03	wistram factions	Wistram factions	concept	3	Entities/Concepts/Wistram_factions.md
+misc_03	galuc the builder	Galuc	other	2	Entities/Characters/Galuc.md
+misc_03	thresk	Thresk	other	2	Entities/Characters/Thresk.md
+misc_03	blessing of the hearth	Blessing of the Hearth	other	2	Entities/Classes/Blessing_of_the_Hearth.md
+misc_03	small queen	Xrn	other	49	Entities/Characters/Xrn.md
+misc_03	magic door	Magic door	other	11	Entities/Items/Magic_door.md
+misc_03	council	Council	other	7	Entities/Organisations/Council.md
+misc_04	leader of germina	Quarass	title	16	Entities/Titles/Quarass.md
+misc_04	door	Door	item	10	Entities/Items/Door.md
+misc_04	barracks mural	Barracks wall	item	2	Entities/Items/Barracks_wall.md
+misc_04	evercut arrow	Evercut Arrow	item	2	Entities/Items/Evercut_Arrow.md
+misc_04	mossbear	Mossbear	other	3	Entities/Creatures/Mossbear.md
+misc_04	commander foliana / three-color stalker	Foliana	other	31	Entities/Characters/Foliana.md
+misc_04	yellow splatters	Yellow Splatters	other	28	Entities/Characters/Yellow_Splatters.md
+misc_04	fearless	Fearless	class	2	Entities/Classes/Fearless.md
+misc_04	alternate tom	Alternate Tom	other	4	Entities/Characters/Alternate_Tom.md
+misc_04	geram redfist	Geram Redfist	other	2	Entities/Characters/Geram_Redfist.md
+misc_04	trebuchet	Trebuchet	item	5	Entities/Items/Trebuchet.md
+misc_04	general sserys	General Sserys	other	2	Entities/Characters/General_Sserys.md
+misc_04	rags lieutenants	Rags's lieutenants	other	2	Entities/Organisations/Rags_s_lieutenants.md
+misc_04	wall lords	Wall Lord of the Wall	title	3	Entities/Titles/Wall_Lord_of_the_Wall.md
+misc_04	heartflame breastplate	Heartflame Breastplate	item	5	Entities/Items/Heartflame_Breastplate.md
+misc_04	goblin lord lieutenants	Goblin Lord's lieutenants	other	2	Entities/Organisations/Goblin_Lord_s_lieutenants.md
+misc_04	sacrifice of roses	Sacrifice of Roses	event	2	Entities/Events/Sacrifice_of_Roses.md
+misc_04	runner guild of celum	Runner's Guild Celum	other	2	Entities/Organisations/Runner_s_Guild_Celum.md
+misc_04	wesle salkis	Wesle Salkis	other	3	Entities/Characters/Wesle_Salkis.md
+misc_04	clan tannousin	Clan Tannousin	other	2	Entities/Organisations/Clan_Tannousin.md
+misc_04	zel will	Zel's will	item	3	Entities/Items/Zel_s_will.md
+misc_04	pallass door	Pallass door	item	5	Entities/Items/Pallass_door.md
+misc_04	lord erill	Lord Erill	other	3	Entities/Characters/Lord_Erill.md
+misc_04	reiss lieutenants	Reiss's lieutenants	other	2	Entities/Organisations/Reiss_s_lieutenants.md
+misc_04	bag of holding	Bag of holding	item	2	Entities/Items/Bag_of_holding.md
+misc_04	hobs	Hobs	other	4	Entities/Species/Hobs.md
+misc_04	awakened raskghar	Awakened Raskghar	other	3	Entities/Species/Awakened_Raskghar.md
+misc_04	xrn, the small queen	Xrn (the Small Queen)	other	2	Entities/Characters/Xrn_the_Small_Queen.md
+misc_04	nali-sticks	Nali-stick	other	2	Entities/Items/Nali_stick.md
+misc_04	yellow rivers	Yellow Rivers	concept	3	Entities/Concepts/Yellow_Rivers.md
+misc_04	yellow rivers disease	Yellow Rivers disease	other	3	Entities/Concepts/Yellow_Rivers_disease.md
+misc_04	daquin game	Hide-and-seek game	event	2	Entities/Events/Hide_and_seek_game.md
+misc_04	perorn sadiluc (fleethoof)	Perorn Sadiluc (Fleethoof)	other	4	Entities/Characters/Perorn_Sadiluc_Fleethoof.md
+misc_04	shailt of tergim	Shailt of Tergim	other	2	Entities/Characters/Shailt_of_Tergim.md
+misc_04	perorn sadiluc	Perorn Sadiluc	other	2	Entities/Characters/Perorn_Sadiluc.md
+misc_04	stitchworks	Stitchworks	other	2	Entities/Places/Stitchworks.md
+misc_04	lancrel folk	Lancrel folk	other	2	Entities/Organisations/Lancrel_folk.md
+misc_04	califor	Califor	other	21	Entities/Characters/Califor.md
+misc_04	sage grass	Sage's Grass	item	2	Entities/Items/Sage_s_Grass.md
+misc_04	liscor election	Liscor election	event	2	Entities/Events/Liscor_election.md
+misc_04	ilvriss' ring	Ilvriss's ring	other	2	Entities/Items/Ilvriss_s_ring.md
+misc_05	wall lord zail	Wall Lord Zail	other	3	Entities/Characters/Wall_Lord_Zail.md
+misc_05	silent box	Silent Box	item	2	Entities/Items/Silent_Box.md
+misc_05	gralton radivaek	Lord Gralton Radivaek	other	2	Entities/Characters/Lord_Gralton_Radivaek.md
+misc_05	lord belchaus meron (lord bel, the lord of the dance)	Lord Belchaus Meron (Lord Bel, the Lord of the Dance)	other	2	Entities/Characters/Lord_Belchaus_Meron_Lord_Bel_the_Lord_of_the_Dance.md
+misc_05	emerald signet	Emerald Signet	item	2	Entities/Items/Emerald_Signet.md
+misc_05	demerra	Healer Demerra	other	2	Entities/Characters/Healer_Demerra.md
+misc_05	therrium sailwinds	Therrium Sailwinds	other	4	Entities/Characters/Therrium_Sailwinds.md
+misc_05	diamond swords of serept	Diamond Swords of Serept	item	2	Entities/Items/Diamond_Swords_of_Serept.md
+misc_05	shriekblade (tessa)	Shriekblade (Tessa)	other	2	Entities/Characters/Shriekblade_Tessa.md
+chars_01	abebi	Abebi	person	0	Entities/Characters/Abebi.md
+chars_01	admiral dakelos	Admiral Dakelos	person	0	Entities/Characters/Admiral_Dakelos.md
+chars_01	athal	Athal	person	0	Entities/Characters/Athal.md
+chars_01	bastam	Bastam	person	0	Entities/Characters/Bastam.md
+chars_01	beycalt	Beycalt	person	0	Entities/Characters/Beycalt.md
+chars_01	bezha	Bezha	person	0	Entities/Characters/Bezha.md
+chars_01	bishop	Bishop	person	0	Entities/Characters/Bishop.md
+chars_01	caddin	Caddin	person	0	Entities/Characters/Caddin.md
+chars_01	cade	Cade	person	0	Entities/Characters/Cade.md
+chars_01	chole	Chole	person	0	Entities/Characters/Chole.md
+chars_01	commander uxel	Commander Uxel	person	0	Entities/Characters/Commander_Uxel.md
+chars_01	cynthia	Cynthia	person	0	Entities/Characters/Cynthia.md
+chars_01	delivan	Delivan	person	0	Entities/Characters/Delivan.md
+chars_01	demon king	Demon King	person	0	Entities/Characters/Demon_King.md
+chars_01	halassia	Halassia	person	0	Entities/Characters/Halassia.md
+chars_01	hammera	Hammera	person	0	Entities/Characters/Hammera.md
+chars_01	hesseif	Hesseif	person	0	Entities/Characters/Hesseif.md
+chars_01	invek	Invek	person	0	Entities/Characters/Invek.md
+chars_01	issa	Issa	person	0	Entities/Characters/Issa.md
+chars_01	jelaim	Jelaim	person	0	Entities/Characters/Jelaim.md
+chars_01	jerci	Jerci	person	0	Entities/Characters/Jerci.md
+chars_01	jurix	Jurix	person	0	Entities/Characters/Jurix.md
+chars_01	keith	Keith	person	0	Entities/Characters/Keith.md
+chars_01	kissilt	Kissilt	person	0	Entities/Characters/Kissilt.md
+chars_01	lady dealia	Lady Dealia	person	0	Entities/Characters/Lady_Dealia.md
+chars_01	leafarmor	Leafarmor	person	0	Entities/Characters/Leafarmor.md
+chars_01	levil	Levil	person	0	Entities/Characters/Levil.md
+chars_01	lord pattin of vaunt	Lord Pattin of Vaunt	person	0	Entities/Characters/Lord_Pattin_of_Vaunt.md
+chars_01	mendi	Mendi	person	0	Entities/Characters/Mendi.md
+chars_01	merec	Merec	person	0	Entities/Characters/Merec.md
+chars_01	mirin	Mirin	person	0	Entities/Characters/Mirin.md
+chars_01	miss iglesias	Miss Iglesias	person	0	Entities/Characters/Miss_Iglesias.md
+chars_01	nicoletta	Nicoletta	person	0	Entities/Characters/Nicoletta.md
+chars_01	ossky	Ossky	person	0	Entities/Characters/Ossky.md
+chars_01	quelm	Quelm	person	0	Entities/Characters/Quelm.md
+chars_01	redit	Redit	person	0	Entities/Characters/Redit.md
+chars_01	rima	Rima	person	0	Entities/Characters/Rima.md
+chars_02	ser thornst	Ser Thornst	person	0	Entities/Characters/Ser_Thornst.md
+chars_02	ser vorn	Ser Vorn	person	0	Entities/Characters/Ser_Vorn.md
+chars_02	silver mare of izril	Ci	person	0	Entities/Characters/Ci.md
+chars_02	sir nil moxae	Sir Nil Moxae	person	0	Entities/Characters/Sir_Nil_Moxae.md
+chars_02	sylind	Sylind	person	0	Entities/Characters/Sylind.md
+chars_02	tommie	Tommie	person	0	Entities/Characters/Tommie.md
+chars_02	tottenval	Tottenval	person	0	Entities/Characters/Tottenval.md
+chars_02	viri	Viri	person	0	Entities/Characters/Viri.md
+chars_02	warden winta	Warden Winta	person	0	Entities/Characters/Warden_Winta.md
+chars_02	zalaiss	Zalaiss	person	0	Entities/Characters/Zalaiss.md
+chars_02	zassil	Zassil	person	0	Entities/Characters/Zassil.md
+chars_03	erin solstice	Erin (part 1 of 3: Books 1-2)	person	282	Entities/Characters/Erin/Part_1_Books_1-2.md
+chars_04	erin solstice	Erin (part 2 of 3: Books 2-8)	person	272	Entities/Characters/Erin/Part_2_Books_2-8.md
+chars_05	erin solstice	Erin (part 3 of 3: Books 8-19)	person	270	Entities/Characters/Erin/Part_3_Books_8-19.md
+chars_06	klbkch	Klbkch	person	229	Entities/Characters/Klbkch.md
+chars_07	pisces	Pisces	person	270	Entities/Characters/Pisces.md
+chars_08	selys shivertail	Selys	person	117	Entities/Characters/Selys.md
+chars_08	goblin chieftain	Goblin Chieftain	person	7	Entities/Characters/Goblin_Chieftain.md
+chars_08	drake shopkeeper who cheated erin	Lism	person	31	Entities/Characters/Lism.md
+chars_08	olesm swifttail	Olesm	person	101	Entities/Characters/Olesm.md
+chars_09	krshia	Krshia	person	101	Entities/Characters/Krshia.md
+chars_09	magnolia reinhart	Magnolia Reinhart	person	193	Entities/Characters/Magnolia_Reinhart.md
+chars_10	ryoka griffin	Ryoka (part 1 of 2: Books 1-3)	person	267	Entities/Characters/Ryoka/Part_1_Books_1-3.md
+chars_11	ryoka griffin	Ryoka (part 2 of 2: Books 3-19)	person	261	Entities/Characters/Ryoka/Part_2_Books_3-19.md
+chars_11	fals	Fals	person	23	Entities/Characters/Fals.md
+chars_12	garia strongheart	Garia Strongheart	person	31	Entities/Characters/Garia_Strongheart.md
+chars_12	flos	Flos	person	143	Entities/Characters/Flos.md
+chars_12	flos steward	Orthenon	person	30	Entities/Characters/Orthenon.md
+chars_13	nameless child	Rags	person	172	Entities/Characters/Rags.md
+chars_13	persua	Persua	person	16	Entities/Characters/Persua.md
+chars_14	pawn	Pawn	person	124	Entities/Characters/Pawn.md
+chars_14	zevara	Zevara	person	99	Entities/Characters/Zevara.md
+chars_15	ceria springwalker	Ceria Springwalker	person	206	Entities/Characters/Ceria_Springwalker.md
+chars_15	necromancer	Necromancer (the)	person	2	Entities/Characters/Necromancer_the.md
+chars_15	gazi	Gazi	person	81	Entities/Characters/Gazi.md
+chars_16	othius iv	Blighted King	person	15	Entities/Characters/Blighted_King.md
+chars_16	sostrom	Sostrom	person	7	Entities/Characters/Sostrom.md
+chars_16	theofore	Theofore	person	4	Entities/Characters/Theofore.md
+chars_16	az'kerash	Az'kerash	person	83	Entities/Characters/Az_kerash.md
+chars_16	teriarch	Teriarch	person	131	Entities/Characters/Teriarch.md
+chars_16	tkrn	Tkrn	person	11	Entities/Characters/Tkrn.md
+chars_17	toren	Toren	person	149	Entities/Characters/Toren.md
+chars_17	cervial	Cervial	person	14	Entities/Characters/Cervial.md
+chars_17	hendric	Hendric	person	2	Entities/Characters/Hendric.md
+chars_17	lir	Lir	person	4	Entities/Characters/Lir.md
+chars_17	yvlon	Yvlon	person	93	Entities/Characters/Yvlon.md
+chars_17	gerial	Gerial	person	8	Entities/Characters/Gerial.md
+chars_17	gerald	Gerald	person	5	Entities/Characters/Gerald.md
+chars_17	hunt	Hunt	person	2	Entities/Characters/Hunt.md
+chars_18	marian	Marian	person	14	Entities/Characters/Marian.md
+chars_18	bird	Bird	person	92	Entities/Characters/Bird.md
+chars_18	rose	Rose	person	4	Entities/Characters/Rose.md
+chars_18	stitch girl	Octavia	person	73	Entities/Characters/Octavia.md
+chars_18	peslas	Peslas	person	8	Entities/Characters/Peslas.md
+chars_18	belgrade	Belgrade	person	27	Entities/Characters/Belgrade.md
+chars_18	culyss	Culyss	person	2	Entities/Characters/Culyss.md
+chars_18	hawk	Hawk	person	29	Entities/Characters/Hawk.md
+chars_18	valceif godfrey	Valceif	person	9	Entities/Characters/Valceif.md
+chars_18	val	Val	person	8	Entities/Characters/Val.md
+chars_19	niers astoragon	Niers	person	154	Entities/Characters/Niers.md
+chars_19	thief	Thief	person	4	Entities/Characters/Thief.md
+chars_19	drevish	Drevish	person	6	Entities/Characters/Drevish.md
+chars_19	mars	Mars	person	24	Entities/Characters/Mars.md
+chars_19	takhatres	Takhatres	person	6	Entities/Characters/Takhatres.md
+chars_19	teres	Teres	person	17	Entities/Characters/Teres.md
+chars_19	trey atwood	Trey	person	40	Entities/Characters/Trey.md
+chars_19	ressa	Ressa	person	19	Entities/Characters/Ressa.md
+chars_20	halrac	Halrac	person	46	Entities/Characters/Halrac.md
+chars_20	stitch-woman	Revi	person	19	Entities/Characters/Revi.md
+chars_20	brunkr	Brunkr	person	20	Entities/Characters/Brunkr.md
+chars_20	lyonette	Lyonette	person	143	Entities/Characters/Lyonette.md
+chars_20	jelaqua ivirith	Jelaqua	person	53	Entities/Characters/Jelaqua.md
+chars_21	moore	Moore	person	27	Entities/Characters/Moore.md
+chars_21	plague mage	Typhenous	person	22	Entities/Characters/Typhenous.md
+chars_21	seborn	Seborn	person	24	Entities/Characters/Seborn.md
+chars_21	ulrien	Ulrien	person	9	Entities/Characters/Ulrien.md
+chars_21	emily	Emily	person	2	Entities/Characters/Emily.md
+chars_21	richard	Richard	person	5	Entities/Characters/Richard.md
+chars_21	tom	Tom	person	36	Entities/Characters/Tom.md
+chars_21	wilen	Wilen	person	3	Entities/Characters/Wilen.md
+chars_21	garren redfang	Garen Redfang	person	83	Entities/Characters/Garen_Redfang.md
+chars_22	mrsha	Mrsha	person	141	Entities/Characters/Mrsha.md
+chars_22	urksh	Urksh	person	8	Entities/Characters/Urksh.md
+chars_22	ilvriss	Ilvriss	person	115	Entities/Characters/Ilvriss.md
+chars_22	periss	Periss	person	4	Entities/Characters/Periss.md
+chars_23	venitra	Venitra	person	34	Entities/Characters/Venitra.md
+chars_23	zel shivertail	Zel Shivertail	person	119	Entities/Characters/Zel_Shivertail.md
+chars_23	plague zombie woman, one of az'kerash chosen	Plague Zombie Woman, One Of Az'Kerash Chosen	person	2	Entities/Characters/Bea.md
+chars_23	hekra	Hekra	person	2	Entities/Characters/Hekra.md
+chars_23	imani	Imani	person	13	Entities/Characters/Imani.md
+chars_23	reynold	Reynold	person	29	Entities/Characters/Reynold.md
+chars_23	tyrion veltras	Tyrion Veltras	person	70	Entities/Characters/Tyrion_Veltras.md
+chars_23	sserys	Sserys	person	15	Entities/Characters/Sserys.md
+chars_24	grand queen	Grand Queen	person	12	Entities/Characters/Grand_Queen.md
+chars_24	mihaela godfrey	Mihaela Godfrey	person	5	Entities/Characters/Mihaela_Godfrey.md
+chars_24	grev	Grev	person	7	Entities/Characters/Grev.md
+chars_24	wesle	Wesle	person	14	Entities/Characters/Wesle.md
+chars_24	amerys	Amerys	person	13	Entities/Characters/Amerys.md
+chars_24	beatrice	Beatrice	person	6	Entities/Characters/Beatrice.md
+chars_24	calvaron	Calvaron	person	12	Entities/Characters/Calvaron.md
+chars_24	charles de trevalier	Charles de Trevalier	person	4	Entities/Characters/Charles_de_Trevalier.md
+chars_24	cognita	Cognita	person	22	Entities/Characters/Cognita.md
+chars_24	illphres	Illphres	person	17	Entities/Characters/Illphres.md
+chars_24	durene	Durene	person	49	Entities/Characters/Durene.md
+chars_25	laken	Laken	person	204	Entities/Characters/Laken.md
+chars_25	prost	Prost	person	24	Entities/Characters/Prost.md
+chars_25	yesel	Yesel	person	3	Entities/Characters/Yesel.md
+chars_25	ivolethe	Ivolethe	person	49	Entities/Characters/Ivolethe.md
+chars_26	geneva	Geneva	person	67	Entities/Characters/Geneva.md
+chars_26	thriss	Thriss	person	4	Entities/Characters/Thriss.md
+chars_26	okasha	Okasha	person	18	Entities/Characters/Okasha.md
+chars_26	gamel	Gamel	person	12	Entities/Characters/Gamel.md
+chars_26	nemor	Nemor	person	4	Entities/Characters/Nemor.md
+chars_26	sacra	Sacra	person	17	Entities/Characters/Sacra.md
+chars_26	agnes	Agnes	person	4	Entities/Characters/Agnes.md
+chars_26	jasi	Jasi	person	19	Entities/Characters/Jasi.md
+chars_26	maran	Maran	person	9	Entities/Characters/Maran.md
+chars_26	ylawes byres	Ylawes Byres	person	34	Entities/Characters/Ylawes_Byres.md
+chars_26	badarrow	Badarrow	person	19	Entities/Characters/Badarrow.md
+chars_26	grunter	Grunter	person	4	Entities/Characters/Grunter.md
+chars_26	headscratcher	Headscratcher	person	22	Entities/Characters/Headscratcher.md
+chars_26	anand	Anand	person	26	Entities/Characters/Anand.md
+chars_26	ijvani	Ijvani	person	23	Entities/Characters/Ijvani.md
+chars_27	pivr	Pivr	person	6	Entities/Characters/Pivr.md
+chars_27	tersk	Tersk	person	20	Entities/Characters/Tersk.md
+chars_27	pirateaba	pirateaba	person	42	Entities/Meta/pirateaba.md
+chars_27	tremborag	Tremborag	person	40	Entities/Characters/Tremborag.md
+chars_27	noears	Noears	person	14	Entities/Characters/Noears.md
+chars_27	ulvama	Ulvama	person	17	Entities/Characters/Ulvama.md
+chars_27	greydath of blades	Greydath of Blades	person	34	Entities/Characters/Greydath_of_Blades.md
+chars_27	hob scout	Poisonbite	person	9	Entities/Characters/Poisonbite.md
+chars_27	redscar	Redscar	person	23	Entities/Characters/Redscar.md
+chars_27	timor du havrington	Timor Du Havrington	person	2	Entities/Characters/Timor_Du_Havrington.md
+chars_27	cessic	Cessic	person	2	Entities/Characters/Cessic.md
+chars_27	rievan forstrom	Rievan Forstrom	person	2	Entities/Characters/Rievan_Forstrom.md
+chars_27	archmage zelkyr	Archmage Zelkyr	person	2	Entities/Characters/Archmage_Zelkyr.md
+chars_27	montressa du valeross	Montressa	person	30	Entities/Characters/Montressa.md
+chars_27	termin	Termin	person	4	Entities/Characters/Termin.md
+chars_27	hedault	Hedault	person	12	Entities/Characters/Hedault.md
+chars_28	garry	Garry	person	14	Entities/Characters/Garry.md
+chars_28	empress of sands	Emperor of Sands	person	10	Entities/Characters/Emperor_of_Sands.md
+chars_28	venith crusland	Venith	person	17	Entities/Characters/Venith.md
+chars_28	calac	Calac	person	4	Entities/Characters/Calac.md
+chars_28	maresar	Maresar	person	6	Entities/Characters/Maresar.md
+chars_28	queravia	Queravia	person	2	Entities/Characters/Queravia.md
+chars_28	bethal walchais	Bethal	person	45	Entities/Characters/Bethal.md
+chars_28	eliasor melissar	Eliasor Melissar	person	3	Entities/Characters/Eliasor_Melissar.md
+chars_28	thomast veniral	Thomast	person	16	Entities/Characters/Thomast.md
+chars_28	anith	Anith	person	4	Entities/Characters/Anith.md
+chars_28	dasha	Dasha	person	2	Entities/Characters/Dasha.md
+chars_28	insill	Insill	person	2	Entities/Characters/Insill.md
+chars_28	pekona	Pekona	person	3	Entities/Characters/Pekona.md
+chars_28	safry	Safry	person	12	Entities/Characters/Safry.md
+chars_28	drassi	Drassi	person	29	Entities/Characters/Drassi.md
+chars_28	ishkr	Ishkr	person	8	Entities/Characters/Ishkr.md
+chars_28	garusa	Garusa	person	9	Entities/Characters/Garusa.md
+chars_28	osthia blackwing	Osthia Blackwing	person	24	Entities/Characters/Osthia_Blackwing.md
+chars_28	thrissiam blackwing	Thrissiam Blackwing	person	4	Entities/Characters/Thrissiam.md
+chars_28	viceria strongheart	Viceria	person	6	Entities/Characters/Viceria.md
+chars_28	wailant strongheart	Wailant	person	23	Entities/Characters/Wailant.md
+chars_28	aiko	Aiko	person	10	Entities/Characters/Aiko.md
+chars_29	exara	Exara	person	2	Entities/Characters/Exara.md
+chars_29	kenjiro murata	Ken	person	24	Entities/Characters/Ken.md
+chars_29	luan khumalo	Luan	person	29	Entities/Characters/Luan.md
+chars_29	quallet marshhand	Quallet	person	11	Entities/Characters/Quallet.md
+chars_29	daly sullivan	Daly	person	21	Entities/Characters/Daly.md
+chars_29	johanas	Johanas	person	2	Entities/Characters/Johanas.md
+chars_29	paige	Paige	person	13	Entities/Characters/Paige.md
+chars_29	quexa	Quexa	person	6	Entities/Characters/Quexa.md
+chars_29	calectus	Calectus	person	12	Entities/Characters/Calectus.md
+chars_29	xalandrass	Xalandrass	person	7	Entities/Characters/Xalandrass.md
+chars_29	timbor parithad	Timbor Parithad	person	4	Entities/Characters/Timbor_Parithad.md
+chars_29	beniar	Beniar	person	16	Entities/Characters/Beniar.md
+chars_29	helm	Helm	person	4	Entities/Characters/Helm.md
+chars_29	witch	Wiskeria	person	59	Entities/Characters/Wiskeria.md
+chars_29	fabiel	Fabiel	person	2	Entities/Characters/Fabiel.md
+chars_29	jelov	Jelov	person	5	Entities/Characters/Jelov.md
+chars_29	rehanna	Rehanna	person	9	Entities/Characters/Rehanna.md
+chars_29	welsca crimsonscale	Welsca Crimsonscale	person	2	Entities/Characters/Welsca_Crimsonscale.md
+chars_29	peclir im	Peclir Im	person	2	Entities/Characters/Peclir_Im.md
+chars_30	tekshia shivertail	Tekshia	person	33	Entities/Characters/Tekshia.md
+chars_30	cirille bitterclaw	Cirille	person	11	Entities/Characters/Cirille.md
+chars_30	nereshal	Nereshal	person	10	Entities/Characters/Nereshal.md
+chars_30	blighted queen	Blighted Queen	person	2	Entities/Characters/Blighted_Queen.md
+chars_30	erille	Erille	person	4	Entities/Characters/Erille.md
+chars_30	fool	Fool	person	10	Entities/Characters/Fool.md
+chars_30	lady zekyria	Lady Zekyria	person	2	Entities/Characters/Lady_Zekyria.md
+chars_30	wirclaw	Wirclaw	person	2	Entities/Characters/Wirclaw.md
+chars_30	numbtongue	Numbtongue	person	113	Entities/Characters/Numbtongue.md
+chars_30	mage at riverfarm relaying laken messages	Nesor	person	5	Entities/Characters/Nesor.md
+chars_30	rie valerund	Rie	person	28	Entities/Characters/Rie.md
+chars_30	purple smile	Purple Smile	person	7	Entities/Characters/Purple_Smile.md
+chars_30	twin stripes	Twin Stripes	person	3	Entities/Characters/Twin_Stripes.md
+chars_30	bekia	Bekia	person	2	Entities/Characters/Bekia.md
+chars_30	dawil	Dawil	person	10	Entities/Characters/Dawil.md
+chars_30	falene	Falene	person	18	Entities/Characters/Falene.md
+chars_31	captain salvia	Salvia	person	2	Entities/Characters/Salvia.md
+chars_31	gershal	Gershal	person	3	Entities/Characters/Gershal.md
+chars_31	krsysl wordsmith	Krsysl Wordsmith	person	9	Entities/Characters/Krsysl_Wordsmith.md
+chars_31	tallis the stormbreaker	Tallis the Stormbreaker	person	7	Entities/Characters/Tallis_the_Stormbreaker.md
+chars_31	wrymvr the deathless	Wrymvr the Deathless	person	6	Entities/Characters/Wrymvr_the_Deathless.md
+chars_31	elia arcsinger	Elia Arcsinger	person	8	Entities/Characters/Elia_Arcsinger.md
+chars_31	eater of spears	Eater of Spears	person	6	Entities/Characters/Eater_of_Spears.md
+chars_31	goblin with magic	Reiss	person	61	Entities/Characters/Reiss.md
+chars_31	oom	Oom	person	4	Entities/Characters/Oom.md
+chars_31	snapjaw	Snapjaw	person	7	Entities/Characters/Snapjaw.md
+chars_31	errif jealwind	Errif Jealwind	person	5	Entities/Characters/Errif_Jealwind.md
+chars_31	venim	Venim	person	11	Entities/Characters/Venim.md
+chars_31	emme	Emme	person	6	Entities/Characters/Emme.md
+chars_31	rabbiteater	Rabbiteater	person	30	Entities/Characters/Rabbiteater.md
+chars_31	archmage feor	Archmage Feor	person	5	Entities/Characters/Archmage_Feor.md
+chars_31	noass	Noass	person	7	Entities/Characters/Noass.md
+chars_31	sir relz hauscale	Sir Relz Hauscale	person	5	Entities/Characters/Sir_Relz_Hauscale.md
+chars_31	nawalishifra tannousin	Nawal	person	13	Entities/Characters/Nawal.md
+chars_31	lady bevia veniford	Lady Bevia Veniford	person	8	Entities/Characters/Lady_Bevia_Veniford.md
+chars_31	lord tourant	Lord Tourant	person	3	Entities/Characters/Lord_Tourant.md
+chars_31	embria	Embria	person	43	Entities/Characters/Embria.md
+chars_31	shorthilt	Shorthilt	person	11	Entities/Characters/Shorthilt.md
+chars_32	yitton byres	Yitton Byres	person	13	Entities/Characters/Yitton_Byres.md
+chars_32	sir kerrig, knight sworn to lady bethal walchais	Kerrig	person	14	Entities/Characters/Kerrig.md
+chars_32	welca caveis	Welca Caveis	person	10	Entities/Characters/Welca_Caveis.md
+chars_32	tessia	Tessia	person	2	Entities/Characters/Tessia.md
+chars_32	earlia	Earlia	person	10	Entities/Characters/Earlia.md
+chars_32	nailren	Nailren	person	2	Entities/Characters/Nailren.md
+chars_32	gralton	Gralton	person	9	Entities/Characters/Lord_Gralton_Radivaek.md
+chars_32	ieka imarris	Ieka	person	12	Entities/Characters/Ieka.md
+chars_32	jackal	Jackal	person	2	Entities/Characters/Jackal.md
+chars_32	minerva	Minerva	person	2	Entities/Characters/Minerva.md
+chars_32	pellmia	Pellmia	person	10	Entities/Characters/Pellmia.md
+chars_32	archmage nailihuaile	Archmage Nailihuaile	person	10	Entities/Characters/Archmage_Nailihuaile.md
+chars_32	feor	Feor	person	5	Entities/Characters/Feor.md
+chars_32	teura	Teura	person	4	Entities/Characters/Teura.md
+chars_32	ulseil greenscale	Ulseil	person	4	Entities/Characters/Ulseil.md
+chars_32	bevussa slenderscale	Bevussa	person	18	Entities/Characters/Bevussa.md
+chars_32	pebblesnatch	Pebblesnatch	person	18	Entities/Characters/Pebblesnatch.md
+chars_32	keldram	Keldrass	person	8	Entities/Characters/Keldrass.md
+chars_32	elirr	Elirr	person	17	Entities/Characters/Elirr.md
+chars_32	nokha	Nokha	person	8	Entities/Characters/Nokha.md
+chars_32	umina caxical	Umina	person	23	Entities/Characters/Umina.md
+chars_32	quietstab	Quietstab	person	4	Entities/Characters/Quietstab.md
+chars_32	jericha	Jericha	person	3	Entities/Characters/Jericha.md
+chars_32	eltistiman verdue	Eltistiman Verdue	person	7	Entities/Characters/Eltistiman_Verdue.md
+chars_32	beilmark	Beilmark	person	4	Entities/Characters/Beilmark.md
+chars_32	silent queen	Silent Queen	person	4	Entities/Characters/Silent_Queen.md
+chars_32	raekea	Raekea	person	7	Entities/Characters/Raekea.md
+chars_32	spiderbite	Spiderslicer	person	4	Entities/Characters/Spiderslicer.md
+chars_32	alber	Alber	person	4	Entities/Characters/Alber.md
+chars_33	alime	Alime	person	4	Entities/Characters/Alime.md
+chars_33	fierre	Fierre	person	59	Entities/Characters/Fierre.md
+chars_33	madain	Madain	person	3	Entities/Characters/Madain.md
+chars_33	bamer	Bamer	person	4	Entities/Characters/Bamer.md
+chars_33	colfa	Colfa	person	3	Entities/Characters/Colfa.md
+chars_33	himilt val lischelle-drakle	Himilt	person	6	Entities/Characters/Himilt.md
+chars_33	dawson	Dawson	person	3	Entities/Characters/Dawson.md
+chars_33	siri	Siri	person	3	Entities/Characters/Siri.md
+chars_33	kirana	Kirana	person	2	Entities/Characters/Kirana.md
+chars_33	miss hastel	Miss Hastel	person	2	Entities/Characters/Miss_Hastel.md
+chars_33	seer of steel	Seer of Steel	person	2	Entities/Characters/Seer_of_Steel.md
+chars_33	venaz	Venaz	person	19	Entities/Characters/Venaz.md
+chars_33	jeiss	Jeiss	person	5	Entities/Characters/Jeiss.md
+chars_33	grimalkin	Grimalkin	person	53	Entities/Characters/Grimalkin.md
+chars_33	lasica	Lasica	person	17	Entities/Characters/Lasica.md
+chars_33	lorent	Lorent	person	3	Entities/Characters/Lorent.md
+chars_33	maughin	Maughin	person	8	Entities/Characters/Maughin.md
+chars_33	pelt	Pelt	person	23	Entities/Characters/Pelt.md
+chars_33	rufelt	Rufelt	person	20	Entities/Characters/Rufelt.md
+chars_34	xif	Xif	person	8	Entities/Characters/Xif.md
+chars_34	saliss of lights	Saliss	person	57	Entities/Characters/Saliss.md
+chars_34	khalid	Khalid	person	2	Entities/Characters/Khalid.md
+chars_34	daiton	Daiton	person	2	Entities/Characters/Daiton.md
+chars_34	ulyse	Ulyse	person	3	Entities/Characters/Ulyse.md
+chars_34	geril	Geril	person	5	Entities/Characters/Geril.md
+chars_34	jecaina	Jecaina	person	7	Entities/Characters/Jecaina.md
+chars_34	lyfelt	Lyfelt	person	5	Entities/Characters/Lyfelt.md
+chars_34	nsiia	Nsiia	person	18	Entities/Characters/Nsiia.md
+chars_34	orjin of pomle	Orjin	person	10	Entities/Characters/Orjin.md
+chars_34	raelt leysars	Raelt	person	30	Entities/Characters/Raelt.md
+chars_34	revine zecrew	Revine	person	3	Entities/Characters/Revine.md
+chars_34	salii	Salii	person	8	Entities/Characters/Salii.md
+chars_34	farri sightly	Farri Sightly	person	5	Entities/Characters/Farri_Sightly.md
+chars_34	stan	Stan	person	7	Entities/Characters/Stan.md
+chars_34	alais	Alais	person	3	Entities/Characters/Alais.md
+chars_34	wil kallinad	Wil	person	23	Entities/Characters/Wil.md
+chars_34	merrik	Merrik	person	4	Entities/Characters/Merrik.md
+chars_34	peki	Peki	person	7	Entities/Characters/Peki.md
+chars_34	sillk	Sillk	person	2	Entities/Characters/Sillk.md
+chars_34	tulm	Tulm	person	14	Entities/Characters/Tulm.md
+chars_34	xol	Xol	person	4	Entities/Characters/Xol.md
+chars_34	feshi	Feshi	person	9	Entities/Characters/Feshi.md
+chars_34	yerranola	Yerranola	person	5	Entities/Characters/Yerranola.md
+chars_35	lupp	Lupp	person	8	Entities/Characters/Lupp.md
+chars_35	pryde ulta	Pryde Ulta	person	8	Entities/Characters/Pryde_Ulta.md
+chars_35	wuvren	Wuvren	person	3	Entities/Characters/Wuvren.md
+chars_35	captain pielt	Pielt	person	2	Entities/Characters/Pielt.md
+chars_35	vell	Vell	person	2	Entities/Characters/Vell.md
+chars_35	wikir	Wikir	person	2	Entities/Characters/Wikir.md
+chars_35	alonna swiftwing	Alonna Swiftwing	person	2	Entities/Characters/Alonna_Swiftwing.md
+chars_35	kel	Kel	person	5	Entities/Characters/Kel.md
+chars_35	alrric	Alrric	person	9	Entities/Characters/Alrric.md
+chars_35	brilm	Brilm	person	3	Entities/Characters/Brilm.md
+chars_35	lady coloseuvia	Rafaema	person	9	Entities/Characters/Rafaema.md
+chars_35	luciva skybreath	Luciva Skybreath	person	5	Entities/Characters/Luciva_Skybreath.md
+chars_35	elmmet	Elmmet	person	6	Entities/Characters/Elmmet.md
+chars_35	mavika	Mavika	person	18	Entities/Characters/Mavika.md
+chars_35	enforcer	The [Enforcer]	person	3	Entities/Characters/The_Enforcer.md
+chars_35	alevica	Alevica	person	13	Entities/Characters/Alevica.md
+chars_35	charlay	Charlay	person	14	Entities/Characters/Charlay.md
+chars_35	beatica	Beatica	person	3	Entities/Characters/Beatica.md
+chars_35	agratha	Agratha	person	3	Entities/Characters/Agratha.md
+chars_35	belavierr	Belavierr	person	51	Entities/Characters/Belavierr.md
+chars_35	eloise	Eloise	person	11	Entities/Characters/Eloise.md
+chars_35	hedag	Hedag	person	11	Entities/Characters/Hedag.md
+chars_35	ferkr	Ferkr	person	2	Entities/Characters/Ferkr.md
+chars_35	grand strategist chaldion	Chaldion	person	33	Entities/Characters/Chaldion.md
+chars_35	nanette	Nanette	person	11	Entities/Characters/Nanette.md
+chars_36	ram shackl	Ram Shackl	person	2	Entities/Characters/Ram_Shackl.md
+chars_36	calirn	Calirn	person	6	Entities/Characters/Calirn.md
+chars_36	ser raim	Ser Raim	person	8	Entities/Characters/Ser_Raim.md
+chars_36	talia kallinad	Talia Kallinad	person	4	Entities/Characters/Talia_Kallinad.md
+chars_36	gaile	Gaile	person	3	Entities/Characters/Gaile.md
+chars_36	tagil	Tagil	person	3	Entities/Characters/Tagil.md
+chars_36	ullim	Ullim	person	2	Entities/Characters/Ullim.md
+chars_36	lism swifttail	Lism Swifttail	person	2	Entities/Characters/Lism_Swifttail.md
+chars_36	teliv witherscale	Teliv Witherscale	person	6	Entities/Characters/Teliv_Witherscale.md
+chars_36	remi canada	Rémi Canada	person	4	Entities/Characters/Remi_Canada.md
+chars_36	femithain	Femithain	person	8	Entities/Characters/Femithain.md
+chars_36	quarass of germina	Quarass of Germina	person	7	Entities/Characters/Quarass_of_Germina.md
+chars_36	thelican	Thelican	person	4	Entities/Characters/Thelican.md
+chars_36	fetohep of khelt	Fetohep	person	47	Entities/Characters/Fetohep.md
+chars_36	vaitsha zectiou	Vaitsha Zectiou	person	2	Entities/Characters/Vaitsha_Zectiou.md
+chars_36	temile	Temile	person	2	Entities/Characters/Temile.md
+chars_36	isceil	Isceil	person	10	Entities/Characters/Isceil.md
+chars_36	palt	Palt	person	29	Entities/Characters/Palt.md
+chars_36	ulinde	Ulinde	person	7	Entities/Characters/Ulinde.md
+chars_36	beza	Beza	person	18	Entities/Characters/Beza.md
+chars_36	talia	Talia	person	4	Entities/Characters/Talia.md
+chars_36	bearclaw	Bearclaw	person	7	Entities/Characters/Bearclaw.md
+chars_36	mister soot	Soot	person	3	Entities/Characters/Soot.md
+chars_36	grev redigal	Grev Redigal	person	2	Entities/Characters/Grev_Redigal.md
+chars_36	jasi redigal	Jasi Redigal	person	3	Entities/Characters/Jasi_Redigal.md
+chars_36	kilkran	Kilkran	person	2	Entities/Characters/Kilkran.md
+chars_36	dekass	Dekass	person	12	Entities/Characters/Dekass.md
+chars_37	hayvon operland	Hayvon Operland	person	16	Entities/Characters/Hayvon_Operland.md
+chars_37	viltach	Viltach	person	6	Entities/Characters/Viltach.md
+chars_37	emessa	Emessa	person	2	Entities/Characters/Emessa.md
+chars_37	general duln	General Duln	person	2	Entities/Characters/General_Duln.md
+chars_37	qissa	Qissa	person	2	Entities/Characters/Qissa.md
+chars_37	ferris seftpaw	Ferris Seftpaw	person	5	Entities/Characters/Ferris_Seftpaw.md
+chars_37	flying queen	Flying Queen	person	2	Entities/Characters/Flying_Queen.md
+chars_37	holdnose	Holdnose	person	2	Entities/Characters/Holdnose.md
+chars_37	ekirra	Ekirra	person	5	Entities/Characters/Ekirra.md
+chars_37	cetris duiland	Cetris Duiland	person	6	Entities/Characters/Cetris_Duiland.md
+chars_37	cara o'sullivan	Cara	person	15	Entities/Characters/Cara.md
+chars_37	general lael	General Lael	person	2	Entities/Characters/General_Lael.md
+chars_37	zamea	Zamea	person	4	Entities/Characters/Zamea.md
+chars_37	perric of medain	Perric of Medain	person	8	Entities/Characters/Perric_of_Medain.md
+chars_37	ytol	Ytol	person	3	Entities/Characters/Ytol.md
+chars_37	queen yisame of nerrhavia	Queen Yisame	person	2	Entities/Characters/Queen_Yisame.md
+chars_37	iratze	Iratze	person	3	Entities/Characters/Iratze.md
+chars_37	salthorn	Salthorn	person	2	Entities/Characters/Salthorn.md
+chars_37	visma	Visma	person	3	Entities/Characters/Visma.md
+chars_37	lasc	Lasc	person	3	Entities/Characters/Lasc.md
+chars_37	esiela	Esiela	person	4	Entities/Characters/Esiela.md
+chars_37	chesacre	Chesacre	person	2	Entities/Characters/Chesacre.md
+chars_37	thaina	Thaina	person	2	Entities/Characters/Thaina.md
+chars_37	elena	Elena	person	11	Entities/Characters/Elena.md
+chars_37	briganda	Briganda	person	5	Entities/Characters/Briganda.md
+chars_37	lacel the leaper	Lacel the Leaper	person	3	Entities/Characters/Lacel_the_Leaper.md
+chars_37	lord bein terland	Lord Bein Terland	person	3	Entities/Characters/Lord_Bein_Terland.md
+chars_37	mirn	Mirn	person	2	Entities/Characters/Mirn.md
+chars_37	maviola el	Maviola El	person	43	Entities/Characters/Maviola_El.md
+chars_37	inky	Inky	person	2	Entities/Characters/Inky.md
+chars_38	rasea zecrew	Rasea Zecrew	person	12	Entities/Characters/Rasea_Zecrew.md
+chars_38	joseph	Joseph	person	11	Entities/Characters/Joseph.md
+chars_38	kevin	Kevin	person	10	Entities/Characters/Kevin.md
+chars_38	nalth	Nalthaliarstrelous	person	7	Entities/Characters/Nalthaliarstrelous.md
+chars_38	hexel quithail	Hexel Quithail	person	2	Entities/Characters/Hexel_Quithail.md
+chars_38	ratici	Ratici	person	9	Entities/Characters/Ratici.md
+chars_38	wilovan	Wilovan	person	11	Entities/Characters/Wilovan.md
+chars_38	selphid sharing geneva body	Idis	person	2	Entities/Characters/Idis.md
+chars_38	hexel	Hexel	person	8	Entities/Characters/Hexel.md
+chars_38	leon	Leon	person	4	Entities/Characters/Leon.md
+chars_38	hethon	Hethon	person	3	Entities/Characters/Hethon.md
+chars_38	sammial veltras	Sammial Veltras	person	3	Entities/Characters/Sammial_Veltras.md
+chars_38	galina	Galina	person	4	Entities/Characters/Galina.md
+chars_38	troy	Troy	person	3	Entities/Characters/Troy.md
+chars_38	liska	Liska	person	2	Entities/Characters/Liska.md
+chars_38	tritel and ci	Tritel and Ci	person	2	Entities/Characters/Tritel_and_Ci.md
+chars_38	delezza	Delezza	person	5	Entities/Characters/Delezza.md
+chars_38	mage-captain hetarria	Hetarria	person	3	Entities/Characters/Hetarria.md
+chars_38	merish	Merish	person	3	Entities/Characters/Merish.md
+chars_38	quiteil	Quiteil	person	6	Entities/Characters/Quiteil.md
+chars_38	flora	Flora	person	3	Entities/Characters/Flora.md
+chars_38	zavarial	Zavarial	person	3	Entities/Characters/Zavarial.md
+chars_38	shallel byres	Shallel Byres	person	2	Entities/Characters/Shallel_Byres.md
+chars_38	lady salkis	Lady Salkis	person	2	Entities/Characters/Lady_Salkis.md
+chars_38	armored queen	Armored Queen	person	5	Entities/Characters/Armored_Queen.md
+chars_38	twisted queen	Twisted Queen	person	4	Entities/Characters/Twisted_Queen.md
+chars_38	karsaeu-dequoa	Karsaeu-Dequoa	person	7	Entities/Characters/Karsaeu_Dequoa.md
+chars_38	salamani	Salamani	person	9	Entities/Characters/Salamani.md
+chars_38	sithorn	Trapmaster Assassin	person	2	Entities/Characters/Trapmaster_Assassin.md
+chars_38	valeterisa	Valeterisa	person	17	Entities/Characters/Valeterisa.md
+chars_38	seve-alrelious	Seve-Alrelious	person	5	Entities/Characters/Seve_Alrelious.md
+chars_38	yisht	Yisht	person	3	Entities/Characters/Yisht.md
+chars_38	taxiela	Taxiela	person	3	Entities/Characters/Taxiela.md
