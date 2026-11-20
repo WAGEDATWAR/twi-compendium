@@ -1,4 +1,4 @@
-files 305  claims 6096  errors 0  warnings 4
+files 732  claims 23612  errors 0  warnings 28
 
 == ERRORS ==
 
@@ -6,5 +6,29 @@ files 305  claims 6096  errors 0  warnings 4
 == WARNINGS ==
 01_World_Primer.md:161: 4.12 window lacks 536, 8, 2 :: Pisces and Moore report the door can send someone of Ryoka's general w
 03_Magic.md:212: 4.12 window lacks 536, 8, 2 :: Pisces and Moore, speaking for the mages, say the door can send someon
+Entities/Characters/Agratha.md:10: 6.37E window lacks [Witches] :: Califor hopes Agratha can attend a meeting of [Witches].
+Entities/Characters/Alevica.md:5: 6.35 window lacks [Witch] :: Alevica is a City Runner who is also a [Witch], a young woman in her l
+Entities/Characters/Beatica.md:5: 6.36E window lacks [Councilwoman] :: Beatica is a [Councilwoman] from Lancrel in her early forties, well dr
+Entities/Characters/Belavierr.md:5: 6.37E window lacks [Witch] :: Belavierr is a seven-foot [Witch] with black hair to her waist, a hat 
+Entities/Characters/Ceria_Springwalker.md:190: Wistram_Days_Pt.4 window lacks 120 :: Ceria practises for the combat trial by shooting down floating [Light]
+Entities/Characters/Ceria_Springwalker.md:290: 7.20 window lacks [Arctic Cryomancer] :: Ceria, an [Arctic Cryomancer] with pale eyes and a skeletal hand, make
+Entities/Characters/Elmmet.md:5: 6.34E, 6.37E window lacks [Councilman] :: Elmmet is a Lancrel [Councilman] and one of Lancrel's big leaders, wit
+Entities/Characters/Eloise.md:5: 6.37E window lacks [Witch] :: Eloise is an old [Witch] who arrives in Riverfarm describing herself a
+Entities/Characters/Eloise.md:7: 6.37E window lacks [Councilwoman] :: Eloise serves tea at a table with a [Carpenter], a Lancrel [Councilwom
+Entities/Characters/Flos.md:60: 4.04K window lacks 6256 :: Orthenon reports that Reim has 6,256 soldiers, perhaps two thousand mo
+Entities/Characters/Geneva.md:151: 7.32D, 7.32D window lacks 25 :: In Book 18 Geneva is 25 and from Madison, Wisconsin, and works in the 
+Entities/Characters/Halrac.md:27: 2.22 window lacks [Pinpoint Shot] :: Halrac begins to call the activated Skill [Pinpoint Shot] when he aims
+Entities/Characters/Klbkch.md:144: 4.12 window lacks 328 :: Klbkch quotes Erin 328 gold for a third floor and expansion, notes six
+Entities/Characters/Klbkch.md:272: 5.39 window lacks 521 :: A treasure-room trap kills forty-one Soldiers before yielding a pair o
+Entities/Characters/Klbkch.md:279: 6.29 window lacks 600 :: Klbkch asks Zevara and Selys to let the Hive expand with the city and 
+Entities/Characters/Klbkch.md:282: 6.62L window lacks 438, 211 :: Klbkch sets up a test with 438 excess Workers and Soldiers because Bel
+Entities/Characters/Niers.md:298: Interlude_The_Titans_Question window lacks 87 :: Niers sets 87 advanced-class students a test of outfitting his divisio
+Entities/Characters/Orthenon.md:26: 4.04K window lacks 50000, 80000 :: Orthenon estimates the coalition army at probably 50,000 to 80,000 alt
+Entities/Characters/Pisces.md:253: 4.37O window lacks [Flash Step] :: Pisces uses [Flash Step] to leave the roach cave before the swarm reac
+Entities/Characters/Ryoka/Part_1_Books_1-3.md:266: 2.29 window lacks [Flashbang] :: Ryoka casts [Flashbang] with her thumbs in her ears, carries Mrsha ove
+Entities/Characters/Toren.md:119: 2.21 window lacks 158 :: Because Erin forbade hitting, Toren pokes Lyonette 158 times and then 
+Entities/Characters/Toren.md:265: 6.48T window lacks 20651 :: Toren has killed things 20,651 times and is tired of killing for no re
+Entities/Characters/Xif.md:12: 6.38 window lacks 220 :: Xif invokes [The Avid Collector] to force a sale: Erin must name a pri
+Entities/Characters/Xif.md:18: 6.38 window lacks 220 :: Xif buys one Faerie Flower for 220 gold from Erin, pulling out a bag o
 Entities/Items/Door.md:7: 4.12 window lacks 536 :: After Ryoka's testing, the mages Typhenous and Moore calculated that t
 Entities/Items/Door.md:8: 4.12 window lacks 8, 2 :: The door exhausts its magic after such a teleport and needs roughly 8.

@@ -30,9 +30,10 @@ Primer, cosmology/system (levels, classes, skills, Names, gods, dungeons), speci
 - [x] 3.1 entry format (`ENTRY_FORMAT.md`) and `lint_entities.py` (cites checked against the text, claim seq derived)
 - [x] 3.2 foundations drafted and independently verified: 01 primer, 02 levels/classes/skills, 03 magic, 04 cosmology/gods/Names/dungeons, 05 core species, 06 other species, 07 creatures (1,903 claims; second-pass gaps in DEF-029..DEF-035)
 - [x] 3.3 places and organisations (74 + 104 files, `Entities/Places`, `Entities/Organisations`)
-- [ ] 3.4 characters (entity files from `facts.jsonl` plus the text; large entities need supersession links across pieces, DEF-028)
+- [x] 3.4 characters: 456 files, 18,520 claims (large entities Erin and Ryoka split into parts; supersession is expressed as dated {state} claims; DEF-028 now concerns the consistency pass)
 - [x] 3.5 items, events, titles, concepts, classes and untyped entities (DEF-014, DEF-018 for entities with a 'needs file' flag; timeline per volume still to do)
 - [ ] 3.6 foundations pass 2 (DEF-029..DEF-035) and open-question resolution (DEF-036)
+- [ ] 3.7 consistency + depth pass (requested by the user, runs after 3.4 and before Phase 4): (a) cross-file consistency: duplicates and overlaps (DEF-039..043), homonym splits, one-home-per-fact between foundation and entity files, spelling/alias normalisation, long and pronoun-led bullets (DEF-044, DEF-046), supersession between parts of Erin/Ryoka; (b) accuracy: re-verify entity-file claims by independent verifiers on the weakest files and a larger random sample, resolve DEF-036 conflicts; (c) depth and coverage: every ledger fact is represented by a claim or listed as a dropped seed (DEF-047), entities below the file threshold (453 topics, ~1,300 one-fact entities, DEF-021) get homes in topic or grouped files, relevant text not yet captured is mined by chapter sweeps (Books 14-19 are thinnest), volume timelines
 
 ## Phase 4: verification
 verify2-style automated pass (quotes/numbers within +-2 lines of cite), independent re-read of sampled chapters, lint (headers, links, cite validity, one-home-per-fact).
