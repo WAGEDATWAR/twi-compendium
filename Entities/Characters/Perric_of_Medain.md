@@ -1,0 +1,35 @@
+# Perric of Medain
+> Type: person | Also called: High King Perric of Medain; High King of Medain; Perric | First appears: Book 15, Ch7.10K
+> See also: Raelt, Flos, Queen Yisame, Jecaina
+## Overview
+- Perric is the [King] of Medain, a powerful ruler of a powerful nation whose army includes former adventurers. (Book 15, Ch7.10K L19-20)
+- Medain is called the Kingdom of Adventurers, and its army relies on adventurers, many of them Gold-rank. (Book 19, Ch7.46K L462-463)
+- Perric styles himself a [High King], and says four nations fall under his aegis. (Book 15, Ch7.10K L25)
+- Perric was a [Prince] and a Gold-rank adventurer in his youth, who levelled in another class abroad. (Book 15, Ch7.10K L32-33)
+- Ulyse of Parasol Stroll says that Perric's title High King is given because he rules a defacto smaller kingdom, one of his coastal holdings. (Book 19, Ch7.46K L470)
+- Perric collects at least one member of each species in his harem, except Selphids, most half-breeds and every Beastkin tribe. (Book 15, Ch7.10K L67-68)
+- Perric believes that a wife should be loyal if he ever finds one worthy of ruling beside him. (Book 15, Ch7.10K L67)
+- {belief} Perric considers that his artifacts and levels as a [King] put him at the rank of Named Adventurer. (Book 19, Ch7.46K L976)
+- Perric wears a record twelve artifacts, each balanced so that the magical leakage stays at the threshold. (Book 19, Ch7.46K L976)
+- The Adventurer's Guilds outside Medain refuse to grant Perric the Named Adventurer title, which eternally infuriates him. (Book 19, Ch7.46K L977)
+- Perric wields the enchanted sword Wavebreaker of Medain, a heirloom of his house. (Book 19, Ch7.47K L327)
+- Perric wears a Ring of Ironskin, the Greater Arrowguard Ring and an Amulet of Solidity that resists both aura and spell. (Book 19, Ch7.47K L327)
+- Perric's boots are [Haste]-capable for two minutes. (Book 19, Ch7.47K L327)
+## Book 15-16: Wistram's broadcasts
+- {event} Perric demands that Wistram broadcast his parade, and is angry that the Academy has not answered his summons. (Book 15, Ch7.10K L21-25)
+- Perric silences a Wistram [Mage] with one look when she says she is not privy to the Archmages' thoughts. (Book 15, Ch7.10K L23-24)
+- Wistram says its single channel can support only one event at a time, and that it will not show any one nation until a fair order is set out. (Book 15, Ch7.10K L26,L66)
+- Perric sits down slowly, his wrath paused, when the half-Elf [Mage] gives her answer. (Book 15, Ch7.10K L66-67)
+- {event} Perric condemns the atrocities of Reim and Belchan in equal measure in a measured tone, but his armies march on Belchan. (Book 16, Ch7.11 L5)
+- {event} Perric covertly hints to Raelt that some of Medain's adventurers might enlist in Jecrass's armies as outsiders. (Book 16, Ch7.13K L1168,L1174)
+## Book 19: the Jecrass war
+- {belief} Flos tells Teres that, before this battle, he would have put Perric far above Raelt in levels and strength, but now Raelt may be the better fighter. (Book 19, Ch7.46K L471)
+- Flos plans to insult Perric into declaring war and to kill the High King in one big battle, since Medain's army is not half as mobile as Jecrass's. (Book 19, Ch7.46K L467)
+- {belief} Perric thinks Flos is not a better [King] than he is, since Perric is younger and has greater vision. (Book 19, Ch7.46K L993)
+- {belief} Perric believes he is the one true [King] among all the half-baked men, and that he will eclipse Flos given more vassals like the Seven. (Book 19, Ch7.46K L993-994)
+- Perric is incensed by the King of Destruction's decree about his refugees, and by Raelt of Jecrass giving him orders. (Book 19, Ch7.46K L975,L993)
+- {event} Perric sends a [Message] asking for the most mobile Gold-rank team in Jecrass's capital, and orders the Wistram [Mages] to remain in the capital. (Book 19, Ch7.46K L999-1001)
+- Perric sends a [Message] to Queen Yisame and the Speaker of Trees. (Book 19, Ch7.46K L1001)
+- Perric faces Raelt with his Gold-ranks cheering their leader, and Raelt challenges him to fight. (Book 19, Ch7.47K L327-332)
+- {state} The King of Duels is Medain's prisoner, leaving only his daughter to rule Jecrass. (Book 19, Ch7.47K L1229)
+- {belief} Perric reflects, after a few bracing drinks, that the day went mostly according to his plan. (Book 19, Ch7.47K L1229-1230)

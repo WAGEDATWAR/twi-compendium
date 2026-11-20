@@ -1,0 +1,53 @@
+# Cara
+> Type: person | Also called: Cara O'Sullivan; Queen of Pop; Singer of Terandria; Baroness of the Beat | First appears: Book 15, Ch7.08K
+> See also: Elena, Aaron Vanwell, Abebi, Thien
+## Overview
+- Cara O'Sullivan is an Irish Earther who is the world's first [Popstar], known as the Queen of Pop and the Singer of Terandria. (Book 17, Ch7.21KQ L545,L648)
+- Cara has the [Pop Star] class and the second class [Thespian], and her combined Skills give her fame and fortune. (Book 17, Ch7.21KQ L696)
+- Cara is Level 40, the highest-level of her band, having reached that level the previous month. (Book 17, Ch7.21KQ L829-830)
+- Cara's titles include the Baroness of the Beat. (Book 19, Ch7.50 L775)
+- Cara's natural accent is Irish, which comes out when she drops her smile in private. (Book 17, Ch7.21KQ L647-648)
+- {state} Elena says that Cara left Earth in 2017. (Book 18, Ch7.29B L581)
+## Fame
+- {belief} Jecaina says the Queen of Pop is the greatest [Singer] born in ten thousand years, with many albums, and shows King Raelt a recording crystal of her songs. (Book 15, Ch7.08K L248-251)
+- The recording crystal plays pop songs with a piano and a beat, which Raelt does not know come from another world. (Book 15, Ch7.08K L254-256)
+- Jecaina says the Queen of Pop is a famous [Singer] in Terandria who has tons of albums. (Book 15, Ch7.08K L260)
+- Before her band, Cara sang alone with karaoke music on an iPhone, enhanced by a spell for backup. (Book 17, Ch7.21KQ L645)
+- Cara became a beloved icon sweeping across Terandria, creating a wave of music and a new culture among young folk. (Book 17, Ch7.21KQ L645)
+- Cara draws the 3rd Prince of Pheislant, Tellsiv, and a Calanfer [Baroness] to her concert at Phel's Light. (Book 17, Ch7.21KQ L544,L558)
+- Cara keeps a plagiarism log of the Earth songs she plays, to keep her honest and so she can give something back if they get home. (Book 17, Ch7.21KQ L697-701)
+- Cara sings everything from modern pop hits to classics such as Sinatra's My Way. (Book 17, Ch7.21KQ L702)
+- Cara opens a concert with Journey's famed song and later performs Uptown Funk, which is new to the audience. (Book 17, Ch7.21KQ L728,L734)
+## Book 17: the concert in Phel's Light
+- {event} Cara marches her band and audience out of the plaza to the harbor with a marching song as the funeral barge returns Ser Raim. (Book 17, Ch7.21KQ L748-749,L758-759)
+- {event} Cara kneels as the Summer Knights kneel to the barge, and her audience follows suit in silence. (Book 17, Ch7.21KQ L762-763)
+- Cara tells Greg she does not like the [Knights] but respects men who died far from home doing what they thought right. (Book 17, Ch7.21KQ L769-771)
+- Cara tells the people of Phel's Landing that the next song is for bravery, and sings softly as the [Knights] listen. (Book 17, Ch7.21KQ L773-774)
+- {event} Cara ends the concert with rock, dyed black hair and a pale look, and the world's second mosh pit begins evolving. (Book 17, Ch7.21KQ L785-792)
+## Masks and secrets
+- {reveal} Cara tells her band she is not a [Popstar] but a [Thespian] who is acting, and says she hates the nobility, the monarchy and the [Knights]. (Book 17, Ch7.21KQ L671-676)
+- {reveal} Cara admits to Rae that she looked chubby before and lost weight when she gained Skills; her face changed too. (Book 17, Ch7.21KQ L708)
+- {reveal} Cara tells Abebi that she lied to Rae, because telling people what they want to hear is her job. (Book 17, Ch7.21KQ L809-813)
+- Cara tells Abebi she sings pop only because it is the most accessible music and that she does not necessarily like rock. (Book 17, Ch7.21KQ L816-819)
+- {reveal} Cara tells Abebi that all of this is a mask, and that they tour to earn money to live, buy artifacts and find the best place to settle. (Book 17, Ch7.21KQ L823-826)
+- {belief} Cara tells Abebi that they are being hunted, that nowhere is safe, and that they need allies. (Book 17, Ch7.21KQ L828)
+- Cara tells Abebi that her band does not even know her real name. (Book 17, Ch7.21KQ L848)
+## Dealings with Wistram
+- {event} Cara receives a letter from Elena in Wistram that lacks the agreed passphrases, and concludes it is a trap and that Elena is being held hostage. (Book 17, Ch7.21KQ L837-846)
+- Wistram [Mages] follow Cara's tour asking to speak with her and escort the band to Wistram, apparently unaware of the others. (Book 17, Ch7.21KQ L841)
+- Cara says her fallback is Plan C or Plan G, and blames Blackmage for putting Wistram onto them. (Book 17, Ch7.21KQ L846-848)
+- Cara has refused to send more Earthers to Wistram, despite the Archmages pressing Aaron to get her to send them. (Book 18, Ch7.29B L445)
+- Aaron suspects Elena sent a covert message because the [Popstar] of Terandria is staying independent. (Book 18, Ch7.29B L270)
+- {belief} Cara is angered at the Drakes' Wistram broadcast, saying it caters to the rich, and wants someone to turn it off. (Book 18, Ch7.32D L1106-1109)
+- {event} Cara slams her trailer door on two Wistram [Mages] of the Libertarian faction who come to speak to her. (Book 18, Ch7.34C L49-51)
+- {event} Cara argues by iPhone with Aaron, whom she calls Blackmage, demanding Elena be put on the line and getting no answer. (Book 19, Ch7.50 L782-786)
+- Cara says that after one more show she will quit Wistram until they start threatening Elena. (Book 19, Ch7.50 L824)
+## Book 19: music videos
+- Cara tours with an Earth-born band: Abebi as manager, Thien as [Drummer] and [Historian], Greg as [Guitarist] and Rae as [Bassist]. (Book 19, Ch7.50 L779-780,L830-831)
+- {event} Cara films the world's first music video, walking through real spells and arrows to Boulevard of Broken Dreams, with a staged battlefield. (Book 19, Ch7.50 L1170-1176)
+- Dame Neranthei, a Thronebearer of Calanfer with the crest of the 4th Princess, appears in the first video, and so do Huntress Melitza of Noelictus, a half-Elf and a Dwarf. (Book 19, Ch7.50 L1108-1112,L1179-1183)
+- {event} Cara's second video has a skull-masked [Necromancer] scrying her, Ailendamus soldiers attacking her, and Wistram mages under a triangle-and-eye symbol helping drive off evil. (Book 19, Ch7.50 L1200-1224)
+- Aaron notes the scrying spell fails on Cara's real name, so the name shown in the video is not her real one. (Book 19, Ch7.50 L1204)
+- Wistram watchers puzzle over a triangle-and-eye symbol under Wistram's sigil in the video that is not their own, and Nailihuaile eyes it. (Book 19, Ch7.50 L1220-1223)
+- {reveal} Cara tells Drassi she wrote the lyrics just for the scene, which pricks her conscience as the songs are from Earth. (Book 19, Ch7.50 L1244-1245)
+- Cara tells Drassi the second video was about Ailendamus's war with the Dawn Concordat, deflecting non-Earthers from the truth. (Book 19, Ch7.50 L1250-1255)
