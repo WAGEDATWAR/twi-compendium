@@ -1,0 +1,28 @@
+# Armored Queen
+> Type: person | Also called: Armored Antinium Queen | First appears: Book 18, Ch7.39A
+> See also: Anand, Klbkch, Twisted Queen, Silent Queen, Grand Queen, Goat, Centenium, Steelclad
+## Overview
+- The Armored Queen is the largest of the Queens by far, and her Hive is built of stone and metal like an underground castle with a fortress around her. (Book 18, Ch7.39A L799-803)
+- The Armored Queen cannot move and never leaves her chamber, sitting on no throne. (Book 18, Ch7.39A L802)
+- The Armored Queen birthed more Antinium to create the first Hives than any other living Queen. (Book 18, Ch7.39A L804)
+- The Armored Queen is swollen and in pain because her body cannot sustain her weight, and Workers guide her movements. (Book 18, Ch7.39A L805-806)
+- The Armored Queen is the most pleasant Queen in that she is willing to speak with Anand. (Book 18, Ch7.39A L807)
+## Meeting Anand (Book 18)
+- The Armored Queen directs Sehr and her Prognugators on ore, food and the Free Antinium while talking to Anand. (Book 18, Ch7.39A L801,L809)
+- The Armored Queen recoils on hearing Anand is a Level 27 [Strike Strategist]. (Book 18, Ch7.39A L810-812)
+- The Armored Queen says Sehr is Level 12 in the [Armored Leader] class, and that Tersk, her foremost living Prognugator, is Level 16. (Book 18, Ch7.39A L817)
+- The Armored Queen says Prognugators are made by combining the minds of thousands of Antinium through the sacrifice of personality, intelligence and will. (Book 18, Ch7.39A L823)
+## Hall of the Centenium (Book 18)
+- The Armored Queen keeps a hallway of sandstone statues of nearly forty Centenium, not the full hundred, with the last in progress. (Book 18, Ch7.39A L928,L949)
+- The Armored Queen identifies a statue as Galuc the Builder and tells Anand he was made in Galuc's image. (Book 18, Ch7.39A L945,L950)
+- The Armored Queen says Galuc died before coming to Izril, and Bessachidia saved his form so that Anand and the others could be made. (Book 18, Ch7.39A L950)
+- The hallway includes statues of Rehab, Mellika, Devrkr the Glowing and Mirrex, who might still be alive. (Book 18, Ch7.39A L966-976)
+- The Armored Queen says each Centenium was made of millions of minds, which is why none have been surpassed. (Book 18, Ch7.39A L973)
+## Steelclad (Book 18)
+- The Armored Queen grows Steelclad, giant armored Soldiers at least thirteen feet tall, learning from what happened to her. (Book 18, Ch7.39A L1010-1012)
+- The Armored Queen says the Steelclad are decoys to draw the enemy's best attacks, with lifespans of weeks at most. (Book 18, Ch7.39A L1022-1026)
+- The Armored Queen says the Steelclad can survive underwater for eighteen minutes. (Book 18, Ch7.39A L1026)
+- The Armored Queen calls the Steelclad her greatest sin and says she grieves for their existence. (Book 18, Ch7.39A L1028)
+## Armor (Book 19)
+- {event} The Armored Queen has Goat fitted with custom steel armor and promises Anand enchanted chainmail. (Book 19, Ch7.48K L816-824)
+- The Armored Queen has a collection of enchanted gear traded from other Hives or taken from enemies killed in combat. (Book 19, Ch7.48K L825)

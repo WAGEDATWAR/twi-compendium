@@ -1,0 +1,27 @@
+# Karsaeu-Dequoa
+> Type: person | Also called: Karsy (Termin's name for her); the Unmarked Coach driver | First appears: Book 18, ChInterlude_Carriages_and_Conversations
+> See also: Ryoka Griffin, Fierre, Termin, Valeterisa, Unmarked Coach, Djinni
+## Overview
+- Karsaeu-Dequoa is a Djinni, a spirit from Chandrar, who is always the driver of the Unmarked Coach under a different face each time. (Book 18, ChInterlude_Carriages_and_Conversations L49-52)
+- Karsaeu appears to Ryoka as a large, irritable woman in a top hat and dark clothes with a scarf over pale skin, driving in rain that never soaks her. (Book 18, ChInterlude_Carriages_and_Conversations L53)
+- Karsaeu calls herself the slave that has run the Unmarked Coach service for longer than Ryoka and Fierre could know. (Book 18, ChInterlude_Carriages_and_Conversations L156)
+- Fierre says the coach's owner is a master of the Djinni, whom Fierre does not know. (Book 18, ChInterlude_Carriages_and_Conversations L155)
+- Fierre warns that Karsaeu may be bound to report anything of value to her master, and Karsaeu laughs that the Vampire is smarter than Ryoka. (Book 18, ChInterlude_Carriages_and_Conversations L180-182)
+## Binding terms (Book 18)
+- Karsaeu says no violence against the coach or its passengers is allowed, by deed or word, and her route is unchangeable. (Book 18, ChInterlude_Carriages_and_Conversations L165)
+- Karsaeu says she will not answer questions about her bond, her master, or locations and details of other passengers. (Book 18, ChInterlude_Carriages_and_Conversations L165)
+- Karsaeu says passengers may not request sex from her, a rule that is new by three centuries. (Book 18, ChInterlude_Carriages_and_Conversations L165)
+- Karsaeu says she is bound to tell the truth, but would lie if Ryoka had found her bottle. (Book 18, ChInterlude_Carriages_and_Conversations L222)
+- {belief} Karsaeu says that if Ryoka had found her vessel, Karsaeu would have been freed and Ryoka dead. (Book 18, ChInterlude_Carriages_and_Conversations L218)
+- Karsaeu says that if freed she would happily destroy both Ryoka and Fierre, and that sympathy does not make them friends. (Book 18, ChInterlude_Carriages_and_Conversations L222)
+- Karsaeu says her people died, her little cousins were killed and the rest enslaved, and few of them remain. (Book 18, ChInterlude_Carriages_and_Conversations L237)
+- Karsaeu declines to say whether she is strong, telling Fierre she may test her if she wishes. (Book 18, ChInterlude_Carriages_and_Conversations L211-213)
+- {event} Karsaeu gives only her name, Karsaeu-Dequoa, saying that is enough of her name for Ryoka. (Book 18, ChInterlude_Carriages_and_Conversations L252)
+- Karsaeu asks Ryoka to tell the visitors of winter that she misses them. (Book 18, ChInterlude_Carriages_and_Conversations L254)
+- Karsaeu tells Ryoka to warn her other friend to stay away from Chandrar, saying it is the Djinni's land and they will take it back someday. (Book 18, ChInterlude_Carriages_and_Conversations L256)
+- A Sister of Chell says the coach's food is made from Karsaeu's own magic and that eating too many chips slows her down. (Book 18, ChInterlude_Carriages_and_Conversations L429-434)
+- The narration says Djinni create material out of magic, which is the base of their power, so the coach's food is Karsaeu herself. (Book 18, ChInterlude_Carriages_and_Conversations L437)
+## Ryoka's return (Book 19)
+- {event} Karsaeu offers Ryoka, Fierre and Salamani a free ride from her employer back to Reizmelt, with a strained smile. (Book 19, Ch7.44 L352-354)
+- Ryoka tells Karsaeu that they woke the Archmage of Izril, and Karsaeu relaxes, thanks her and tells them to sleep. (Book 19, Ch7.44 L371-373)
+- The Unmarked Coach carries the three overnight and they wake at Reizmelt. (Book 19, Ch7.44 L376-377)

@@ -1,0 +1,22 @@
+# Flora
+> Type: person | Also called: the Texan Gunslinger; the girl with the gun | First appears: Book 18, Ch7.35C
+> See also: Silvenia, Bazeth, Callidaz, Ser Vorn, Rhir, Gunslinger (class)
+## Overview
+- Flora is a young woman from Texas and a [Gunslinger], a class the narration calls the first of its kind. (Book 18, Ch7.35C L937,L955)
+- Flora has short garnet hair with a hint of copper, and wears denim jeans and a long shirt. (Book 18, Ch7.36C L242)
+- Flora carries a compact revolver with .357 Magnum rounds, five of them, which her father gave her as a birthday present for self-defense. (Book 18, Ch7.35C L931-932)
+- Flora uses a fast-loader, a device holding bullets ready to insert into the cylinder so she can reload in a heartbeat. (Book 18, Ch7.35C L936)
+- Flora has been told by people who know war that her gun is novel and not all-consuming, since there is only one. (Book 18, Ch7.35C L954)
+## Among the Demons and Giants (Book 18)
+- {event} Flora demonstrates her revolver to the last Giants of Rhir, who find it small and loud, and she explains it will change everything. (Book 18, Ch7.35C L930-949)
+- Flora calls the oldest and tallest Giant Callidaz, after the first part of a name so long she gave up pronouncing it. (Book 18, Ch7.35C L950)
+- Flora is afraid to shoot the gun in war, though she has shot an Adult Creler and watched the bullets ricochet off its armor. (Book 18, Ch7.35C L988)
+- Flora has been found by people who look like her but are called Demons, and she asks the Giants whether she is on the right side. (Book 18, Ch7.35C L987-989)
+- {belief} Flora does not think the Demons who found her are evil, though they have wrath, some conjure hellfire, and they are called Demons. (Book 18, Ch7.35C L990-991)
+- Flora's guardian and friend is Bazeth, a [Champion of Blades] who carries a glaive. (Book 18, Ch7.36C L218)
+- Silvenia invites Flora to walk with her and see why they call the Demons that name, and Flora nods and walks with the gun in its holster. (Book 18, Ch7.36C L241-243)
+## Battle at 5th Wall (Book 18)
+- {event} Flora shoots Uxel and Ser Vorn from behind a rank of Demons, with shots that dent Ser Vorn's enchanted armor. (Book 18, Ch7.36C L875-882)
+- {event} Flora uses [Double Tap] to fire two bullets from a single pull at the charging [Knight], and hits his helmet. (Book 18, Ch7.36C L889-892)
+- {event} Flora uses [A Bullet A Day: Armor Piercing Round] after dropping her fast-loader, and fires a shot at the [Knight]. (Book 18, Ch7.36C L894-897)
+- Cirille sees Ser Vorn fall after the shot, and Flora and Bazeth fall back with the Demons. (Book 18, Ch7.36C L899)

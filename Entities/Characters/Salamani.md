@@ -1,0 +1,27 @@
+# Salamani
+> Type: person | Also called: Salamani the Mage Runner; Salamani the Haste Mage; Courier Salamani | First appears: Book 18, ChInterlude_Carriages_and_Conversations
+> See also: Ryoka Griffin, Fierre, Valeterisa, Ieka, Tritel and Ci, Wistram
+## Overview
+- Salamani is a Human [Mage] and Courier with a trace of Lizardfolk in him, almost completely human but with slitted pupils like a lizard's. (Book 18, Ch7.41 L421-422)
+- Salamani says his lizard-like eyes are a gift from his Lizardfolk parents. (Book 19, Ch7.53 L240)
+- Salamani has high levels and experience and had prepared well for his run to the Archmage. (Book 18, ChInterlude_Carriages_and_Conversations L474)
+- Salamani refers to Wistram as home, saying the academy makes Golems up to Autonomous-Combat types. (Book 19, ChInterlude_Experiments_in_Golems L172)
+## Trying to wake the Archmage (Book 18)
+- {event} Lady Ieka Imarris massively inflates her reward to entice Salamani into reaching the Archmage before Ryoka, so Ryoka does not die on a suicide mission. (Book 18, ChInterlude_Carriages_and_Conversations L475)
+- Salamani does better than projected in Valeterisa's mansion but loses his objects, and his mental charm breaks against the repeated glyphs. (Book 18, ChInterlude_Carriages_and_Conversations L470-471)
+- {state} Shadow familiars carry Salamani, babbling, into a holding cell, and he languishes there for about a day. (Book 18, ChInterlude_Carriages_and_Conversations L472-478)
+- Salamani meets Ryoka in the cells, having been told of her by Fierre and Ieka, and explains the trap to her. (Book 18, Ch7.41 L423-430)
+- Salamani says Valceif had a charm that could have beaten the insanity trap but lost it. (Book 18, Ch7.41 L423)
+- {event} Salamani agrees that the trapped hallway means a bad delivery, and he, Ryoka and Fierre leave the mansion. (Book 18, Ch7.41 L642-648)
+- {event} The three drunk intruders burn the isle with spells and shout for the Archmage, with Salamani casting [Message] and [Fireball]. (Book 18, Ch7.41 L697-706)
+- Salamani drops a scroll when Valeterisa appears with about a hundred shadow familiars, Golems and a giant shadow maw. (Book 18, Ch7.41 L709-711)
+- {event} Salamani sends Ieka a note that the Archmage is awake, ceding credit for the delivery to Ryoka Griffin and requesting hazard pay. (Book 18, Ch7.42M L23)
+## Debt and travels (Book 19)
+- {event} Salamani says he gave all credit to Lady Ieka for Ryoka, and says he owes Ryoka and Fierre his entire life. (Book 19, Ch7.44 L198-202)
+- Salamani offers to help Ryoka get a Courier's certification and to give her all the artifacts he took, telling her to call on him. (Book 19, Ch7.44 L198,L202,L208)
+- {event} Salamani casts [Haste] on Ryoka, which fails because of an anti-enchantment artifact, and she must remove her necklace for it to work. (Book 19, ChInterlude_Experiments_in_Golems L153-161)
+- Salamani plans to buy a spellbook with a Tier 6 spell and a Golem, such as a hulking fighting type or a Golem horse. (Book 19, ChInterlude_Experiments_in_Golems L167-175)
+- Salamani says Illivere is by far the best place to commission Golems and Wistram makes up to Autonomous-Combat types. (Book 19, ChInterlude_Experiments_in_Golems L172,L183)
+- Salamani says House Terland, further north than Reizmelt, buys all the Golems. (Book 19, ChInterlude_Experiments_in_Golems L190)
+- Salamani is bushed from casting [Haste] on all three of them and does not remember meeting Mrsha. (Book 19, Ch7.53 L239-240)
+- Salamani says he ran a joint delivery with the Moonlight Rider, Tritel, which was a warning to [Assassins], and brought him free drinks. (Book 19, Ch7.53 L291-298)

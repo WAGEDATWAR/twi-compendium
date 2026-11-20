@@ -1,0 +1,27 @@
+# Hetarria
+> Type: person | Also called: Mage-Captain Hetarria; Captain Hetarria | First appears: Book 18, Ch7.34C
+> See also: Cirille, Quiteil, Zavarial, Bone Behemoth, Necromancer (class), Rhir, Archmage Chandler
+## Overview
+- Hetarria is a female Drake [Captain] in white armor who leads a group of specialists, and who speaks with Rhir's accent rather than the more sibilant Drake tongue. (Book 18, Ch7.34C L1126-1127)
+- Hetarria is a [Necromancer] who holds the rank of [Mage-Captain], and her white armor is made of ivory-like bone. (Book 18, Ch7.34C L1155-1158; Book 18, Ch7.35C L75)
+- Hetarria is military, affable and has a white grin with excellent teeth, which Cirille finds likeable despite her class. (Book 18, Ch7.36C L12-13,L24)
+- Hetarria has one grandparent from Izril, and her parents, [Traders], went back and forth but told her never to visit once she studied [Necromancy]. (Book 18, Ch7.36C L34)
+- Hetarria has never visited Izril. (Book 18, Ch7.36C L33-34)
+## Bone Behemoth (Book 18)
+- Hetarria's force controls a Bone Behemoth that Cirille realises is shaped like a Drake, with polished white bone armor and a mace of bones. (Book 18, Ch7.34C L1153-1157)
+- {event} Cirille calls Hetarria and her Drakes [Necromancers] in horror, and Hetarria says the Bone Behemoth is theirs. (Book 18, Ch7.34C L1158-1162)
+- {event} Cirille asks Quiteil not to assign her brigade with the [Necromancers], and he denies the request. (Book 18, Ch7.34C L1164-1167)
+- Quiteil says Hetarria has fought for years without issue, her creations never run amok, and he would take ten thousand more like her. (Book 18, Ch7.34C L1173)
+- Quiteil says Rhir remembers Archmage Chandler's contribution to the offensive against the Demons a hundred and fifty years ago, and that his legacy is the [Necromancer] corps. (Book 18, Ch7.34C L1178-1180)
+- Quiteil says the Bone Behemoth is a war construct that Hetarria's force controls, which does not bleed or die and can be repaired. (Book 18, Ch7.34C L1183)
+- Quiteil says he will allow Hetarria time to air grievances with Cirille, though he considers it an imposition on her. (Book 18, Ch7.34C L1186)
+- {event} Hetarria leads the [Necromancer] corps in a Bone Behemoth fight against serpent-titans, ordering it to sweep the leg and using [Mend Bone]. (Book 18, Ch7.35C L73-78)
+- {event} Hetarria orders the Bone Behemoth to charge in a frenzy against a titan marked by the Bastion-General. (Book 18, Ch7.35C L79-82)
+## Rhir's necromancy (Book 18)
+- Hetarria says the Bone Behemoth has nearly forty three years of service and has been ground down and smashed but rebuilt with more [Necromancers]. (Book 18, Ch7.36C L25)
+- Hetarria keeps watch at night as Rhir requires undead to be monitored at all times. (Book 18, Ch7.36C L3-4)
+- Hetarria says Bastion-General Zavarial authorised support units of skeleton archers who climb on the Bone Behemoth and shoot. (Book 18, Ch7.36C L19-22)
+- Hetarria says the undead are bodies of volunteers from a registry, and that some volunteer for [Golem Artificers] or blood magic. (Book 18, Ch7.36C L52-54)
+- Hetarria says every [Necromancer] trained in Rhir's schools must study Crypt Lords, Wailing Pits or Dorn Pillars before animating the dead. (Book 18, Ch7.36C L61)
+- Hetarria says Rhir's schools are utilitarian and include experimental practices with captive undead to study the enemy. (Book 18, Ch7.36C L63)
+- Hetarria says Wailing Pits and Dorn Pillars are collections of undead that think, talk and command others, and a Dorn Pillar left underground can wipe out a city. (Book 18, Ch7.36C L65)
